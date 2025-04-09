@@ -1,0 +1,34 @@
+﻿Harmonized Medium,Description
+ambient air,Outdoor ambient air
+drinking water,"Treated or untreated drinking water supplies, tap water, bottled drinking water, cooking water"
+groundwater,"Water from groundwater sources (wells, aquifers)"
+product,Non-food consumer products
+sediment,Freshwater or marine sediments
+sludge,Sewage sludge
+soil,"Soil, sand, or outdoor settled dust"
+surface water,"Lake, river, or marine surface water; includes rainwater"
+indoor air,Residential or other indoor air samples
+indoor dust,Residential or other indoor dust samples (from any location)
+landfill leachate,Landfill leachate (water having passed through landfill solids)
+other-environmental,"Other environmental media, not classified elsewhere"
+personal air,Personal air sample or exhaled breath
+precipitation,"Snow, rainfall, or other atmospheric deposition"
+"wastewater (influent, effluent)",Inflow or outflow samples from municipal or industrial sites
+breast milk,Human breast milk
+human (other tissues or fluids),"Human tissues or fluids other than blood or urine, including nails, hair, semen, adipose tissue, saliva, sputum, sweat, amniotic, fluid, bone, and others"
+human blood (whole/serum/plasma),"Human whole blood, blood cells, serum, plasma, or other extractants, including fetal or umbilical samples"
+urine,Human urine
+skin wipes,Wipes from human skin (any body surface)
+wildlife (aquatic invertebrate),"Marine or freshwater invertebrates (e.g., crustaceans, mollusks etc.), any tissue"
+wildlife (aquatic vertebrates/mammals),"Non-fish aquatic vertebrates or mammals, any tissue"
+wildlife (birds),"Avian species, any tissue (including eggs)"
+wildlife (fish),"Fish species, any tissue"
+wildlife (terrestrial invertebrates/worms),"Terrestrial invertebrates, any tissue"
+wildlife (terrestrial vertebrates),"Terrestrial vertebrates, any tissue"
+other-ecological,"Other ecological species not categorized elsewhere, including algae and seaweeds"
+vegetation,Terrestrial vegetation excluding non-processed fruits and vegetables
+livestock/meat,Unprocessed meat products or samples from non-fish animals to be used as food
+raw agricultural commodity,"Unprocessed raw fruits, vegetables, grains, nuts, or seeds that have been grown for food"
+food product,"Processed food products, including dairy products, breads, cooked meats, processed (e.g., canned or frozen) fruit and vegetable products, infant formula"
+personal-other,Silicone wristband or other personal passive sampler
+surface wipes,Wipes from indoor surfaces
