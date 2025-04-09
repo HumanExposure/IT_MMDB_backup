@@ -1,0 +1,112 @@
+mediaid,name,harmonized_media,reported_media,reported_species
+28,fda_tds_elem,NA,"chicken filet (broiled) sandwich on bun, fast-food",NA
+33,fda_tds_elem,NA,"chicken w/ vegetables in sauce, from chinese carry-out",NA
+37,fda_tds_elem,NA,"clam chowder, new england, canned, cond, prep w/ whl milk",NA
+62,fda_tds_elem,NA,"doughnut, cake-type, any flavor, from donut store",NA
+63,fda_tds_elem,NA,"egg, cheese, and ham on english muffin, fast-food",NA
+69,usgs,NA,sediment,"catenulida (platyhelminthes), acoelomorpha, rhabditophora***retired***use (platyhelminthe"
+77,fda_tds_elem,NA,"fruit juice blend (100% juice), canned/bottled",NA
+151,fda_tds_elem,NA,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+162,fda_tds_elem,NA,"potato salad, mayonnaise-type, from grocery/deli",NA
+170,fda_tds_elem,NA,"pudding, ready-to-eat, flavor other than chocolate",NA
+178,fda_tds_elem,NA,"salad dressing, creamy/buttermilk type, low-calorie",NA
+179,fda_tds_elem,NA,"salad dressing, creamy/buttermilk type, regular",NA
+188,fda_tds_elem,NA,"soup, oriental noodles (ramen noodles), prep w/ water",NA
+189,fda_tds_elem,NA,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+190,fda_tds_elem,NA,"soup, chicken noodle, canned, cond, prep w/ water",NA
+193,fda_tds_elem,NA,"soup, vegetable beef, canned, cond, prep w/ water",NA
+199,fda_tds_elem,NA,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+200,fda_tds_elem,NA,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+214,fda_tds_elem,NA,"taco/tostada w/ beef and cheese, from mexican carry-out",NA
+241,fda_tds_pest,NA,"bf, infant formula, milk-based, high iron, rtf",NA
+309,fda_tds_pest,NA,"beef w/ vegetables in sauce, from chinese carry-out",NA
+312,usgs,NA,tissue,catostomus commersoni***retired***use catostomus commersonii
+317,fda_tds_pest,NA,"bottled drinking water (mineral/spring), not carbonated or flavored",NA
+328,fda_tds_pest,NA,"burrito w/ beef, beans and cheese, from mexican carry-out",NA
+355,fda_tds_pest,NA,"chicken filet (broiled) sandwich on bun, fast-food",NA
+362,fda_tds_pest,NA,"chicken w/ vegetables in sauce, from chinese carry-out",NA
+365,fda_tds_pest,NA,"clam chowder, new england, canned, cond, prep w/ whl milk",NA
+368,usgs,NA,canopy,NA
+392,fda_tds_pest,NA,"doughnut, cake-type, any flavor, from donut store",NA
+393,fda_tds_pest,NA,"egg, cheese, and ham on english muffin, fast-food",NA
+407,fda_tds_pest,NA,"fruit juice blend (100% juice), canned/bottled",NA
+412,usgs,NA,wastewater treatment plant influent,NA
+481,fda_tds_pest,NA,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+492,fda_tds_pest,NA,"potato salad, mayonnaise-type, from grocery/deli",NA
+499,fda_tds_pest,NA,"pudding, ready-to-eat, flavor other than chocolate",NA
+508,fda_tds_pest,NA,"salad dressing, creamy/buttermilk type, low-calorie",NA
+509,fda_tds_pest,NA,"salad dressing, creamy/buttermilk type, regular",NA
+517,fda_tds_pest,NA,"soup, oriental noodles (ramen noodles), prep w/ water",NA
+518,fda_tds_pest,NA,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+519,fda_tds_pest,NA,"soup, chicken noodle, canned, cond, prep w/ water",NA
+521,fda_tds_pest,NA,"soup, vegetable beef, canned, cond, prep w/ water",NA
+528,fda_tds_pest,NA,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+529,fda_tds_pest,NA,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+542,fda_tds_pest,NA,"taco/tostada w/ beef and cheese, from mexican carry-out",NA
+690,ices_biota,NA,other,mytilus
+699,ices_biota,NA,tissue,neogobius melanostomus
+701,ices_biota,NA,other,neogobius melanostomus
+815,ices_sediment,NA,sediment,NA
+852,ip_chem_biota,NA,sb,NA
+1010,usgs,NA,drinking water,NA
+1114,usda_nrp,NA,muscle,"product-thermally processed, commercially sterile"
+1120,usgs,NA,deionized water,NA
+1122,usda_nrp,NA,muscle,NA
+1132,usda_nrp,NA,muscle,"product-nrte-ground, comminuted or otherwise nonintact meat"
+1329,usgs,NA,water,NA
+1440,usgs,NA,tissue,NA
+1471,epa_nscrlft,NA,fish tissue,NA
+1492,usgs,NA,sediment,NA
+1503,usgs,NA,air,NA
+1508,usgs,NA,ocean water,NA
+1514,usgs,NA,surface water,NA
+1525,usgs,NA,groundwater,NA
+1536,usgs,NA,ambient air,NA
+1547,usgs,NA,municipal waste,NA
+1559,usgs,NA,surface soil/sediment,NA
+1570,usgs,NA,subsurface soil/sediment,NA
+1581,usgs,NA,sieved sediment,NA
+1589,usgs,NA,tissue,animalia
+1592,usgs,NA,unsieved sediment,NA
+1597,usgs,NA,tissue,gila bicolor***retired***use siphateles bicolor
+1603,usgs,NA,stormwater,NA
+1614,usgs,NA,bottom material,NA
+1625,usgs,NA,biological tissue,NA
+1636,usgs,NA,wet fall material,NA
+1647,usgs,NA,soil moisture,NA
+1654,usgs,NA,water,"oligochaeta***retired***use oligochaeta (clitellata), oligochaeta (oligochaeta)"
+1658,usgs,NA,interstitial,NA
+1670,usgs,NA,finished water,NA
+1675,usgs,NA,tissue,micropterus dolomieui***retired***use micropterus dolomieu
+1681,usgs,NA,effluent,NA
+1690,usgs,NA,unknown,NA
+1692,usgs,NA,elutriation,NA
+1703,usgs,NA,bulk deposition,NA
+1714,usgs,NA,suspended,NA
+1722,usgs,NA,landfill effluent,NA
+1725,usgs,NA,hyporheic zone,NA
+1736,usgs,NA,leachate,NA
+1743,usgs,NA,water,"turbellaria***retired***use catenulida (platyhelminthes), acoelomorpha, rhabditophora"
+1747,usgs,NA,wastewater treatment plant effluent,NA
+1758,usgs,NA,mixing zone,NA
+1763,usgs,NA,municipal sewage effluent,NA
+1765,usgs,NA,biological tissue,animalia
+1769,usgs,NA,industrial effluent,NA
+1770,usgs,NA,unknown,saxidomus giganteus***retired***use saxidomus gigantea
+1781,usgs,NA,rainwater,NA
+1792,usgs,NA,interstitial water,NA
+1839,usgs,NA,untreated water supply,NA
+1879,usgs,NA,indoor air,NA
+1931,usgs,NA,water,"hirudinea***retired***use hirudinea (clitellata), hirudinea (hirudinea)"
+1948,usgs,NA,sediment,animalia
+2005,usgs,NA,filter residue,NA
+2006,usgs,NA,surface water sediment,NA
+2007,usgs,NA,snowmelt,NA
+2019,usgs,NA,pore water,NA
+2063,usgs,NA,tissue,chaenobryttus gulosus***retired***use lepomis gulosus
+2230,epa_ucmr,NA,drinking water,NA
+2239,fda_tds_elem,NA,"bf, infant formula, milk-based, high iron, rtf",NA
+2240,fda_tds_elem,NA,"bf, infant formula, milk-based, iron fortified, rtf",NA
+2310,fda_tds_elem,NA,"beef w/ vegetables in sauce, from chinese carry-out",NA
+2317,fda_tds_elem,NA,"bottled drinking water (mineral/spring), not carbonated or flavored",NA
+2329,fda_tds_elem,NA,"burrito w/ beef, beans and cheese, from mexican carry-out",NA

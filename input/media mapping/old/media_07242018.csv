@@ -1,0 +1,2396 @@
+"name","reported_media","reported_species","mediaid"
+"ca_surf_sediment","sediment",NA,1
+"ca_surf_update_sediment","sediment",NA,2
+"ca_surf_water","surface water",NA,3
+"ca_surf_update_water","surface water",NA,4
+"epa_amtic","ambient air",NA,5
+"ices_biota"," Muscle","Clupea harengus",6
+"ices_biota"," Muscle","Gadus morhua",7
+"ices_biota"," Muscle","Platichthys flesus",8
+"ices_biota"," Liver","Gadus morhua",9
+"ices_biota"," Muscle","Limanda limanda",10
+"ices_biota"," Whole soft-body","Mytilus edulis",11
+"ices_biota"," Muscle","Sprattus sprattus",12
+"ices_biota"," Liver","Merluccius merluccius",13
+"ices_biota"," Muscle","Scomber scombrus",14
+"ices_biota"," Whole organism","Saduria entomon",15
+"ices_biota"," Liver","Pleuronectes platessa",16
+"ices_biota"," Whole soft-body","Macoma balthica",17
+"ices_biota"," Liver","Merlangius merlangus",18
+"ices_biota"," Muscle","Solea vulgaris",19
+"ices_biota"," Blubber","Monodon monoceros",20
+"ices_biota"," Liver","Monodon monoceros",21
+"ices_biota"," Muscle","Monodon monoceros",22
+"ices_biota"," Kidney","Monodon monoceros",23
+"ices_biota"," Sample / Site information (miscellaneous)","Crangon crangon",24
+"ices_biota"," Tail muscle","Pandalus borealis",25
+"ices_biota"," Liver","Clupea harengus",26
+"ices_biota"," Liver","Limanda limanda",27
+"ices_biota"," Liver","Platichthys flesus",28
+"ices_biota"," Tail muscle","Crangon crangon",29
+"ices_biota"," Muscle","Pleuronectes platessa",30
+"ices_biota"," Muscle","Merlangius merlangus",31
+"ices_biota"," Whole soft-body","Mytilus galloprovincialis",32
+"ices_biota"," Liver","Solea vulgaris",33
+"ices_biota"," Whole soft-body","Crassostrea gigas",34
+"ices_biota"," Muscle","Mallotus villosus",35
+"ices_biota"," Muscle","Pollachius pollachius",36
+"ices_biota"," Liver","Pollachius pollachius",37
+"ices_biota"," Liver","Lepidorhombus whiffiagonis",38
+"ices_biota"," Muscle","Lepidorhombus whiffiagonis",39
+"ices_biota"," Whole organism","Crangon crangon",40
+"ices_biota"," Tail muscle","Platichthys flesus",41
+"ices_biota"," Liver","Melanogrammus aeglefinus",42
+"ices_biota"," Liver","Glyptocephalus cynoglossus",43
+"ices_biota"," Blubber","Phoca hispida",44
+"ices_biota"," Liver","Phoca hispida",45
+"ices_biota"," Tail muscle","Mytilus edulis",46
+"ices_biota"," Blubber","Balaenoptera acutorostrata",47
+"ices_biota"," Liver","Pollachius virens",48
+"ices_biota"," Liver","Microstomus kitt",49
+"ices_biota"," Whole soft-body","Nucella lapillus",50
+"ices_biota"," Muscle","Pollachius virens",51
+"ices_biota"," Tail muscle","Palaemon serratus",52
+"ices_biota"," Muscle","Microstomus kitt",53
+"ices_biota"," Muscle","Melanogrammus aeglefinus",54
+"ices_biota"," Muscle","Merluccius merluccius",55
+"ices_biota"," Tail muscle","Nephrops norvegicus",56
+"ices_biota"," Whole organism","Clupea harengus",57
+"ices_biota"," Whole organism","Solea vulgaris",58
+"ices_biota"," Whole organism","Gadus morhua",59
+"ices_biota"," Blubber","Phoca groenlandica",60
+"ices_biota"," Muscle","Sardina pilchardus",61
+"ices_biota"," Muscle","Mullus barbatus",62
+"ices_biota"," Liver","Salmo trutta",63
+"ices_biota"," Muscle","Salmo trutta",64
+"ices_biota"," Muscle","Glyptocephalus cynoglossus",65
+"ices_biota"," Fat","Larus hyperboreus",66
+"ices_biota"," Fat","Rissa tridactyla",67
+"ices_biota"," Liver","Rissa tridactyla",68
+"ices_biota"," Liver","Somateria mollissima",69
+"ices_biota"," Liver","Larus hyperboreus",70
+"ices_biota"," Fat","Somateria mollissima",71
+"ices_biota"," Liver","Fulmarus glacialis",72
+"ices_biota"," Fat","Fulmarus glacialis",73
+"ices_biota"," Blood","Halichoerus grypus",74
+"ices_biota"," Blubber","Halichoerus grypus",75
+"ices_biota"," Blubber","Ursus maritimus",76
+"ices_biota"," Liver","Uria lomvia",77
+"ices_biota"," Liver","Hippoglossoides platessoides",78
+"ices_biota"," Liver","Boreogadus saida",79
+"ices_biota"," Liver","Sardina pilchardus",80
+"ices_biota"," Kidney","Phoca hispida",81
+"ices_biota"," Muscle","Boreogadus saida",82
+"ices_biota"," Whole soft-body","Ostrea edulis",83
+"ices_biota"," Muscle","Hippoglossoides platessoides",84
+"ices_biota"," Whole soft-body","Pecten maximus",85
+"ices_biota"," Kidney","Rissa tridactyla",86
+"ices_biota"," Muscle","Rissa tridactyla",87
+"ices_biota"," Muscle","Phoca hispida",88
+"ices_biota"," Brain","Rissa tridactyla",89
+"ices_biota"," Muscle","Lophius piscatorius",90
+"ices_biota"," Muscle","Molva molva",91
+"ices_biota"," Muscle","Raja clavata",92
+"ices_biota"," Whole soft-body","Mya truncata",93
+"ices_biota"," Muscle","Raja montagui",94
+"ices_biota"," Muscle","Leucoraja naevus",95
+"ices_biota"," Blood serum (blood component without cells and clotting factors)","Phoca vitulina",96
+"ices_biota"," Blood cells","Phoca vitulina",97
+"ices_biota"," Roe (fish eggs)","Pollachius pollachius",98
+"ices_biota"," Liver","Sebastes marinus",99
+"ices_biota"," Liver","Sebastes mentella",100
+"ices_biota"," Muscle","Sebastes mentella",101
+"ices_biota"," Muscle","Sebastes marinus",102
+"ices_biota"," Roe (fish eggs)","Gadus morhua",103
+"ices_biota"," Muscle","Brosme brosme",104
+"ices_biota"," Muscle","Solea solea",105
+"ices_biota"," Whole soft-body","Haliotis tuberculata",106
+"ices_biota"," Liver","Brosme brosme",107
+"ices_biota"," Liver","Larus glaucoides",108
+"ices_biota"," Liver","Myoxocephalus scorpius",109
+"ices_biota"," Blubber","Phoca vitulina",110
+"ices_biota"," Liver","Cepphus grylle",111
+"ices_biota"," Liver","Phoca vitulina",112
+"ices_biota"," Muscle","Thunnus alalunga",113
+"ices_biota"," Feathers","Cepphus grylle",114
+"ices_biota"," Muscle","Scyliorhinus canicula",115
+"ices_biota"," Muscle","Zeus faber",116
+"ices_biota"," Eggs","Uria aalge",117
+"ices_biota"," Muscle","Zoarces viviparus",118
+"ices_biota"," Muscle","Perca fluviatilis",119
+"ices_biota"," Liver","Perca fluviatilis",120
+"ices_biota"," Liver","Zoarces viviparus",121
+"ices_biota"," Liver","Micromesistius poutassou",122
+"ices_biota"," Liver","Lophius piscatorius",123
+"ices_biota"," Muscle","Micromesistius poutassou",124
+"ices_biota"," Muscle","Molva dypterygia",125
+"ices_biota"," Liver","Molva dypterygia",126
+"ices_biota"," Gonads (undeterminable sex)","Lophius piscatorius",127
+"ices_biota"," Muscle","Aphanopus carbo",128
+"ices_biota"," Gill","Aphanopus carbo",129
+"ices_biota"," Liver","Aphanopus carbo",130
+"ices_biota"," Gill","Lophius piscatorius",131
+"ices_biota"," Muscle","Balaenoptera acutorostrata",132
+"ices_biota"," Kidney","Balaenoptera acutorostrata",133
+"ices_biota"," Liver","Balaenoptera acutorostrata",134
+"ices_biota"," Baleen","Balaenoptera acutorostrata",135
+"ices_biota"," Whole soft-body","Mya arenaria",136
+"ices_biota"," Whole organism","Mytilus edulis",137
+"ices_biota"," Liver","Coryphaenoides rupestris",138
+"ices_biota"," Muscle","Bathysaurus ferox",139
+"ices_biota"," Gonads (undeterminable sex)","Aphanopus carbo",140
+"ices_biota"," Liver","Bathysaurus ferox",141
+"ices_biota"," Gonads (undeterminable sex)","Bathysaurus ferox",142
+"ices_biota"," Gonads (undeterminable sex)","Molva dypterygia",143
+"ices_biota"," Muscle","Hoplostethus atlanticus",144
+"ices_biota"," Liver","Hoplostethus atlanticus",145
+"ices_biota"," Gonads (undeterminable sex)","Hoplostethus atlanticus",146
+"ices_biota"," Egg homogenate of yolk and albumin","Cepphus grylle",147
+"ices_biota"," Kidney","Cepphus grylle",148
+"ices_biota"," Muscle","Globicephala melas",149
+"ices_biota"," Eggs","Cepphus grylle",150
+"ices_biota"," Muscle","Anguilla anguilla",151
+"ices_biota"," Liver","Chimaera monstrosa",152
+"ices_biota"," Bile","Gadus morhua",153
+"ices_biota"," Muscle","Anarhichas minor",154
+"ices_biota"," Muscle","Triglidae",155
+"ices_biota"," Muscle","Chimaera monstrosa",156
+"ices_biota"," Liver","Molva molva",157
+"ices_biota"," Blubber","Globicephala melas",158
+"ices_biota"," Muscle","Nephrops norvegicus",159
+"ices_biota"," Liver","Nephrops norvegicus",160
+"ices_biota"," Muscle","Delphinapterus leucas",161
+"ices_biota"," Liver","Delphinapterus leucas",162
+"ices_biota"," Blubber","Delphinapterus leucas",163
+"ices_biota"," Epidermis (skin)","Delphinapterus leucas",164
+"ices_biota"," Kidney","Delphinapterus leucas",165
+"ices_biota"," Muscle","Salvelinus alpinus",166
+"ices_biota"," Muscle","Salmo salar",167
+"ices_biota"," Muscle","Reinhardtius hippoglossoides",168
+"ices_biota"," Liver","Reinhardtius hippoglossoides",169
+"ices_biota"," Liver","Pandalus borealis",170
+"ices_biota"," Liver","Anarhichas minor",171
+"ices_biota"," Liver","Raja radiata",172
+"ices_biota"," Liver","Gadus ogac",173
+"ices_biota"," Kidney","Globicephala melas",174
+"ices_biota"," Muscle","Coryphaenoides rupestris",175
+"ices_biota"," Liver","Lepus timidus",176
+"ices_biota"," Liver","Phocoena phocoena",177
+"ices_biota"," Bile","Pleuronectes platessa",178
+"ices_biota"," Bile","Limanda limanda",179
+"ices_biota"," Bile","Platichthys flesus",180
+"ices_biota"," Liver","Globicephala melas",181
+"ices_biota"," Muscle","Chelidonichthys kumu",182
+"ices_biota"," Muscle","Scophthalmus rhombus",183
+"ices_biota"," Muscle","Pecten maximus",184
+"ices_biota"," Gonads (undeterminable sex)","Pecten maximus",185
+"ices_biota"," Muscle","Ostrea edulis",186
+"ices_biota"," Whole soft-body","Crangon crangon",187
+"ices_biota"," Blubber","Salvelinus alpinus",188
+"ices_biota"," Blubber","Myoxocephalus scorpius",189
+"ices_biota"," Whole organism","Fucus vesiculosus",190
+"ices_biota"," Whole organism","Fucus serratus",191
+"ices_biota"," Muscle","Eutrigla gurnardus",192
+"ices_biota"," Muscle","Psetta maxima",193
+"ices_biota"," Whole soft-body","Nassarius reticulatus",194
+"ices_biota"," Whole soft-body","Mysidacea",195
+"ices_biota"," Muscle","Squalus acanthias",196
+"ices_biota"," Muscle","Palaemon serratus",197
+"ices_biota"," Whole soft-body","Gobius",198
+"ices_biota"," Muscle","Myoxocephalus scorpius",199
+"ices_biota"," Blubber","Phocoena phocoena",200
+"ices_biota"," Whole organism","Fucus",201
+"ices_biota"," Egg homogenate of yolk and albumin","Larus",202
+"ices_biota"," Tallow","Ovis aries",203
+"ices_biota"," Whole soft-body","Cerastoderma edule",204
+"ices_biota"," Whole soft-body","Ensis siliqua",205
+"ices_biota"," Liver","Ovis aries",206
+"ices_biota"," Whole soft-body","Venerupis philippinarum",207
+"ices_biota"," Whole organism","Fucus ceranoides",208
+"ices_biota"," Muscle","Anarhichas lupus",209
+"ices_biota"," Muscle","Lophius budegassa",210
+"ices_biota"," Liver","Delphinus delphis",211
+"ices_biota"," Blubber","Delphinus delphis",212
+"ices_biota"," Bile","Melanogrammus aeglefinus",213
+"ices_biota"," Whole soft-body","Macoma baltica",214
+"ices_biota"," Muscle","Loligo vulgaris",215
+"ices_biota"," Whole soft-body","Littorina littorea",216
+"ices_biota"," Bile","Clupea harengus",217
+"ices_biota"," Bile","Zoarces viviparus",218
+"ices_biota"," Eggs","Sterna hirundo",219
+"ices_biota"," Eggs","Haematopus ostralegus",220
+"ices_biota"," Muscle","Conger conger",221
+"ices_biota"," Muscle","Raja brachyura",222
+"ices_biota"," Liver","Scomber scombrus",223
+"ices_biota"," Whole soft-body","Platichthys flesus",224
+"ices_biota"," Muscle","Pegusa lascaris",225
+"ices_biota"," Bile","Scomber scombrus",226
+"ices_biota"," Bile","Trigla lucerna",227
+"ices_biota"," Whole soft-body","Dreissena polymorpha",228
+"ices_biota"," Egg homogenate of yolk and albumin","Larus argentatus",229
+"ices_biota"," Whole organism","Platichthys flesus",230
+"ices_biota"," Bile","Perca fluviatilis",231
+"ices_sediment","sediment",NA,232
+"ices_update_sediment","sediment",NA,233
+"ip_chem_biota","SB","Mytilus edulis",234
+"ip_chem_biota","LI","Limanda limanda",235
+"ip_chem_biota","MU","Limanda limanda",236
+"ip_chem_biota","LI","Pleuronectes platessa",237
+"ip_chem_biota","MU","Mullus barbatus",238
+"ip_chem_biota","WO","Mytilus edulis",239
+"ip_chem_biota","SB","Mytilus galloprovincialis",240
+"ip_chem_biota","MU","PERCA FLUVIATILIS",241
+"ip_chem_biota","WO","Mytilus galloprovincialis",242
+"ip_chem_biota","MU","CLUPEA HARENGUS",243
+"ip_chem_biota","MU","Gadus morhua",244
+"ip_chem_biota","LI","Gadus morhua",245
+"ip_chem_biota","LI","Clupea harengus",246
+"ip_chem_biota","LI","PERCA FLUVIATILIS",247
+"ip_chem_biota","WO","Saduria entomon",248
+"ip_chem_biota","SB","Macoma balthica",249
+"ip_chem_biota","MU","Boops boops",250
+"ip_chem_biota","LI","Mytilus galloprovincialis",251
+"ip_chem_biota","MU","Platichthys flesus",252
+"ip_chem_biota","LI","Platichthys flesus",253
+"ip_chem_biota","SB","Gadus morhua",254
+"ip_chem_biota","SB","Platichthys flesus",255
+"ip_chem_biota","MU","Zoarces viviparus",256
+"ip_chem_biota","SB","Unknow spp.",257
+"ip_chem_biota","SB","Crassostrea angulata",258
+"ip_chem_biota","SB","Dreissena polymorpha",259
+"ip_chem_biota","SB","Mytilus",260
+"ip_chem_biota","","Perca fluviatilis",261
+"ip_chem_biota","","Clupea harengus",262
+"ip_chem_biota","WO","Lymnaea palustris",263
+"ip_chem_biota","WO","Clupea harengus",264
+"ip_chem_biota","WO","Perca fluviatilis",265
+"ip_chem_biota","WO","Crassostrea gigas",266
+"ip_chem_biota","SB","",267
+"ip_chem_biota","WO","Cerastoderma edule",268
+"ip_chem_biota","WO","Venerupis philippinarum",269
+"ip_chem_biota","WO","Venerupis decussata",270
+"ip_chem_biota","WO","Donax trunculus",271
+"ip_chem_biota","WO","Ostrea edulis",272
+"ip_chem_biota","SB","Holothuria tubulosa",273
+"ip_chem_biota","SB","Mitylus galloprovincialis",274
+"ip_chem_biota","TM","Mytilus edulis",275
+"ip_chem_biota","TM","Nephrops norvegicus",276
+"ip_chem_biota","MU","Merluccius merluccius",277
+"ip_chem_biota","SB","Mya arenaria",278
+"ip_chem_biota","LI","Merlangius merlangus",279
+"ip_chem_biota","MU","Merlangius merlangus",280
+"ip_chem_biota","SB","Nassarius reticulatus",281
+"ip_chem_biota","RO","Gadus morhua",282
+"ip_chem_biota","MU","Microstomus kitt",283
+"ip_chem_biota","LI","Microstomus kitt",284
+"ip_chem_biota","LI","Melanogrammus aeglefinus",285
+"ip_chem_biota","MU","Melanogrammus aeglefinus",286
+"ip_chem_biota","SB","Nucella lapillus",287
+"ip_chem_biota","GO","Aphanopus carbo",288
+"ip_chem_biota","LI","Aphanopus carbo",289
+"ip_chem_biota","MU","Aphanopus carbo",290
+"ip_chem_biota","MU","Coryphaenoides rupestris",291
+"ip_chem_biota","LI","Coryphaenoides rupestris",292
+"ip_chem_biota","MU","Molva dypterygia",293
+"ip_chem_biota","LI","Molva dypterygia",294
+"ip_chem_biota","WO","Fucus vesiculosus",295
+"ip_chem_biota","MU","Pleuronectes platessa",296
+"ip_chem_biota","SB","Crassostrea gigas",297
+"ip_chem_biota","MU","Anguilla anguilla",298
+"ip_chem_biota","MU","Lepidorhombus whiffiagonis",299
+"ip_chem_biota","LI","Lepidorhombus whiffiagonis",300
+"ip_chem_biota","LI","Merluccius merluccius",301
+"ip_chem_biota","SB","Ostrea edulis",302
+"ip_chem_biota","TM","Palaemon serratus",303
+"ip_chem_biota","MU","Lophius piscatorius",304
+"ip_chem_biota","SB","Littorina littorea",305
+"ip_chem_biota","TM","Crangon crangon",306
+"ip_chem_biota","SB","Crangon crangon",307
+"ip_chem_biota","WO","Fucus",308
+"ip_chem_biota","LI","Zoarces viviparus",309
+"ip_chem_biota","GO","Pecten maximus",310
+"ip_chem_biota","MU","Pecten maximus",311
+"ip_chem_biota","WO","Fucus serratus",312
+"ip_chem_biota","MU","Brosme brosme",313
+"ip_chem_biota","LI","Brosme brosme",314
+"ip_chem_biota","SB","Pecten maximus",315
+"ip_chem_biota","TM","Pandalus borealis",316
+"ip_chem_biota","MU","Solea vulgaris",317
+"ip_chem_biota","FE","Cepphus grylle",318
+"ip_chem_biota","LI","Myoxocephalus scorpius",319
+"ip_chem_biota","MU","Mallotus villosus",320
+"ip_chem_biota","LI","Monodon monoceros",321
+"ip_chem_biota","MU","Monodon monoceros",322
+"ip_chem_biota","KI","Monodon monoceros",323
+"ip_chem_biota","MU","Boreogadus saida",324
+"ip_chem_biota","LI","Boreogadus saida",325
+"ip_chem_biota","LI","Larus hyperboreus",326
+"ip_chem_biota","FA","Larus hyperboreus",327
+"ip_chem_biota","MU","Sprattus sprattus",328
+"ip_chem_biota","BB","Balaenoptera acutorostrata",329
+"ip_chem_biota","LI","Hippoglossoides platessoides",330
+"ip_chem_biota","BB","Phoca vitulina",331
+"ip_chem_biota","LI","Phoca vitulina",332
+"ip_chem_biota","SB","Mysidacea",333
+"ip_chem_biota","EG","Uria aalge",334
+"ip_chem_biota","SB","Cerastoderma edule",335
+"ip_chem_biota","BB","Phocoena phocoena",336
+"ip_chem_biota","SB","Ensis siliqua",337
+"ip_chem_biota","MU","Molva molva",338
+"ip_chem_biota","LI","Molva molva",339
+"ip_chem_biota","MU","Salvelinus alpinus",340
+"ip_chem_biota","MU","Scomber scombrus",341
+"ip_chem_biota","MU","Leucoraja naevus",342
+"ip_chem_biota","MU","Pollachius pollachius",343
+"ip_chem_biota","MU","Zeus faber",344
+"ip_chem_biota","MU","Palaemon serratus",345
+"ip_chem_biota","MU","Scophthalmus rhombus",346
+"ip_chem_biota","MU","Lophius budegassa",347
+"ip_chem_biota","MU","Solea solea",348
+"ip_chem_biota","MU","Thunnus alalunga",349
+"ip_chem_biota","MU","Conger conger",350
+"ip_chem_biota","MU","Raja clavata",351
+"ip_chem_biota","GI","Aphanopus carbo",352
+"ip_chem_biota","BL","Halichoerus grypus",353
+"ip_chem_biota","BB","Halichoerus grypus",354
+"ip_chem_biota","LI","Cepphus grylle",355
+"ip_chem_biota","EG","Haematopus ostralegus",356
+"ip_chem_biota","SH","Mytilus edulis",357
+"ip_chem_biota","MU","Raja naevus",358
+"ip_chem_biota","MU","Sebastes mentella",359
+"ip_chem_biota","LI","Sebastes mentella",360
+"ip_chem_biota","MU","Hippoglossoides platessoides",361
+"ip_chem_biota","LI","Solea vulgaris",362
+"ip_chem_biota","FA","Fulmarus glacialis",363
+"ip_chem_biota","LI","Fulmarus glacialis",364
+"ip_chem_biota","SB","Mya truncata",365
+"ip_chem_biota","LI","Chimaera monstrosa",366
+"ip_chem_biota","MU","Chimaera monstrosa",367
+"ip_chem_biota","MU","Pollachius virens",368
+"ip_chem_biota","MU","Eutrigla gurnardus",369
+"ip_chem_biota","BB","Globicephala melas",370
+"ip_chem_biota","KI","Globicephala melas",371
+"ip_chem_biota","LI","Globicephala melas",372
+"ip_chem_biota","MU","Globicephala melas",373
+"ip_chem_biota","MU","Psetta maxima",374
+"ip_chem_biota","MU","Ostrea edulis",375
+"ip_chem_biota","EH","Cepphus grylle",376
+"ip_chem_biota","EG","Cepphus grylle",377
+"ip_chem_biota","LI","Pollachius virens",378
+"ip_chem_biota","MU","Bathysaurus ferox",379
+"ip_chem_biota","GO","Bathysaurus ferox",380
+"ip_chem_biota","LI","Bathysaurus ferox",381
+"ip_chem_biota","MU","Scyliorhinus canicula",382
+"ip_chem_biota","MU","Squalus acanthias",383
+"ip_chem_biota","TM","Platichthys flesus",384
+"ip_chem_biota","GI","Lophius piscatorius",385
+"ip_chem_biota","GO","Lophius piscatorius",386
+"ip_chem_biota","LI","Lophius piscatorius",387
+"ip_chem_biota","MU","Hoplostethus atlanticus",388
+"ip_chem_biota","LI","Hoplostethus atlanticus",389
+"ip_chem_biota","GO","Hoplostethus atlanticus",390
+"ip_chem_biota","WO","Crangon crangon",391
+"ip_chem_biota","MU","Anarhichas lupus",392
+"ip_chem_biota","MU","Raja montagui",393
+"ip_chem_biota","MU","Micromesistius poutassou",394
+"ip_chem_biota","LI","Micromesistius poutassou",395
+"ip_chem_biota","LI","Sebastes marinus",396
+"ip_chem_biota","MU","Sebastes marinus",397
+"ip_chem_biota","LI","Salmo trutta",398
+"ip_chem_biota","MU","Salmo trutta",399
+"ip_chem_biota","BB","Monodon monoceros",400
+"ip_chem_biota","FA","Rissa tridactyla",401
+"ip_chem_biota","LI","Rissa tridactyla",402
+"ip_chem_biota","WO","Fucus ceranoides",403
+"ip_chem_biota","MU","Glyptocephalus cynoglossus",404
+"ip_chem_biota","FA","Somateria mollissima",405
+"ip_chem_biota","LI","Somateria mollissima",406
+"ip_chem_biota","LI","Nephrops norvegicus",407
+"ip_chem_biota","MU","Nephrops norvegicus",408
+"ip_chem_biota","GO","Molva dypterygia",409
+"ip_chem_biota","LI","Glyptocephalus cynoglossus",410
+"ip_chem_biota","WO","Platichthys flesus",411
+"ip_chem_biota","SB","Macoma baltica",412
+"ip_chem_biota","LI","Lepus timidus",413
+"ip_chem_biota","BB","Phoca hispida",414
+"ip_chem_biota","MU","Phoca hispida",415
+"ip_chem_biota","LI","Phoca hispida",416
+"ip_chem_biota","BC","Phoca vitulina",417
+"ip_chem_biota","BS","Phoca vitulina",418
+"ip_chem_biota","MU","Chelidonichthys kumu",419
+"ip_chem_biota","KI","Phoca hispida",420
+"ip_chem_biota","LI","Ovis aries",421
+"ip_chem_biota","MU","Reinhardtius hippoglossoides",422
+"ip_chem_biota","WO","Pecten maximus",423
+"ip_chem_biota","LI","Pollachius pollachius",424
+"ip_chem_biota","MU","Raja brachyura",425
+"ip_chem_biota","MU","Rissa tridactyla",426
+"ip_chem_biota","BR","Rissa tridactyla",427
+"ip_chem_biota","KI","Rissa tridactyla",428
+"ip_chem_biota","WO","Gadus morhua",429
+"ip_chem_biota","LI","Scomber scombrus",430
+"ip_chem_biota","MU","Salmo salar",431
+"ip_chem_biota","SB","Venerupis philippinarum",432
+"ip_chem_biota","SB","Gobius",433
+"ip_chem_biota","MU","Triglidae",434
+"ip_chem_biota","BB","Ursus maritimus",435
+"ip_chem_biota","MU","Anarhichas minor",436
+"ip_chem_biota","MU","Thunnus thynnus",437
+"ip_chem_biota","EG","Sterna hirundo",438
+"ip_chem_biota","LI","Uria lomvia",439
+"ip_chem_biota","RO","Pollachius pollachius",440
+"ip_chem_biota","WO","Solea vulgaris",441
+"ip_chem_biota","LI","Sardina pilchardus",442
+"ip_chem_biota","MU","Sardina pilchardus",443
+"ip_chem_biota","SB","Haliotis tuberculata",444
+"ip_chem_biota","BB","Delphinus delphis",445
+"ip_chem_biota","LI","Delphinus delphis",446
+"ip_chem_biota","MU","Pegusa lascaris",447
+"ip_chem_biota","","Ovis aries",448
+"ip_chem_biota","KI","Cepphus grylle",449
+"ip_chem_biota","BB","Myoxocephalus scorpius",450
+"ip_chem_biota","BB","Salvelinus alpinus",451
+"ip_chem_biota","LI","Larus glaucoides",452
+"ip_chem_biota","LI","Reinhardtius hippoglossoides",453
+"ip_chem_biota","LI","Pandalus borealis",454
+"ip_chem_biota","MU","Delphinapterus leucas",455
+"ip_chem_biota","BB","Delphinapterus leucas",456
+"ip_chem_biota","KI","Delphinapterus leucas",457
+"ip_chem_biota","LI","Delphinapterus leucas",458
+"ip_chem_biota","EP","Delphinapterus leucas",459
+"ip_chem_biota","LI","Gadus ogac",460
+"ip_chem_biota","LI","Anarhichas minor",461
+"ip_chem_biota","LI","Raja radiata",462
+"ip_chem_biota","BA","Balaenoptera acutorostrata",463
+"ip_chem_biota","KI","Balaenoptera acutorostrata",464
+"ip_chem_biota","LI","Balaenoptera acutorostrata",465
+"ip_chem_biota","MU","Balaenoptera acutorostrata",466
+"ip_chem_biota","","Crangon crangon",467
+"ip_chem_biota","EH","Larus",468
+"ip_chem_seawater","seawater",NA,469
+"ip_chem_sediment","sediment",NA,470
+"usda_nrp","Muscle","Animal-Cattle-Beef Cow",471
+"usda_nrp","Muscle","Animal-Cattle-Heifer",472
+"usda_nrp","Muscle","Animal-Cattle-Steer",473
+"usda_nrp","Muscle","Animal-Calf-Bob Veal",474
+"usda_nrp","Muscle","Animal-Swine-Market Swine",475
+"usda_nrp","Muscle","Animal-Cattle-Dairy Cow",476
+"usda_nrp","Muscle","Animal-Swine-Sow",477
+"usda_nrp","Muscle","",478
+"usda_nrp","Muscle","Animal-Sheep-Lamb",479
+"usda_nrp","Kidney","Animal-Cattle-Beef Cow",480
+"usda_nrp","Muscle","Animal-Sheep-Mature Sheep",481
+"usda_nrp","Kidney","Animal-Calf-Bob Veal",482
+"usda_nrp","Kidney","Animal-Cattle-Bull",483
+"usda_nrp","Muscle","Animal-Cattle-Bull",484
+"usda_nrp","Kidney","Animal-Cattle-Dairy Cow",485
+"usda_nrp","Kidney","Animal-Calf-Heavy Calf",486
+"usda_nrp","Kidney","Animal-Cattle-Heifer",487
+"usda_nrp","Kidney","Animal-Cattle-Steer",488
+"usda_nrp","Kidney","Animal-Swine-Market Swine",489
+"usda_nrp","Kidney","Animal-Swine-Sow",490
+"usda_nrp","Muscle","Animal-Calf-Heavy Calf",491
+"usda_nrp","Kidney","Animal-Calf-Non Formula-fed Veal",492
+"usda_nrp","Muscle","Animal-Swine-Roaster Swine",493
+"usda_nrp","Kidney","Animal-Swine-Roaster Swine",494
+"usda_nrp","Kidney","Animal-Calf-Formula-fed Veal",495
+"usda_nrp","Kidney","Animal-Sheep-Lamb",496
+"usda_nrp","Liver","Animal-Cattle-Beef Cow",497
+"usda_nrp","Liver","Animal-Calf-Bob Veal",498
+"usda_nrp","Liver","Animal-Cattle-Bull",499
+"usda_nrp","Liver","Animal-Cattle-Dairy Cow",500
+"usda_nrp","Liver","Animal-Calf-Heavy Calf",501
+"usda_nrp","Liver","Animal-Cattle-Heifer",502
+"usda_nrp","Liver","Animal-Cattle-Steer",503
+"usda_nrp","Liver","Animal-Calf-Non Formula-fed Veal",504
+"usda_nrp","Muscle","Animal-Calf-Non Formula-fed Veal",505
+"usda_nrp","Liver","ANIMAL-SWINE-MARKET SWINE",506
+"usda_nrp","Liver","Animal-Swine-Sow",507
+"usda_nrp","Muscle","ANIMAL-CATTLE-STEER/HEIFER CARCASS SPONGE",508
+"usda_nrp","Muscle","Product-Thermally Processed, Commercially Sterile",509
+"usda_nrp","Liver","ANIMAL-CATTLE-STEER/HEIFER CARCASS SPONGE",510
+"usda_nrp","Kidney","ANIMAL-GOAT",511
+"usda_nrp","Muscle","Product-Raw-Intact-Beef",512
+"usda_nrp","Kidney","ANIMAL-CATTLE-STEER/HEIFER CARCASS SPONGE",513
+"usda_nrp","Liver","Animal-Goat",514
+"usda_nrp","Liver","Animal-Swine-Roaster Swine",515
+"usda_nrp","Muscle","Product-RTE-Other Fully Cooked, Not Sliced",516
+"usda_nrp","Kidney","Animal-Swine-Boar/Stag Swine",517
+"usda_nrp","Kidney","Animal-Sheep-Mature Sheep",518
+"usda_nrp","Muscle","Product-NRTE-Ground, comminuted or otherwise nonintact meat",519
+"usda_nrp","Liver","Animal-Sheep-Lamb",520
+"usda_nrp","Muscle","Product-RTE-Fully Cooked, Sausage Products",521
+"usda_nrp","Muscle","Animal-Turkey",522
+"epa_dmr_update","wastewater (influent, effluent)",NA,523
+"usgs_tissue","Fish Fillet, Homog., Skin On","Morone americana",524
+"usgs_tissue","Fish Fillet, Homog., Skin On","Leiostomus xanthurus",525
+"usgs_tissue","Edible Portion","Rangia cuneata",526
+"usgs_tissue","Whole Organism","Cyathura polita",527
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Micropterus salmoides",528
+"usgs_tissue","Whole Fish, Homog., Skin On","Citharichthys sordidus",529
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictalurus punctatus",530
+"usgs_tissue","Whole Organism","Mytilus edulis",531
+"usgs_tissue","Muscle/Muscle Tissue","Micropterus dolomieu",532
+"usgs_tissue","Muscle, Somatic","Pomoxis annularis",533
+"usgs_tissue","Fish Fillet, With Belly Flap","Micropterus salmoides",534
+"usgs_tissue","Whole Organism","Mya arenaria",535
+"usgs_tissue","Muscle/Muscle Tissue","Parophrys vetulus",536
+"usgs_tissue","Muscle/Muscle Tissue","Pleuronichthys verticalis",537
+"usgs_tissue","Liver","Pleuronichthys verticalis",538
+"usgs_tissue","Liver","Parophrys vetulus",539
+"usgs_tissue","Muscle/Muscle Tissue","Morone americana",540
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictalurus punctatus",541
+"usgs_tissue","Fish Fillet, With Belly Flap","Micropterus dolomieu",542
+"usgs_tissue","Fish Fillet, With Belly Flap","Ambloplites rupestris",543
+"usgs_tissue","Muscle, Somatic","Lepomis cyanellus",544
+"usgs_tissue","Edible Portion","Congeria leucophaeta",545
+"usgs_tissue","Fish Fillet, Homog., Skin On","Perca flavescens",546
+"usgs_tissue","Edible Portion","Macoma",547
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Catostomus commersoni***retired***use Catostomus commersonii",548
+"usgs_tissue","Edible Portion","Crassostrea virginica",549
+"usgs_tissue","Whole Organism","Marenzelleria viridis",550
+"usgs_tissue","Edible Portion","Callinectes sapidus",551
+"usgs_tissue","Fish Fillet, Left, Skin Off","Ictalurus punctatus",552
+"usgs_tissue","Fish Fillet, Left, Skin On","Micropterus salmoides",553
+"usgs_tissue","Edible Portion","Ischadium recurvum",554
+"usgs_tissue","Edible Portion","Macoma balthica",555
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Salvelinus fontinalis",556
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictalurus furcatus",557
+"usgs_tissue","Edible Portion","Bivalvia",558
+"usgs_tissue","Fish Fillet, Homog., Skin On","Brevoortia tyrannus",559
+"usgs_tissue","Edible Portion","Balanus",560
+"usgs_tissue","Muscle/Muscle Tissue","Lutjanus kasmira",561
+"usgs_tissue","Whole Organism","Pomoxis nigromaculatus",562
+"usgs_tissue","Whole Organism","Leptocheirus plumulosus",563
+"usgs_tissue","Muscle, Visceral","Rangia cuneata",564
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis macrochirus",565
+"usgs_tissue","Fish Fillet, Homog., Skin On","Trinectes maculatus",566
+"usgs_tissue","Whole Organism","Lepomis macrochirus",567
+"usgs_tissue","Muscle/Muscle Tissue","Chelydra serpentina",568
+"usgs_tissue","Whole Organism","Polychaeta",569
+"usgs_tissue","Muscle/Muscle Tissue","Callinectes sapidus",570
+"usgs_tissue","Whole Organism","Micropterus salmoides",571
+"usgs_tissue","Mixed Parts","Oncorhynchus mykiss",572
+"usgs_tissue","Mixed Parts","Micropterus salmoides",573
+"usgs_tissue","Mixed Parts","Carassius auratus",574
+"usgs_tissue","Whole Organism","Amphipoda",575
+"usgs_tissue","Body","Metacarcinus magister",576
+"usgs_tissue","Muscle/Muscle Tissue","Micropterus salmoides",577
+"usgs_tissue","Mixed Parts","Ameiurus catus",578
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Micropterus dolomieu",579
+"usgs_tissue","Fish Fillet, With Belly Flap","Polyodon spathula",580
+"usgs_tissue","Fish Fillet, With Belly Flap","Pylodictis olivaris",581
+"usgs_tissue","Fish Fillet, With Belly Flap","Micropterus punctulatus",582
+"usgs_tissue","Fish Fillet, With Belly Flap","Ameiurus natalis",583
+"usgs_tissue","Fish Fillet, With Belly Flap","Morone mississippiensis",584
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Sander vitreus",585
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Ictalurus punctatus",586
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis auritus",587
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Esox lucius",588
+"usgs_tissue","Fish Fillet, With Belly Flap","Aplodinotus grunniens",589
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictiobus bubalus",590
+"usgs_tissue","Fish Fillet, With Belly Flap","Sander canadensis",591
+"usgs_tissue","Mixed Parts","Ictalurus punctatus",592
+"usgs_tissue","Mixed Parts","Catostomus occidentalis",593
+"usgs_tissue","Mixed Parts","Cyprinus carpio",594
+"usgs_tissue","Ovary","Ambloplites rupestris",595
+"usgs_tissue","Fish Fillet, With Belly Flap","Sander vitreus",596
+"usgs_tissue","Fish Fillet, With Belly Flap","Cyprinus carpio",597
+"usgs_tissue","Fish Fillet, Homog., Skin On","Ictalurus",598
+"usgs_tissue","Fish Fillet, Homog., Skin On","Pleuronectiformes",599
+"usgs_tissue","Ovary","Micropterus dolomieu",600
+"usgs_tissue","Mixed Parts","Orthodon microlepidotus",601
+"usgs_tissue","Body","Bivalvia",602
+"usgs_tissue","Mixed Parts","Salmo trutta",603
+"usgs_tissue","Mixed Parts","Oncorhynchus tshawytscha",604
+"usgs_tissue","Muscle/Muscle Tissue","Selar crumenophthalmus",605
+"usgs_tissue","Muscle, Somatic","Morone chrysops",606
+"usgs_tissue","Muscle, Somatic","Micropterus dolomieu",607
+"usgs_tissue","Muscle, Somatic","Micropterus salmoides",608
+"usgs_tissue","Muscle, Somatic","Pylodictis olivaris",609
+"usgs_tissue","Mixed Parts","Ameiurus nebulosus",610
+"usgs_tissue","Muscle/Muscle Tissue","Oncorhynchus mykiss",611
+"usgs_tissue","Muscle/Muscle Tissue","Salvelinus confluentus",612
+"usgs_tissue","Fish Fillet, With Belly Flap","Hypentelium nigricans",613
+"usgs_tissue","Muscle/Muscle Tissue","Oncorhynchus nerka",614
+"usgs_tissue","Whole Organism","Lepomis microlophus",615
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pomoxis annularis",616
+"usgs_tissue","Muscle/Muscle Tissue","Catostomus catostomus",617
+"usgs_tissue","Fish Fillet, With Belly Flap","Moxostoma erythrurum",618
+"usgs_tissue","Fish Fillet, With Belly Flap","Scaphirhynchus platorynchus",619
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictalurus",620
+"usgs_tissue","Fish Fillet, With Belly Flap","Ameiurus nebulosus",621
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictiobus",622
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus commersonii",623
+"usgs_tissue","Muscle/Muscle Tissue","Mylocheilus caurinus",624
+"usgs_tissue","Whole Organism","Morone americana",625
+"usgs_tissue","Whole Organism","Ischadium recurvum",626
+"usgs_tissue","Whole Organism","Leiostomus xanthurus",627
+"usgs_tissue","Whole Organism","Crassostrea virginica",628
+"usgs_tissue","Gonads","Mylocheilus caurinus",629
+"usgs_tissue","Muscle/Muscle Tissue","Ptychocheilus oregonensis",630
+"usgs_tissue","Whole Organism","Callinectes sapidus",631
+"usgs_tissue","Whole Organism","Macoma balthica",632
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Cyprinus carpio",633
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Hypophthalmichthys",634
+"usgs_tissue","Whole Fish, Homog., Skin On","Cyprinus carpio",635
+"usgs_tissue","Fish Fillet, Homog., Skin On","Micropterus dolomieu",636
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Micropterus dolomieu",637
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Scaphirhynchus platorynchus",638
+"usgs_tissue","Muscle, Visceral","Macoma balthica",639
+"usgs_tissue","Liver","Lutjanus kasmira",640
+"usgs_tissue","Liver","Myripristis berndti",641
+"usgs_tissue","Mixed Parts","Lepomis macrochirus",642
+"usgs_tissue","Muscle/Muscle Tissue","Lota lota",643
+"usgs_tissue","Gonads","Oncorhynchus nerka",644
+"usgs_tissue","Muscle/Muscle Tissue","Oncorhynchus clarkii lewisi",645
+"usgs_tissue","Gonads","Ptychocheilus oregonensis",646
+"usgs_tissue","Gonads","Catostomus catostomus",647
+"usgs_tissue","Gonads","Oncorhynchus clarkii lewisi",648
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Cyprinus carpio",649
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Aplodinotus grunniens",650
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Carpiodes carpio",651
+"usgs_tissue","Muscle/Muscle Tissue","Perca flavescens",652
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Sander canadensis",653
+"usgs_tissue","Muscle/Muscle Tissue","Oncorhynchus clarki",654
+"usgs_tissue","Muscle/Muscle Tissue","Decapoda",655
+"usgs_tissue","Muscle/Muscle Tissue","Lepomis macrochirus",656
+"usgs_tissue","Muscle/Muscle Tissue","Lepomis gibbosus",657
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Carpiodes carpio",658
+"usgs_tissue","Muscle/Muscle Tissue","Esox lucius",659
+"usgs_tissue","Muscle/Muscle Tissue","Sander vitreus",660
+"usgs_tissue","Mixed Parts","Salvelinus fontinalis",661
+"usgs_tissue","Mixed Parts","Morone saxatilis",662
+"usgs_tissue","Muscle/Muscle Tissue","Ameiurus nebulosus",663
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Micropterus salmoides",664
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Micropterus dolomieu",665
+"usgs_tissue","Whole Fish, Homog., Skin On","Ambloplites rupestris",666
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Catostomus commersonii",667
+"usgs_tissue","Whole Fish, Homog., Skin On","Lepomis macrochirus",668
+"usgs_tissue","Whole Fish, Homog., Skin On","Lepomis megalotis",669
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Pomoxis annularis",670
+"usgs_tissue","Whole Fish, Homog., Skin On","Ameiurus natalis",671
+"usgs_tissue","Muscle, Somatic","Aplodinotus grunniens",672
+"usgs_tissue","Whole Fish, Homog., Skin On","Osteichthyes",673
+"usgs_tissue","Mixed Parts","Mustelus californicus",674
+"usgs_tissue","Fish Fillet, With Belly Flap","Morone chrysops",675
+"usgs_tissue","Liver","Apalone spinifera",676
+"usgs_tissue","Muscle/Muscle Tissue","Apalone spinifera",677
+"usgs_tissue","Whole Organism","Ambloplites rupestris",678
+"usgs_tissue","Fat/Adipose Tissue","Apalone spinifera",679
+"usgs_tissue","Brain","Chelydra serpentina",680
+"usgs_tissue","Mixed Parts","Paralabrax nebulifer",681
+"usgs_tissue","Mixed Parts","Paralabrax clathratus",682
+"usgs_tissue","Mixed Parts","Scomber japonicus",683
+"usgs_tissue","Whole Organism","Osmerus mordax",684
+"usgs_tissue","Fish Fillet, Whole, Skin On","Sander vitreus",685
+"usgs_tissue","Fish Fillet, Whole, Skin On","Esox lucius",686
+"usgs_tissue","Fish Fillet, Whole, Skin On","Morone chrysops",687
+"usgs_tissue","Fish Fillet, Whole, Skin On","Ictalurus punctatus",688
+"usgs_tissue","Mixed Parts","Phanerodon furcatus",689
+"usgs_tissue","Mixed Parts","Embiotoca jacksoni",690
+"usgs_tissue","Mixed Parts","Cymatogaster aggregata",691
+"usgs_tissue","Whole Fish, Homog., Skin On","Semotilus atromaculatus",692
+"usgs_tissue","Whole Fish, Homog., Skin On","Campostoma anomalum",693
+"usgs_tissue","Liver","Chelydra serpentina",694
+"usgs_tissue","Fat/Adipose Tissue","Chelydra serpentina",695
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pylodictis olivaris",696
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Moxostoma erythrurum",697
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Hypophthalmichthys molitrix",698
+"usgs_tissue","Muscle, Somatic","Semotilus atromaculatus",699
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salmo trutta",700
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Ambloplites rupestris",701
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Moxostoma breviceps",702
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Micropterus",703
+"usgs_tissue","Whole Organism","Perca flavescens",704
+"usgs_tissue","Ovary","Micropterus punctulatus",705
+"usgs_tissue","Whole Organism","Gambusia affinis",706
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Pylodictis olivaris",707
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Pomoxis nigromaculatus",708
+"usgs_tissue","Mixed Parts","Ptychocheilus grandis",709
+"usgs_tissue","Whole Organism","Pomoxis annularis",710
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Chelydra serpentina",711
+"usgs_tissue","Ovary","Micropterus salmoides",712
+"usgs_tissue","Mixed Parts","Mytilus galloprovincialis",713
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Lepomis macrochirus",714
+"usgs_tissue","Fish Fillet, With Belly Flap","Micropterus",715
+"usgs_tissue","Whole Organism","Lepomis auritus",716
+"usgs_tissue","Fish Fillet, With Belly Flap","Morone saxatilis",717
+"usgs_tissue","Brain","Apalone spinifera",718
+"usgs_tissue","Fish Fillet, Whole, Skin On","Pomoxis nigromaculatus",719
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Lepomis megalotis",720
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Aplodinotus grunniens",721
+"usgs_tissue","Mixed Parts","Genyonemus lineatus",722
+"usgs_tissue","Muscle/Muscle Tissue","Micropterus punctulatus",723
+"usgs_tissue","Mixed Parts","Amphistichus argenteus",724
+"usgs_tissue","Mixed Parts","Triakis semifasciata",725
+"usgs_tissue","Liver","Acipenser transmontanus",726
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictiobus bubalus",727
+"usgs_tissue","Fish Fillet, Whole, Skin On","Sander canadensis",728
+"usgs_tissue","Mixed Parts","Acipenser transmontanus",729
+"usgs_tissue","Mixed Parts","Sebastes carnatus",730
+"usgs_tissue","Muscle, Somatic","Pomoxis nigromaculatus",731
+"usgs_tissue","Edible Portion","Rhithropanopeus harrisii",732
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ameiurus natalis",733
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Micropterus punctulatus",734
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Lepomis microlophus",735
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Lepomis gibbosus",736
+"usgs_tissue","Muscle, Somatic","Sander vitreus",737
+"usgs_tissue","Ovary","Lepomis macrochirus",738
+"usgs_tissue","Mixed Parts","Hesperoleucus symmetricus",739
+"usgs_tissue","Mixed Parts","Perca flavescens",740
+"usgs_tissue","Fish Fillet, With Belly Flap","Minytrema melanops",741
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Moxostoma duquesnii",742
+"usgs_tissue","Fish Fillet, Whole, Skin On","Lepomis macrochirus",743
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Sander vitreus",744
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Lepomis cyanellus",745
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis",746
+"usgs_tissue","Muscle/Muscle Tissue","Stizostedion vitreum***retired***use Sander vitreus",747
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis microlophus",748
+"usgs_tissue","Mixed Parts","Sebastes mystinus",749
+"usgs_tissue","Fish Fillet, With Belly Flap","Perca flavescens",750
+"usgs_tissue","Mixed Parts","Scorpaena plumieri",751
+"usgs_tissue","Whole Organism","Micropterus dolomieu",752
+"usgs_tissue","Whole Organism","Ictalurus punctatus",753
+"usgs_tissue","Mixed Parts","Atherinopsis californiensis",754
+"usgs_tissue","Mixed Parts","Umbrina roncador",755
+"usgs_tissue","Mixed Parts","Seriphus politus",756
+"usgs_tissue","Mixed Parts","Roncador stearnsii",757
+"usgs_tissue","Mixed Parts","Sebastes atrovirens",758
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Oncorhynchus mykiss",759
+"usgs_tissue","Mixed Parts","Sebastes auriculatus",760
+"usgs_tissue","Mixed Parts","Atherinops affinis",761
+"usgs_tissue","Muscle/Muscle Tissue","Morone chrysops",762
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Micropterus salmoides",763
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Catostomus commersonii",764
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Semotilus atromaculatus",765
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Salmo trutta",766
+"usgs_tissue","Mixed Parts","Pomoxis nigromaculatus",767
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Anguilla rostrata",768
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictiobus niger",769
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus commersonii",770
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus bubalus",771
+"usgs_tissue","Mixed Parts","Tilapia",772
+"usgs_tissue","Muscle/Muscle Tissue","Myripristis berndti",773
+"usgs_tissue","Muscle/Muscle Tissue","Pomoxis nigromaculatus",774
+"usgs_tissue","Muscle/Muscle Tissue","Sander canadensis",775
+"usgs_tissue","Mixed Parts","Paralabrax maculatofasciatus",776
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Perca flavescens",777
+"usgs_tissue","Mixed Parts","Engraulis mordax",778
+"usgs_tissue","Muscle/Muscle Tissue","Ictalurus punctatus",779
+"usgs_tissue","Mixed Parts","Squalus acanthias",780
+"usgs_tissue","Mixed Parts","Corbicula",781
+"usgs_tissue","Mixed Parts","Sebastes rosaceus",782
+"usgs_tissue","Mixed Parts","Paralichthys californicus",783
+"usgs_tissue","Mixed Parts","Caulolatilus princeps",784
+"usgs_tissue","Fish Fillet, Left, Skin Off","Micropterus salmoides",785
+"usgs_tissue","Gonads","Oncorhynchus mykiss",786
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Perca flavescens",787
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Esox lucius",788
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Minytrema melanops",789
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ameiurus melas",790
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Esox lucius",791
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Sander vitreus",792
+"usgs_tissue","Mixed Parts","Ameiurus melas",793
+"usgs_tissue","Mixed Parts","Hysterocarpus traskii",794
+"usgs_tissue","Mixed Parts","Lepomis cyanellus",795
+"usgs_tissue","Whole Fish,BeheadGutted,SkinOn","Ictalurus punctatus",796
+"usgs_tissue","Whole Organism","Archoplites interruptus",797
+"usgs_tissue","Whole Organism","Gila coerulea",798
+"usgs_tissue","Liver","Selar crumenophthalmus",799
+"usgs_tissue","Mixed Parts","Micropterus dolomieu",800
+"usgs_tissue","Mixed Parts","Mustelus henlei",801
+"usgs_tissue","Whole Organism","Lepomis cyanellus",802
+"usgs_tissue","Whole Organism","Menidia menidia",803
+"usgs_tissue","Fish Fillet, Whole, Skin On","Micropterus dolomieu",804
+"usgs_tissue","Fish Fillet, Whole, Skin On","Stizostedion vitreum***retired***use Sander vitreus",805
+"usgs_tissue","Mixed Parts","Cheilotrema saturnum",806
+"usgs_tissue","Fish Fillet, Left, Skin Off","Lepisosteus osseus",807
+"usgs_tissue","Mixed Parts","Mytilus californianus",808
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Oncorhynchus mykiss",809
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salvelinus fontinalis",810
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Oncorhynchus clarkii",811
+"usgs_tissue","Mixed Parts","Lepomis microlophus",812
+"usgs_tissue","Whole Organism","Lepomis megalotis",813
+"usgs_tissue","Mixed Parts","Hypsurus caryi",814
+"usgs_tissue","Mixed Parts","Scorpaenichthys marmoratus",815
+"usgs_tissue","Mixed Parts","Sebastes nebulosus",816
+"usgs_tissue","Mixed Parts","Myliobatis californica",817
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Pomoxis nigromaculatus",818
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Morone americana",819
+"usgs_tissue","Muscle/Muscle Tissue","Salvelinus fontinalis",820
+"usgs_tissue","Mixed Parts","Sebastes caurinus",821
+"usgs_tissue","Mixed Parts","Ophiodon elongatus",822
+"usgs_tissue","Muscle/Muscle Tissue","Homarus americanus",823
+"usgs_tissue","Fish Fillet, Left, Skin On","Morone americana",824
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Morone chrysops",825
+"usgs_tissue","Fish Fillet, Whole, Skin On","Perca flavescens",826
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis cyanellus",827
+"usgs_tissue","Whole Organism","Cyprinus carpio",828
+"usgs_tissue","Mixed Parts","Hexagrammos decagrammus",829
+"usgs_tissue","Mixed Parts","Sebastes serranoides",830
+"usgs_tissue","Mixed Parts","Sebastes melanops",831
+"usgs_tissue","Whole Organism","Mytilus californianus",832
+"usgs_tissue","Mixed Parts","Rhacochilus vacca",833
+"usgs_tissue","Edible Portion","Micropterus dolomieu",834
+"usgs_tissue","Edible Portion","Hypentelium nigricans",835
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ameiurus",836
+"usgs_tissue","Muscle, Somatic","Pomoxis",837
+"usgs_tissue","Fish Fillet, Whole, Skin On","Lobotes surinamensis",838
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis megalotis",839
+"usgs_tissue","Muscle/Muscle Tissue","Salmo trutta",840
+"usgs_tissue","Mixed Parts","Pylodictis olivaris",841
+"usgs_tissue","Mixed Parts","Corbicula fluminea",842
+"usgs_tissue","Muscle, Somatic","Ictalurus punctatus",843
+"usgs_tissue","Fish Fillet, Left, Skin On","Catostomus commersonii",844
+"usgs_tissue","Mixed Parts","Sebastes miniatus",845
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis macrochirus",846
+"usgs_tissue","Mixed Parts","Sphyraena argentea",847
+"usgs_tissue","Fish Fillet, Whole, Skin On","Osmerus mordax",848
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictiobus cyprinellus",849
+"usgs_tissue","Fish Fillet, Left, Skin On","Micropterus dolomieu",850
+"usgs_tissue","Fish Fillet, With Belly Flap","Pomoxis annularis",851
+"usgs_tissue","Mixed Parts","Phalacrocorax auritus",852
+"usgs_tissue","Mixed Parts","Sebastes maliger",853
+"usgs_tissue","Mixed Parts","Girella nigricans",854
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis cyanellus",855
+"usgs_tissue","Muscle/Muscle Tissue","Trachemys scripta elegans",856
+"usgs_tissue","Mixed Parts","Sebastes flavidus",857
+"usgs_tissue","Liver","Oncorhynchus nerka",858
+"usgs_tissue","Liver","Salvelinus confluentus",859
+"usgs_tissue","Fish Fillet, Left, Skin On","Ictalurus punctatus",860
+"usgs_tissue","Mixed Parts","Lepomis gibbosus",861
+"usgs_tissue","Fat/Adipose Tissue","Trachemys scripta elegans",862
+"usgs_tissue","Fish Fillet, Left, Skin On","Ictiobus bubalus",863
+"usgs_tissue","Liver","Catostomus catostomus",864
+"usgs_tissue","Mixed Parts","Sebastes chrysomelas",865
+"usgs_tissue","Muscle/Muscle Tissue","Lepomis cyanellus",866
+"usgs_tissue","Edible Portion","Moxostoma erythrurum",867
+"usgs_tissue","Edible Portion","Lepomis cyanellus",868
+"usgs_tissue","Edible Portion","Micropterus punctulatus",869
+"usgs_tissue","Edible Portion","Pomoxis annularis",870
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pomoxis nigromaculatus",871
+"usgs_tissue","Mixed Parts","Clevelandia ios",872
+"usgs_tissue","Fish Fillet, Left, Skin Off","Ictalurus furcatus",873
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictiobus niger",874
+"usgs_tissue","Whole Organism","Corbicula fluminea",875
+"usgs_tissue","Fish Fillet, With Belly Flap","Pomoxis nigromaculatus",876
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Pomatomus saltatrix",877
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus clarkii",878
+"usgs_tissue","Whole, Not Gut","Catostomus macrocheilus",879
+"usgs_tissue","Whole Fish, Homog., Skin On","Micropterus salmoides",880
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Morone saxatilis",881
+"usgs_tissue","Whole Fish, Homog., Skin On","Dorosoma cepedianum",882
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis gibbosus",883
+"usgs_tissue","Whole Fish, Homog., Skin On","Micropterus dolomieu",884
+"usgs_tissue","Whole Fish, Homog., Skin On","Notropis atherinoides",885
+"usgs_tissue","Whole Fish, Homog., Skin On","Pseudopleuronectes americanus",886
+"usgs_tissue","Whole Fish, Homog., Skin On","Paralichthys dentatus",887
+"usgs_tissue","Mixed Parts","Mylopharodon conocephalus",888
+"usgs_tissue","Whole Fish, Homog., Skin On","Leiostomus xanthurus",889
+"usgs_tissue","Whole Fish, Homog., Skin On","Morone americana",890
+"usgs_tissue","Whole Fish, Homog., Skin On","Stizostedion canadense***retired***use Sander canadensis",891
+"usgs_tissue","Whole Fish, Homog., Skin On","Ictalurus punctatus",892
+"usgs_tissue","Whole Fish, Homog., Skin On","Farfantepenaeus aztecus",893
+"usgs_tissue","Whole Fish, Homog., Skin On","Aplodinotus grunniens",894
+"usgs_tissue","Whole Fish, Homog., Skin On","Notropis blennius",895
+"usgs_tissue","Whole Organism","Mercenaria mercenaria",896
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma macrolepidotum",897
+"usgs_tissue","Muscle/Muscle Tissue","Stizostedion canadense***retired***use Sander canadensis",898
+"usgs_tissue","Whole Organism","Hypophthalmichthys molitrix",899
+"usgs_tissue","Whole Fish, Homog., Skin On","Ictiobus bubalus",900
+"usgs_tissue","Whole Fish, Homog., Skin On","Cynoscion regalis",901
+"usgs_tissue","Whole Fish, Homog., Skin On","Paralichthys lethostigma",902
+"usgs_tissue","Mixed Parts","Callinectes sapidus",903
+"usgs_tissue","Whole Fish, Homog., Skin On","Cyprinella spiloptera",904
+"usgs_tissue","Mixed Parts","Decapoda",905
+"usgs_tissue","Fish Fillet, Homog., Skin On","Paralichthys dentatus",906
+"usgs_tissue","Whole Fish, Homog., Skin On","Ariopsis felis",907
+"usgs_tissue","Whole Fish, Homog., Skin On","Micropogonias undulatus",908
+"usgs_tissue","Whole Fish, Homog., Skin On","Notemigonus crysoleucas",909
+"usgs_tissue","Mixed Parts","Cynoscion regalis",910
+"usgs_tissue","Fish Fillet, Homog., Skin On","Cynoscion regalis",911
+"usgs_tissue","Mixed Parts","Paralichthys dentatus",912
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Hypentelium nigricans",913
+"usgs_tissue","Fish Fillet, With Belly Flap","Dorosoma cepedianum",914
+"usgs_tissue","Liver","Micropterus salmoides",915
+"usgs_tissue","Liver","Oncorhynchus mykiss",916
+"usgs_tissue","Whole Fish, Homog., Skin On","Ariidae",917
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictalurus furcatus",918
+"usgs_tissue","Whole Fish, Homog., Skin On","Actinopterygii",919
+"usgs_tissue","Fish Fillet, Whole, Skin On","Micropterus salmoides",920
+"usgs_tissue","Fish Fillet, Whole, Skin On","Ictiobus bubalus",921
+"usgs_tissue","Whole Fish, Homog., Skin On","Bairdiella chrysoura",922
+"usgs_tissue","Whole Fish, Homog., Skin On","Litopenaeus setiferus",923
+"usgs_tissue","Fish Fillet, Left, Skin Off","Ictiobus bubalus",924
+"usgs_tissue","Whole Fish, Homog., Skin On","Lagodon rhomboides",925
+"usgs_tissue","Whole Fish, Homog., Skin On","Parophrys vetulus",926
+"usgs_tissue","Whole Fish, Homog., Skin On","Platichthys stellatus",927
+"usgs_tissue","Whole Fish, Homog., Skin On","Paralichthys californicus",928
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Glyptocephalus zachirus",929
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Limanda aspera",930
+"usgs_tissue","Whole Fish, Homog., Skin On","Limanda aspera",931
+"usgs_tissue","Whole Fish, Homog., Skin On","Lepidopsetta bilineata",932
+"usgs_tissue","Whole Fish, Homog., Skin On","Citharichthys stigmaeus",933
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepidopsetta bilineata",934
+"usgs_tissue","Whole Fish, Homog., Skin On","Glyptocephalus zachirus",935
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Hippoglossoides elassodon",936
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Parophrys vetulus",937
+"usgs_tissue","Whole Fish, Homog., Skin On","Hippoglossoides elassodon",938
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepomis megalotis",939
+"usgs_tissue","Egg/Ovum","Scaphirhynchus platorynchus",940
+"usgs_tissue","Whole Fish, Homog., Skin On","Carpiodes carpio",941
+"usgs_tissue","Mixed Parts","Pimephales promelas",942
+"usgs_tissue","Whole Fish, Homog., Skin On","Opsanus beta",943
+"usgs_tissue","Whole Fish, Homog., Skin On","Cyprinella lutrensis",944
+"usgs_tissue","Fish Fillet, Homog., Skin On","Stenotomus chrysops",945
+"usgs_tissue","Mixed Parts","Pseudopleuronectes americanus",946
+"usgs_tissue","Fish Fillet, Left, Skin Off","Lepisosteus spatula***retired***use Atractosteus spatula",947
+"usgs_tissue","Whole Fish, Homog., Skin On","Ictalurus furcatus",948
+"usgs_tissue","Whole Fish, Homog., Skin On","Pimephales promelas",949
+"usgs_tissue","Fish Fillet, Homog., Skin On","Pseudopleuronectes americanus",950
+"usgs_tissue","Mixed Parts","Stenotomus chrysops",951
+"usgs_tissue","Whole Organism","Citharichthys stigmaeus",952
+"usgs_tissue","Whole Organism","Tilapia",953
+"usgs_tissue","Whole Fish, Homog., Skin On","Bagre marinus",954
+"usgs_tissue","Mixed Parts","Salvelinus namaycush",955
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Platichthys stellatus",956
+"usgs_tissue","Whole Fish, Homog., Skin On","Gadus chalcogrammus",957
+"usgs_tissue","Whole Fish, Homog., Skin On","Leptocottus armatus",958
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Gadus chalcogrammus",959
+"usgs_tissue","Whole Fish, Homog., Skin On","Macrhybopsis storeriana",960
+"usgs_tissue","Mixed Parts","Morone americana",961
+"usgs_tissue","Fish Fillet, Homog., Skin On","Ictalurus punctatus",962
+"usgs_tissue","Whole Fish, Homog., Skin On","Cynoscion arenarius",963
+"usgs_tissue","Whole Fish, Homog., Skin On","Sciaenidae",964
+"usgs_tissue","Fish Fillet, Left, Skin On","Ictalurus furcatus",965
+"usgs_tissue","Whole Organism","Oncorhynchus mykiss",966
+"usgs_tissue","Whole Fish, Homog., Skin On","Haemulon plumierii",967
+"usgs_tissue","Whole Organism","Elliptio complanata",968
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Morone saxatilis",969
+"usgs_tissue","Blood","Catostomus commersoni***retired***use Catostomus commersonii",970
+"usgs_tissue","Muscle/Muscle Tissue","Cyprinus carpio",971
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Salvelinus namaycush",972
+"usgs_tissue","Liver","Prosopium williamsoni",973
+"usgs_tissue","Whole Fish, Homog., Skin On","Lutjanus griseus",974
+"usgs_tissue","Muscle/Muscle Tissue","Esox masquinongy",975
+"usgs_tissue","Mixed Parts","Fundulus parvipinnis",976
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Moxostoma macrolepidotum",977
+"usgs_tissue","Whole Fish, Homog., Skin On","Microstomus pacificus",978
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Microstomus pacificus",979
+"usgs_tissue","Whole Fish, Homog., Skin On","Mugil cephalus",980
+"usgs_tissue","Whole Fish, Homog., Skin On","Animalia",981
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Prosopium cylindraceum",982
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Hexagrammos octogrammus",983
+"usgs_tissue","Whole Fish, Homog., Skin On","Hexagrammos octogrammus",984
+"usgs_tissue","Liver","Mylocheilus caurinus",985
+"usgs_tissue","Mixed Parts","Lavinia exilicauda",986
+"usgs_tissue","Whole Fish, Homog., Skin On","Lutjanus synagris",987
+"usgs_tissue","Whole Fish, Homog., Skin On","Symphurus atricaudus",988
+"usgs_tissue","Whole Fish, Homog., Skin On","Farfantepenaeus duorarum",989
+"usgs_tissue","Edible Portion","Ambloplites rupestris",990
+"usgs_tissue","Whole Fish, Homog., Skin On","Lepomis microlophus",991
+"usgs_tissue","Whole Fish, Homog., Skin On","Pleuronichthys verticalis",992
+"usgs_tissue","Whole Fish, Homog., Skin On","Perciformes",993
+"usgs_tissue","Muscle/Muscle Tissue","Prosopium williamsoni",994
+"usgs_tissue","Muscle, Somatic","Micropterus punctulatus",995
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Alosa sapidissima",996
+"usgs_tissue","Leaf","Salicornia depressa",997
+"usgs_tissue","Leaf","Alnus",998
+"usgs_tissue","Whole Organism","Notemigonus crysoleucas",999
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Salmo trutta",1000
+"usgs_tissue","Mixed Parts","Ctenopharyngodon idella",1001
+"usgs_tissue","Leaf","Vaccinium parvifolium",1002
+"usgs_tissue","Muscle/Muscle Tissue","Esox niger",1003
+"usgs_tissue","Whole Organism","Lepomis gibbosus",1004
+"usgs_tissue","Fruit","Vaccinium parvifolium",1005
+"usgs_tissue","Whole Organism","Dorosoma petenense",1006
+"usgs_tissue","Whole Organism","Menidia beryllina",1007
+"usgs_tissue","Body","Mya arenaria",1008
+"usgs_tissue","Body","Protothaca staminea",1009
+"usgs_tissue","Whole Organism","Catostomus tahoensis",1010
+"usgs_tissue","Leaf","Malus",1011
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Tilapia",1012
+"usgs_tissue","Muscle/Muscle Tissue","Ambloplites rupestris",1013
+"usgs_tissue","Whole Fish, Homog., Skin On","Luxilus cornutus",1014
+"usgs_tissue","Ovary","Alosa sapidissima",1015
+"usgs_tissue","Whole Organism","Catostomus occidentalis",1016
+"usgs_tissue","Whole Fish, Homog., Skin On","Pleuronichthys guttulatus",1017
+"usgs_tissue","Leaf","Vaccinium",1018
+"usgs_tissue","Fish Fillet, Homog., Skin On","Microgadus tomcod",1019
+"usgs_tissue","Mixed Parts","Microgadus tomcod",1020
+"usgs_tissue","Leaf","Rubus spectabilis",1021
+"usgs_tissue","Muscle/Muscle Tissue","Salvelinus namaycush",1022
+"usgs_tissue","Muscle/Muscle Tissue","Salmo salar",1023
+"usgs_tissue","Fish Fillet, Whole, Skin On","Micropterus punctulatus",1024
+"usgs_tissue","Whole Fish, Homog., Skin On","Pylodictis olivaris",1025
+"usgs_tissue","Body","Saxidomus giganteus***retired***use Saxidomus gigantea",1026
+"usgs_tissue","Whole Organism","Ameiurus nebulosus",1027
+"usgs_tissue","Body","Cerastoderma edule",1028
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Hypostomus plecostomus",1029
+"usgs_tissue","Leaf","Lysichiton americanus",1030
+"usgs_tissue","Fish Fillet, With Belly Flap","Ameiurus",1031
+"usgs_tissue","Whole Fish, Homog., Skin On","Lepomis cyanellus",1032
+"usgs_tissue","Whole Fish, Homog., Skin On","Micropterus punctulatus",1033
+"usgs_tissue","Whole Fish, Homog., Skin On","Reinhardtius stomias",1034
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Cyprinidae",1035
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Reinhardtius stomias",1036
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Lepomis macrochirus",1037
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Minytrema melanops",1038
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Lepomis auritus",1039
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus platyrhynchus",1040
+"usgs_tissue","Whole Organism","Ictiobus bubalus",1041
+"usgs_tissue","Whole Organism","Pylodictis olivaris",1042
+"usgs_tissue","Whole Organism","Platichthys stellatus",1043
+"usgs_tissue","Whole Fish, Homog., Skin On","Mugil curema",1044
+"usgs_tissue","Liver","Pylodictis olivaris",1045
+"usgs_tissue","Liver","Ictalurus punctatus",1046
+"usgs_tissue","Whole Fish, Homog., Skin On","Lyopsetta exilis",1047
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lyopsetta exilis",1048
+"usgs_tissue","Whole Fish, Homog., Skin On","Siluriformes",1049
+"usgs_tissue","Whole Fish, Homog., Skin On","Stenotomus chrysops",1050
+"usgs_tissue","Whole Fish, Homog., Skin On","Pogonias cromis",1051
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salmo gairdnerii***retired***use Oncorhynchus mykiss gairdnerii",1052
+"usgs_tissue","Whole Fish, Homog., Skin On","Synodus foetens",1053
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Stizostedion vitreum***retired***use Sander vitreus",1054
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salvelinus",1055
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salvelinus namaycush",1056
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Salmonidae",1057
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Oncorhynchus nerka",1058
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Esox masquinongy",1059
+"usgs_tissue","Whole Fish, Homog., Skin On","Trachinotus carolinus",1060
+"usgs_tissue","Whole Fish, Homog., Skin On","Paralichthys albigutta",1061
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus cyprinellus",1062
+"usgs_tissue","Whole Fish, Homog., Skin On","Ameiurus catus",1063
+"usgs_tissue","Fish Fillet, Homog., Skin On","Micropterus salmoides",1064
+"usgs_tissue","Whole Fish, Homog., Skin On","Callinectes sapidus",1065
+"usgs_tissue","Whole Organism","Morone chrysops",1066
+"usgs_tissue","Whole Organism","Sander vitreus",1067
+"usgs_tissue","Whole Organism","Procambarus clarkii",1068
+"usgs_tissue","Mixed Parts","Cyprinidae",1069
+"usgs_tissue","Muscle/Muscle Tissue","Polyodon spathula",1070
+"usgs_tissue","Whole Organism","Pacifastacus leniusculus",1071
+"usgs_tissue","Mixed Parts","Pacifastacus leniusculus",1072
+"usgs_tissue","Whole Fish, Homog., Skin On","Menticirrhus americanus",1073
+"usgs_tissue","Whole Organism","Catostomus commersoni***retired***use Catostomus commersonii",1074
+"usgs_tissue","Fish Fillet, Whole, Skin On","Cyprinidae",1075
+"usgs_tissue","Whole Fish, Homog., Skin On","Ctenopharyngodon idella",1076
+"usgs_tissue","Fish Fillet, Homog., Skin On","Lepomis macrochirus",1077
+"usgs_tissue","Fish Fillet, Homog., Skin On","Esox lucius",1078
+"usgs_tissue","Fish Fillet, Homog., Skin On","Morone chrysops",1079
+"usgs_tissue","Fish Fillet, Homog., Skin On","Salvelinus namaycush",1080
+"usgs_tissue","Whole Organism","Cottoidei",1081
+"usgs_tissue","Whole Organism","Acipenser transmontanus",1082
+"usgs_tissue","Mixed Parts","Micropterus punctulatus",1083
+"usgs_tissue","Whole Organism","Atherinops affinis",1084
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma poecilurum",1085
+"usgs_tissue","Fish Fillet, Homog., Skin On","Salvelinus fontinalis",1086
+"usgs_tissue","Muscle, Somatic","Cyprinus carpio",1087
+"usgs_tissue","Whole Fish, Homog., Skin On","Ameiurus nebulosus",1088
+"usgs_tissue","Whole Organism","Citharichthys sordidus",1089
+"usgs_tissue","Whole Organism","Astacidae",1090
+"usgs_tissue","Whole Organism","Ameiurus melas",1091
+"usgs_tissue","Mixed Parts","Heterodontidae",1092
+"usgs_tissue","Whole Organism","Stizostedion vitreum***retired***use Sander vitreus",1093
+"usgs_tissue","Whole Organism","Esox lucius",1094
+"usgs_tissue","Fish Fillet, Homog., Skin On","Morone",1095
+"usgs_tissue","Fish Fillet, Homog., Skin On","Micropterus punctulatus",1096
+"usgs_tissue","Fish Fillet, Homog., Skin On","Pomoxis annularis",1097
+"usgs_tissue","Fish Fillet, Homog., Skin On","Stizostedion vitreum***retired***use Sander vitreus",1098
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Oncorhynchus apache",1099
+"usgs_tissue","Whole Fish, Homog., Skin On","Salmo trutta",1100
+"usgs_tissue","Mixed Parts","Sardinops sagax",1101
+"usgs_tissue","Mixed Parts","Hyperprosopon argenteum",1102
+"usgs_tissue","Mixed Parts","Engraulidae",1103
+"usgs_tissue","Stomach","Acipenser transmontanus",1104
+"usgs_tissue","Fish Fillet, Homog., Skin On","Salmo trutta",1105
+"usgs_tissue","Fish Fillet, Homog., Skin On","Pomoxis nigromaculatus",1106
+"usgs_tissue","Stomach","Oncorhynchus tshawytscha",1107
+"usgs_tissue","Blood","Micropterus dolomieu",1108
+"usgs_tissue","Whole Fish, Homog., Skin On","Ameiurus melas",1109
+"usgs_tissue","Fish Fillet, Homog., Skin On","Stizostedion canadense***retired***use Sander canadensis",1110
+"usgs_tissue","Fish Fillet, Homog., Skin On","Decapoda",1111
+"usgs_tissue","Muscle/Muscle Tissue","Pomoxis annularis",1112
+"usgs_tissue","Fish Fillet, Homog., Skin On","Sander vitreus",1113
+"usgs_tissue","Whole Fish, Homog., Skin On","Carpiodes cyprinus",1114
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Prosopium spilonotus",1115
+"usgs_tissue","Whole Organism","Oncorhynchus tshawytscha",1116
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Prosopium williamsoni",1117
+"usgs_tissue","Whole Fish, Homog., Skin On","Stellifer lanceolatus",1118
+"usgs_tissue","Whole Fish, Homog., Skin On","Morone chrysops",1119
+"usgs_tissue","Fish Fillet, With Belly Flap","Hypophthalmichthys molitrix",1120
+"usgs_tissue","Whole Organism","Lampetra",1121
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Paralichthys californicus",1122
+"usgs_tissue","Whole Fish, Homog., Skin On","Dorosoma petenense",1123
+"usgs_tissue","Fish Fillet, Homog., Skin On","Callinectes sapidus",1124
+"usgs_tissue","Whole Fish, Homog., Skin On","Rhinichthys osculus",1125
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma erythrurum",1126
+"usgs_tissue","Mixed Parts","Bivalvia",1127
+"usgs_tissue","Whole Fish, Homog., Skin On","Stizostedion vitreum***retired***use Sander vitreus",1128
+"usgs_tissue","Fish Fillet, Homog., Skin On","Micropogonias undulatus",1129
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pleuronichthys decurrens",1130
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pleuronichthys guttulatus",1131
+"usgs_tissue","Whole Organism","Lumbriculus variegatus",1132
+"usgs_tissue","Mixed Parts","Procambarus clarkii",1133
+"usgs_tissue","Whole Organism","Catostomus commersonii",1134
+"usgs_tissue","Whole Fish, Homog., Skin On","Oncorhynchus apache",1135
+"usgs_tissue","Whole Organism","Animalia",1136
+"usgs_tissue","Mixed Parts","Archoplites interruptus",1137
+"usgs_tissue","Whole Fish, Homog., Skin On","Trinectes maculatus",1138
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma anisurum",1139
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Micropterus dolomieui***retired***use Micropterus dolomieu",1140
+"usgs_tissue","Fish Fillet, Homog., Skin On","Oncorhynchus mykiss",1141
+"usgs_tissue","Fish Fillet, Homog., Skin On","Oncorhynchus clarkii",1142
+"usgs_tissue","Muscle/Muscle Tissue","Oncorhynchus tshawytscha",1143
+"usgs_tissue","Fish Fillet, Homog., Skin On","Sparidae",1144
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma duquesnii",1145
+"usgs_tissue","Whole Fish, Homog., Skin On","Psettichthys melanostictus",1146
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Psettichthys melanostictus",1147
+"usgs_tissue","Whole Organism","Dorosoma cepedianum",1148
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Morone",1149
+"usgs_tissue","Muscle/Muscle Tissue","Catostomus commersonii",1150
+"usgs_tissue","Whole Fish, Homog., Skin On","Citharichthys",1151
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Chaenobryttus gulosus",1152
+"usgs_tissue","Liver","Tilapia",1153
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Citharichthys stigmaeus",1154
+"usgs_tissue","Mixed Parts","Platichthys stellatus",1155
+"usgs_tissue","Mixed Parts","Clupea harengus",1156
+"usgs_tissue","Whole Fish, Homog., Skin On","Notropis hudsonius",1157
+"usgs_tissue","Mixed Parts","Citharichthys sordidus",1158
+"usgs_tissue","Egg/Ovum","Polyodon spathula",1159
+"usgs_tissue","Whole Fish, Homog., Skin On","Erimyzon sucetta",1160
+"usgs_tissue","Mixed Parts","Pomoxis",1161
+"usgs_tissue","Liver","Pomoxis",1162
+"usgs_tissue","Liver","Ameiurus melas",1163
+"usgs_tissue","Whole Fish, Homog., Skin On","Chilomycterus schoepfii",1164
+"usgs_tissue","Liver","Cyprinus carpio",1165
+"usgs_tissue","Whole Fish, Homog., Skin On","Sparidae",1166
+"usgs_tissue","Whole Organism","Notropis atherinoides",1167
+"usgs_tissue","Whole Fish, Homog., Skin On","Oncorhynchus mykiss",1168
+"usgs_tissue","Whole, Not Gut","Micropterus salmoides",1169
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Sander canadensis",1170
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus catostomus",1171
+"usgs_tissue","Whole Fish, Homog., Skin On","Ictalurus",1172
+"usgs_tissue","Whole Fish, Homog., Skin On","Orthopristis chrysoptera",1173
+"usgs_tissue","Mixed Parts","Alosa sapidissima",1174
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis microlophus",1175
+"usgs_tissue","Muscle/Muscle Tissue","Catostomus commersoni***retired***use Catostomus commersonii",1176
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Citharichthys sordidus",1177
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus occidentalis",1178
+"usgs_tissue","Mixed Parts","Oncorhynchus nerka",1179
+"usgs_tissue","Fish Fillet, Homog., Skin On","Sander canadensis",1180
+"usgs_tissue","Whole Fish, Homog., Skin On","Eucinostomus argenteus",1181
+"usgs_tissue","Whole Fish, Homog., Skin On","Etropus crossotus",1182
+"usgs_tissue","Whole Organism","Campostoma anomalum",1183
+"usgs_tissue","Muscle/Muscle Tissue","Coregonus clupeaformis",1184
+"usgs_tissue","Whole Fish, Homog., Skin On","Erimyzon oblongus",1185
+"usgs_tissue","Mixed Parts","Pomoxis annularis",1186
+"usgs_tissue","Mixed Parts","Ictalurus furcatus",1187
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus niger",1188
+"usgs_tissue","Whole Organism","Chaenobryttus gulosus",1189
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Ameiurus nebulosus",1190
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Micropterus punctulatus",1191
+"usgs_tissue","Muscle/Muscle Tissue","Pylodictis olivaris",1192
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Salvelinus namaycush",1193
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Chaenobryttus gulosus",1194
+"usgs_tissue","Whole Fish, Homog., Skin On","Luxilus chrysocephalus",1195
+"usgs_tissue","Fish Fillet,Scaleless, Skin On","Morone americana",1196
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus discobolus",1197
+"usgs_tissue","Mixed Parts","Rhinichthys osculus",1198
+"usgs_tissue","Fish Fillet, Homog., Skin On","Pomatomus saltatrix",1199
+"usgs_tissue","Fish Fillet, Left, Skin On","Cyprinus carpio",1200
+"usgs_tissue","Whole Organism","Carpiodes carpio",1201
+"usgs_tissue","Whole Fish, Homog., Skin On","Chaetodipterus faber",1202
+"usgs_tissue","Mixed Parts","Osteichthyes",1203
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus discobolus",1204
+"usgs_tissue","Whole Organism","Lumbriculus",1205
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Isopsetta isolepis",1206
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Paraplagusia bilineata",1207
+"usgs_tissue","Liver","Lepomis gibbosus",1208
+"usgs_tissue","Mixed Parts","Cottus bairdii",1209
+"usgs_tissue","Whole Fish, Homog., Skin On","Percina caprodes",1210
+"usgs_tissue","Whole Fish, Homog., Skin On","Abudefduf saxatilis",1211
+"usgs_tissue","Whole Fish, Homog., Skin On","Sphoeroides nephelus",1212
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ambloplites rupestris",1213
+"usgs_tissue","Whole Fish, Homog., Skin Off","Micropogonias undulatus",1214
+"usgs_tissue","Fish Fillet, With Belly Flap","Carpiodes",1215
+"usgs_tissue","Mixed Parts","Rhacochilus toxotes",1216
+"usgs_tissue","Whole Organism","Pimephales promelas",1217
+"usgs_tissue","Mixed Parts","Cyprinella lutrensis",1218
+"usgs_tissue","Mixed Parts","Astacoidea",1219
+"usgs_tissue","Whole Organism","Cottus asper",1220
+"usgs_tissue","Whole Organism","Leptocottus armatus",1221
+"usgs_tissue","Whole Organism","Microstomus pacificus",1222
+"usgs_tissue","Whole Organism","Parophrys vetulus",1223
+"usgs_tissue","Fish Fillet, Whole, Skin On","Pomoxis",1224
+"usgs_tissue","Whole Organism","Cymatogaster aggregata",1225
+"usgs_tissue","Whole Organism","Mylocheilus caurinus",1226
+"usgs_tissue","Whole Organism","Lepidopsetta bilineata",1227
+"usgs_tissue","Whole Organism","Ptychocheilus oregonensis",1228
+"usgs_tissue","Whole Organism","Paralichthys californicus",1229
+"usgs_tissue","Whole Organism","Lyopsetta exilis",1230
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Citharichthys",1231
+"usgs_tissue","Fish Fillet, Homog., Skin On","Anguilla rostrata",1232
+"usgs_tissue","Muscle/Muscle Tissue","Ameiurus melas",1233
+"usgs_tissue","Muscle/Muscle Tissue","Pomoxis",1234
+"usgs_tissue","Fish Fillet, Whole, Skin On","Ameiurus melas",1235
+"usgs_tissue","Fish Fillet, Homog., Skin On","Cyprinus carpio",1236
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Salmo salar",1237
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma",1238
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pleuronichthys verticalis",1239
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus macrocheilus",1240
+"usgs_tissue","Whole Fish, Homog., Skin On","Catostomus ardens",1241
+"usgs_tissue","Whole Fish, Homog., Skin On","Minytrema melanops",1242
+"usgs_tissue","Whole Fish, Homog., Skin On","Pholis ornata",1243
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Leptocottus armatus",1244
+"usgs_tissue","Whole Fish, Homog., Skin Off","Leiostomus xanthurus",1245
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Symphurus atricaudus",1246
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus ardens",1247
+"usgs_tissue","Whole Fish, Homog., Skin On","Chloroscombrus chrysurus",1248
+"usgs_tissue","Whole Fish, Homog., Skin On","Eucinostomus gula",1249
+"usgs_tissue","Fish Fillet, Whole, Skin On","Cyprinus carpio",1250
+"usgs_tissue","Whole Organism","Paralabrax nebulifer",1251
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Cycleptus",1252
+"usgs_tissue","Edible Portion","Carpiodes carpio",1253
+"usgs_tissue","Whole Fish, Homog., Skin On","Carassius auratus",1254
+"usgs_tissue","Whole Organism","Isopsetta isolepis",1255
+"usgs_tissue","Whole Organism","Psettichthys melanostictus",1256
+"usgs_tissue","Whole Fish, Homog., Skin On","Centropristis philadelphica",1257
+"usgs_tissue","Whole Fish, Homog., Skin On","Isopsetta isolepis",1258
+"usgs_tissue","Whole Fish, Homog., Skin On","Gasterosteus aculeatus",1259
+"usgs_tissue","Edible Portion","Aplodinotus grunniens",1260
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Moxostoma",1261
+"usgs_tissue","Whole Organism","Genyonemus lineatus",1262
+"usgs_tissue","Whole Organism","Symphurus atricaudus",1263
+"usgs_tissue","Edible Portion","Ictalurus punctatus",1264
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepomis",1265
+"usgs_tissue","Edible Portion","Cyprinus carpio",1266
+"usgs_tissue","Edible Portion","Ictalurus melas***retired***use Ameiurus melas",1267
+"usgs_tissue","Whole Organism","Paralabrax maculatofasciatus",1268
+"usgs_tissue","Edible Portion","Pomoxis nigromaculatus",1269
+"usgs_tissue","Fish Fillet, Whole, Skin On","Oncorhynchus tshawytscha",1270
+"usgs_tissue","Fish Fillet, With Belly Flap","Lepisosteus",1271
+"usgs_tissue","Whole Fish, Homog., Skin On","Coregonus clupeaformis",1272
+"usgs_tissue","Edible Portion","Micropterus salmoides",1273
+"usgs_tissue","Whole Organism","Embiotoca lateralis",1274
+"usgs_tissue","Whole Organism","Hiodon alosoides",1275
+"usgs_tissue","Edible Portion","Pylodictis olivaris",1276
+"usgs_tissue","Fish Fillet, Homog., Skin On","Amia calva",1277
+"usgs_tissue","Fish Fillet, Homog., Skin On","Esox niger",1278
+"usgs_tissue","Edible Portion","Stizostedion vitreum***retired***use Sander vitreus",1279
+"usgs_tissue","Edible Portion","Esox niger",1280
+"usgs_tissue","Fish Fillet, Homog., Skin On","Morone saxatilis",1281
+"usgs_tissue","Edible Portion","Pomoxis",1282
+"usgs_tissue","Whole Fish, Homog., Skin On","Symphurus plagiusa",1283
+"usgs_tissue","Fish Fillet, Homog., Skin On","Lepisosteus oculatus",1284
+"usgs_tissue","Whole Fish, Homog., Skin On","Lachnolaimus maximus",1285
+"usgs_tissue","Whole Organism","Microgadus proximus",1286
+"usgs_tissue","Whole Fish, Homog., Skin On","Ameiurus",1287
+"usgs_tissue","Whole Fish, Homog., Skin On","Sparisoma chrysopterum",1288
+"usgs_tissue","Fish Fillet, With Belly Flap","Salmo trutta",1289
+"usgs_tissue","Fish Fillet, With Belly Flap","Carpiodes carpio",1290
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Lota lota",1291
+"usgs_tissue","Fish Fillet, Whole, Skin On","Ictiobus cyprinellus",1292
+"usgs_tissue","Fish Fillet, With Belly Flap","Oncorhynchus mykiss",1293
+"usgs_tissue","Whole Organism","Cyprinidae",1294
+"usgs_tissue","Whole Organism","Catostomus macrocheilus",1295
+"usgs_tissue","Fish Fillet, With Belly Flap","Catostomus commersonii",1296
+"usgs_tissue","Fish Fillet, With Belly Flap","Ictiobus cyprinellus",1297
+"usgs_tissue","Fish Fillet, With Belly Flap","Moxostoma",1298
+"usgs_tissue","Fish Fillet, Whole, Skin On","Stizostedion canadense***retired***use Sander canadensis",1299
+"usgs_tissue","Whole Organism","Anguilla rostrata",1300
+"usgs_tissue","Fish Fillet, Whole, Skin On","Catostomus commersoni***retired***use Catostomus commersonii",1301
+"usgs_tissue","Fish Fillet, Whole, Skin On","Oncorhynchus mykiss",1302
+"usgs_tissue","Egg/Ovum","Chelydra serpentina",1303
+"usgs_tissue","Fish Fillet, With Belly Flap","Moxostoma duquesnii",1304
+"usgs_tissue","Fish Fillet, With Belly Flap","Moxostoma anisurum",1305
+"usgs_tissue","Whole Fish, Homog., Skin On","Prionotus scitulus",1306
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Sciaenops",1307
+"usgs_tissue","Whole Fish, Homog., Skin On","Pomoxis nigromaculatus",1308
+"usgs_tissue","Edible Portion","Cyathura polita",1309
+"usgs_tissue","Whole Organism","Orconectes virilis",1310
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Polyodon spathula",1311
+"usgs_tissue","Fish Fillet, With Belly Flap","Semotilus atromaculatus",1312
+"usgs_tissue","Whole Organism","Salmo trutta",1313
+"usgs_tissue","Whole Organism","Moxostoma macrolepidotum",1314
+"usgs_tissue","Whole Fish, Homog., Skin On","Ictiobus",1315
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictalurus",1316
+"usgs_tissue","Mixed Parts","Procambarus",1317
+"usgs_tissue","Whole Fish, Homog., Skin On","Floridichthys carpio",1318
+"usgs_tissue","Fish Fillet, Whole, Skin Off","Cyprinidae",1319
+"usgs_tissue","Whole Organism","Crassostrea gigas",1320
+"usgs_tissue","Fish Fillet, With Belly Flap","Pomoxis",1321
+"usgs_tissue","Fish Fillet, With Belly Flap","Amia calva",1322
+"usgs_tissue","Fish Fillet, With Belly Flap","Chaenobryttus gulosus",1323
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Carpiodes",1324
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Dorosoma petenense",1325
+"usgs_tissue","Whole Fish, Homog., Skin On","Moxostoma valenciennesi",1326
+"usgs_tissue","Fish Fillet, Homog., Skin On","Salmo salar",1327
+"usgs_tissue","Whole Fish, Homog., Skin On","Chaenobryttus gulosus",1328
+"usgs_tissue","Whole Fish, Homog., Skin On","Cynoscion nebulosus",1329
+"usgs_tissue","Fish Fillet, Homog., Skin On","Ambloplites rupestris",1330
+"usgs_tissue","Whole Fish, Homog., Skin On","Stephanolepis hispida",1331
+"usgs_tissue","Fish Fillet, Homog., Skin On","Oncorhynchus nerka",1332
+"usgs_tissue","Whole Fish, Homog., Skin On","Achirus lineatus",1333
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Pomoxis",1334
+"usgs_tissue","Whole Fish, Homog., Skin On","Eucinostomus harengulus",1335
+"usgs_tissue","Whole Fish, Homog., Skin On","Cynoscion nothus",1336
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Catostomus commersoni***retired***use Catostomus commersonii",1337
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Lepisosteus osseus",1338
+"usgs_tissue","Whole Fish, Homog., Skin Off","Micropterus salmoides",1339
+"usgs_tissue","Heptaopancreas","Micropterus salmoides",1340
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Ictiobus",1341
+"usgs_tissue","Fish Fillet, Homog., Skin On","Prosopium williamsoni",1342
+"usgs_tissue","Fish Fillet, Homog., Skin Off","Amia calva",1343
+"usgs_tissue","Whole Fish, Homog., Skin On","Sciaenops ocellatus",1344
+"usgs_update_soil","soil",NA,1345
+"usgs_update_tissue","Fish Fillet, Homog., Skin Off","Acipenser transmontanus",1346
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Lepomis megalotis",1347
+"usgs_update_tissue","Muscle/Muscle Tissue","Perca flavescens",1348
+"usgs_update_tissue","Muscle/Muscle Tissue","Lutjanus kasmira",1349
+"usgs_update_tissue","Whole Organism","Plantae",1350
+"usgs_update_tissue","Fish Fillet, Whole, Skin Off","Ameiurus natalis",1351
+"usgs_update_tissue","Muscle/Muscle Tissue","Micropterus dolomieu",1352
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Micropterus salmoides",1353
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Carpiodes carpio",1354
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Micropterus punctulatus",1355
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ambloplites rupestris",1356
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Aplodinotus grunniens",1357
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Cyprinus carpio",1358
+"usgs_update_tissue","Fish Fillet, Whole, Skin Off","Ictalurus punctatus",1359
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus bubalus",1360
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Lepomis macrochirus",1361
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Pomoxis nigromaculatus",1362
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ictalurus punctatus",1363
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Lepomis cyanellus",1364
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Micropterus dolomieu",1365
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Semotilus atromaculatus",1366
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Lepomis cyanellus",1367
+"usgs_update_tissue","Fish Fillet, Whole, Skin Off","Pylodictis olivaris",1368
+"usgs_update_tissue","Muscle/Muscle Tissue","Selar crumenophthalmus",1369
+"usgs_update_tissue","Muscle/Muscle Tissue","Lepomis gibbosus",1370
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Perca flavescens",1371
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Catostomus commersonii",1372
+"usgs_update_tissue","Fish Fillet, Whole, Skin Off","Ameiurus melas",1373
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus cyprinellus",1374
+"usgs_update_tissue","Whole Organism","Atherinops affinis",1375
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Hypophthalmichthys molitrix",1376
+"usgs_update_tissue","Muscle/Muscle Tissue","Micropterus salmoides",1377
+"usgs_update_tissue","Muscle/Muscle Tissue","Catostomidae",1378
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Ameiurus natalis",1379
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Pomoxis annularis",1380
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Catostomus commersonii",1381
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Micropterus punctulatus",1382
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Lepomis microlophus",1383
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ictiobus niger",1384
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Micropterus salmoides",1385
+"usgs_update_tissue","Whole Fish, Homog., Skin On","Catostomidae",1386
+"usgs_update_tissue","Mixed Parts","Cymatogaster aggregata",1387
+"usgs_update_tissue","Muscle/Muscle Tissue","Oncorhynchus clarkii",1388
+"usgs_update_tissue","Whole Organism","Animalia",1389
+"usgs_update_tissue","Whole Organism","Mytilus californianus",1390
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Ameiurus natalis",1391
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Sander canadensis",1392
+"usgs_update_tissue","Mixed Parts","Mytilus californianus",1393
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Chaenobryttus gulosus",1394
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Perca flavescens",1395
+"usgs_update_tissue","Fish Fillet,Scaleless, Skin On","Sander vitreus",1396
+"usgs_update_tissue","Mixed Parts","Corbicula fluminea",1397
+"epa_ucmr","drinking water",NA,1398
+"fda_tds_elem","Milk, whole, fluid",NA,1399
+"fda_tds_elem","Milk, lowfat (2%), fluid",NA,1400
+"fda_tds_elem","Milk, chocolate, lowfat, fluid",NA,1401
+"fda_tds_elem","Milk, skim, fluid",NA,1402
+"fda_tds_elem","Milk shake, chocolate, fast-food",NA,1403
+"fda_tds_elem","Cheese, American, processed",NA,1404
+"fda_tds_elem","Cheese, cheddar, natural (sharp/mild)",NA,1405
+"fda_tds_elem","Beef, ground, regular, pan-cooked",NA,1406
+"fda_tds_elem","Beef roast, chuck, oven-roasted",NA,1407
+"fda_tds_elem","Ham, cured (not canned), baked",NA,1408
+"fda_tds_elem","Pork chop, pan-cooked w/ oil",NA,1409
+"fda_tds_elem","Pork sausage (link/patty), oven-cooked",NA,1410
+"fda_tds_elem","Pork bacon, oven-cooked",NA,1411
+"fda_tds_elem","Pork roast, loin, oven-roasted",NA,1412
+"fda_tds_elem","Lamb chop, pan-cooked w/ oil",NA,1413
+"fda_tds_elem","Turkey breast, oven-roasted",NA,1414
+"fda_tds_elem","Liver (beef/calf), pan-cooked w/ oil",NA,1415
+"fda_tds_elem","Frankfurter (beef/pork), boiled",NA,1416
+"fda_tds_elem","Bologna (beef/pork)",NA,1417
+"fda_tds_elem","Salami, luncheon-meat type (not hard)",NA,1418
+"fda_tds_elem","Fish sticks or patty, frozen, oven-cooked",NA,1419
+"fda_tds_elem","Eggs, scrambled w/ oil",NA,1420
+"fda_tds_elem","Eggs, boiled",NA,1421
+"fda_tds_elem","Pinto beans, dry, boiled",NA,1422
+"fda_tds_elem","Pork and beans, canned",NA,1423
+"fda_tds_elem","Lima beans, immature, frozen, boiled",NA,1424
+"fda_tds_elem","Peas, green, fresh/frozen, boiled",NA,1425
+"fda_tds_elem","Peanut butter, smooth/creamy",NA,1426
+"fda_tds_elem","Peanuts, dry roasted, salted",NA,1427
+"fda_tds_elem","Rice, white, enriched, cooked",NA,1428
+"fda_tds_elem","Oatmeal, plain, cooked",NA,1429
+"fda_tds_elem","Cream of wheat (farina), enriched, cooked",NA,1430
+"fda_tds_elem","Corn/hominy grits, enriched, cooked",NA,1431
+"fda_tds_elem","Corn, fresh/frozen, boiled",NA,1432
+"fda_tds_elem","Corn, canned",NA,1433
+"fda_tds_elem","Bread, white, enriched",NA,1434
+"fda_tds_elem","Cornbread, homemade",NA,1435
+"fda_tds_elem","Biscuits, refrigerated-type, baked",NA,1436
+"fda_tds_elem","Bread, whole wheat",NA,1437
+"fda_tds_elem","Tortilla, flour",NA,1438
+"fda_tds_elem","Bread, rye",NA,1439
+"fda_tds_elem","Muffin, fruit or plain",NA,1440
+"fda_tds_elem","Crackers, saltine",NA,1441
+"fda_tds_elem","Corn/tortilla chips",NA,1442
+"fda_tds_elem","Noodles, egg, enriched, boiled",NA,1443
+"fda_tds_elem","Corn flakes cereal",NA,1444
+"fda_tds_elem","Fruit-flavored cereal, presweetened",NA,1445
+"fda_tds_elem","Shredded wheat cereal",NA,1446
+"fda_tds_elem","Raisin bran cereal",NA,1447
+"fda_tds_elem","Crisped rice cereal",NA,1448
+"fda_tds_elem","Granola w/ raisins",NA,1449
+"fda_tds_elem","Oat ring cereal",NA,1450
+"fda_tds_elem","Apple (red), raw (w/ peel)",NA,1451
+"fda_tds_elem","Orange (navel/Valencia), raw",NA,1452
+"fda_tds_elem","Banana, raw",NA,1453
+"fda_tds_elem","Watermelon, raw/frozen",NA,1454
+"fda_tds_elem","Peach, raw/frozen",NA,1455
+"fda_tds_elem","Applesauce, bottled",NA,1456
+"fda_tds_elem","Pear, raw (w/ peel)",NA,1457
+"fda_tds_elem","Strawberries, raw/frozen",NA,1458
+"fda_tds_elem","Fruit cocktail, canned in light syrup",NA,1459
+"fda_tds_elem","Grapes (red/green), raw",NA,1460
+"fda_tds_elem","Cantaloupe, raw/frozen",NA,1461
+"fda_tds_elem","Grapefruit, raw",NA,1462
+"fda_tds_elem","Pineapple, canned in juice",NA,1463
+"fda_tds_elem","Raisins",NA,1464
+"fda_tds_elem","Avocado, raw",NA,1465
+"fda_tds_elem","Orange juice, frozen conc, reconstituted",NA,1466
+"fda_tds_elem","Apple juice, bottled",NA,1467
+"fda_tds_elem","Grapefruit juice, bottled",NA,1468
+"fda_tds_elem","Prune juice, bottled",NA,1469
+"fda_tds_elem","Lemonade, frozen conc, reconstituted",NA,1470
+"fda_tds_elem","Spinach, fresh/frozen, boiled",NA,1471
+"fda_tds_elem","Collards, fresh/frozen, boiled",NA,1472
+"fda_tds_elem","Lettuce, iceburg, raw",NA,1473
+"fda_tds_elem","Cabbage, fresh, boiled",NA,1474
+"fda_tds_elem","Broccoli, fresh/frozen, boiled",NA,1475
+"fda_tds_elem","Celery, raw",NA,1476
+"fda_tds_elem","Asparagus, fresh/frozen, boiled",NA,1477
+"fda_tds_elem","Cauliflower, fresh/frozen, boiled",NA,1478
+"fda_tds_elem","Tomato, raw",NA,1479
+"fda_tds_elem","Tomato sauce, plain, bottled",NA,1480
+"fda_tds_elem","Green beans, fresh/frozen, boiled",NA,1481
+"fda_tds_elem","Green beans, canned",NA,1482
+"fda_tds_elem","Cucumber, peeled, raw",NA,1483
+"fda_tds_elem","Summer squash, fresh/frozen, boiled",NA,1484
+"fda_tds_elem","Pepper, sweet, green, raw",NA,1485
+"fda_tds_elem","Squash, winter (Hubbard or acorn), fresh/frozen, boiled",NA,1486
+"fda_tds_elem","Onion, mature, raw",NA,1487
+"fda_tds_elem","Beets, canned",NA,1488
+"fda_tds_elem","Potato, boiled (w/out peel)",NA,1489
+"fda_tds_elem","Potato, baked (w/ peel)",NA,1490
+"fda_tds_elem","Potato chips",NA,1491
+"fda_tds_elem","Spaghetti w/ meat sauce, homemade",NA,1492
+"fda_tds_elem","Chili con carne w/ beans, canned",NA,1493
+"fda_tds_elem","Macaroni and cheese, prepared from box mix",NA,1494
+"fda_tds_elem","Quarter-pound hamburger on bun, fast-food",NA,1495
+"fda_tds_elem","Meatloaf, beef, homemade",NA,1496
+"fda_tds_elem","Chicken potpie, frozen, heated",NA,1497
+"fda_tds_elem","Soup, chicken noodle, canned, cond, prep w/ water",NA,1498
+"fda_tds_elem","Soup, tomato, canned, cond, prep w/ water",NA,1499
+"fda_tds_elem","Soup, vegetable beef, canned, cond, prep w/ water",NA,1500
+"fda_tds_elem","Dill cucumber pickles",NA,1501
+"fda_tds_elem","Margarine, regular (not lowfat), salted",NA,1502
+"fda_tds_elem","Butter, regular (not lowfat), salted",NA,1503
+"fda_tds_elem","Mayonnaise, regular, bottled",NA,1504
+"fda_tds_elem","Cream, half & half",NA,1505
+"fda_tds_elem","Cream substitute, non-dairy, liquid/frozen",NA,1506
+"fda_tds_elem","Sugar, white, granulated",NA,1507
+"fda_tds_elem","Syrup, pancake",NA,1508
+"fda_tds_elem","Honey",NA,1509
+"fda_tds_elem","Tomato catsup",NA,1510
+"fda_tds_elem","Ice cream, light, vanilla",NA,1511
+"fda_tds_elem","Cake, chocolate w/ icing",NA,1512
+"fda_tds_elem","Sweet roll/Danish pastry",NA,1513
+"fda_tds_elem","Chocolate chip cookies",NA,1514
+"fda_tds_elem","Sandwich cookies w/ cr?me filling",NA,1515
+"fda_tds_elem","Pie, apple, fresh/frozen",NA,1516
+"fda_tds_elem","Pie, pumpkin, fresh/frozen",NA,1517
+"fda_tds_elem","Candy bar, milk chocolate, plain",NA,1518
+"fda_tds_elem","Gelatin dessert, any flavor",NA,1519
+"fda_tds_elem","Carbonated beverage, cola, regular",NA,1520
+"fda_tds_elem","Fruit drink, from powder",NA,1521
+"fda_tds_elem","Carbonated beverage, cola, low-calorie",NA,1522
+"fda_tds_elem","Tea, from tea bag",NA,1523
+"fda_tds_elem","Beer",NA,1524
+"fda_tds_elem","Wine, dry table, red/ white",NA,1525
+"fda_tds_elem","BF, Infant formula, milk-based, high iron, RTF",NA,1526
+"fda_tds_elem","BF, Infant formula, milk-based, low iron, RTF",NA,1527
+"fda_tds_elem","BF, beef and broth/gravy",NA,1528
+"fda_tds_elem","BF, chicken and broth/gravy",NA,1529
+"fda_tds_elem","BF, vegetables and beef",NA,1530
+"fda_tds_elem","BF, vegetables and chicken",NA,1531
+"fda_tds_elem","BF, vegetables and ham",NA,1532
+"fda_tds_elem","BF, chicken noodle dinner",NA,1533
+"fda_tds_elem","BF, macaroni, tomato and beef",NA,1534
+"fda_tds_elem","BF, turkey and  rice",NA,1535
+"fda_tds_elem","BF, carrots",NA,1536
+"fda_tds_elem","BF, green beans",NA,1537
+"fda_tds_elem","BF, mixed vegetables",NA,1538
+"fda_tds_elem","BF, sweet potatoes",NA,1539
+"fda_tds_elem","BF, peas",NA,1540
+"fda_tds_elem","BF, applesauce",NA,1541
+"fda_tds_elem","BF, peaches",NA,1542
+"fda_tds_elem","BF, pears",NA,1543
+"fda_tds_elem","BF, juice, apple",NA,1544
+"fda_tds_elem","BF, juice, orange",NA,1545
+"fda_tds_elem","BF, custard/pudding",NA,1546
+"fda_tds_elem","BF, fruit dessert/pudding",NA,1547
+"fda_tds_elem","Yogurt, lowfat, fruit-flavored",NA,1548
+"fda_tds_elem","Cheese, Swiss, natural",NA,1549
+"fda_tds_elem","Cream cheese",NA,1550
+"fda_tds_elem","Luncheon meat, ham",NA,1551
+"fda_tds_elem","Chicken breast, oven-roasted (skin removed)",NA,1552
+"fda_tds_elem","Chicken nuggets, fast-food",NA,1553
+"fda_tds_elem","Shrimp, boiled",NA,1554
+"fda_tds_elem","Bread, cracked wheat",NA,1555
+"fda_tds_elem","Bagel, plain, toasted",NA,1556
+"fda_tds_elem","English muffin, plain, toasted",NA,1557
+"fda_tds_elem","Crackers, graham",NA,1558
+"fda_tds_elem","Crackers, butter-type",NA,1559
+"fda_tds_elem","Peach, canned in light/medium syrup",NA,1560
+"fda_tds_elem","Pear, canned in light syrup",NA,1561
+"fda_tds_elem","Pineapple juice, frozen conc, reconstituted",NA,1562
+"fda_tds_elem","Grape juice, frozen conc, reconstituted",NA,1563
+"fda_tds_elem","French fries, fast-food",NA,1564
+"fda_tds_elem","Carrot, fresh, peeled, boiled",NA,1565
+"fda_tds_elem","Tomato juice, bottled",NA,1566
+"fda_tds_elem","Brussels sprouts, fresh/frozen, boiled",NA,1567
+"fda_tds_elem","Mushrooms, raw",NA,1568
+"fda_tds_elem","Eggplant, fresh, peeled, boiled",NA,1569
+"fda_tds_elem","Turnip, fresh/frozen, boiled",NA,1570
+"fda_tds_elem","Okra, fresh/frozen, boiled",NA,1571
+"fda_tds_elem","Mixed vegetables, frozen, boiled",NA,1572
+"fda_tds_elem","Beef stroganoff w/ noodles, homemade",NA,1573
+"fda_tds_elem","Tuna noodle casserole, homemade",NA,1574
+"fda_tds_elem","Quarter-pound cheeseburger on bun, fast-food",NA,1575
+"fda_tds_elem","Fish sandwich on bun, fast-food",NA,1576
+"fda_tds_elem","Egg, cheese, and ham on English muffin, fast-food",NA,1577
+"fda_tds_elem","Taco/tostada w/ beef and cheese, from Mexican carry-out",NA,1578
+"fda_tds_elem","Pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA,1579
+"fda_tds_elem","Soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA,1580
+"fda_tds_elem","Clam chowder, New England, canned, cond, prep w/ whl milk",NA,1581
+"fda_tds_elem","Ice cream, regular (not lowfat), vanilla",NA,1582
+"fda_tds_elem","Sherbet, fruit-flavored",NA,1583
+"fda_tds_elem","Popsicle, fruit-flavored",NA,1584
+"fda_tds_elem","Doughnut, cake-type, any flavor, from donut store",NA,1585
+"fda_tds_elem","Brownie",NA,1586
+"fda_tds_elem","Sugar cookies",NA,1587
+"fda_tds_elem","Candy, hard, any flavor",NA,1588
+"fda_tds_elem","Pretzels, hard, salted",NA,1589
+"fda_tds_elem","Syrup, chocolate",NA,1590
+"fda_tds_elem","Jelly, any flavor",NA,1591
+"fda_tds_elem","Mustard, yellow, plain",NA,1592
+"fda_tds_elem","Black olives",NA,1593
+"fda_tds_elem","Sour cream",NA,1594
+"fda_tds_elem","Coffee, from ground",NA,1595
+"fda_tds_elem","Carbonated beverage, fruit-flavored, regular",NA,1596
+"fda_tds_elem","Fruit drink (10% juice), canned or bottled",NA,1597
+"fda_tds_elem","BF, Infant formula, soy-based, RTF",NA,1598
+"fda_tds_elem","BF, bananas",NA,1599
+"fda_tds_elem","BF, teething biscuits",NA,1600
+"fda_tds_elem","Salmon, steaks/fillets, baked",NA,1601
+"fda_tds_elem","BF, squash",NA,1602
+"fda_tds_elem","BF, cereal, oatmeal, dry, prep w/ water",NA,1603
+"fda_tds_elem","BF, cereal, rice, dry, prep w/ water",NA,1604
+"fda_tds_elem","BF, cereal, rice w/apples, dry, prep w/ water",NA,1605
+"fda_tds_elem","BF, veal and broth/gravy",NA,1606
+"fda_tds_elem","BF, lamb and broth/gravy",NA,1607
+"fda_tds_elem","BF, turkey and broth/gravy",NA,1608
+"fda_tds_elem","Meal replacement, liquid RTD, any flavor",NA,1609
+"fda_tds_elem","Cottage cheese, creamed, lowfat (2% milk fat)",NA,1610
+"fda_tds_elem","Sour cream dip, any flavor",NA,1611
+"fda_tds_elem","Beef steak, loin/sirloin, broiled",NA,1612
+"fda_tds_elem","Luncheon meat (chicken/turkey)",NA,1613
+"fda_tds_elem","Chicken breast, fried, fast-food (w/ skin)",NA,1614
+"fda_tds_elem","Chicken thigh, oven-roasted (skin removed)",NA,1615
+"fda_tds_elem","Chicken leg, fried, fast-food  (w/ skin)",NA,1616
+"fda_tds_elem","Catfish, pan-cooked w/ oil",NA,1617
+"fda_tds_elem","Tuna, canned in water, drained",NA,1618
+"fda_tds_elem","Refried beans, canned",NA,1619
+"fda_tds_elem","White beans, dry, boiled",NA,1620
+"fda_tds_elem","Sunflower seeds (shelled), roasted, salted",NA,1621
+"fda_tds_elem","Pancakes, frozen, heated",NA,1622
+"fda_tds_elem","Breakfast tart/toaster pastry",NA,1623
+"fda_tds_elem","Macaroni salad, from grocery/deli",NA,1624
+"fda_tds_elem","Spaghetti, enriched, boiled",NA,1625
+"fda_tds_elem","Apricots, canned in heavy/light syrup",NA,1626
+"fda_tds_elem","Fruit juice blend (100% juice), canned/bottled",NA,1627
+"fda_tds_elem","Cranberry juice cocktail, canned/bottled",NA,1628
+"fda_tds_elem","Orange juice, bottled/carton",NA,1629
+"fda_tds_elem","Potato salad, mayonnaise-type, from grocery/deli",NA,1630
+"fda_tds_elem","Potatoes, mashed, prepared from fresh",NA,1631
+"fda_tds_elem","Coleslaw, mayonnaise-type, from grocery/deli",NA,1632
+"fda_tds_elem","Carrot, baby, raw",NA,1633
+"fda_tds_elem","Lettuce, leaf, raw",NA,1634
+"fda_tds_elem","Sweet potatoes, canned",NA,1635
+"fda_tds_elem","Tomato salsa, bottled",NA,1636
+"fda_tds_elem","Stew, beef and vegetable, canned",NA,1637
+"fda_tds_elem","Lasagna w/ meat, frozen, heated",NA,1638
+"fda_tds_elem","Beef w/ vegetables in sauce, from Chinese carry-out",NA,1639
+"fda_tds_elem","Chicken w/ vegetables in sauce, from Chinese carry-out",NA,1640
+"fda_tds_elem","Fried rice, meatless, from Chinese carry-out",NA,1641
+"fda_tds_elem","Burrito w/ beef, beans and cheese, from Mexican carry-out",NA,1642
+"fda_tds_elem","Chicken filet (broiled) sandwich on bun, fast-food",NA,1643
+"fda_tds_elem","Soup, Oriental noodles (ramen noodles), prep w/ water",NA,1644
+"fda_tds_elem","Pudding, ready-to-eat, flavor other than chocolate",NA,1645
+"fda_tds_elem","Cake, yellow w/ icing",NA,1646
+"fda_tds_elem","Granola bar, w/ raisins",NA,1647
+"fda_tds_elem","Candy bar, chocolate, nougat, and nuts",NA,1648
+"fda_tds_elem","Popcorn, microwave, butter-flavored",NA,1649
+"fda_tds_elem","Sweet & sour sauce",NA,1650
+"fda_tds_elem","Brown gravy, canned or bottled",NA,1651
+"fda_tds_elem","Salad dressing, creamy/buttermilk type, regular",NA,1652
+"fda_tds_elem","Salad dressing, creamy/buttermilk type, low-calorie",NA,1653
+"fda_tds_elem","Salad dressing, Italian, regular",NA,1654
+"fda_tds_elem","Olive oil",NA,1655
+"fda_tds_elem","Vegetable oil",NA,1656
+"fda_tds_elem","Bottled drinking water (mineral/spring), not carbonated or flavored",NA,1657
+"fda_tds_elem","Coffee, decaffeinated, from ground",NA,1658
+"fda_tds_elem","Tea, decaffeinated, from tea bag",NA,1659
+"fda_tds_elem","BF, cereal, barley, dry, prep w/ water",NA,1660
+"fda_tds_elem","BF, cereal, mixed, dry, prep w/ water",NA,1661
+"fda_tds_elem","BF, juice, apple-banana",NA,1662
+"fda_tds_elem","BF, juice, apple-cherry",NA,1663
+"fda_tds_elem","BF, juice, apple-grape",NA,1664
+"fda_tds_elem","BF, juice, mixed fruit",NA,1665
+"fda_tds_elem","BF, juice, pear",NA,1666
+"fda_tds_elem","BF, juice, grape",NA,1667
+"fda_tds_elem","BF, pears and pineapple",NA,1668
+"fda_tds_elem","BF, plums/prunes w/ apples or pears",NA,1669
+"fda_tds_elem","BF, bananas and pineapple",NA,1670
+"fda_tds_elem","BF, apricots w/ mixed fruit",NA,1671
+"fda_tds_elem","BF, banana dessert",NA,1672
+"fda_tds_elem","BF, peach cobbler/dessert",NA,1673
+"fda_tds_elem","BF, fruit yogurt dessert",NA,1674
+"fda_tds_elem","BF, Dutch apple/apple cobbler",NA,1675
+"fda_tds_elem","BF, arrowroot cookies",NA,1676
+"fda_tds_elem","BF, zweiback toast",NA,1677
+"fda_tds_elem","BF, cereal, oatmeal w/ fruit, prep w/ water",NA,1678
+"fda_tds_elem","BF, chicken w/ rice",NA,1679
+"fda_tds_elem","BF, beef and noodles/beef stroganoff",NA,1680
+"fda_tds_elem","BF, vegetables and turkey",NA,1681
+"fda_tds_elem","BF, macaroni and cheese",NA,1682
+"fda_tds_elem","BF. apples with berries",NA,1683
+"fda_tds_elem","BF, apples with fruit other than berries",NA,1684
+"fda_tds_elem","Peanut butter, creamy",NA,1685
+"fda_tds_elem","Lettuce, iceberg, raw",NA,1686
+"fda_tds_elem","Squash, winter (Hubbard/acorn), fresh/frozen, boiled",NA,1687
+"fda_tds_elem","Sandwich cookies w/ creme filling",NA,1688
+"fda_tds_elem","BF, apples with berries ",NA,1689
+"fda_tds_elem","Cake, white w/ icing",NA,1690
+"fda_tds_elem","BF, plums/prunes w/apples or pears",NA,1691
+"fda_tds_elem","Butter, regular (not lowfat)",NA,1692
+"fda_tds_elem","BF, Infant formula, milk-based, iron fortified, RTF",NA,1693
+"fda_tds_elem","Bread, multigrain",NA,1694
+"fda_tds_elem","Pork sausage, (link/patty) oven-cooked",NA,1695
+"fda_tds_elem","Infant formula, soy-based, RTF",NA,1696
+"fda_tds_elem","Potato, mashed, prepared from fresh",NA,1697
+"fda_tds_pest","Milk, whole, fluid",NA,1698
+"fda_tds_pest","Milk, lowfat (2%), fluid",NA,1699
+"fda_tds_pest","Milk, chocolate, lowfat, fluid",NA,1700
+"fda_tds_pest","Milk, skim, fluid",NA,1701
+"fda_tds_pest","Milk shake, chocolate, fast-food",NA,1702
+"fda_tds_pest","Cheese, American, processed",NA,1703
+"fda_tds_pest","Cheese, cheddar, natural (sharp/mild)",NA,1704
+"fda_tds_pest","Beef, ground, regular, pan-cooked",NA,1705
+"fda_tds_pest","Ham, cured (not canned), baked",NA,1706
+"fda_tds_pest","Pork chop, pan-cooked w/ oil",NA,1707
+"fda_tds_pest","Pork sausage, (link/patty) oven-cooked ",NA,1708
+"fda_tds_pest","Pork bacon, oven-cooked",NA,1709
+"fda_tds_pest","Pork roast, loin, oven-roasted",NA,1710
+"fda_tds_pest","Lamb chop, pan-cooked w/ oil",NA,1711
+"fda_tds_pest","Turkey breast, oven-roasted",NA,1712
+"fda_tds_pest","Liver (beef/calf), pan-cooked w/ oil",NA,1713
+"fda_tds_pest","Frankfurter (beef/pork), boiled",NA,1714
+"fda_tds_pest","Bologna (beef/pork)",NA,1715
+"fda_tds_pest","Salami, luncheon-meat type (not hard)",NA,1716
+"fda_tds_pest","Fish sticks or patty, frozen, oven-cooked",NA,1717
+"fda_tds_pest","Eggs, scrambled w/ oil",NA,1718
+"fda_tds_pest","Eggs, boiled",NA,1719
+"fda_tds_pest","Pinto beans, dry, boiled",NA,1720
+"fda_tds_pest","Pork and beans, canned",NA,1721
+"fda_tds_pest","Lima beans, immature, frozen, boiled",NA,1722
+"fda_tds_pest","Peas, green, fresh/frozen, boiled",NA,1723
+"fda_tds_pest","Peanut butter, smooth/creamy",NA,1724
+"fda_tds_pest","Peanuts, dry roasted, salted",NA,1725
+"fda_tds_pest","Rice, white, enriched, cooked",NA,1726
+"fda_tds_pest","Oatmeal, plain, cooked",NA,1727
+"fda_tds_pest","Cream of wheat (farina), enriched, cooked",NA,1728
+"fda_tds_pest","Corn/hominy grits, enriched, cooked",NA,1729
+"fda_tds_pest","Corn, fresh/frozen, boiled",NA,1730
+"fda_tds_pest","Corn, canned",NA,1731
+"fda_tds_pest","Bread, white, enriched",NA,1732
+"fda_tds_pest","Cornbread, homemade",NA,1733
+"fda_tds_pest","Biscuits, refrigerated-type, baked",NA,1734
+"fda_tds_pest","Bread, whole wheat",NA,1735
+"fda_tds_pest","Tortilla, flour",NA,1736
+"fda_tds_pest","Bread, rye",NA,1737
+"fda_tds_pest","Muffin, fruit or plain",NA,1738
+"fda_tds_pest","Crackers, saltine",NA,1739
+"fda_tds_pest","Corn/tortilla chips",NA,1740
+"fda_tds_pest","Noodles, egg, enriched, boiled",NA,1741
+"fda_tds_pest","Corn flakes cereal",NA,1742
+"fda_tds_pest","Fruit-flavored cereal, presweetened",NA,1743
+"fda_tds_pest","Shredded wheat cereal",NA,1744
+"fda_tds_pest","Raisin bran cereal",NA,1745
+"fda_tds_pest","Crisped rice cereal",NA,1746
+"fda_tds_pest","Granola w/ raisins",NA,1747
+"fda_tds_pest","Oat ring cereal",NA,1748
+"fda_tds_pest","Apple (red), raw (w/ peel)",NA,1749
+"fda_tds_pest","Orange (navel/Valencia), raw",NA,1750
+"fda_tds_pest","Banana, raw",NA,1751
+"fda_tds_pest","Watermelon, raw/frozen",NA,1752
+"fda_tds_pest","Peach, raw/frozen",NA,1753
+"fda_tds_pest","Applesauce, bottled",NA,1754
+"fda_tds_pest","Pear, raw (w/ peel)",NA,1755
+"fda_tds_pest","Strawberries, raw/frozen",NA,1756
+"fda_tds_pest","Fruit cocktail, canned in light syrup",NA,1757
+"fda_tds_pest","Grapes (red/green), raw",NA,1758
+"fda_tds_pest","Cantaloupe, raw/frozen",NA,1759
+"fda_tds_pest","Grapefruit, raw",NA,1760
+"fda_tds_pest","Pineapple, canned in juice",NA,1761
+"fda_tds_pest","Raisins",NA,1762
+"fda_tds_pest","Avocado, raw",NA,1763
+"fda_tds_pest","Orange juice, frozen conc, reconstituted",NA,1764
+"fda_tds_pest","Apple juice, bottled",NA,1765
+"fda_tds_pest","Grapefruit juice, bottled",NA,1766
+"fda_tds_pest","Prune juice, bottled",NA,1767
+"fda_tds_pest","Lemonade, frozen conc, reconstituted",NA,1768
+"fda_tds_pest","Spinach, fresh/frozen, boiled",NA,1769
+"fda_tds_pest","Collards, fresh/frozen, boiled",NA,1770
+"fda_tds_pest","Lettuce, iceberg, raw",NA,1771
+"fda_tds_pest","Cabbage, fresh, boiled",NA,1772
+"fda_tds_pest","Broccoli, fresh/frozen, boiled",NA,1773
+"fda_tds_pest","Celery, raw",NA,1774
+"fda_tds_pest","Asparagus, fresh/frozen, boiled",NA,1775
+"fda_tds_pest","Cauliflower, fresh/frozen, boiled",NA,1776
+"fda_tds_pest","Tomato, raw",NA,1777
+"fda_tds_pest","Tomato sauce, plain, bottled",NA,1778
+"fda_tds_pest","Green beans, fresh/frozen, boiled",NA,1779
+"fda_tds_pest","Green beans, canned",NA,1780
+"fda_tds_pest","Cucumber, peeled, raw",NA,1781
+"fda_tds_pest","Summer squash, fresh/frozen, boiled",NA,1782
+"fda_tds_pest","Pepper, sweet, green, raw",NA,1783
+"fda_tds_pest","Squash, winter (Hubbard or acorn), fresh/frozen, boiled",NA,1784
+"fda_tds_pest","Onion, mature, raw",NA,1785
+"fda_tds_pest","Beets, canned",NA,1786
+"fda_tds_pest","Potato, boiled (w/out peel)",NA,1787
+"fda_tds_pest","Potato, baked (w/ peel)",NA,1788
+"fda_tds_pest","Potato chips",NA,1789
+"fda_tds_pest","Spaghetti w/ meat sauce, homemade",NA,1790
+"fda_tds_pest","Chili con carne w/ beans, canned",NA,1791
+"fda_tds_pest","Macaroni and cheese, prepared from box mix",NA,1792
+"fda_tds_pest","Quarter-pound hamburger on bun, fast-food",NA,1793
+"fda_tds_pest","Meatloaf, beef, homemade",NA,1794
+"fda_tds_pest","Chicken potpie, frozen, heated",NA,1795
+"fda_tds_pest","Soup, chicken noodle, canned, cond, prep w/ water",NA,1796
+"fda_tds_pest","Soup, tomato, canned, cond, prep w/ water",NA,1797
+"fda_tds_pest","Soup, vegetable beef, canned, cond, prep w/ water",NA,1798
+"fda_tds_pest","Dill cucumber pickles",NA,1799
+"fda_tds_pest","Margarine, regular (not lowfat), salted",NA,1800
+"fda_tds_pest","Butter, regular (not lowfat), salted",NA,1801
+"fda_tds_pest","Mayonnaise, regular, bottled",NA,1802
+"fda_tds_pest","Cream, half & half",NA,1803
+"fda_tds_pest","Cream substitute, non-dairy, liquid/frozen",NA,1804
+"fda_tds_pest","Sugar, white, granulated",NA,1805
+"fda_tds_pest","Syrup, pancake",NA,1806
+"fda_tds_pest","Honey",NA,1807
+"fda_tds_pest","Tomato catsup",NA,1808
+"fda_tds_pest","Ice cream, light, vanilla",NA,1809
+"fda_tds_pest","Cake, chocolate w/ icing",NA,1810
+"fda_tds_pest","Sweet roll/Danish pastry",NA,1811
+"fda_tds_pest","Chocolate chip cookies",NA,1812
+"fda_tds_pest","Sandwich cookies w/ cr?me filling",NA,1813
+"fda_tds_pest","Pie, apple, fresh/frozen",NA,1814
+"fda_tds_pest","Pie, pumpkin, fresh/frozen",NA,1815
+"fda_tds_pest","Candy bar, milk chocolate, plain",NA,1816
+"fda_tds_pest","Gelatin dessert, any flavor",NA,1817
+"fda_tds_pest","Carbonated beverage, cola, regular",NA,1818
+"fda_tds_pest","Fruit drink, from powder",NA,1819
+"fda_tds_pest","Carbonated beverage, cola, low-calorie",NA,1820
+"fda_tds_pest","Tea, from tea bag",NA,1821
+"fda_tds_pest","Beer",NA,1822
+"fda_tds_pest","Wine, dry table, red/ white",NA,1823
+"fda_tds_pest","BF, Infant formula, milk-based, high iron, RTF ",NA,1824
+"fda_tds_pest","BF, Infant formula, milk-based, low iron, RTF",NA,1825
+"fda_tds_pest","BF, beef and broth/gravy",NA,1826
+"fda_tds_pest","BF, chicken and broth/gravy",NA,1827
+"fda_tds_pest","BF, vegetables and beef",NA,1828
+"fda_tds_pest","BF, vegetables and chicken",NA,1829
+"fda_tds_pest","BF, vegetables and ham",NA,1830
+"fda_tds_pest","BF, chicken noodle dinner",NA,1831
+"fda_tds_pest","BF, macaroni, tomato and beef",NA,1832
+"fda_tds_pest","BF, turkey and rice",NA,1833
+"fda_tds_pest","BF, carrots",NA,1834
+"fda_tds_pest","BF, green beans",NA,1835
+"fda_tds_pest","BF, mixed vegetables",NA,1836
+"fda_tds_pest","BF, sweet potatoes",NA,1837
+"fda_tds_pest","BF, peas",NA,1838
+"fda_tds_pest","BF, applesauce",NA,1839
+"fda_tds_pest","BF, peaches",NA,1840
+"fda_tds_pest","BF, pears",NA,1841
+"fda_tds_pest","BF, juice, apple",NA,1842
+"fda_tds_pest","BF, juice, orange",NA,1843
+"fda_tds_pest","BF, custard/pudding",NA,1844
+"fda_tds_pest","Yogurt, lowfat, fruit-flavored",NA,1845
+"fda_tds_pest","Cheese, Swiss, natural",NA,1846
+"fda_tds_pest","Cream cheese",NA,1847
+"fda_tds_pest","Luncheon meat, ham",NA,1848
+"fda_tds_pest","Chicken breast, oven-roasted (skin removed)",NA,1849
+"fda_tds_pest","Chicken nuggets, fast-food",NA,1850
+"fda_tds_pest","Shrimp, boiled",NA,1851
+"fda_tds_pest","Bread, cracked wheat",NA,1852
+"fda_tds_pest","Bagel, plain, toasted",NA,1853
+"fda_tds_pest","English muffin, plain, toasted",NA,1854
+"fda_tds_pest","Crackers, graham",NA,1855
+"fda_tds_pest","Crackers, butter-type",NA,1856
+"fda_tds_pest","Peach, canned in light/medium syrup",NA,1857
+"fda_tds_pest","Pear, canned in light syrup",NA,1858
+"fda_tds_pest","Pineapple juice, frozen conc, reconstituted",NA,1859
+"fda_tds_pest","Grape juice, frozen conc, reconstituted",NA,1860
+"fda_tds_pest","French fries, fast-food",NA,1861
+"fda_tds_pest","Carrot, fresh, peeled, boiled",NA,1862
+"fda_tds_pest","Tomato juice, bottled",NA,1863
+"fda_tds_pest","Brussels sprouts, fresh/frozen, boiled",NA,1864
+"fda_tds_pest","Mushrooms, raw",NA,1865
+"fda_tds_pest","Eggplant, fresh, peeled, boiled",NA,1866
+"fda_tds_pest","Turnip, fresh/frozen, boiled",NA,1867
+"fda_tds_pest","Okra, fresh/frozen, boiled",NA,1868
+"fda_tds_pest","Mixed vegetables, frozen, boiled",NA,1869
+"fda_tds_pest","Beef stroganoff w/ noodles, homemade",NA,1870
+"fda_tds_pest","Tuna noodle casserole, homemade",NA,1871
+"fda_tds_pest","Quarter-pound cheeseburger on bun, fast-food",NA,1872
+"fda_tds_pest","Fish sandwich on bun, fast-food",NA,1873
+"fda_tds_pest","Egg, cheese, and ham on English muffin, fast-food",NA,1874
+"fda_tds_pest","Taco/tostada w/ beef and cheese, from Mexican carry-out",NA,1875
+"fda_tds_pest","Pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA,1876
+"fda_tds_pest","Soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA,1877
+"fda_tds_pest","Clam chowder, New England, canned, cond, prep w/ whl milk",NA,1878
+"fda_tds_pest","Ice cream, regular (not lowfat), vanilla",NA,1879
+"fda_tds_pest","Sherbet, fruit-flavored",NA,1880
+"fda_tds_pest","Popsicle, fruit-flavored",NA,1881
+"fda_tds_pest","Doughnut, cake-type, any flavor, from donut store",NA,1882
+"fda_tds_pest","Brownie",NA,1883
+"fda_tds_pest","Sugar cookies",NA,1884
+"fda_tds_pest","Candy, hard, any flavor",NA,1885
+"fda_tds_pest","Pretzels, hard, salted",NA,1886
+"fda_tds_pest","Syrup, chocolate",NA,1887
+"fda_tds_pest","Jelly, any flavor",NA,1888
+"fda_tds_pest","Mustard, yellow, plain",NA,1889
+"fda_tds_pest","Black olives",NA,1890
+"fda_tds_pest","Sour cream",NA,1891
+"fda_tds_pest","Coffee, from ground",NA,1892
+"fda_tds_pest","Carbonated beverage, fruit-flavored, regular",NA,1893
+"fda_tds_pest","Fruit drink (10% juice), canned or bottled",NA,1894
+"fda_tds_pest","BF, Infant formula, soy-based, RTF",NA,1895
+"fda_tds_pest","BF, bananas",NA,1896
+"fda_tds_pest","BF, teething biscuits",NA,1897
+"fda_tds_pest","Salmon, steaks/fillets, baked",NA,1898
+"fda_tds_pest","BF, squash",NA,1899
+"fda_tds_pest","BF, cereal, oatmeal, dry, prep w/ water",NA,1900
+"fda_tds_pest","BF, cereal, rice, dry, prep w/ water",NA,1901
+"fda_tds_pest","BF, veal and broth/gravy",NA,1902
+"fda_tds_pest","BF, lamb and broth/gravy",NA,1903
+"fda_tds_pest","BF, turkey and broth/gravy",NA,1904
+"fda_tds_pest","Meal replacement, liquid RTD, any flavor",NA,1905
+"fda_tds_pest","Cottage cheese, creamed, lowfat (2% milk fat)",NA,1906
+"fda_tds_pest","Sour cream dip, any flavor",NA,1907
+"fda_tds_pest","Beef steak, loin/sirloin, broiled",NA,1908
+"fda_tds_pest","Luncheon meat (chicken/turkey)",NA,1909
+"fda_tds_pest","Chicken breast, fried, fast-food (w/ skin)",NA,1910
+"fda_tds_pest","Chicken thigh, oven-roasted (skin removed)",NA,1911
+"fda_tds_pest","Chicken leg, fried, fast-food (w/ skin)",NA,1912
+"fda_tds_pest","Catfish, pan-cooked w/ oil",NA,1913
+"fda_tds_pest","Tuna, canned in water, drained",NA,1914
+"fda_tds_pest","Refried beans, canned",NA,1915
+"fda_tds_pest","White beans, dry, boiled",NA,1916
+"fda_tds_pest","Sunflower seeds (shelled), roasted, salted",NA,1917
+"fda_tds_pest","Pancakes, frozen, heated",NA,1918
+"fda_tds_pest","Breakfast tart/toaster pastry",NA,1919
+"fda_tds_pest","Macaroni salad, from grocery/deli",NA,1920
+"fda_tds_pest","Spaghetti, enriched, boiled",NA,1921
+"fda_tds_pest","Apricots, canned in heavy/light syrup",NA,1922
+"fda_tds_pest","Fruit juice blend (100% juice), canned/bottled",NA,1923
+"fda_tds_pest","Cranberry juice cocktail, canned/bottled",NA,1924
+"fda_tds_pest","Orange juice, bottled/carton",NA,1925
+"fda_tds_pest","Potato salad, mayonnaise-type, from grocery/deli",NA,1926
+"fda_tds_pest","Potatoes, mashed, prepared from fresh",NA,1927
+"fda_tds_pest","Coleslaw, mayonnaise-type, from grocery/deli",NA,1928
+"fda_tds_pest","Carrot, baby, raw",NA,1929
+"fda_tds_pest","Lettuce, leaf, raw",NA,1930
+"fda_tds_pest","Sweet potatoes, canned",NA,1931
+"fda_tds_pest","Tomato salsa, bottled",NA,1932
+"fda_tds_pest","Stew, beef and vegetable, canned",NA,1933
+"fda_tds_pest","Lasagna w/ meat, frozen, heated",NA,1934
+"fda_tds_pest","Beef w/ vegetables in sauce, from Chinese carry-out",NA,1935
+"fda_tds_pest","Chicken w/ vegetables in sauce, from Chinese carry-out",NA,1936
+"fda_tds_pest","Fried rice, meatless, from Chinese carry-out",NA,1937
+"fda_tds_pest","Burrito w/ beef, beans and cheese, from Mexican carry-out",NA,1938
+"fda_tds_pest","Chicken filet (broiled) sandwich on bun, fast-food",NA,1939
+"fda_tds_pest","Soup, Oriental noodles (ramen noodles), prep w/ water",NA,1940
+"fda_tds_pest","Pudding, ready-to-eat, flavor other than chocolate",NA,1941
+"fda_tds_pest","Cake, white w/ icing (formerly yellow cake)",NA,1942
+"fda_tds_pest","Granola bar, w/ raisins",NA,1943
+"fda_tds_pest","Candy bar, chocolate, nougat, and nuts",NA,1944
+"fda_tds_pest","Popcorn, microwave, butter-flavored",NA,1945
+"fda_tds_pest","Sweet & sour sauce",NA,1946
+"fda_tds_pest","Brown gravy, canned or bottled",NA,1947
+"fda_tds_pest","Salad dressing, creamy/buttermilk type, regular",NA,1948
+"fda_tds_pest","Salad dressing, creamy/buttermilk type, low-calorie",NA,1949
+"fda_tds_pest","Salad dressing, Italian, regular",NA,1950
+"fda_tds_pest","Olive oil",NA,1951
+"fda_tds_pest","Vegetable oil",NA,1952
+"fda_tds_pest","Bottled drinking water (mineral/spring), not carbonated or flavored",NA,1953
+"fda_tds_pest","Coffee, decaffeinated, from ground",NA,1954
+"fda_tds_pest","Tea, decaffeinated, from tea bag",NA,1955
+"fda_tds_pest","BF, cereal, barley, dry, prep w/ water",NA,1956
+"fda_tds_pest","BF, cereal, mixed, dry, prep w/ water",NA,1957
+"fda_tds_pest","BF, juice, apple-banana",NA,1958
+"fda_tds_pest","BF, juice, apple-cherry",NA,1959
+"fda_tds_pest","BF, juice, apple-grape",NA,1960
+"fda_tds_pest","BF, juice, mixed fruit",NA,1961
+"fda_tds_pest","BF, juice, pear",NA,1962
+"fda_tds_pest","BF, juice, grape",NA,1963
+"fda_tds_pest","BF, pears and pineapple",NA,1964
+"fda_tds_pest","BF, plums/prunes w/apples or pears",NA,1965
+"fda_tds_pest","BF, bananas and pineapple",NA,1966
+"fda_tds_pest","BF, apricots w/ mixed fruit",NA,1967
+"fda_tds_pest","BF, banana dessert",NA,1968
+"fda_tds_pest","BF, peach cobbler/dessert",NA,1969
+"fda_tds_pest","BF, fruit yogurt dessert",NA,1970
+"fda_tds_pest","BF, Dutch apple/apple cobbler",NA,1971
+"fda_tds_pest","BF, arrowroot cookies",NA,1972
+"fda_tds_pest","BF, zweiback toast",NA,1973
+"fda_tds_pest","BF, cereal, oatmeal w/ fruit, prep w/ water",NA,1974
+"fda_tds_pest","BF, chicken w/ rice",NA,1975
+"fda_tds_pest","BF, beef and noodles/beef stroganoff",NA,1976
+"fda_tds_pest","BF, vegetables and turkey",NA,1977
+"fda_tds_pest","BF, macaroni and cheese",NA,1978
+"fda_tds_pest","BF, apples with berries",NA,1979
+"fda_tds_pest","BF, apples with fruit other than berries",NA,1980
+"fda_tds_pest","Beef roast, chuck, oven-roasted",NA,1981
+"fda_tds_pest","Pork sausage (link/patty), oven-cooked",NA,1982
+"fda_tds_pest","Squash, winter (Hubbard/acorn), fresh/frozen, boiled",NA,1983
+"fda_tds_pest","Cream substitute, non-diary, liquid/frozen",NA,1984
+"fda_tds_pest","Infant formula, milk-based, high iron, RTF",NA,1985
+"fda_tds_pest","Infant formula, milk-based, low iron, RTF",NA,1986
+"fda_tds_pest","BF, fruit dessert/pudding",NA,1987
+"fda_tds_pest","BF, cereal, rice w/apples, dry, prep w/ water",NA,1988
+"fda_tds_pest","Potato, mashed, prepared from fresh",NA,1989
+"fda_tds_pest","Cake, yellow w/ icing",NA,1990
+"fda_tds_pest","BF, turkey and  rice",NA,1991
+"fda_tds_pest","Luncheon meat (ham)",NA,1992
+"fda_tds_pest","Chicken leg, fried, fast-food  (w/ skin)",NA,1993
+"fda_tds_pest","Cake, white w/ icing",NA,1994
+"airmon","ambient air",NA,1995
+"airmon_update","ambient air",NA,1996
+"epa_9potw","Influent",NA,1997
+"epa_9potw","Effluent",NA,1998
+"ahhs","Indoor dust",NA,1999
+"ahhs","Soil, or outdoor settled dust (specify)",NA,2000
+"biomon_ca","Urine",NA,2001
+"biomon_ca","Blood",NA,2002
+"biomon_ca","Serum",NA,2003
+"ca_airmon","ambient air",NA,2004
+"ca_airmon_update","ambient air",NA,2005
+"carb","Indoor Air",NA,2006
+"carb","Personal Air",NA,2007
+"carb","House Dust",NA,2008
+"carb","Outdoor Air",NA,2009
+"carb","Floor Dust",NA,2010
+"ctd","blood",NA,2011
+"ctd","",NA,2012
+"ctd","air, indoor",NA,2013
+"ctd","air",NA,2014
+"ctd","urine",NA,2015
+"ctd","milk, human",NA,2016
+"ctd","serum",NA,2017
+"ctd","dust",NA,2018
+"ctd","e-liquid",NA,2019
+"ctd","air, outdoor",NA,2020
+"ctd","amniotic fluid",NA,2021
+"ctd","handwipe",NA,2022
+"ctd","plasma",NA,2023
+"ctd","blood, cord",NA,2024
+"ctd","follicular fluid",NA,2025
+"ctd","adipose tissue",NA,2026
+"ctd","placenta",NA,2027
+"ctd","product wipe",NA,2028
+"ctd","colostrum",NA,2029
+"ctd","dust, house",NA,2030
+"ctd","serum, cord",NA,2031
+"ctd","e-cigarette",NA,2032
+"ctd","plasma, cord",NA,2033
+"ctd","semen",NA,2034
+"ctd","body region",NA,2035
+"ctd","hand",NA,2036
+"ctd","air, personal",NA,2037
+"ctd","water, drinking",NA,2038
+"ctd","e-cigarette vapor",NA,2039
+"ctd","air freshener",NA,2040
+"ctd","Borax",NA,2041
+"ctd","diaper",NA,2042
+"ctd","dryer sheet",NA,2043
+"ctd","facial lotion",NA,2044
+"ctd","floor cleaner",NA,2045
+"ctd","hair spray or mousse or gel",NA,2046
+"ctd","laundry bleach",NA,2047
+"ctd","lipstick",NA,2048
+"ctd","pillow protector",NA,2049
+"ctd","shaving cream",NA,2050
+"ctd","shower curtain, vinyl",NA,2051
+"ctd","toothpaste",NA,2052
+"ctd","tub and tile cleaner",NA,2053
+"ctd","wet mop",NA,2054
+"ctd","air, ambient",NA,2055
+"ctd","lung",NA,2056
+"ctd","macrophage",NA,2057
+"ctd","waste, industrial",NA,2058
+"ctd","water, tap",NA,2059
+"ctd","water, well",NA,2060
+"ctd","water, drinking, bottled",NA,2061
+"ctd","hair",NA,2062
+"ctd","nail",NA,2063
+"ctd","ore",NA,2064
+"ctd","plant",NA,2065
+"ctd","soil",NA,2066
+"ctd","turkey",NA,2067
+"ctd","water",NA,2068
+"ctd","nail, toe",NA,2069
+"ctd","cell, urothelial, exfoliated",NA,2070
+"ctd","rice",NA,2071
+"ctd","food",NA,2072
+"ctd","food, inorganic",NA,2073
+"ctd","water, cooking",NA,2074
+"ctd","nail, finger",NA,2075
+"ctd","saliva",NA,2076
+"ctd","salmon fillet, farm",NA,2077
+"ctd","plant leaf",NA,2078
+"ctd","sediment",NA,2079
+"ctd","erythrocyte",NA,2080
+"ctd","meconium",NA,2081
+"ctd","tobacco",NA,2082
+"ctd","sunscreen composite",NA,2083
+"ctd","dust, indoor",NA,2084
+"ctd","bar soap",NA,2085
+"ctd","body lotion",NA,2086
+"ctd","body wash",NA,2087
+"ctd","carpet cleaner",NA,2088
+"ctd","cat litter",NA,2089
+"ctd","conditioner",NA,2090
+"ctd","deodorant",NA,2091
+"ctd","dish liquid",NA,2092
+"ctd","fabric refresher",NA,2093
+"ctd","facial cleanser",NA,2094
+"ctd","fragrance or perfume",NA,2095
+"ctd","hand soap",NA,2096
+"ctd","laundry detergent",NA,2097
+"ctd","shampoo",NA,2098
+"ctd","sunscreen",NA,2099
+"ctd","surface cleaner",NA,2100
+"ctd","adenoid",NA,2101
+"ctd","paper",NA,2102
+"ctd","dishwasher detergent",NA,2103
+"ctd","infant formula",NA,2104
+"ctd","nail polish",NA,2105
+"ctd","toilet bowl cleaner",NA,2106
+"ctd","fruit, canned",NA,2107
+"ctd","fruit, packaged",NA,2108
+"ctd","meat, canned",NA,2109
+"ctd","vegetables, canned",NA,2110
+"ctd","vegetables, packaged",NA,2111
+"ctd","car interior cleaner",NA,2112
+"ctd","cigarette",NA,2113
+"ctd","water, rain",NA,2114
+"ctd","femur head",NA,2115
+"ctd","kidney",NA,2116
+"ctd","beverage, caffeinated",NA,2117
+"ctd","tea, black",NA,2118
+"ctd","back",NA,2119
+"ctd","leg, lower, left",NA,2120
+"ctd","shoulder, right",NA,2121
+"ctd","shoulder, left",NA,2122
+"ctd","leg, lower, right",NA,2123
+"ctd","chest",NA,2124
+"ctd","thigh, left",NA,2125
+"ctd","forearm, left",NA,2126
+"ctd","thigh, right",NA,2127
+"ctd","forearm, right",NA,2128
+"ctd","fuel",NA,2129
+"ctd","umbilical cord",NA,2130
+"ctd","subcutaneous fat, abdominal",NA,2131
+"ctd","skin",NA,2132
+"ctd","sand",NA,2133
+"ctd","breath",NA,2134
+"ctd","dye",NA,2135
+"ctd","meat, walrus, fermented",NA,2136
+"ctd","meat, walrus, fresh",NA,2137
+"ctd","beverage, alcoholic",NA,2138
+"ctd","perfume",NA,2139
+"ctd","polish or wax",NA,2140
+"ctd","sweat",NA,2141
+"ctd","mascara",NA,2142
+"ctd","air freshener, car",NA,2143
+"ctd","hand sanitizer",NA,2144
+"ctd","foundation",NA,2145
+"ctd","lip balm",NA,2146
+"ctd","stain remover",NA,2147
+"ctd","baking soda",NA,2148
+"ctd","dust, outdoor",NA,2149
+"ctd","carpet",NA,2150
+"ctd","upholstery, living room",NA,2151
+"ctd","floor, bedroom",NA,2152
+"ctd","floor, kitchen",NA,2153
+"ctd","house",NA,2154
+"ctd","tear",NA,2155
+"ctd","glass cleaner",NA,2156
+"ctd","waste water, laundry",NA,2157
+"ctd","polyurethane foam",NA,2158
+"ctd","sputum",NA,2159
+"ctd","butter",NA,2160
+"ctd","egg, chicken",NA,2161
+"ctd","margarine",NA,2162
+"ctd","ice cream",NA,2163
+"ctd","meat, pork",NA,2164
+"ctd","meat, bacon",NA,2165
+"ctd","meat, beef",NA,2166
+"ctd","meat, poultry",NA,2167
+"ctd","meat, processed",NA,2168
+"ctd","cheese",NA,2169
+"ctd","fish",NA,2170
+"ctd","milk, evaporated",NA,2171
+"ctd","milk, nonfat",NA,2172
+"ctd","tilapia",NA,2173
+"ctd","milk, cow",NA,2174
+"ctd","tuna",NA,2175
+"ctd","meat, ground turkey",NA,2176
+"ctd","cheese, cottage",NA,2177
+"ctd","meat, beef tenderloin",NA,2178
+"ctd","shrimp",NA,2179
+"ctd","meat, pork sausage",NA,2180
+"ctd","salmon",NA,2181
+"ctd","meat, ground chicken",NA,2182
+"ctd","meat, wiener",NA,2183
+"ctd","meat, ground lamb",NA,2184
+"ctd","catfish",NA,2185
+"ctd","mahi mahi",NA,2186
+"ctd","cheese, cream",NA,2187
+"ctd","cheese, American",NA,2188
+"ctd","cheese, gouda",NA,2189
+"ctd","herring",NA,2190
+"ctd","meat, duck",NA,2191
+"ctd","meat, ground pork",NA,2192
+"ctd","sardine",NA,2193
+"ctd","meat, ground beef",NA,2194
+"ctd","trout",NA,2195
+"ctd","catfish fillet, farm",NA,2196
+"ctd","dairy products",NA,2197
+"ctd","halibut",NA,2198
+"ctd","meat",NA,2199
+"ctd","meat, calf liver",NA,2200
+"ctd","meat, chicken liver",NA,2201
+"ctd","milk, goat",NA,2202
+"ctd","perch, wild",NA,2203
+"ctd","shark",NA,2204
+"ctd","tuna, canned",NA,2205
+"ctd","yogurt, lowfat",NA,2206
+"ctd","milk",NA,2207
+"ctd","insecticide",NA,2208
+"ctd","air, breath",NA,2209
+"ctd","paint",NA,2210
+"ctd","patella",NA,2211
+"ctd","tibia",NA,2212
+"ctd","tooth",NA,2213
+"ctd","bone",NA,2214
+"ctd","blood cell",NA,2215
+"ctd","automobile",NA,2216
+"ctd","child safety seat",NA,2217
+"ctd","hair gel",NA,2218
+"ctd","scrubbing powder",NA,2219
+"ctd","anchovy",NA,2220
+"ctd","bluefish",NA,2221
+"ctd","carp",NA,2222
+"ctd","clam",NA,2223
+"ctd","cod",NA,2224
+"ctd","crab",NA,2225
+"ctd","croaker",NA,2226
+"ctd","flounder",NA,2227
+"ctd","bass, sea",NA,2228
+"ctd","grouper",NA,2229
+"ctd","haddock",NA,2230
+"ctd","hake",NA,2231
+"ctd","mackerel, king",NA,2232
+"ctd","lobster",NA,2233
+"ctd","mackerel",NA,2234
+"ctd","marlin",NA,2235
+"ctd","monkfish",NA,2236
+"ctd","mussel",NA,2237
+"ctd","ocean perch",NA,2238
+"ctd","orange roughy",NA,2239
+"ctd","oyster",NA,2240
+"ctd","perch",NA,2241
+"ctd","perch, freshwater",NA,2242
+"ctd","pike",NA,2243
+"ctd","plaice",NA,2244
+"ctd","pollock",NA,2245
+"ctd","porgy",NA,2246
+"ctd","red snapper",NA,2247
+"ctd","rockfish",NA,2248
+"ctd","sablefish",NA,2249
+"ctd","salmon, canned",NA,2250
+"ctd","salmon, fresh",NA,2251
+"ctd","scallop",NA,2252
+"ctd","scorpionfish",NA,2253
+"ctd","sea bass",NA,2254
+"ctd","sea trout",NA,2255
+"ctd","shad",NA,2256
+"ctd","sheepshead",NA,2257
+"ctd","skate",NA,2258
+"ctd","snapper",NA,2259
+"ctd","sole",NA,2260
+"ctd","squid",NA,2261
+"ctd","swordfish",NA,2262
+"ctd","tilefish",NA,2263
+"ctd","tuna, canned albacore",NA,2264
+"ctd","tuna, canned light",NA,2265
+"ctd","tuna, fresh and frozen",NA,2266
+"ctd","tuna, canned white",NA,2267
+"ctd","walleye",NA,2268
+"ctd","whitefish",NA,2269
+"ctd","occipital lobe",NA,2270
+"ctd","thyroid gland",NA,2271
+"ctd","abdominal muscle",NA,2272
+"ctd","pituitary gland",NA,2273
+"ctd","frontal lobe",NA,2274
+"ctd","ventricular fluid",NA,2275
+"ctd","incense stick",NA,2276
+"ctd","rice, brown",NA,2277
+"ctd","bass",NA,2278
+"ctd","bluegill",NA,2279
+"ctd","bowfin",NA,2280
+"ctd","crappie",NA,2281
+"ctd","drum",NA,2282
+"ctd","n pike",NA,2283
+"ctd","sucker",NA,2284
+"ctd","sunfish",NA,2285
+"ctd","beetroot",NA,2286
+"ctd","lettuce, butterhead",NA,2287
+"ctd","carrot",NA,2288
+"ctd","cucumber",NA,2289
+"ctd","lettuce, iceberg",NA,2290
+"ctd","potato",NA,2291
+"ctd","radish",NA,2292
+"ctd","tomato",NA,2293
+"ctd","cabbage, white",NA,2294
+"ctd","dust, carpet",NA,2295
+"ctd","produce",NA,2296
+"ctd","brain",NA,2297
+"ctd","seafood",NA,2298
+"ctd","water, sea",NA,2299
+"ctd","tea",NA,2300
+"ctd","tea, brick",NA,2301
+"ctd","snow",NA,2302
+"ctd","air, breath, exhaled",NA,2303
+"ip_chem_lakes","surface water",NA,2304
+"ip_chem_rivers","surface water",NA,2305
+"oecd","Plasma - Lipid Adjusted",NA,2306
+"oecd","Plasma",NA,2307
+"oecd","Urine",NA,2308
+"oecd","Urine - Creatinine Adjusted",NA,2309
+"oecd","Whole Blood",NA,2310
+"oecd","Serum",NA,2311
+"oecd","Serum - Lipid Adjusted",NA,2312
+"oecd","Breast Milk",NA,2313
+"min_biomon_water","Groundwater",NA,2314
+"min_biomon_water","Purchased Groundwater",NA,2315
+"min_biomon_water","Purchased Surface Water",NA,2316
+"min_biomon_water","Surface Water",NA,2317
+"epa_nscrlft","Tissue Concentration Estimates for Predators (Fillets)",NA,2318
+"epa_nscrlft","Tissue Concentration Estimates for Bottom Dwellers (Whole Bodies)",NA,2319
+"epa_nscrlft","Tissue Concentration Estimates for Bottom Dweller (Whole Bodies)",NA,2320
+"epa_dmr","wastewater (influent, effluent)",NA,2321
+"nhanes","hemoglobin adduct",NA,2322
+"nhanes","serum",NA,2323
+"nhanes","urine",NA,2324
+"nhanes","whole blood",NA,2325
+"nhanes","blood",NA,2326
+"usgs_groundwater","Drinking Water",NA,2327
+"usgs_groundwater","Groundwater",NA,2328
+"usgs_groundwater","Landfill leachate",NA,2329
+"usgs_groundwater","Other-Environmental",NA,2330
+"usgs_groundwater","Sediment",NA,2331
+"usgs_groundwater","Soil, or outdoor settled dust (specify)",NA,2332
+"usgs_groundwater","Surface water",NA,2333
+"usgs_groundwater","Wastewater (influent, effluent)",NA,2334
+"usgs_sediment","sediment",NA,2335
+"usgs_surfacewater","Groundwater",NA,2336
+"usgs_surfacewater","Landfill leachate",NA,2337
+"usgs_surfacewater","Other-Environmental",NA,2338
+"usgs_surfacewater","Surface water",NA,2339
+"usgs_surfacewater","Drinking Water",NA,2340
+"usgs_surfacewater","Wastewater (influent, effluent)",NA,2341
+"usgs_surfacewater","Sediment",NA,2342
+"usgs_surfacewater","Soil, or outdoor settled dust (specify)",NA,2343
+"epa_tnsss","sludge",NA,2344
+"ices_update_biota"," Whole soft-body","Crassostrea gigas",2345
+"ices_update_biota"," Whole soft-body","Mytilus edulis",2346
+"ices_update_biota"," Muscle","Platichthys flesus",2347
+"ices_update_biota"," Muscle","Clupea harengus",2348
+"ices_update_biota"," Muscle","Gadus morhua",2349
+"ices_update_biota"," Liver","Limanda limanda",2350
+"ices_update_biota"," Muscle","Limanda limanda",2351
+"ices_update_biota"," Muscle","Pleuronectes platessa",2352
+"ices_update_biota"," Liver","Platichthys flesus",2353
+"ices_update_biota"," Liver","Gadus morhua",2354
+"ices_update_biota"," Liver","Pleuronectes platessa",2355
+"ices_update_biota"," Muscle","Zoarces viviparus",2356
+"ices_update_biota"," Liver","Clupea harengus",2357
+"ices_update_biota"," Liver","Perca fluviatilis",2358
+"ices_update_biota"," Muscle","Merlangius merlangus",2359
+"ices_update_biota"," Muscle","Perca fluviatilis",2360
+"ices_update_biota"," Whole soft-body","Mytilus",2361
+"ices_update_biota"," Liver","Zoarces viviparus",2362
+"ices_update_biota"," Muscle","Neogobius melanostomus",2363
+"ices_update_biota"," Liver","Merlangius merlangus",2364
+"ices_update_biota"," Whole soft-body","Macoma balthica",2365
+"ices_update_biota"," Egg homogenate of yolk and albumin","Larus argentatus",2366
+"ices_update_biota"," Whole soft-body","Nucella lapillus",2367
+"ices_update_biota"," Muscle and epidermis (skin)","Perca fluviatilis",2368
+"ices_update_biota"," Whole soft-body","Littorina littorea",2369
+"ices_update_biota"," Whole soft-body","Nassarius reticulatus",2370
+"ices_update_biota"," Bile","Limanda limanda",2371
+"ices_update_biota"," Bile","Perca fluviatilis",2372
+"ices_update_biota"," Bile","Clupea harengus",2373
+"ices_update_biota"," Bile","Platichthys flesus",2374
+"ices_update_biota"," Bile","Gadus morhua",2375
+"usgs_soil","soil",NA,2376
+"chem_theatre","Fish",NA,2377
+"chem_theatre","Marine mammals",NA,2378
+"chem_theatre","Terrestrial mammals",NA,2379
+"chem_theatre","Birds",NA,2380
+"chem_theatre","Marine sediment",NA,2381
+"chem_theatre","Invertebrates",NA,2382
+"chem_theatre","Freshwater",NA,2383
+"chem_theatre","Soil",NA,2384
+"chem_theatre","Greywater",NA,2385
+"chem_theatre","Plants",NA,2386
+"chem_theatre","Freshwater sediment",NA,2387
+"chem_theatre","",NA,2388
+"chem_theatre","Outdoor air",NA,2389
+"chem_theatre","Reptiles",NA,2390
+"chem_theatre","Ground water",NA,2391
+"chem_theatre","Seawater",NA,2392
+"chem_theatre","Wastewater",NA,2393
+"chem_theatre","SS",NA,2394
+"chem_theatre","Gaseous phase",NA,2395

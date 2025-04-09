@@ -1,0 +1,1442 @@
+name,reported_media,harmonized_media,reported_type
+ahhs,indoor dust,NA,NA
+ahhs,"soil, or outdoor settled dust (specify)",NA,NA
+biomon_ca,urine,NA,NA
+biomon_ca,serum,NA,NA
+biomon_ca,blood,NA,NA
+ca_airmon,ambient air,NA,NA
+ca_surf_water,surface water,NA,NA
+carb,indoor air,NA,NA
+carb,indoor dust,indoor dust,reported_media
+carb,personal air,NA,NA
+carb,ambient air,ambient air,reported_media
+chem_theatre,NA,NA,NA
+ctd,NA,NA,NA
+ctd,adipose tissue,NA,NA
+ctd,air,NA,NA
+ctd,"air, ambient",NA,NA
+ctd,"air, breath",NA,NA
+ctd,"air, breath, exhaled",NA,NA
+ctd,"air, indoor",NA,NA
+ctd,"air, outdoor",NA,NA
+ctd,"air, personal",NA,NA
+ctd,amniotic fluid,NA,NA
+ctd,back,NA,NA
+ctd,blood,NA,NA
+ctd,breath,NA,NA
+ctd,chest,NA,NA
+ctd,colostrum,NA,NA
+ctd,dust,NA,NA
+ctd,"dust, house",NA,NA
+ctd,femur head,NA,NA
+ctd,follicular fluid,NA,NA
+ctd,food,NA,NA
+ctd,"forearm, left",NA,NA
+ctd,"forearm, right",NA,NA
+ctd,frontal lobe,NA,NA
+ctd,hair,NA,NA
+ctd,hand,NA,NA
+ctd,kidney,NA,NA
+ctd,"leg, lower, left",NA,NA
+ctd,"leg, lower, right",NA,NA
+ctd,lung,NA,NA
+ctd,"milk, human",NA,NA
+ctd,"nail, finger",NA,NA
+ctd,occipital lobe,NA,NA
+ctd,patella,NA,NA
+ctd,pituitary gland,NA,NA
+ctd,placenta,NA,NA
+ctd,plasma,NA,NA
+ctd,produce,NA,NA
+ctd,saliva,NA,NA
+ctd,sand,NA,NA
+ctd,semen,NA,NA
+ctd,serum,NA,NA
+ctd,"shoulder, left",NA,NA
+ctd,"shoulder, right",NA,NA
+ctd,skin,NA,NA
+ctd,soil,NA,NA
+ctd,sputum,NA,NA
+ctd,sweat,NA,NA
+ctd,"thigh, left",NA,NA
+ctd,"thigh, right",NA,NA
+ctd,thyroid gland,NA,NA
+ctd,tibia,NA,NA
+ctd,tooth,NA,NA
+ctd,umbilical cord,NA,NA
+ctd,urine,NA,NA
+ctd,ventricular fluid,NA,NA
+ctd,water,NA,NA
+ctd,"water, drinking",NA,NA
+ctd,"water, drinking, bottled",NA,NA
+ctd,"water, tap",NA,NA
+ctd,"water, well",NA,NA
+epa_9potw,influent,NA,NA
+epa_9potw,effluent,NA,NA
+epa_dmr,"wastewater (influent, effluent)",NA,NA
+epa_nscrlft,tissue concentration estimates for predators,"NA",reported_media
+epa_nscrlft,tissue concentration estimates for bottom dwe,"NA",reported_media
+fda_tds_elem,"milk, whole, fluid",NA,NA
+fda_tds_elem,"milk, lowfat (2%), fluid",NA,NA
+fda_tds_elem,"milk, chocolate, lowfat, fluid",NA,NA
+fda_tds_elem,"milk, skim, fluid",NA,NA
+fda_tds_elem,"milk shake, chocolate, fast-food",NA,NA
+fda_tds_elem,"cheese, american, processed",NA,NA
+fda_tds_elem,"cheese, cheddar, natural (sharp/mild)",NA,NA
+fda_tds_elem,"beef, ground, regular, pan-cooked",NA,NA
+fda_tds_elem,"beef roast, chuck, oven-roasted",NA,NA
+fda_tds_elem,"ham, cured (not canned), baked",NA,NA
+fda_tds_elem,"pork chop, pan-cooked w/ oil",NA,NA
+fda_tds_elem,"pork sausage (link/patty), oven-cooked",NA,NA
+fda_tds_elem,"pork bacon, oven-cooked",NA,NA
+fda_tds_elem,"pork roast, loin, oven-roasted",NA,NA
+fda_tds_elem,"lamb chop, pan-cooked w/ oil",NA,NA
+fda_tds_elem,"turkey breast, oven-roasted",NA,NA
+fda_tds_elem,"liver (beef/calf), pan-cooked w/ oil",NA,NA
+fda_tds_elem,"frankfurter (beef/pork), boiled",NA,NA
+fda_tds_elem,bologna (beef/pork),NA,NA
+fda_tds_elem,"salami, luncheon-meat type (not hard)",NA,NA
+fda_tds_elem,"fish sticks or patty, frozen, oven-cooked",NA,NA
+fda_tds_elem,"eggs, scrambled w/ oil",NA,NA
+fda_tds_elem,"eggs, boiled",NA,NA
+fda_tds_elem,"pinto beans, dry, boiled",NA,NA
+fda_tds_elem,"pork and beans, canned",NA,NA
+fda_tds_elem,"lima beans, immature, frozen, boiled",NA,NA
+fda_tds_elem,"peas, green, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"peanut butter, smooth/creamy",NA,NA
+fda_tds_elem,"peanuts, dry roasted, salted",NA,NA
+fda_tds_elem,"rice, white, enriched, cooked",NA,NA
+fda_tds_elem,"oatmeal, plain, cooked",NA,NA
+fda_tds_elem,"cream of wheat (farina), enriched, cooked",NA,NA
+fda_tds_elem,"corn/hominy grits, enriched, cooked",NA,NA
+fda_tds_elem,"corn, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"corn, canned",NA,NA
+fda_tds_elem,"bread, white, enriched",NA,NA
+fda_tds_elem,"cornbread, homemade",NA,NA
+fda_tds_elem,"biscuits, refrigerated-type, baked",NA,NA
+fda_tds_elem,"bread, whole wheat",NA,NA
+fda_tds_elem,"tortilla, flour",NA,NA
+fda_tds_elem,"bread, rye",NA,NA
+fda_tds_elem,"muffin, fruit or plain",NA,NA
+fda_tds_elem,"crackers, saltine",NA,NA
+fda_tds_elem,corn/tortilla chips,NA,NA
+fda_tds_elem,"noodles, egg, enriched, boiled",NA,NA
+fda_tds_elem,corn flakes cereal,NA,NA
+fda_tds_elem,"fruit-flavored cereal, presweetened",NA,NA
+fda_tds_elem,shredded wheat cereal,NA,NA
+fda_tds_elem,raisin bran cereal,NA,NA
+fda_tds_elem,crisped rice cereal,NA,NA
+fda_tds_elem,granola w/ raisins,NA,NA
+fda_tds_elem,oat ring cereal,NA,NA
+fda_tds_elem,"apple (red), raw (w/ peel)",NA,NA
+fda_tds_elem,"orange (navel/valencia), raw",NA,NA
+fda_tds_elem,"banana, raw",NA,NA
+fda_tds_elem,"watermelon, raw/frozen",NA,NA
+fda_tds_elem,"peach, raw/frozen",NA,NA
+fda_tds_elem,"applesauce, bottled",NA,NA
+fda_tds_elem,"pear, raw (w/ peel)",NA,NA
+fda_tds_elem,"strawberries, raw/frozen",NA,NA
+fda_tds_elem,"fruit cocktail, canned in light syrup",NA,NA
+fda_tds_elem,"grapes (red/green), raw",NA,NA
+fda_tds_elem,"cantaloupe, raw/frozen",NA,NA
+fda_tds_elem,"grapefruit, raw",NA,NA
+fda_tds_elem,"pineapple, canned in juice",NA,NA
+fda_tds_elem,raisins,NA,NA
+fda_tds_elem,"avocado, raw",NA,NA
+fda_tds_elem,"orange juice, frozen conc, reconstituted",NA,NA
+fda_tds_elem,"apple juice, bottled",NA,NA
+fda_tds_elem,"grapefruit juice, bottled",NA,NA
+fda_tds_elem,"prune juice, bottled",NA,NA
+fda_tds_elem,"lemonade, frozen conc, reconstituted",NA,NA
+fda_tds_elem,"spinach, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"collards, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"lettuce, iceburg, raw",NA,NA
+fda_tds_elem,"cabbage, fresh, boiled",NA,NA
+fda_tds_elem,"broccoli, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"celery, raw",NA,NA
+fda_tds_elem,"asparagus, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"cauliflower, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"tomato, raw",NA,NA
+fda_tds_elem,"tomato sauce, plain, bottled",NA,NA
+fda_tds_elem,"green beans, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"green beans, canned",NA,NA
+fda_tds_elem,"cucumber, peeled, raw",NA,NA
+fda_tds_elem,"summer squash, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"pepper, sweet, green, raw",NA,NA
+fda_tds_elem,"squash, winter (hubbard or acorn), fresh/froz",food product,reported_media
+fda_tds_elem,"onion, mature, raw",NA,NA
+fda_tds_elem,"beets, canned",NA,NA
+fda_tds_elem,"potato, boiled (w/out peel)",NA,NA
+fda_tds_elem,"potato, baked (w/ peel)",NA,NA
+fda_tds_elem,potato chips,NA,NA
+fda_tds_elem,"spaghetti w/ meat sauce, homemade",NA,NA
+fda_tds_elem,"chili con carne w/ beans, canned",NA,NA
+fda_tds_elem,"macaroni and cheese, prepared from box mix",NA,NA
+fda_tds_elem,"quarter-pound hamburger on bun, fast-food",NA,NA
+fda_tds_elem,"meatloaf, beef, homemade",NA,NA
+fda_tds_elem,"chicken potpie, frozen, heated",NA,NA
+fda_tds_elem,"soup, chicken noodle, canned, cond, prep w/ w",food product,reported_media
+fda_tds_elem,"soup, tomato, canned, cond, prep w/ water",NA,NA
+fda_tds_elem,"soup, vegetable beef, canned, cond, prep w/ w",food product,reported_media
+fda_tds_elem,dill cucumber pickles,NA,NA
+fda_tds_elem,"margarine, regular (not lowfat), salted",NA,NA
+fda_tds_elem,"butter, regular (not lowfat), salted",NA,NA
+fda_tds_elem,"mayonnaise, regular, bottled",NA,NA
+fda_tds_elem,"cream, half & half",NA,NA
+fda_tds_elem,"cream substitute, non-dairy, liquid/frozen",NA,NA
+fda_tds_elem,"sugar, white, granulated",NA,NA
+fda_tds_elem,"syrup, pancake",NA,NA
+fda_tds_elem,honey,NA,NA
+fda_tds_elem,tomato catsup,NA,NA
+fda_tds_elem,"ice cream, light, vanilla",NA,NA
+fda_tds_elem,"cake, chocolate w/ icing",NA,NA
+fda_tds_elem,sweet roll/danish pastry,NA,NA
+fda_tds_elem,chocolate chip cookies,NA,NA
+fda_tds_elem,sandwich cookies w/ cr?me filling,NA,NA
+fda_tds_elem,"pie, apple, fresh/frozen",NA,NA
+fda_tds_elem,"pie, pumpkin, fresh/frozen",NA,NA
+fda_tds_elem,"candy bar, milk chocolate, plain",NA,NA
+fda_tds_elem,"gelatin dessert, any flavor",NA,NA
+fda_tds_elem,"carbonated beverage, cola, regular",NA,NA
+fda_tds_elem,"fruit drink, from powder",NA,NA
+fda_tds_elem,"carbonated beverage, cola, low-calorie",NA,NA
+fda_tds_elem,"tea, from tea bag",NA,NA
+fda_tds_elem,beer,NA,NA
+fda_tds_elem,"wine, dry table, red/ white",NA,NA
+fda_tds_elem,"bf, infant formula, milk-based, high iron, rt",food product,reported_media
+fda_tds_elem,"bf, infant formula, milk-based, low iron, rtf",NA,NA
+fda_tds_elem,"bf, beef and broth/gravy",NA,NA
+fda_tds_elem,"bf, chicken and broth/gravy",NA,NA
+fda_tds_elem,"bf, vegetables and beef",NA,NA
+fda_tds_elem,"bf, vegetables and chicken",NA,NA
+fda_tds_elem,"bf, vegetables and ham",NA,NA
+fda_tds_elem,"bf, chicken noodle dinner",NA,NA
+fda_tds_elem,"bf, macaroni, tomato and beef",NA,NA
+fda_tds_elem,"bf, turkey and  rice",NA,NA
+fda_tds_elem,"bf, carrots",NA,NA
+fda_tds_elem,"bf, green beans",NA,NA
+fda_tds_elem,"bf, mixed vegetables",NA,NA
+fda_tds_elem,"bf, sweet potatoes",NA,NA
+fda_tds_elem,"bf, peas",NA,NA
+fda_tds_elem,"bf, applesauce",NA,NA
+fda_tds_elem,"bf, peaches",NA,NA
+fda_tds_elem,"bf, pears",NA,NA
+fda_tds_elem,"bf, juice, apple",NA,NA
+fda_tds_elem,"bf, juice, orange",NA,NA
+fda_tds_elem,"bf, custard/pudding",NA,NA
+fda_tds_elem,"bf, fruit dessert/pudding",NA,NA
+fda_tds_elem,"yogurt, lowfat, fruit-flavored",NA,NA
+fda_tds_elem,"cheese, swiss, natural",NA,NA
+fda_tds_elem,cream cheese,NA,NA
+fda_tds_elem,"luncheon meat, ham",NA,NA
+fda_tds_elem,"chicken breast, oven-roasted (skin removed)",NA,NA
+fda_tds_elem,"chicken nuggets, fast-food",NA,NA
+fda_tds_elem,"shrimp, boiled",NA,NA
+fda_tds_elem,"bread, cracked wheat",NA,NA
+fda_tds_elem,"bagel, plain, toasted",NA,NA
+fda_tds_elem,"english muffin, plain, toasted",NA,NA
+fda_tds_elem,"crackers, graham",NA,NA
+fda_tds_elem,"crackers, butter-type",NA,NA
+fda_tds_elem,"peach, canned in light/medium syrup",NA,NA
+fda_tds_elem,"pear, canned in light syrup",NA,NA
+fda_tds_elem,"pineapple juice, frozen conc, reconstituted",NA,NA
+fda_tds_elem,"grape juice, frozen conc, reconstituted",NA,NA
+fda_tds_elem,"french fries, fast-food",NA,NA
+fda_tds_elem,"carrot, fresh, peeled, boiled",NA,NA
+fda_tds_elem,"tomato juice, bottled",NA,NA
+fda_tds_elem,"brussels sprouts, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"mushrooms, raw",NA,NA
+fda_tds_elem,"eggplant, fresh, peeled, boiled",NA,NA
+fda_tds_elem,"turnip, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"okra, fresh/frozen, boiled",NA,NA
+fda_tds_elem,"mixed vegetables, frozen, boiled",NA,NA
+fda_tds_elem,"beef stroganoff w/ noodles, homemade",NA,NA
+fda_tds_elem,"tuna noodle casserole, homemade",NA,NA
+fda_tds_elem,"quarter-pound cheeseburger on bun, fast-food",NA,NA
+fda_tds_elem,"fish sandwich on bun, fast-food",NA,NA
+fda_tds_elem,"egg, cheese, and ham on english muffin, fast-",food product,reported_media
+fda_tds_elem,"taco/tostada w/ beef and cheese, from mexican",food product,reported_media
+fda_tds_elem,"pizza, cheese and pepperoni, regular crust, f",food product,reported_media
+fda_tds_elem,"soup, bean w/ bacon/pork, canned, cond, prep",food product,reported_media
+fda_tds_elem,"clam chowder, new england, canned, cond, prep",food product,reported_media
+fda_tds_elem,"ice cream, regular (not lowfat), vanilla",NA,NA
+fda_tds_elem,"sherbet, fruit-flavored",NA,NA
+fda_tds_elem,"popsicle, fruit-flavored",NA,NA
+fda_tds_elem,"doughnut, cake-type, any flavor, from donut s",food product,reported_media
+fda_tds_elem,brownie,NA,NA
+fda_tds_elem,sugar cookies,NA,NA
+fda_tds_elem,"candy, hard, any flavor",NA,NA
+fda_tds_elem,"pretzels, hard, salted",NA,NA
+fda_tds_elem,"syrup, chocolate",NA,NA
+fda_tds_elem,"jelly, any flavor",NA,NA
+fda_tds_elem,"mustard, yellow, plain",NA,NA
+fda_tds_elem,black olives,NA,NA
+fda_tds_elem,sour cream,NA,NA
+fda_tds_elem,"coffee, from ground",NA,NA
+fda_tds_elem,"carbonated beverage, fruit-flavored, regular",NA,NA
+fda_tds_elem,"fruit drink (10% juice), canned or bottled",NA,NA
+fda_tds_elem,"bf, infant formula, soy-based, rtf",NA,NA
+fda_tds_elem,"bf, bananas",NA,NA
+fda_tds_elem,"bf, teething biscuits",NA,NA
+fda_tds_elem,"salmon, steaks/fillets, baked",NA,NA
+fda_tds_elem,"bf, squash",NA,NA
+fda_tds_elem,"bf, cereal, oatmeal, dry, prep w/ water",NA,NA
+fda_tds_elem,"bf, cereal, rice, dry, prep w/ water",NA,NA
+fda_tds_elem,"bf, cereal, rice w/apples, dry, prep w/ water",NA,NA
+fda_tds_elem,"bf, veal and broth/gravy",NA,NA
+fda_tds_elem,"bf, lamb and broth/gravy",NA,NA
+fda_tds_elem,"bf, turkey and broth/gravy",NA,NA
+fda_tds_elem,"meal replacement, liquid rtd, any flavor",NA,NA
+fda_tds_elem,"cottage cheese, creamed, lowfat (2% milk fat)",NA,NA
+fda_tds_elem,"sour cream dip, any flavor",NA,NA
+fda_tds_elem,"beef steak, loin/sirloin, broiled",NA,NA
+fda_tds_elem,luncheon meat (chicken/turkey),NA,NA
+fda_tds_elem,"chicken breast, fried, fast-food (w/ skin)",NA,NA
+fda_tds_elem,"chicken thigh, oven-roasted (skin removed)",NA,NA
+fda_tds_elem,"chicken leg, fried, fast-food  (w/ skin)",NA,NA
+fda_tds_elem,"catfish, pan-cooked w/ oil",NA,NA
+fda_tds_elem,"tuna, canned in water, drained",NA,NA
+fda_tds_elem,"refried beans, canned",NA,NA
+fda_tds_elem,"white beans, dry, boiled",NA,NA
+fda_tds_elem,"sunflower seeds (shelled), roasted, salted",NA,NA
+fda_tds_elem,"pancakes, frozen, heated",NA,NA
+fda_tds_elem,breakfast tart/toaster pastry,NA,NA
+fda_tds_elem,"macaroni salad, from grocery/deli",NA,NA
+fda_tds_elem,"spaghetti, enriched, boiled",NA,NA
+fda_tds_elem,"apricots, canned in heavy/light syrup",NA,NA
+fda_tds_elem,"fruit juice blend (100% juice), canned/bottle",food product,reported_media
+fda_tds_elem,"cranberry juice cocktail, canned/bottled",NA,NA
+fda_tds_elem,"orange juice, bottled/carton",NA,NA
+fda_tds_elem,"potato salad, mayonnaise-type, from grocery/d",food product,reported_media
+fda_tds_elem,"potatoes, mashed, prepared from fresh",NA,NA
+fda_tds_elem,"coleslaw, mayonnaise-type, from grocery/deli",NA,NA
+fda_tds_elem,"carrot, baby, raw",NA,NA
+fda_tds_elem,"lettuce, leaf, raw",NA,NA
+fda_tds_elem,"sweet potatoes, canned",NA,NA
+fda_tds_elem,"tomato salsa, bottled",NA,NA
+fda_tds_elem,"stew, beef and vegetable, canned",NA,NA
+fda_tds_elem,"lasagna w/ meat, frozen, heated",NA,NA
+fda_tds_elem,"beef w/ vegetables in sauce, from chinese car",food product,reported_media
+fda_tds_elem,"chicken w/ vegetables in sauce, from chinese",food product,reported_media
+fda_tds_elem,"fried rice, meatless, from chinese carry-out",NA,NA
+fda_tds_elem,"burrito w/ beef, beans and cheese, from mexic",food product,reported_media
+fda_tds_elem,"chicken filet (broiled) sandwich on bun, fast",food product,reported_media
+fda_tds_elem,"soup, oriental noodles (ramen noodles), prep",food product,reported_media
+fda_tds_elem,"pudding, ready-to-eat, flavor other than choc",food product,reported_media
+fda_tds_elem,"cake, yellow w/ icing",NA,NA
+fda_tds_elem,"granola bar, w/ raisins",NA,NA
+fda_tds_elem,"candy bar, chocolate, nougat, and nuts",NA,NA
+fda_tds_elem,"popcorn, microwave, butter-flavored",NA,NA
+fda_tds_elem,sweet & sour sauce,NA,NA
+fda_tds_elem,"brown gravy, canned or bottled",NA,NA
+fda_tds_elem,"salad dressing, creamy/buttermilk type, regul",food product,reported_media
+fda_tds_elem,"salad dressing, creamy/buttermilk type, low-c",food product,reported_media
+fda_tds_elem,"salad dressing, italian, regular",NA,NA
+fda_tds_elem,olive oil,NA,NA
+fda_tds_elem,vegetable oil,NA,NA
+fda_tds_elem,"bottled drinking water (mineral/spring), not",food product,reported_media
+fda_tds_elem,"coffee, decaffeinated, from ground",NA,NA
+fda_tds_elem,"tea, decaffeinated, from tea bag",NA,NA
+fda_tds_elem,"bf, cereal, barley, dry, prep w/ water",NA,NA
+fda_tds_elem,"bf, cereal, mixed, dry, prep w/ water",NA,NA
+fda_tds_elem,"bf, juice, apple-banana",NA,NA
+fda_tds_elem,"bf, juice, apple-cherry",NA,NA
+fda_tds_elem,"bf, juice, apple-grape",NA,NA
+fda_tds_elem,"bf, juice, mixed fruit",NA,NA
+fda_tds_elem,"bf, juice, pear",NA,NA
+fda_tds_elem,"bf, juice, grape",NA,NA
+fda_tds_elem,"bf, pears and pineapple",NA,NA
+fda_tds_elem,"bf, plums/prunes w/ apples or pears",NA,NA
+fda_tds_elem,"bf, bananas and pineapple",NA,NA
+fda_tds_elem,"bf, apricots w/ mixed fruit",NA,NA
+fda_tds_elem,"bf, banana dessert",NA,NA
+fda_tds_elem,"bf, peach cobbler/dessert",NA,NA
+fda_tds_elem,"bf, fruit yogurt dessert",NA,NA
+fda_tds_elem,"bf, dutch apple/apple cobbler",NA,NA
+fda_tds_elem,"bf, arrowroot cookies",NA,NA
+fda_tds_elem,"bf, zweiback toast",NA,NA
+fda_tds_elem,"bf, cereal, oatmeal w/ fruit, prep w/ water",NA,NA
+fda_tds_elem,"bf, chicken w/ rice",NA,NA
+fda_tds_elem,"bf, beef and noodles/beef stroganoff",NA,NA
+fda_tds_elem,"bf, vegetables and turkey",NA,NA
+fda_tds_elem,"bf, macaroni and cheese",NA,NA
+fda_tds_elem,bf. apples with berries,NA,NA
+fda_tds_elem,"bf, apples with fruit other than berries",NA,NA
+fda_tds_elem,"peanut butter, creamy",NA,NA
+fda_tds_elem,"lettuce, iceberg, raw",NA,NA
+fda_tds_elem,"squash, winter (hubbard/acorn), fresh/frozen,",food product,reported_media
+fda_tds_elem,sandwich cookies w/ creme filling,NA,NA
+fda_tds_elem,"bf, apples with berries",NA,NA
+fda_tds_elem,"cake, white w/ icing",NA,NA
+fda_tds_elem,"bf, plums/prunes w/apples or pears",NA,NA
+fda_tds_elem,"butter, regular (not lowfat)",NA,NA
+fda_tds_elem,"bf, infant formula, milk-based, iron fortifie",food product,reported_media
+fda_tds_elem,"bread, multigrain",NA,NA
+fda_tds_elem,"pork sausage, (link/patty) oven-cooked",NA,NA
+fda_tds_elem,"infant formula, soy-based, rtf",NA,NA
+fda_tds_elem,"potato, mashed, prepared from fresh",NA,NA
+fda_tds_pest,"milk, whole, fluid",NA,NA
+fda_tds_pest,"milk, lowfat (2%), fluid",NA,NA
+fda_tds_pest,"milk, chocolate, lowfat, fluid",NA,NA
+fda_tds_pest,"milk, skim, fluid",NA,NA
+fda_tds_pest,"milk shake, chocolate, fast-food",NA,NA
+fda_tds_pest,"cheese, american, processed",NA,NA
+fda_tds_pest,"cheese, cheddar, natural (sharp/mild)",NA,NA
+fda_tds_pest,"beef, ground, regular, pan-cooked",NA,NA
+fda_tds_pest,"ham, cured (not canned), baked",NA,NA
+fda_tds_pest,"pork chop, pan-cooked w/ oil",NA,NA
+fda_tds_pest,"pork sausage, (link/patty) oven-cooked",NA,NA
+fda_tds_pest,"pork bacon, oven-cooked",NA,NA
+fda_tds_pest,"pork roast, loin, oven-roasted",NA,NA
+fda_tds_pest,"lamb chop, pan-cooked w/ oil",NA,NA
+fda_tds_pest,"turkey breast, oven-roasted",NA,NA
+fda_tds_pest,"liver (beef/calf), pan-cooked w/ oil",NA,NA
+fda_tds_pest,"frankfurter (beef/pork), boiled",NA,NA
+fda_tds_pest,bologna (beef/pork),NA,NA
+fda_tds_pest,"salami, luncheon-meat type (not hard)",NA,NA
+fda_tds_pest,"fish sticks or patty, frozen, oven-cooked",NA,NA
+fda_tds_pest,"eggs, scrambled w/ oil",NA,NA
+fda_tds_pest,"eggs, boiled",NA,NA
+fda_tds_pest,"pinto beans, dry, boiled",NA,NA
+fda_tds_pest,"pork and beans, canned",NA,NA
+fda_tds_pest,"lima beans, immature, frozen, boiled",NA,NA
+fda_tds_pest,"peas, green, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"peanut butter, smooth/creamy",NA,NA
+fda_tds_pest,"peanuts, dry roasted, salted",NA,NA
+fda_tds_pest,"rice, white, enriched, cooked",NA,NA
+fda_tds_pest,"oatmeal, plain, cooked",NA,NA
+fda_tds_pest,"cream of wheat (farina), enriched, cooked",NA,NA
+fda_tds_pest,"corn/hominy grits, enriched, cooked",NA,NA
+fda_tds_pest,"corn, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"corn, canned",NA,NA
+fda_tds_pest,"bread, white, enriched",NA,NA
+fda_tds_pest,"cornbread, homemade",NA,NA
+fda_tds_pest,"biscuits, refrigerated-type, baked",NA,NA
+fda_tds_pest,"bread, whole wheat",NA,NA
+fda_tds_pest,"tortilla, flour",NA,NA
+fda_tds_pest,"bread, rye",NA,NA
+fda_tds_pest,"muffin, fruit or plain",NA,NA
+fda_tds_pest,"crackers, saltine",NA,NA
+fda_tds_pest,corn/tortilla chips,NA,NA
+fda_tds_pest,"noodles, egg, enriched, boiled",NA,NA
+fda_tds_pest,corn flakes cereal,NA,NA
+fda_tds_pest,"fruit-flavored cereal, presweetened",NA,NA
+fda_tds_pest,shredded wheat cereal,NA,NA
+fda_tds_pest,raisin bran cereal,NA,NA
+fda_tds_pest,crisped rice cereal,NA,NA
+fda_tds_pest,granola w/ raisins,NA,NA
+fda_tds_pest,oat ring cereal,NA,NA
+fda_tds_pest,"apple (red), raw (w/ peel)",NA,NA
+fda_tds_pest,"orange (navel/valencia), raw",NA,NA
+fda_tds_pest,"banana, raw",NA,NA
+fda_tds_pest,"watermelon, raw/frozen",NA,NA
+fda_tds_pest,"peach, raw/frozen",NA,NA
+fda_tds_pest,"applesauce, bottled",NA,NA
+fda_tds_pest,"pear, raw (w/ peel)",NA,NA
+fda_tds_pest,"strawberries, raw/frozen",NA,NA
+fda_tds_pest,"fruit cocktail, canned in light syrup",NA,NA
+fda_tds_pest,"grapes (red/green), raw",NA,NA
+fda_tds_pest,"cantaloupe, raw/frozen",NA,NA
+fda_tds_pest,"grapefruit, raw",NA,NA
+fda_tds_pest,"pineapple, canned in juice",NA,NA
+fda_tds_pest,raisins,NA,NA
+fda_tds_pest,"avocado, raw",NA,NA
+fda_tds_pest,"orange juice, frozen conc, reconstituted",NA,NA
+fda_tds_pest,"apple juice, bottled",NA,NA
+fda_tds_pest,"grapefruit juice, bottled",NA,NA
+fda_tds_pest,"prune juice, bottled",NA,NA
+fda_tds_pest,"lemonade, frozen conc, reconstituted",NA,NA
+fda_tds_pest,"spinach, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"collards, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"lettuce, iceberg, raw",NA,NA
+fda_tds_pest,"cabbage, fresh, boiled",NA,NA
+fda_tds_pest,"broccoli, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"celery, raw",NA,NA
+fda_tds_pest,"asparagus, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"cauliflower, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"tomato, raw",NA,NA
+fda_tds_pest,"tomato sauce, plain, bottled",NA,NA
+fda_tds_pest,"green beans, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"green beans, canned",NA,NA
+fda_tds_pest,"cucumber, peeled, raw",NA,NA
+fda_tds_pest,"summer squash, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"pepper, sweet, green, raw",NA,NA
+fda_tds_pest,"squash, winter (hubbard or acorn), fresh/froz",food product,reported_media
+fda_tds_pest,"onion, mature, raw",NA,NA
+fda_tds_pest,"beets, canned",NA,NA
+fda_tds_pest,"potato, boiled (w/out peel)",NA,NA
+fda_tds_pest,"potato, baked (w/ peel)",NA,NA
+fda_tds_pest,potato chips,NA,NA
+fda_tds_pest,"spaghetti w/ meat sauce, homemade",NA,NA
+fda_tds_pest,"chili con carne w/ beans, canned",NA,NA
+fda_tds_pest,"macaroni and cheese, prepared from box mix",NA,NA
+fda_tds_pest,"quarter-pound hamburger on bun, fast-food",NA,NA
+fda_tds_pest,"meatloaf, beef, homemade",NA,NA
+fda_tds_pest,"chicken potpie, frozen, heated",NA,NA
+fda_tds_pest,"soup, chicken noodle, canned, cond, prep w/ w",food product,reported_media
+fda_tds_pest,"soup, tomato, canned, cond, prep w/ water",NA,NA
+fda_tds_pest,"soup, vegetable beef, canned, cond, prep w/ w",food product,reported_media
+fda_tds_pest,dill cucumber pickles,NA,NA
+fda_tds_pest,"margarine, regular (not lowfat), salted",NA,NA
+fda_tds_pest,"butter, regular (not lowfat), salted",NA,NA
+fda_tds_pest,"mayonnaise, regular, bottled",NA,NA
+fda_tds_pest,"cream, half & half",NA,NA
+fda_tds_pest,"cream substitute, non-dairy, liquid/frozen",NA,NA
+fda_tds_pest,"sugar, white, granulated",NA,NA
+fda_tds_pest,"syrup, pancake",NA,NA
+fda_tds_pest,honey,NA,NA
+fda_tds_pest,tomato catsup,NA,NA
+fda_tds_pest,"ice cream, light, vanilla",NA,NA
+fda_tds_pest,"cake, chocolate w/ icing",NA,NA
+fda_tds_pest,sweet roll/danish pastry,NA,NA
+fda_tds_pest,chocolate chip cookies,NA,NA
+fda_tds_pest,sandwich cookies w/ cr?me filling,NA,NA
+fda_tds_pest,"pie, apple, fresh/frozen",NA,NA
+fda_tds_pest,"pie, pumpkin, fresh/frozen",NA,NA
+fda_tds_pest,"candy bar, milk chocolate, plain",NA,NA
+fda_tds_pest,"gelatin dessert, any flavor",NA,NA
+fda_tds_pest,"carbonated beverage, cola, regular",NA,NA
+fda_tds_pest,"fruit drink, from powder",NA,NA
+fda_tds_pest,"carbonated beverage, cola, low-calorie",NA,NA
+fda_tds_pest,"tea, from tea bag",NA,NA
+fda_tds_pest,beer,NA,NA
+fda_tds_pest,"wine, dry table, red/ white",NA,NA
+fda_tds_pest,"bf, infant formula, milk-based, high iron, rt",food product,reported_media
+fda_tds_pest,"bf, infant formula, milk-based, low iron, rtf",NA,NA
+fda_tds_pest,"bf, beef and broth/gravy",NA,NA
+fda_tds_pest,"bf, chicken and broth/gravy",NA,NA
+fda_tds_pest,"bf, vegetables and beef",NA,NA
+fda_tds_pest,"bf, vegetables and chicken",NA,NA
+fda_tds_pest,"bf, vegetables and ham",NA,NA
+fda_tds_pest,"bf, chicken noodle dinner",NA,NA
+fda_tds_pest,"bf, macaroni, tomato and beef",NA,NA
+fda_tds_pest,"bf, turkey and rice",NA,NA
+fda_tds_pest,"bf, carrots",NA,NA
+fda_tds_pest,"bf, green beans",NA,NA
+fda_tds_pest,"bf, mixed vegetables",NA,NA
+fda_tds_pest,"bf, sweet potatoes",NA,NA
+fda_tds_pest,"bf, peas",NA,NA
+fda_tds_pest,"bf, applesauce",NA,NA
+fda_tds_pest,"bf, peaches",NA,NA
+fda_tds_pest,"bf, pears",NA,NA
+fda_tds_pest,"bf, juice, apple",NA,NA
+fda_tds_pest,"bf, juice, orange",NA,NA
+fda_tds_pest,"bf, custard/pudding",NA,NA
+fda_tds_pest,"yogurt, lowfat, fruit-flavored",NA,NA
+fda_tds_pest,"cheese, swiss, natural",NA,NA
+fda_tds_pest,cream cheese,NA,NA
+fda_tds_pest,"luncheon meat, ham",NA,NA
+fda_tds_pest,"chicken breast, oven-roasted (skin removed)",NA,NA
+fda_tds_pest,"chicken nuggets, fast-food",NA,NA
+fda_tds_pest,"shrimp, boiled",NA,NA
+fda_tds_pest,"bread, cracked wheat",NA,NA
+fda_tds_pest,"bagel, plain, toasted",NA,NA
+fda_tds_pest,"english muffin, plain, toasted",NA,NA
+fda_tds_pest,"crackers, graham",NA,NA
+fda_tds_pest,"crackers, butter-type",NA,NA
+fda_tds_pest,"peach, canned in light/medium syrup",NA,NA
+fda_tds_pest,"pear, canned in light syrup",NA,NA
+fda_tds_pest,"pineapple juice, frozen conc, reconstituted",NA,NA
+fda_tds_pest,"grape juice, frozen conc, reconstituted",NA,NA
+fda_tds_pest,"french fries, fast-food",NA,NA
+fda_tds_pest,"carrot, fresh, peeled, boiled",NA,NA
+fda_tds_pest,"tomato juice, bottled",NA,NA
+fda_tds_pest,"brussels sprouts, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"mushrooms, raw",NA,NA
+fda_tds_pest,"eggplant, fresh, peeled, boiled",NA,NA
+fda_tds_pest,"turnip, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"okra, fresh/frozen, boiled",NA,NA
+fda_tds_pest,"mixed vegetables, frozen, boiled",NA,NA
+fda_tds_pest,"beef stroganoff w/ noodles, homemade",NA,NA
+fda_tds_pest,"tuna noodle casserole, homemade",NA,NA
+fda_tds_pest,"quarter-pound cheeseburger on bun, fast-food",NA,NA
+fda_tds_pest,"fish sandwich on bun, fast-food",NA,NA
+fda_tds_pest,"egg, cheese, and ham on english muffin, fast-",food product,reported_media
+fda_tds_pest,"taco/tostada w/ beef and cheese, from mexican",food product,reported_media
+fda_tds_pest,"pizza, cheese and pepperoni, regular crust, f",food product,reported_media
+fda_tds_pest,"soup, bean w/ bacon/pork, canned, cond, prep",food product,reported_media
+fda_tds_pest,"clam chowder, new england, canned, cond, prep",food product,reported_media
+fda_tds_pest,"ice cream, regular (not lowfat), vanilla",NA,NA
+fda_tds_pest,"sherbet, fruit-flavored",NA,NA
+fda_tds_pest,"popsicle, fruit-flavored",NA,NA
+fda_tds_pest,"doughnut, cake-type, any flavor, from donut s",food product,reported_media
+fda_tds_pest,brownie,NA,NA
+fda_tds_pest,sugar cookies,NA,NA
+fda_tds_pest,"candy, hard, any flavor",NA,NA
+fda_tds_pest,"pretzels, hard, salted",NA,NA
+fda_tds_pest,"syrup, chocolate",NA,NA
+fda_tds_pest,"jelly, any flavor",NA,NA
+fda_tds_pest,"mustard, yellow, plain",NA,NA
+fda_tds_pest,black olives,NA,NA
+fda_tds_pest,sour cream,NA,NA
+fda_tds_pest,"coffee, from ground",NA,NA
+fda_tds_pest,"carbonated beverage, fruit-flavored, regular",NA,NA
+fda_tds_pest,"fruit drink (10% juice), canned or bottled",NA,NA
+fda_tds_pest,"bf, infant formula, soy-based, rtf",NA,NA
+fda_tds_pest,"bf, bananas",NA,NA
+fda_tds_pest,"bf, teething biscuits",NA,NA
+fda_tds_pest,"salmon, steaks/fillets, baked",NA,NA
+fda_tds_pest,"bf, squash",NA,NA
+fda_tds_pest,"bf, cereal, oatmeal, dry, prep w/ water",NA,NA
+fda_tds_pest,"bf, cereal, rice, dry, prep w/ water",NA,NA
+fda_tds_pest,"bf, veal and broth/gravy",NA,NA
+fda_tds_pest,"bf, lamb and broth/gravy",NA,NA
+fda_tds_pest,"bf, turkey and broth/gravy",NA,NA
+fda_tds_pest,"meal replacement, liquid rtd, any flavor",NA,NA
+fda_tds_pest,"cottage cheese, creamed, lowfat (2% milk fat)",NA,NA
+fda_tds_pest,"sour cream dip, any flavor",NA,NA
+fda_tds_pest,"beef steak, loin/sirloin, broiled",NA,NA
+fda_tds_pest,luncheon meat (chicken/turkey),NA,NA
+fda_tds_pest,"chicken breast, fried, fast-food (w/ skin)",NA,NA
+fda_tds_pest,"chicken thigh, oven-roasted (skin removed)",NA,NA
+fda_tds_pest,"chicken leg, fried, fast-food (w/ skin)",NA,NA
+fda_tds_pest,"catfish, pan-cooked w/ oil",NA,NA
+fda_tds_pest,"tuna, canned in water, drained",NA,NA
+fda_tds_pest,"refried beans, canned",NA,NA
+fda_tds_pest,"white beans, dry, boiled",NA,NA
+fda_tds_pest,"sunflower seeds (shelled), roasted, salted",NA,NA
+fda_tds_pest,"pancakes, frozen, heated",NA,NA
+fda_tds_pest,breakfast tart/toaster pastry,NA,NA
+fda_tds_pest,"macaroni salad, from grocery/deli",NA,NA
+fda_tds_pest,"spaghetti, enriched, boiled",NA,NA
+fda_tds_pest,"apricots, canned in heavy/light syrup",NA,NA
+fda_tds_pest,"fruit juice blend (100% juice), canned/bottle",food product,reported_media
+fda_tds_pest,"cranberry juice cocktail, canned/bottled",NA,NA
+fda_tds_pest,"orange juice, bottled/carton",NA,NA
+fda_tds_pest,"potato salad, mayonnaise-type, from grocery/d",food product,reported_media
+fda_tds_pest,"potatoes, mashed, prepared from fresh",NA,NA
+fda_tds_pest,"coleslaw, mayonnaise-type, from grocery/deli",NA,NA
+fda_tds_pest,"carrot, baby, raw",NA,NA
+fda_tds_pest,"lettuce, leaf, raw",NA,NA
+fda_tds_pest,"sweet potatoes, canned",NA,NA
+fda_tds_pest,"tomato salsa, bottled",NA,NA
+fda_tds_pest,"stew, beef and vegetable, canned",NA,NA
+fda_tds_pest,"lasagna w/ meat, frozen, heated",NA,NA
+fda_tds_pest,"beef w/ vegetables in sauce, from chinese car",food product,reported_media
+fda_tds_pest,"chicken w/ vegetables in sauce, from chinese",food product,reported_media
+fda_tds_pest,"fried rice, meatless, from chinese carry-out",NA,NA
+fda_tds_pest,"burrito w/ beef, beans and cheese, from mexic",food product,reported_media
+fda_tds_pest,"chicken filet (broiled) sandwich on bun, fast",food product,reported_media
+fda_tds_pest,"soup, oriental noodles (ramen noodles), prep",food product,reported_media
+fda_tds_pest,"pudding, ready-to-eat, flavor other than choc",food product,reported_media
+fda_tds_pest,"cake, white w/ icing (formerly yellow cake)",NA,NA
+fda_tds_pest,"granola bar, w/ raisins",NA,NA
+fda_tds_pest,"candy bar, chocolate, nougat, and nuts",NA,NA
+fda_tds_pest,"popcorn, microwave, butter-flavored",NA,NA
+fda_tds_pest,sweet & sour sauce,NA,NA
+fda_tds_pest,"brown gravy, canned or bottled",NA,NA
+fda_tds_pest,"salad dressing, creamy/buttermilk type, regul",food product,reported_media
+fda_tds_pest,"salad dressing, creamy/buttermilk type, low-c",food product,reported_media
+fda_tds_pest,"salad dressing, italian, regular",NA,NA
+fda_tds_pest,olive oil,NA,NA
+fda_tds_pest,vegetable oil,NA,NA
+fda_tds_pest,"bottled drinking water (mineral/spring), not",food product,reported_media
+fda_tds_pest,"coffee, decaffeinated, from ground",NA,NA
+fda_tds_pest,"tea, decaffeinated, from tea bag",NA,NA
+fda_tds_pest,"bf, cereal, barley, dry, prep w/ water",NA,NA
+fda_tds_pest,"bf, cereal, mixed, dry, prep w/ water",NA,NA
+fda_tds_pest,"bf, juice, apple-banana",NA,NA
+fda_tds_pest,"bf, juice, apple-cherry",NA,NA
+fda_tds_pest,"bf, juice, apple-grape",NA,NA
+fda_tds_pest,"bf, juice, mixed fruit",NA,NA
+fda_tds_pest,"bf, juice, pear",NA,NA
+fda_tds_pest,"bf, juice, grape",NA,NA
+fda_tds_pest,"bf, pears and pineapple",NA,NA
+fda_tds_pest,"bf, plums/prunes w/apples or pears",NA,NA
+fda_tds_pest,"bf, bananas and pineapple",NA,NA
+fda_tds_pest,"bf, apricots w/ mixed fruit",NA,NA
+fda_tds_pest,"bf, banana dessert",NA,NA
+fda_tds_pest,"bf, peach cobbler/dessert",NA,NA
+fda_tds_pest,"bf, fruit yogurt dessert",NA,NA
+fda_tds_pest,"bf, dutch apple/apple cobbler",NA,NA
+fda_tds_pest,"bf, arrowroot cookies",NA,NA
+fda_tds_pest,"bf, zweiback toast",NA,NA
+fda_tds_pest,"bf, cereal, oatmeal w/ fruit, prep w/ water",NA,NA
+fda_tds_pest,"bf, chicken w/ rice",NA,NA
+fda_tds_pest,"bf, beef and noodles/beef stroganoff",NA,NA
+fda_tds_pest,"bf, vegetables and turkey",NA,NA
+fda_tds_pest,"bf, macaroni and cheese",NA,NA
+fda_tds_pest,"bf, apples with berries",NA,NA
+fda_tds_pest,"bf, apples with fruit other than berries",NA,NA
+fda_tds_pest,"beef roast, chuck, oven-roasted",NA,NA
+fda_tds_pest,"pork sausage (link/patty), oven-cooked",NA,NA
+fda_tds_pest,"squash, winter (hubbard/acorn), fresh/frozen,",food product,reported_media
+fda_tds_pest,"cream substitute, non-diary, liquid/frozen",NA,NA
+fda_tds_pest,"infant formula, milk-based, high iron, rtf",NA,NA
+fda_tds_pest,"infant formula, milk-based, low iron, rtf",NA,NA
+fda_tds_pest,"bf, fruit dessert/pudding",NA,NA
+fda_tds_pest,"bf, cereal, rice w/apples, dry, prep w/ water",NA,NA
+fda_tds_pest,"potato, mashed, prepared from fresh",NA,NA
+fda_tds_pest,"cake, yellow w/ icing",NA,NA
+fda_tds_pest,"bf, turkey and  rice",NA,NA
+fda_tds_pest,luncheon meat (ham),NA,NA
+fda_tds_pest,"chicken leg, fried, fast-food  (w/ skin)",NA,NA
+fda_tds_pest,"cake, white w/ icing",NA,NA
+ices_sediment,sediment - <63 micron fraction,sediment,reported_media
+ices_sediment,sediment - <2000 micron fraction,sediment,reported_media
+ices_sediment,sediment - <90 micron fraction,sediment,reported_media
+ices_sediment,sediment - <1000 micron fraction,sediment,reported_media
+ices_sediment,sediment - <20 micron fraction,sediment,reported_media
+ices_sediment,sediment - <500 micron fraction,sediment,reported_media
+ices_sediment,sediment - <62 micron fraction,sediment,reported_media
+ip_chem_biota,NA,NA,NA
+nhanes,hemoglobin adduct,NA,NA
+nhanes,whole blood,NA,NA
+oecd,plasma - lipid adjusted,NA,NA
+oecd,plasma,NA,NA
+oecd,urine,NA,NA
+oecd,urine - creatinine adjusted,NA,NA
+oecd,whole blood,NA,NA
+oecd,serum,NA,NA
+oecd,serum - lipid adjusted,NA,NA
+oecd,breast milk,NA,NA
+usda_nrp,animal-cattle-beef cow,NA,NA
+usda_nrp,animal-cattle-heifer,NA,NA
+usda_nrp,animal-cattle-steer,NA,NA
+usda_nrp,animal-swine-market swine,NA,NA
+usda_nrp,animal-swine-sow,NA,NA
+usda_nrp,animal-sheep-lamb,NA,NA
+usda_nrp,animal-calf-bob veal,NA,NA
+usda_nrp,animal-cattle-bull,NA,NA
+usda_nrp,animal-cattle-dairy cow,NA,NA
+usda_nrp,animal-calf-heavy calf,NA,NA
+usda_nrp,animal-calf-formula-fed veal,NA,NA
+usda_nrp,animal-calf-non formula-fed veal,NA,NA
+usda_nrp,animal-cattle-steer/heifer carcass sponge,NA,NA
+usda_nrp,"product-thermally processed, commercially ste","NA",reported_species
+usda_nrp,animal-goat,NA,NA
+usda_nrp,product-raw-intact-beef,NA,NA
+usda_nrp,NA,NA,NA
+usda_nrp,animal-sheep-mature sheep,NA,NA
+usda_nrp,animal-swine-roaster swine,NA,NA
+usda_nrp,"product-rte-other fully cooked, not sliced",NA,NA
+usda_nrp,animal-swine-boar/stag swine,NA,NA
+usda_nrp,"product-nrte-ground, comminuted or otherwise","NA",reported_species
+usda_nrp,"product-rte-fully cooked, sausage products",NA,NA
+usda_nrp,animal-turkey,NA,NA
+usgs,NA,"NA",reported_species
+usgs,NA,sediment,reported_species
+usgs,NA,ambient air,reported_species
+usgs,abarenicola,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,abarenicola pacifica,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,ablabesmyia,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,ablabesmyia mallochi,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,acentrella,wildlife (aquatic invertebrate),reported_species
+usgs,acerpenna,wildlife (aquatic invertebrate),reported_species
+usgs,acerpenna macdunnoughi,wildlife (aquatic invertebrate),reported_species
+usgs,acerpenna pygmaea,wildlife (aquatic invertebrate),reported_species
+usgs,acipenser fulvescens,wildlife (fish),reported_species
+usgs,acipenser transmontanus,wildlife (fish),reported_species
+usgs,acroneuria,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,aeshna umbrosa,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,agabus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,agapetus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,agnetina,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,alitta succinea,wildlife (aquatic invertebrate),reported_species
+usgs,allocapnia,wildlife (aquatic invertebrate),reported_species
+usgs,alloperla,wildlife (aquatic invertebrate),reported_species
+usgs,alnus,vegetation,reported_species
+usgs,alosa pseudoharengus,wildlife (fish),reported_species
+usgs,alosa sapidissima,wildlife (fish),reported_species
+usgs,ambloplites constellatus,wildlife (fish),reported_species
+usgs,ambloplites rupestris,wildlife (fish),reported_species
+usgs,ameiurus,wildlife (fish),reported_species
+usgs,ameiurus brunneus,wildlife (fish),reported_species
+usgs,ameiurus catus,wildlife (fish),reported_species
+usgs,ameiurus melas,wildlife (fish),reported_species
+usgs,ameiurus natalis,wildlife (fish),reported_species
+usgs,ameiurus nebulosus,wildlife (fish),reported_species
+usgs,ameletus,wildlife (aquatic invertebrate),reported_species
+usgs,americamysis bahia,wildlife (aquatic invertebrate),reported_species
+usgs,amia calva,wildlife (fish),reported_species
+usgs,amnicola limosus,wildlife (aquatic invertebrate),reported_species
+usgs,ampelisca,wildlife (aquatic invertebrate),reported_species
+usgs,ampelisca abdita,wildlife (aquatic invertebrate),reported_species
+usgs,ampelisca macrocephala,wildlife (aquatic invertebrate),reported_species
+usgs,amphinemura,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,amphinemura banksi,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,amphipoda,wildlife (aquatic invertebrate),reported_species
+usgs,amphistichus argenteus,wildlife (fish),reported_species
+usgs,amphitrite ornata,wildlife (aquatic invertebrate),reported_species
+usgs,ancylidae,wildlife (aquatic invertebrate),reported_species
+usgs,ancyronyx,wildlife (aquatic invertebrate),reported_species
+usgs,anguilla rostrata,wildlife (aquatic invertebrate),reported_species
+usgs,animalia,wildlife (aquatic invertebrate),reported_species
+usgs,animalia,"NA",reported_species
+usgs,anisoptera,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,anthopotamus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,anthozoa (anthozoa),wildlife (aquatic invertebrate),reported_species
+usgs,antocha,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,apatania,wildlife (aquatic invertebrate),reported_species
+usgs,aplodinotus grunniens,wildlife (fish),reported_species
+usgs,arabella iricolor,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,archocentrus nigrofasciatus,wildlife (fish),reported_species
+usgs,archoplites interruptus,wildlife (fish),reported_species
+usgs,archosargus probatocephalus,wildlife (fish),reported_species
+usgs,arcteonais lomondi,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,arctopsyche,wildlife (aquatic invertebrate),reported_species
+usgs,argia,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,asellidae,wildlife (aquatic invertebrate),reported_species
+usgs,atherinops affinis,wildlife (fish),reported_species
+usgs,atherinopsis californiensis,wildlife (fish),reported_species
+usgs,atherix,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,aulodrilus americanus,wildlife (aquatic invertebrate),reported_species
+usgs,aulodrilus limnobius,wildlife (aquatic invertebrate),reported_species
+usgs,aulodrilus pigueti,wildlife (aquatic invertebrate),reported_species
+usgs,aulodrilus pluriseta,wildlife (aquatic invertebrate),reported_species
+usgs,baetidae,wildlife (aquatic invertebrate),reported_species
+usgs,baetis,wildlife (aquatic invertebrate),reported_species
+usgs,baetis bicaudatus,wildlife (aquatic invertebrate),reported_species
+usgs,baetis brunneicolor,wildlife (aquatic invertebrate),reported_species
+usgs,baetis tricaudatus,wildlife (aquatic invertebrate),reported_species
+usgs,bathyporeia quoddyensis,wildlife (aquatic invertebrate),reported_species
+usgs,bidyanus bidyanus,wildlife (fish),reported_species
+usgs,bivalvia,wildlife (aquatic invertebrate),reported_species
+usgs,bothidae,wildlife (fish),reported_species
+usgs,boyeria,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,brachiopoda,wildlife (aquatic invertebrate),reported_species
+usgs,brachycentrus,wildlife (aquatic invertebrate),reported_species
+usgs,brachycentrus americanus,wildlife (aquatic invertebrate),reported_species
+usgs,brachycentrus occidentalis,wildlife (aquatic invertebrate),reported_species
+usgs,brachyura,wildlife (aquatic invertebrate),reported_species
+usgs,branchiura sowerbyi,wildlife (aquatic invertebrate),reported_species
+usgs,brillia,wildlife (aquatic invertebrate),reported_species
+usgs,caecidotea,wildlife (aquatic invertebrate),reported_species
+usgs,caecidotea communis,wildlife (aquatic invertebrate),reported_species
+usgs,caecidotea racovitzai,wildlife (aquatic invertebrate),reported_species
+usgs,caenis,wildlife (aquatic invertebrate),reported_species
+usgs,calopterygidae,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,calopteryx maculata,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,campeloma decisum,wildlife (aquatic invertebrate),reported_species
+usgs,campostoma anomalum,wildlife (aquatic invertebrate),reported_species
+usgs,capitella,wildlife (aquatic invertebrate),reported_species
+usgs,capniidae,wildlife (aquatic invertebrate),reported_species
+usgs,carassius auratus,wildlife (fish),reported_species
+usgs,cardiidae,wildlife (aquatic invertebrate),reported_species
+usgs,carpiodes,wildlife (fish),reported_species
+usgs,carpiodes carpio,wildlife (fish),reported_species
+usgs,carpiodes cyprinus,wildlife (fish),reported_species
+usgs,"catenulida (platyhelminthes), acoelomorpha, r",wildlife (terrestrial invertebrates/worms),reported_species
+usgs,catostomus catostomus,wildlife (fish),reported_species
+usgs,catostomus clarkii,wildlife (fish),reported_species
+usgs,catostomus columbianus,wildlife (fish),reported_species
+usgs,catostomus commersoni***retired***use catosto,wildlife (fish),reported_species
+usgs,catostomus commersonii,wildlife (fish),reported_species
+usgs,catostomus macrocheilus,wildlife (fish),reported_species
+usgs,catostomus occidentalis,wildlife (fish),reported_species
+usgs,catostomus tahoensis,wildlife (fish),reported_species
+usgs,centrarchidae,wildlife (fish),reported_species
+usgs,centropristis striata,wildlife (fish),reported_species
+usgs,cerastoderma edule,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopogon,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopogonidae,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopogoninae,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopsyche,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopsyche bronta,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopsyche slossonae,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopsyche sparna,wildlife (aquatic invertebrate),reported_species
+usgs,ceratopsyche walkeri,wildlife (aquatic invertebrate),reported_species
+usgs,ceriodaphnia dubia,wildlife (aquatic invertebrate),reported_species
+usgs,chaenobryttus gulosus***retired***use lepomis,wildlife (fish),reported_species
+usgs,chaetocladius,wildlife (aquatic invertebrate),reported_species
+usgs,chaetogaster diaphanus,wildlife (aquatic invertebrate),reported_species
+usgs,chaetogaster diastrophus,wildlife (aquatic invertebrate),reported_species
+usgs,channa argus,wildlife (fish),reported_species
+usgs,chelifera,wildlife (aquatic invertebrate),reported_species
+usgs,chelipoda,wildlife (aquatic invertebrate),reported_species
+usgs,chelydra serpentina,wildlife (terrestrial vertebrates),reported_species
+usgs,cheumatopsyche,wildlife (aquatic invertebrate),reported_species
+usgs,chimarra,wildlife (aquatic invertebrate),reported_species
+usgs,chironomidae,wildlife (aquatic invertebrate),reported_species
+usgs,chironominae,wildlife (aquatic invertebrate),reported_species
+usgs,chironomus,wildlife (aquatic invertebrate),reported_species
+usgs,chloroperlidae,wildlife (aquatic invertebrate),reported_species
+usgs,choroterpes,wildlife (aquatic invertebrate),reported_species
+usgs,chrysops,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,cincinnatia cincinnatiensis,wildlife (aquatic invertebrate),reported_species
+usgs,cinygmula,wildlife (aquatic invertebrate),reported_species
+usgs,cipangopaludina chinensis,wildlife (aquatic invertebrate),reported_species
+usgs,citharichthys sordidus,wildlife (fish),reported_species
+usgs,cladotanytarsus,wildlife (aquatic invertebrate),reported_species
+usgs,clinocardium nuttallii,wildlife (aquatic invertebrate),reported_species
+usgs,clinocera,wildlife (aquatic invertebrate),reported_species
+usgs,clymenella torquata,wildlife (aquatic invertebrate),reported_species
+usgs,conchapelopia,wildlife (aquatic invertebrate),reported_species
+usgs,corbicula,wildlife (aquatic invertebrate),reported_species
+usgs,corbicula fluminea,wildlife (aquatic invertebrate),reported_species
+usgs,cordulegaster,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,cordulegaster maculata,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,cordulegaster obliqua,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,coregonus albula,wildlife (fish),reported_species
+usgs,coregonus artedi,wildlife (fish),reported_species
+usgs,coregonus clupeaformis,wildlife (fish),reported_species
+usgs,coregonus hoyi,wildlife (fish),reported_species
+usgs,coregonus kiyi,wildlife (fish),reported_species
+usgs,coregonus zenithicus,wildlife (fish),reported_species
+usgs,corophium,wildlife (aquatic invertebrate),reported_species
+usgs,corophium volutator,wildlife (aquatic invertebrate),reported_species
+usgs,corydalus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,corynoneura,wildlife (aquatic invertebrate),reported_species
+usgs,costoanachis,wildlife (aquatic invertebrate),reported_species
+usgs,cottus,wildlife (fish),reported_species
+usgs,cottus bairdii,wildlife (fish),reported_species
+usgs,cottus cognatus,wildlife (fish),reported_species
+usgs,cottus girardi,wildlife (fish),reported_species
+usgs,crangon septemspinosa,NA,NA
+usgs,crangonyx,wildlife (aquatic invertebrate),reported_species
+usgs,crepidula fornicata,wildlife (aquatic invertebrate),reported_species
+usgs,crepidula plana,wildlife (aquatic invertebrate),reported_species
+usgs,cricotopus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,cryptochironomus,wildlife (aquatic invertebrate),reported_species
+usgs,cryptolabis,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,cryptonatica affinis,wildlife (aquatic invertebrate),reported_species
+usgs,ctenopharyngodon idella,wildlife (fish),reported_species
+usgs,cultus,wildlife (aquatic invertebrate),reported_species
+usgs,cyathura polita,wildlife (aquatic invertebrate),reported_species
+usgs,cymatogaster aggregata,wildlife (fish),reported_species
+usgs,cynoscion nebulosus,wildlife (fish),reported_species
+usgs,cyprinella spiloptera,wildlife (fish),reported_species
+usgs,cyprinidae,wildlife (fish),reported_species
+usgs,cyprinodon variegatus,wildlife (fish),reported_species
+usgs,cyprinus carpio,wildlife (fish),reported_species
+usgs,dasyhelea,wildlife (aquatic invertebrate),reported_species
+usgs,diamesa,wildlife (aquatic invertebrate),reported_species
+usgs,dicranota,wildlife (aquatic invertebrate),reported_species
+usgs,dicrotendipes,wildlife (aquatic invertebrate),reported_species
+usgs,dicrotendipes fumidus,wildlife (aquatic invertebrate),reported_species
+usgs,dineutus,wildlife (aquatic invertebrate),reported_species
+usgs,diphetor,wildlife (aquatic invertebrate),reported_species
+usgs,diplectrona,wildlife (aquatic invertebrate),reported_species
+usgs,diplectrona modesta,wildlife (aquatic invertebrate),reported_species
+usgs,diplocladius cultriger,wildlife (aquatic invertebrate),reported_species
+usgs,diporeia,wildlife (aquatic invertebrate),reported_species
+usgs,diptera,wildlife (aquatic invertebrate),reported_species
+usgs,dolophilodes,wildlife (aquatic invertebrate),reported_species
+usgs,dorosoma cepedianum,wildlife (fish),reported_species
+usgs,dorosoma petenense,wildlife (fish),reported_species
+usgs,dreissena bugensis,wildlife (aquatic invertebrate),reported_species
+usgs,dreissena polymorpha,wildlife (aquatic invertebrate),reported_species
+usgs,drunella,wildlife (aquatic invertebrate),reported_species
+usgs,drunella coloradensis,wildlife (aquatic invertebrate),reported_species
+usgs,drunella doddsii,wildlife (aquatic invertebrate),reported_species
+usgs,drunella grandis,wildlife (aquatic invertebrate),reported_species
+usgs,dubiraphia,wildlife (aquatic invertebrate),reported_species
+usgs,dubiraphia minima,wildlife (aquatic invertebrate),reported_species
+usgs,dubiraphia quadrinotata,wildlife (aquatic invertebrate),reported_species
+usgs,echinogammarus,wildlife (aquatic invertebrate),reported_species
+usgs,ectemnia,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,embiotoca jacksoni,wildlife (fish),reported_species
+usgs,enallagma,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,enchytraeidae,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,engraulis mordax,wildlife (fish),reported_species
+usgs,eohaustorius estuarius,wildlife (aquatic invertebrate),reported_species
+usgs,epeorus,wildlife (aquatic invertebrate),reported_species
+usgs,epeorus deceptivus,wildlife (aquatic invertebrate),reported_species
+usgs,epeorus vitreus,wildlife (aquatic invertebrate),reported_species
+usgs,ephemera (ephemeridae),wildlife (aquatic invertebrate),reported_species
+usgs,ephemera simulans,wildlife (aquatic invertebrate),reported_species
+usgs,ephemerella,wildlife (aquatic invertebrate),reported_species
+usgs,ephemerella excrucians,wildlife (aquatic invertebrate),reported_species
+usgs,ephemerella subvaria,wildlife (aquatic invertebrate),reported_species
+usgs,ephemeroptera,wildlife (aquatic invertebrate),reported_species
+usgs,ephoron,wildlife (aquatic invertebrate),reported_species
+usgs,erimyzon oblongus,wildlife (fish),reported_species
+usgs,erioptera,wildlife (aquatic invertebrate),reported_species
+usgs,esox americanus,wildlife (fish),reported_species
+usgs,esox lucius,wildlife (fish),reported_species
+usgs,esox masquinongy,wildlife (fish),reported_species
+usgs,esox niger,wildlife (fish),reported_species
+usgs,eteone,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,eteone heteropoda,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,etheostoma blennioides,wildlife (fish),reported_species
+usgs,etheostoma exile,wildlife (fish),reported_species
+usgs,etheostoma flabellare,wildlife (fish),reported_species
+usgs,etheostoma olmstedi,wildlife (fish),reported_species
+usgs,etheostoma zonale,wildlife (fish),reported_species
+usgs,eukiefferiella,wildlife (aquatic invertebrate),reported_species
+usgs,eurylophella,wildlife (aquatic invertebrate),reported_species
+usgs,eurylophella funeralis,wildlife (aquatic invertebrate),reported_species
+usgs,eurytemora affinis,wildlife (aquatic invertebrate),reported_species
+usgs,exoglossum maxillingua,wildlife (fish),reported_species
+usgs,exopalaemon modestus,wildlife (aquatic invertebrate),reported_species
+usgs,farfantepenaeus aztecus,wildlife (aquatic invertebrate),reported_species
+usgs,ferrissia,wildlife (aquatic invertebrate),reported_species
+usgs,fundulus notatus,wildlife (fish),reported_species
+usgs,fundulus parvipinnis,wildlife (fish),reported_species
+usgs,gambusia affinis,wildlife (fish),reported_species
+usgs,gammaridae,wildlife (aquatic invertebrate),reported_species
+usgs,gammarus,wildlife (aquatic invertebrate),reported_species
+usgs,gammarus pseudolimnaeus,wildlife (aquatic invertebrate),reported_species
+usgs,gasterosteus aculeatus,wildlife (fish),reported_species
+usgs,gastropoda,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,genyonemus lineatus,wildlife (fish),reported_species
+usgs,gila bicolor***retired***use siphateles bicol,wildlife (fish),reported_species
+usgs,gila coerulea,wildlife (fish),reported_species
+usgs,girardia tigrina,wildlife (aquatic invertebrate),reported_species
+usgs,gloiobdella elongata,wildlife (aquatic invertebrate),reported_species
+usgs,glossiphonia complanata,wildlife (aquatic invertebrate),reported_species
+usgs,glossosoma,wildlife (aquatic invertebrate),reported_species
+usgs,glossosoma intermedium,wildlife (aquatic invertebrate),reported_species
+usgs,glossosomatidae,wildlife (aquatic invertebrate),reported_species
+usgs,glycera,wildlife (aquatic invertebrate),reported_species
+usgs,glycera americana,wildlife (aquatic invertebrate),reported_species
+usgs,gomphidae,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,gomphus,vegetation,reported_species
+usgs,goniobasis,wildlife (aquatic invertebrate),reported_species
+usgs,gyrinidae,wildlife (aquatic invertebrate),reported_species
+usgs,habrophlebia,wildlife (aquatic invertebrate),reported_species
+usgs,habrophlebiodes,wildlife (aquatic invertebrate),reported_species
+usgs,haploperla,wildlife (aquatic invertebrate),reported_species
+usgs,harmothoe extenuata,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,harnischia,wildlife (aquatic invertebrate),reported_species
+usgs,heleniella,wildlife (aquatic invertebrate),reported_species
+usgs,helobdella stagnalis,wildlife (aquatic invertebrate),reported_species
+usgs,helopicus,wildlife (aquatic invertebrate),reported_species
+usgs,hemerodromia,wildlife (aquatic invertebrate),reported_species
+usgs,heptagenia,wildlife (aquatic invertebrate),reported_species
+usgs,hesperoleucus symmetricus,wildlife (fish),reported_species
+usgs,hesperoperla pacifica,wildlife (aquatic invertebrate),reported_species
+usgs,hesperophylax,wildlife (aquatic invertebrate),reported_species
+usgs,hetaerina,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,heterlimnius corpulentus,wildlife (aquatic invertebrate),reported_species
+usgs,heterotrissocladius,wildlife (aquatic invertebrate),reported_species
+usgs,heterotrissocladius marcidus,wildlife (aquatic invertebrate),reported_species
+usgs,heterotrissocladius subpilosus,wildlife (aquatic invertebrate),reported_species
+usgs,hexagenia,wildlife (aquatic invertebrate),reported_species
+usgs,hexagrammos decagrammus,wildlife (fish),reported_species
+usgs,hexatoma,wildlife (aquatic invertebrate),reported_species
+usgs,hirudinea***retired***use hirudinea (clitella,wildlife (aquatic invertebrate),reported_species
+usgs,homarus americanus,wildlife (aquatic invertebrate),reported_species
+usgs,hyalella azteca,wildlife (aquatic invertebrate),reported_species
+usgs,hydatophylax argus,wildlife (aquatic invertebrate),reported_species
+usgs,hydra,wildlife (aquatic invertebrate),reported_species
+usgs,hydracarina,wildlife (aquatic invertebrate),reported_species
+usgs,hydrobaenus,wildlife (aquatic invertebrate),reported_species
+usgs,hydrobiidae,wildlife (aquatic invertebrate),reported_species
+usgs,hydrolimax grisea,wildlife (aquatic invertebrate),reported_species
+usgs,hydropsyche,wildlife (aquatic invertebrate),reported_species
+usgs,hydropsyche betteni,wildlife (aquatic invertebrate),reported_species
+usgs,hydropsychidae,wildlife (aquatic invertebrate),reported_species
+usgs,hydroptila,wildlife (aquatic invertebrate),reported_species
+usgs,hypentelium nigricans,wildlife (fish),reported_species
+usgs,hyperprosopon argenteum,wildlife (fish),reported_species
+usgs,hypophthalmichthys,wildlife (fish),reported_species
+usgs,hypophthalmichthys molitrix,wildlife (fish),reported_species
+usgs,hypophthalmichthys nobilis,wildlife (fish),reported_species
+usgs,hypostomus plecostomus,wildlife (fish),reported_species
+usgs,hypsurus caryi,wildlife (fish),reported_species
+usgs,hysterocarpus traskii,wildlife (fish),reported_species
+usgs,ictalurus furcatus,wildlife (fish),reported_species
+usgs,ictalurus punctatus,wildlife (fish),reported_species
+usgs,ictiobus bubalus,wildlife (fish),reported_species
+usgs,ictiobus cyprinellus,wildlife (fish),reported_species
+usgs,ictiobus niger,wildlife (fish),reported_species
+usgs,idotea metallica,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,ilyodrilus templetoni,wildlife (aquatic invertebrate),reported_species
+usgs,isochaetides freyi,wildlife (aquatic invertebrate),reported_species
+usgs,isonychia,wildlife (aquatic invertebrate),reported_species
+usgs,isoperla,wildlife (aquatic invertebrate),reported_species
+usgs,isoperla signata,wildlife (aquatic invertebrate),reported_species
+usgs,isoperla transmarina,wildlife (aquatic invertebrate),reported_species
+usgs,labrundinia,wildlife (aquatic invertebrate),reported_species
+usgs,lebertia,wildlife (aquatic invertebrate),reported_species
+usgs,lepidostoma,wildlife (aquatic invertebrate),reported_species
+usgs,lepisosteus osseus,wildlife (fish),reported_species
+usgs,lepomis,wildlife (fish),reported_species
+usgs,lepomis auritus,wildlife (fish),reported_species
+usgs,lepomis cyanellus,wildlife (fish),reported_species
+usgs,lepomis gibbosus,wildlife (fish),reported_species
+usgs,lepomis macrochirus,wildlife (fish),reported_species
+usgs,lepomis megalotis,wildlife (fish),reported_species
+usgs,lepomis microlophus,wildlife (fish),reported_species
+usgs,leptocheirus plumulosus,wildlife (aquatic invertebrate),reported_species
+usgs,leptocottus armatus,wildlife (fish),reported_species
+usgs,leptophlebia,wildlife (aquatic invertebrate),reported_species
+usgs,leptophlebiidae,wildlife (aquatic invertebrate),reported_species
+usgs,leucon americanus,wildlife (aquatic invertebrate),reported_species
+usgs,leucotrichia,wildlife (aquatic invertebrate),reported_species
+usgs,leucotrichia pictipes,wildlife (aquatic invertebrate),reported_species
+usgs,leucrocuta,wildlife (aquatic invertebrate),reported_species
+usgs,leuctra,wildlife (aquatic invertebrate),reported_species
+usgs,leuctridae,wildlife (aquatic invertebrate),reported_species
+usgs,limnephilidae,wildlife (aquatic invertebrate),reported_species
+usgs,limnephilus rhombicus,wildlife (aquatic invertebrate),reported_species
+usgs,limnodrilus cervix,wildlife (aquatic invertebrate),reported_species
+usgs,limnodrilus claparedeianus,wildlife (aquatic invertebrate),reported_species
+usgs,limnodrilus hoffmeisteri,wildlife (aquatic invertebrate),reported_species
+usgs,limnodrilus profundicola,wildlife (aquatic invertebrate),reported_species
+usgs,limnodrilus udekemianus,wildlife (aquatic invertebrate),reported_species
+usgs,limnophyes,wildlife (aquatic invertebrate),reported_species
+usgs,liodessus affinis,wildlife (aquatic invertebrate),reported_species
+usgs,lobotes surinamensis,wildlife (fish),reported_species
+usgs,lota lota,wildlife (fish),reported_species
+usgs,lumbriculidae,wildlife (aquatic invertebrate),reported_species
+usgs,lutjanus kasmira,wildlife (fish),reported_species
+usgs,luxilus chrysocephalus,wildlife (fish),reported_species
+usgs,luxilus cornutus,wildlife (fish),reported_species
+usgs,lymnaeidae,wildlife (aquatic invertebrate),reported_species
+usgs,lype diversa,wildlife (aquatic invertebrate),reported_species
+usgs,lysichiton americanus,vegetation,reported_species
+usgs,maccaffertium,wildlife (aquatic invertebrate),reported_species
+usgs,maccaffertium modestum,wildlife (aquatic invertebrate),reported_species
+usgs,maccaffertium vicarium,wildlife (aquatic invertebrate),reported_species
+usgs,macronychus,wildlife (aquatic invertebrate),reported_species
+usgs,macronychus glabratus,wildlife (aquatic invertebrate),reported_species
+usgs,macropelopia,wildlife (aquatic invertebrate),reported_species
+usgs,magnoliopsida,vegetation,reported_species
+usgs,malus,vegetation,reported_species
+usgs,manayunkia speciosa,wildlife (aquatic invertebrate),reported_species
+usgs,margaritifera falcata,wildlife (aquatic invertebrate),reported_species
+usgs,marphysa sanguinea,wildlife (aquatic invertebrate),reported_species
+usgs,megarcys signata,wildlife (aquatic invertebrate),reported_species
+usgs,menidia beryllina,wildlife (fish),reported_species
+usgs,menticirrhus,wildlife (fish),reported_species
+usgs,menticirrhus americanus,wildlife (fish),reported_species
+usgs,mercenaria,wildlife (aquatic invertebrate),reported_species
+usgs,mercenaria mercenaria,wildlife (aquatic invertebrate),reported_species
+usgs,metacarcinus magister,wildlife (aquatic invertebrate),reported_species
+usgs,micrasema wataga,wildlife (aquatic invertebrate),reported_species
+usgs,microchironomus,wildlife (aquatic invertebrate),reported_species
+usgs,micropsectra,wildlife (aquatic invertebrate),reported_species
+usgs,micropterus,wildlife (fish),reported_species
+usgs,micropterus cataractae,wildlife (fish),reported_species
+usgs,micropterus dolomieu,wildlife (fish),reported_species
+usgs,micropterus dolomieui***retired***use micropt,wildlife (fish),reported_species
+usgs,micropterus punctulatus,wildlife (fish),reported_species
+usgs,micropterus salmoides,wildlife (fish),reported_species
+usgs,microtendipes,wildlife (aquatic invertebrate),reported_species
+usgs,minytrema melanops,wildlife (fish),reported_species
+usgs,molanna,wildlife (aquatic invertebrate),reported_species
+usgs,mollusca,wildlife (aquatic invertebrate),reported_species
+usgs,molophilus,wildlife (aquatic invertebrate),reported_species
+usgs,mooreobdella microstoma,wildlife (aquatic invertebrate),reported_species
+usgs,morone,wildlife (fish),reported_species
+usgs,morone americana,wildlife (fish),reported_species
+usgs,morone chrysops,wildlife (fish),reported_species
+usgs,morone mississippiensis,wildlife (fish),reported_species
+usgs,morone saxatilis,wildlife (fish),reported_species
+usgs,morone saxatilis x chrysops,wildlife (fish),reported_species
+usgs,moxostoma anisurum,wildlife (fish),reported_species
+usgs,moxostoma breviceps,wildlife (fish),reported_species
+usgs,moxostoma duquesnii,wildlife (fish),reported_species
+usgs,moxostoma erythrurum,wildlife (fish),reported_species
+usgs,moxostoma macrolepidotum,wildlife (fish),reported_species
+usgs,moxostoma valenciennesi,wildlife (fish),reported_species
+usgs,mugil cephalus,wildlife (fish),reported_species
+usgs,mugilidae,wildlife (fish),reported_species
+usgs,mulinia lateralis,wildlife (aquatic invertebrate),reported_species
+usgs,mya arenaria,wildlife (aquatic invertebrate),reported_species
+usgs,myliobatis californica,wildlife (fish),reported_species
+usgs,mylocheilus caurinus,wildlife (fish),reported_species
+usgs,mylopharodon conocephalus,wildlife (fish),reported_species
+usgs,myoxocephalus thompsonii,wildlife (fish),reported_species
+usgs,mysis,wildlife (aquatic invertebrate),reported_species
+usgs,mysis relicta,wildlife (aquatic invertebrate),reported_species
+usgs,mytilus californianus,wildlife (aquatic invertebrate),reported_species
+usgs,mytilus edulis,wildlife (aquatic invertebrate),reported_species
+usgs,mytilus galloprovincialis,wildlife (aquatic invertebrate),reported_species
+usgs,naididae,wildlife (aquatic invertebrate),reported_species
+usgs,nais behningi,wildlife (aquatic invertebrate),reported_species
+usgs,nais bretscheri,wildlife (aquatic invertebrate),reported_species
+usgs,nais communis,wildlife (aquatic invertebrate),reported_species
+usgs,nais simplex,wildlife (aquatic invertebrate),reported_species
+usgs,nais variabilis,wildlife (aquatic invertebrate),reported_species
+usgs,nanocladius,wildlife (aquatic invertebrate),reported_species
+usgs,nanocladius branchicolus,wildlife (aquatic invertebrate),reported_species
+usgs,nassarius obsoletus,wildlife (aquatic invertebrate),reported_species
+usgs,natarsia,wildlife (aquatic invertebrate),reported_species
+usgs,nematoda,wildlife (aquatic invertebrate),reported_species
+usgs,nemertea,wildlife (aquatic invertebrate),reported_species
+usgs,nemoura trispinosa,wildlife (aquatic invertebrate),reported_species
+usgs,neogobius melanostomus,wildlife (fish),reported_species
+usgs,neomysis americana,wildlife (aquatic invertebrate),reported_species
+usgs,neoperla,wildlife (aquatic invertebrate),reported_species
+usgs,neophylax,wildlife (aquatic invertebrate),reported_species
+usgs,neoplasta,wildlife (aquatic invertebrate),reported_species
+usgs,neoplea striola,wildlife (aquatic invertebrate),reported_species
+usgs,neothremma,wildlife (aquatic invertebrate),reported_species
+usgs,nephropidae,wildlife (aquatic invertebrate),reported_species
+usgs,nephtys,wildlife (aquatic invertebrate),reported_species
+usgs,nephtys incisa,wildlife (aquatic invertebrate),reported_species
+usgs,nereis,wildlife (aquatic invertebrate),reported_species
+usgs,neureclipsis,wildlife (aquatic invertebrate),reported_species
+usgs,nigronia,wildlife (aquatic invertebrate),reported_species
+usgs,nigronia serricornis,wildlife (aquatic invertebrate),reported_species
+usgs,nilotanypus,wildlife (aquatic invertebrate),reported_species
+usgs,nocomis biguttatus,wildlife (fish),reported_species
+usgs,nocomis micropogon,wildlife (fish),reported_species
+usgs,notemigonus crysoleucas,wildlife (fish),reported_species
+usgs,notropis hudsonius,wildlife (fish),reported_species
+usgs,notropis rubellus,wildlife (fish),reported_species
+usgs,notropis volucellus,wildlife (fish),reported_species
+usgs,noturus insignis,wildlife (fish),reported_species
+usgs,nucula,wildlife (aquatic invertebrate),reported_species
+usgs,nuttallia obscurata,wildlife (aquatic invertebrate),reported_species
+usgs,nyctiophylax (paranyctiophylax),wildlife (aquatic invertebrate),reported_species
+usgs,oligochaeta (oligochaeta),wildlife (terrestrial invertebrates/worms),reported_species
+usgs,oligochaeta***retired***use oligochaeta (clit,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,oncorhynchus clarki,wildlife (fish),reported_species
+usgs,oncorhynchus clarkii,wildlife (fish),reported_species
+usgs,oncorhynchus clarkii lewisi,wildlife (fish),reported_species
+usgs,oncorhynchus kisutch,wildlife (fish),reported_species
+usgs,oncorhynchus mykiss,wildlife (fish),reported_species
+usgs,oncorhynchus nerka,wildlife (fish),reported_species
+usgs,oncorhynchus tshawytscha,wildlife (fish),reported_species
+usgs,ophidonais serpentina,wildlife (aquatic invertebrate),reported_species
+usgs,ophiodon elongatus,wildlife (fish),reported_species
+usgs,ophiogomphus,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,optioservus,wildlife (aquatic invertebrate),reported_species
+usgs,optioservus fastiditus,wildlife (aquatic invertebrate),reported_species
+usgs,optioservus trivittatus,wildlife (aquatic invertebrate),reported_species
+usgs,orconectes,wildlife (aquatic invertebrate),reported_species
+usgs,orconectes rusticus,wildlife (aquatic invertebrate),reported_species
+usgs,oreogeton,wildlife (aquatic invertebrate),reported_species
+usgs,ormosia (eriopterini),wildlife (aquatic invertebrate),reported_species
+usgs,orthocladiinae,wildlife (aquatic invertebrate),reported_species
+usgs,orthocladius,wildlife (aquatic invertebrate),reported_species
+usgs,orthocladius lignicola,wildlife (aquatic invertebrate),reported_species
+usgs,orthodon microlepidotus,wildlife (fish),reported_species
+usgs,osmerus mordax,wildlife (fish),reported_species
+usgs,osteichthyes,wildlife (fish),reported_species
+usgs,ostrea lurida,wildlife (aquatic invertebrate),reported_species
+usgs,oulimnius,wildlife (aquatic invertebrate),reported_species
+usgs,pacifastacus leniusculus,wildlife (aquatic invertebrate),reported_species
+usgs,pagastia,wildlife (aquatic invertebrate),reported_species
+usgs,pagurus,wildlife (aquatic invertebrate),reported_species
+usgs,panulirus interruptus,wildlife (aquatic invertebrate),reported_species
+usgs,paracapnia,wildlife (aquatic invertebrate),reported_species
+usgs,paracladopelma,wildlife (aquatic invertebrate),reported_species
+usgs,paracladopelma undine,wildlife (aquatic invertebrate),reported_species
+usgs,paracladopelma winnelli,wildlife (aquatic invertebrate),reported_species
+usgs,paragnetina,wildlife (aquatic invertebrate),reported_species
+usgs,parakiefferiella,wildlife (aquatic invertebrate),reported_species
+usgs,paralabrax maculatofasciatus,wildlife (fish),reported_species
+usgs,paralauterborniella,wildlife (aquatic invertebrate),reported_species
+usgs,paralauterborniella nigrohalterale,wildlife (aquatic invertebrate),reported_species
+usgs,paralauterborniella nigrohalteralis,wildlife (aquatic invertebrate),reported_species
+usgs,paraleptophlebia,wildlife (aquatic invertebrate),reported_species
+usgs,paralichthys californicus,wildlife (fish),reported_species
+usgs,paralichthys dentatus,wildlife (fish),reported_species
+usgs,parametriocnemus,wildlife (aquatic invertebrate),reported_species
+usgs,paranais frici,wildlife (aquatic invertebrate),reported_species
+usgs,paraphaenocladius,wildlife (aquatic invertebrate),reported_species
+usgs,paratanytarsus,wildlife (aquatic invertebrate),reported_species
+usgs,paratendipes,wildlife (aquatic invertebrate),reported_species
+usgs,parophrys vetulus,wildlife (fish),reported_species
+usgs,pectinaria,wildlife (aquatic invertebrate),reported_species
+usgs,penaeus,wildlife (aquatic invertebrate),reported_species
+usgs,perca flavescens,wildlife (fish),reported_species
+usgs,percina peltata,wildlife (fish),reported_species
+usgs,pericoma,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,perlesta,wildlife (aquatic invertebrate),reported_species
+usgs,phaenopsectra,wildlife (aquatic invertebrate),reported_species
+usgs,phalacrocorax auritus,wildlife (birds),reported_species
+usgs,phallodrillus hallae,wildlife (aquatic invertebrate),reported_species
+usgs,phanerodon furcatus,wildlife (fish),reported_species
+usgs,pherusa plumosa,wildlife (aquatic invertebrate),reported_species
+usgs,physa,wildlife (aquatic invertebrate),reported_species
+usgs,physidae,wildlife (aquatic invertebrate),reported_species
+usgs,piguetiella blanci,wildlife (aquatic invertebrate),reported_species
+usgs,piguetiella michiganensis,wildlife (aquatic invertebrate),reported_species
+usgs,pimephales notatus,wildlife (fish),reported_species
+usgs,pimephales promelas,wildlife (fish),reported_species
+usgs,pisidiidae,wildlife (aquatic invertebrate),reported_species
+usgs,pisidium,wildlife (aquatic invertebrate),reported_species
+usgs,plantae,vegetation,reported_species
+usgs,platycentropus,wildlife (aquatic invertebrate),reported_species
+usgs,platyhelminthes,wildlife (aquatic invertebrate),reported_species
+usgs,plauditus,wildlife (aquatic invertebrate),reported_species
+usgs,plecoptera,wildlife (aquatic invertebrate),reported_species
+usgs,pleuroceridae,wildlife (aquatic invertebrate),reported_species
+usgs,pleuronectiformes,wildlife (fish),reported_species
+usgs,pleuronichthys verticalis,wildlife (fish),reported_species
+usgs,podmosta,wildlife (aquatic invertebrate),reported_species
+usgs,pogonias cromis,wildlife (fish),reported_species
+usgs,polycelis coronata,wildlife (aquatic invertebrate),reported_species
+usgs,polycentropus,wildlife (aquatic invertebrate),reported_species
+usgs,polydora cornuta,wildlife (aquatic invertebrate),reported_species
+usgs,polypedilum,wildlife (aquatic invertebrate),reported_species
+usgs,polypedilum aviceps,wildlife (aquatic invertebrate),reported_species
+usgs,polypedilum halterale,wildlife (aquatic invertebrate),reported_species
+usgs,polypedilum scalaenum,wildlife (aquatic invertebrate),reported_species
+usgs,polypedilum tuberculum,wildlife (aquatic invertebrate),reported_species
+usgs,pomatomus saltatrix,wildlife (fish),reported_species
+usgs,pomoxis,wildlife (fish),reported_species
+usgs,pomoxis annularis,wildlife (fish),reported_species
+usgs,pomoxis nigromaculatus,wildlife (fish),reported_species
+usgs,pontogeneia inermis,wildlife (aquatic invertebrate),reported_species
+usgs,potamopyrgus antipodarum,wildlife (aquatic invertebrate),reported_species
+usgs,potamothrix bavaricus,wildlife (aquatic invertebrate),reported_species
+usgs,potamothrix bedoti,wildlife (aquatic invertebrate),reported_species
+usgs,potamothrix moldaviensis,wildlife (aquatic invertebrate),reported_species
+usgs,potamothrix vejdovskyi,wildlife (aquatic invertebrate),reported_species
+usgs,potamyia,wildlife (aquatic invertebrate),reported_species
+usgs,potthastia,wildlife (aquatic invertebrate),reported_species
+usgs,potthastia longimana,wildlife (aquatic invertebrate),reported_species
+usgs,prionospio,wildlife (aquatic invertebrate),reported_species
+usgs,prionospio heterobranchia,wildlife (aquatic invertebrate),reported_species
+usgs,prionospio steenstrupi,wildlife (aquatic invertebrate),reported_species
+usgs,probezzia,wildlife (aquatic invertebrate),reported_species
+usgs,probythinella lacustris,wildlife (aquatic invertebrate),reported_species
+usgs,procladius,wildlife (aquatic invertebrate),reported_species
+usgs,procloeon,wildlife (aquatic invertebrate),reported_species
+usgs,promoresia,wildlife (aquatic invertebrate),reported_species
+usgs,prosimulium,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,prosimulium mixtum,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,prosopium cylindraceum,wildlife (fish),reported_species
+usgs,prosopium williamsoni,wildlife (fish),reported_species
+usgs,protanypus,wildlife (aquatic invertebrate),reported_species
+usgs,protohaustorius,wildlife (aquatic invertebrate),reported_species
+usgs,protothaca staminea,wildlife (aquatic invertebrate),reported_species
+usgs,psectrocladius,wildlife (aquatic invertebrate),reported_species
+usgs,psephenus,wildlife (aquatic invertebrate),reported_species
+usgs,pseudocloeon,wildlife (aquatic invertebrate),reported_species
+usgs,pseudodiamesa,wildlife (aquatic invertebrate),reported_species
+usgs,pseudolimnophila,wildlife (aquatic invertebrate),reported_species
+usgs,pseudorthocladius,wildlife (aquatic invertebrate),reported_species
+usgs,psychomyia,wildlife (aquatic invertebrate),reported_species
+usgs,psychomyia flavida,wildlife (aquatic invertebrate),reported_species
+usgs,pteronarcys,wildlife (aquatic invertebrate),reported_species
+usgs,ptychocheilus grandis,wildlife (fish),reported_species
+usgs,ptychocheilus oregonensis,wildlife (fish),reported_species
+usgs,pycnopsyche,wildlife (aquatic invertebrate),reported_species
+usgs,pylodictis olivaris,wildlife (fish),reported_species
+usgs,quistadrilus multisetosus,wildlife (aquatic invertebrate),reported_species
+usgs,rangia cuneata,wildlife (aquatic invertebrate),reported_species
+usgs,remenus,wildlife (aquatic invertebrate),reported_species
+usgs,rhacochilus vacca,wildlife (fish),reported_species
+usgs,rheocricotopus,wildlife (aquatic invertebrate),reported_species
+usgs,rheocricotopus tuberculatus,wildlife (aquatic invertebrate),reported_species
+usgs,rheopelopia,wildlife (aquatic invertebrate),reported_species
+usgs,rheosmittia,wildlife (aquatic invertebrate),reported_species
+usgs,rheotanytarsus,wildlife (aquatic invertebrate),reported_species
+usgs,rhepoxynius epistomus,wildlife (aquatic invertebrate),reported_species
+usgs,rhinichthys atratulus,wildlife (fish),reported_species
+usgs,rhinichthys cataractae,wildlife (fish),reported_species
+usgs,rhithrogena,wildlife (aquatic invertebrate),reported_species
+usgs,rhithrogena jejuna,wildlife (aquatic invertebrate),reported_species
+usgs,rhithropanopeus harrisii,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacodrilus,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacodrilus coccineus,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacodrilus montanus,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacodrilus sodalis,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacophila,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacophila brunnea,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacophila sibirica,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacophila vibox,wildlife (aquatic invertebrate),reported_species
+usgs,rhyacophila vofixa,wildlife (aquatic invertebrate),reported_species
+usgs,rubus spectabilis,vegetation,reported_species
+usgs,sabellaria vulgaris,wildlife (aquatic invertebrate),reported_species
+usgs,salicornia depressa,vegetation,reported_species
+usgs,salmo salar,wildlife (fish),reported_species
+usgs,salmo trutta,wildlife (fish),reported_species
+usgs,salvelinus alpinus,wildlife (fish),reported_species
+usgs,salvelinus confluentus,wildlife (fish),reported_species
+usgs,salvelinus fontinalis,wildlife (fish),reported_species
+usgs,salvelinus namaycush,wildlife (fish),reported_species
+usgs,sander canadensis,wildlife (fish),reported_species
+usgs,sander vitreus,wildlife (fish),reported_species
+usgs,sander vitreus x sander canadensis,wildlife (fish),reported_species
+usgs,saxidomus gigantea,wildlife (aquatic invertebrate),reported_species
+usgs,saxidomus giganteus***retired***use saxidomus,wildlife (aquatic invertebrate),reported_species
+usgs,sciaenops ocellatus,wildlife (fish),reported_species
+usgs,scoloplos robustus,wildlife (aquatic invertebrate),reported_species
+usgs,scomberomorus cavalla,wildlife (fish),reported_species
+usgs,scorpaenichthys marmoratus,wildlife (fish),reported_species
+usgs,sebastes atrovirens,wildlife (fish),reported_species
+usgs,sebastes auriculatus,wildlife (fish),reported_species
+usgs,sebastes carnatus,wildlife (fish),reported_species
+usgs,sebastes caurinus,wildlife (fish),reported_species
+usgs,sebastes chrysomelas,wildlife (fish),reported_species
+usgs,sebastes flavidus,wildlife (fish),reported_species
+usgs,sebastes maliger,wildlife (fish),reported_species
+usgs,sebastes melanops,wildlife (fish),reported_species
+usgs,sebastes miniatus,wildlife (fish),reported_species
+usgs,sebastes mystinus,wildlife (fish),reported_species
+usgs,sebastes nebulosus,wildlife (fish),reported_species
+usgs,sebastes rosaceus,wildlife (fish),reported_species
+usgs,sebastes serranoides,wildlife (fish),reported_species
+usgs,selar crumenophthalmus,wildlife (fish),reported_species
+usgs,semotilus atromaculatus,wildlife (fish),reported_species
+usgs,semotilus corporalis,wildlife (fish),reported_species
+usgs,serranus tigrinus,wildlife (fish),reported_species
+usgs,serratella,wildlife (aquatic invertebrate),reported_species
+usgs,sialis,wildlife (aquatic invertebrate),reported_species
+usgs,siluriformes,wildlife (fish),reported_species
+usgs,simuliidae,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,simulium,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,simulium gouldingi,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,siphateles bicolor,wildlife (fish),reported_species
+usgs,siphlonurus,wildlife (aquatic invertebrate),reported_species
+usgs,slavina appendiculata,wildlife (aquatic invertebrate),reported_species
+usgs,specaria josinae,wildlife (aquatic invertebrate),reported_species
+usgs,sperchon,wildlife (aquatic invertebrate),reported_species
+usgs,sphaeriidae***retired***use pisidiidae,wildlife (aquatic invertebrate),reported_species
+usgs,sphaerium,wildlife (aquatic invertebrate),reported_species
+usgs,spio,wildlife (aquatic invertebrate),reported_species
+usgs,spirosperma ferox,wildlife (aquatic invertebrate),reported_species
+usgs,spirosperma nikolskyi,wildlife (aquatic invertebrate),reported_species
+usgs,stagnicola,wildlife (aquatic invertebrate),reported_species
+usgs,stegopterna,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,stempellinella,wildlife (aquatic invertebrate),reported_species
+usgs,stenacron,wildlife (aquatic invertebrate),reported_species
+usgs,stenacron interpunctatum,wildlife (aquatic invertebrate),reported_species
+usgs,stenelmis,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,stenelmis crenata,wildlife (terrestrial invertebrates/worms),reported_species
+usgs,stenonema,wildlife (aquatic invertebrate),reported_species
+usgs,stephensoniania trivandrana,wildlife (aquatic invertebrate),reported_species
+usgs,sthenelais,wildlife (aquatic invertebrate),reported_species
+usgs,stictochironomus,wildlife (aquatic invertebrate),reported_species
+usgs,stilocladius,wildlife (aquatic invertebrate),reported_species
+usgs,streblospio benedicti,wildlife (aquatic invertebrate),reported_species
+usgs,strongylocentrotus purpuratus,wildlife (aquatic invertebrate),reported_species
+usgs,stylaria lacustris,wildlife (aquatic invertebrate),reported_species
+usgs,stylodrilus heringianus,wildlife (aquatic invertebrate),reported_species
+usgs,stylogomphus,wildlife (aquatic invertebrate),reported_species
+usgs,stylogomphus albistylus,wildlife (aquatic invertebrate),reported_species
+usgs,sublettea,wildlife (aquatic invertebrate),reported_species
+usgs,sweltsa,wildlife (aquatic invertebrate),reported_species
+usgs,synorthocladius,wildlife (aquatic invertebrate),reported_species
+usgs,taenionema,wildlife (aquatic invertebrate),reported_species
+usgs,taeniopterygidae,wildlife (aquatic invertebrate),reported_species
+usgs,taeniopteryx,wildlife (aquatic invertebrate),reported_species
+usgs,tanypodinae,wildlife (aquatic invertebrate),reported_species
+usgs,tanytarsus,wildlife (aquatic invertebrate),reported_species
+usgs,tasserkidrilus americanus,wildlife (aquatic invertebrate),reported_species
+usgs,tasserkidrilus superiorensis,wildlife (aquatic invertebrate),reported_species
+usgs,taxon unknown,"NA",reported_species
+usgs,tellina,wildlife (aquatic invertebrate),reported_species
+usgs,thalassiosira pseudonana,wildlife (aquatic invertebrate),reported_species
+usgs,thalassodrilus hallae,wildlife (aquatic invertebrate),reported_species
+usgs,tharyx,wildlife (aquatic invertebrate),reported_species
+usgs,thienemanniella,wildlife (aquatic invertebrate),reported_species
+usgs,tilapia,wildlife (fish),reported_species
+usgs,tipula,wildlife (aquatic invertebrate),reported_species
+usgs,tipulidae,wildlife (aquatic invertebrate),reported_species
+usgs,trachemys scripta elegans,wildlife (terrestrial vertebrates),reported_species
+usgs,tresus capax,wildlife (aquatic invertebrate),reported_species
+usgs,triakis semifasciata,wildlife (aquatic invertebrate),reported_species
+usgs,tribelos,wildlife (aquatic invertebrate),reported_species
+usgs,tricorythodes,wildlife (aquatic invertebrate),reported_species
+usgs,trissopelopia ogemawi,wildlife (aquatic invertebrate),reported_species
+usgs,tubifex tubifex,wildlife (aquatic invertebrate),reported_species
+usgs,tubificidae,wildlife (aquatic invertebrate),reported_species
+usgs,turbellaria***retired***use catenulida (platy,wildlife (aquatic invertebrate),reported_species
+usgs,tvetenia,wildlife (aquatic invertebrate),reported_species
+usgs,tvetenia vitracies,wildlife (aquatic invertebrate),reported_species
+usgs,umbra limi,wildlife (fish),reported_species
+usgs,uncinais uncinata,wildlife (aquatic invertebrate),reported_species
+usgs,unionoida,wildlife (aquatic invertebrate),reported_species
+usgs,vaccinium,vegetation,reported_species
+usgs,vaccinium parvifolium,vegetation,reported_species
+usgs,valvata,wildlife (aquatic invertebrate),reported_species
+usgs,valvata lewisi,wildlife (aquatic invertebrate),reported_species
+usgs,valvata perdepressa,wildlife (aquatic invertebrate),reported_species
+usgs,valvata sincera,wildlife (aquatic invertebrate),reported_species
+usgs,valvata tricarinata,wildlife (aquatic invertebrate),reported_species
+usgs,vejdovskyella comata,wildlife (aquatic invertebrate),reported_species
+usgs,vejdovskyella intermedia,wildlife (aquatic invertebrate),reported_species
+usgs,yoldia,wildlife (aquatic invertebrate),reported_species
+usgs,zapada cinctipes,wildlife (aquatic invertebrate),reported_species
+usgs,zapada oregonensis,wildlife (aquatic invertebrate),reported_species
+usgs,zavrelimyia,wildlife (aquatic invertebrate),reported_species

@@ -1,0 +1,195 @@
+table,variables,description,Notes,varid
+documents,documentid,Unique database ID for the intermediate raw data file,automated assignment,documents_documentid
+documents,type,Type of document entry is associated with (data or supplemental),user defined in data source input file,documents_type
+documents,source_id,sourceid associated with the file (from source table),links files to source metadata,documents_source_id
+documents,filename,Filename for raw data file,used by developers for tracking and QA,documents_filename
+documents,doc_init,Loading status of the document data (0: has not been initialized into the document table; 1: has been initialized into the document table),used by developers for tracking and QA,documents_doc_init
+documents,created_dt,Timestamp when row entry was created,used for record keeping purposes,documents_created_dt
+documents,created_by,Name of user who created the row entry,used for record keeping purposes,documents_created_by
+documents,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,documents_updated_dt
+documents,updated_by,Name of user who updated the row entry,used for record keeping purposes,documents_updated_by
+documents,record_status_cd,Status of the record (active vs. expired),record management,documents_record_status_cd
+documents,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,documents_record_asesblt_tx
+documents,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,documents_record_exp_dt
+files,file_id,Unique database ID for the intermediate raw data file,automated assignment,files_file_id
+files,location,Local location of raw data file,used by developers for tracking and QA,files_location
+files,filename,Filename for raw data file,used by developers for tracking and QA,files_filename
+files,source_id,sourceid associated with the file (from source table),links files to source metadata,files_source_id
+files,n_records,Number of records in the raw data file,automated calculation,files_n_records
+files,mapped,Mapping status of the raw data (0: has not been mapped to harmonized form; 1: mapping to harmonized form has been completed),used by developers for tracking and QA,files_mapped
+files,harm_init,Harmonization status of the raw data (0: has not been initialized into the harmonized table; 1: has been initialized into the harmonized table),used by developers for tracking and QA,files_harm_init
+files,raw_init,Loading status of the raw data (0: has not been initialized into the raw table; 1: has been initialized into the raw table),used by developers for tracking and QA,files_raw_init
+files,created_dt,Timestamp when row entry was created,used for record keeping purposes,files_created_dt
+files,created_by,Name of user who created the row entry,used for record keeping purposes,files_created_by
+files,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,files_updated_dt
+files,updated_by,Name of user who updated the row entry,used for record keeping purposes,files_updated_by
+files,record_status_cd,Status of the record (active vs. expired),record management,files_record_status_cd
+files,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,files_record_asesblt_tx
+files,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,files_record_exp_dt
+harmonized_aggregate,harmonized_aggregate_id,Unique database ID for this individual table record,automated assignment,harmonized_aggregate_harmonized_aggregate_id
+harmonized_aggregate,record_id,Record ID (row number in raw data file),same as in harmonized_agggregate table - links raw and harmonized variables together and to raw data file,harmonized_aggregate_record_id
+harmonized_aggregate,reported_data_id,Any data ID associated with record in the raw data file (USED?),automated assignment,harmonized_aggregate_reported_data_id
+harmonized_aggregate,reported_species,Any reported species name (biota) reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_species
+harmonized_aggregate,reported_media,Any reported media name reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_media
+harmonized_aggregate,country,Country where sample was collected,direct mapping or generated variable depending on source,harmonized_aggregate_country
+harmonized_aggregate,us_state,U.S. state where sample was collected,direct mapping or generated variable depending on source,harmonized_aggregate_us_state
+harmonized_aggregate,reported_dates,Any reported date information for sample collection in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_dates
+harmonized_aggregate,years,Inclusive year range of sample collection in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_years
+harmonized_aggregate,reported_units,Any reported units included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_units
+harmonized_aggregate,LOQ,"Limit of quantification associated with study, if available","direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_LOQ
+harmonized_aggregate,LOD,"Limit of detection associated with the study, if available","direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_LOD
+harmonized_aggregate,reported_N,Reported sample size,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_N
+harmonized_aggregate,reported_num_detects,Reported number of detections,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_num_detects
+harmonized_aggregate,reported_detect_rate,Reported rate of detection (percent or fraction) included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_detect_rate
+harmonized_aggregate,reported_detect_rate_description,Description of reported detect rate,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_detect_rate_description
+harmonized_aggregate,reported_reference,Any literature reference included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_reference
+harmonized_aggregate,other_limit,Any other method limit reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_other_limit
+harmonized_aggregate,other_limit_description,"Description associated with ""other_limit""","direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_other_limit_description
+harmonized_aggregate,reported_population,Any reported description of the population studied,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_population
+harmonized_aggregate,reported_chemical_name,Any reported chemical name reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_chemical_name
+harmonized_aggregate,reported_casrn,Any reported CAS number reported in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_casrn
+harmonized_aggregate,file_id,fileid associated with this record (from file table),links to file metadata,harmonized_aggregate_file_id
+harmonized_aggregate,source_id,sourceid associated with the table record (from file table; links to source table),links table record to source metadata,harmonized_aggregate_source_id
+harmonized_aggregate,reported_location,Any specific location reported in the raw data that does not fit other location variables (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_location
+harmonized_aggregate,reported_project_id,Any specific project ID reported in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_project_id
+harmonized_aggregate,reported_link,Any web link to location of the record in the original data source,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_link
+harmonized_aggregate,reported_num_nds,Any reported number of non-detects in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_num_nds
+harmonized_aggregate,reported_collection_activity_id,Any reported collection activity ID reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_collection_activity_id
+harmonized_aggregate,reported_statistic,Name of the reported statistic in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_statistic
+harmonized_aggregate,reported_result,Reported value (any format) for reported_statistic,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_result
+harmonized_aggregate,reported_ages,Any reported age range of human subjects included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_ages
+harmonized_aggregate,reported_gender,Any reported gender of human subjects included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_gender
+harmonized_aggregate,reported_nondetect_rate,Reported rate of non-detection (percent or fraction) included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_nondetect_rate
+harmonized_aggregate,reported_nondetect_rate_description,Description of reported nondetect rate,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_nondetect_rate_description
+harmonized_aggregate,reported_race,Any reported race of human subjects included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_race
+harmonized_aggregate,reported_subpopulation,Any reported subpopulation of human subjects included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_aggregate_reported_subpopulation
+harmonized_aggregate,detected,Single variable indicating whether the sample was a detect or not,generated variable,harmonized_aggregate_detected
+harmonized_aggregate,detect_conflict,Flag for whether there was conflict between detect logic flags in determining is the chemical record was “detected” or not,"mapped/generated variable in processing script (NULL=undefined, 0=No, 1=Yes)",harmonized_aggregate_detect_conflict
+harmonized_aggregate,substance_id,substanceid associated with this record (from substance table),links to substance (chemical) metadata,harmonized_aggregate_substance_id
+harmonized_aggregate,media_id,mediaid associated with this record (from media table),links to media metadata,harmonized_aggregate_media_id
+harmonized_aggregate,qc_flag,Flag indicating if raw data included any quality flags for the record ,generated variable,harmonized_aggregate_qc_flag
+harmonized_aggregate,us_county,U.S. county where sample was collected,direct mapping or generated variable depending on source,harmonized_aggregate_us_county
+harmonized_aggregate,created_dt,Timestamp when row entry was created,used for record keeping purposes,harmonized_aggregate_created_dt
+harmonized_aggregate,created_by,Name of user who created the row entry,used for record keeping purposes,harmonized_aggregate_created_by
+harmonized_aggregate,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,harmonized_aggregate_updated_dt
+harmonized_aggregate,updated_by,Name of user who updated the row entry,used for record keeping purposes,harmonized_aggregate_updated_by
+harmonized_aggregate,record_status_cd,Status of the record (active vs. expired),record management,harmonized_aggregate_record_status_cd
+harmonized_aggregate,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,harmonized_aggregate_record_asesblt_tx
+harmonized_aggregate,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,harmonized_aggregate_record_exp_dt
+harmonized_raw,harmonized_raw_id,Unique database ID for this individual table record,automated assignment,harmonized_raw_harmonized_raw_id
+harmonized_raw,reported_collection_activity_id,Any reported collection activity ID reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_collection_activity_id
+harmonized_raw,reported_sample_id,Any reported sample ID reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_sample_id
+harmonized_raw,reported_chemical_name,Any reported chemical name reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_chemical_name
+harmonized_raw,reported_casrn,Any reported CAS number reported in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_casrn
+harmonized_raw,reported_species,Any reported species name (biota) reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_species
+harmonized_raw,reported_media,Any reported media name reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_media
+harmonized_raw,country,Country where sample was collected,direct mapping or generated variable depending on source,harmonized_raw_country
+harmonized_raw,us_state,U.S. state where sample was collected,direct mapping or generated variable depending on source,harmonized_raw_us_state
+harmonized_raw,us_county,U.S. county where sample was collected,direct mapping or generated variable depending on source,harmonized_raw_us_county
+harmonized_raw,reported_location,Any specific location reported in the raw data that does not fit other location variables (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_location
+harmonized_raw,reported_dates,Any reported date of sample collection in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_dates
+harmonized_raw,reported_result,Any reported concentration or sample result included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_result
+harmonized_raw,concentration,The concentration of the chemical found in the sample,generated during data source curation or a post-processing harmonization script (harmonize_sample_units.R). See MMDB New Data Source Post-Processing SOP for more information,harmonized_raw_concentration
+harmonized_raw,reported_units,Any reported units included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_units
+harmonized_raw,LOQ,Limit of quantification associated with sample,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_LOQ
+harmonized_raw,LOD,Limit of detection associated with sample,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_LOD
+harmonized_raw,other_limit,Any other method limit reported in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_other_limit
+harmonized_raw,sample_year,Year of sample collection (4-digit),direct mapping or generated variable depending on source,harmonized_raw_sample_year
+harmonized_raw,sample_month,Month of sample collection (numerical format 1-12),direct mapping or generated variable depending on source,harmonized_raw_sample_month
+harmonized_raw,other_limit_description,"Description associated with ""other_limit""","direct mapping from raw variable, if present, see mapping table in supplement or generated variable from a post-processing harmonization script (harmonize_sample_units.R). See MMDB New Data Source Post-Processing SOP for more information.",harmonized_raw_other_limit_description
+harmonized_raw,nd_flag,Flag indicating if raw data indicated a measurement below the limit of detection,generated variable,harmonized_raw_nd_flag
+harmonized_raw,qc_flag,Flag indicating if raw data included any quality flags for the record,generated variable,harmonized_raw_qc_flag
+harmonized_raw,reported_reference,Any literature reference included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_reference
+harmonized_raw,detect_flag,A character list of flags related to detection logic for the sample. These are used to assign a harmonized “detected” flag in a post-processing step (MMDB New Data Source Post-Processing SOP),"direct mapping from raw variable, if present, see mapping table in supplement or generated during data source curation",harmonized_raw_detect_flag
+harmonized_raw,record_id,Record ID (row number in raw data file),same as in harmonized_agggregate table - links raw and harmonized variables together and to raw data file,harmonized_raw_record_id
+harmonized_raw,file_id,fileid associated with this record (from file table),links to file metadata,harmonized_raw_file_id
+harmonized_raw,source_id,sourceid associated with the table record (from file table; links to source table),links table record to source metadata,harmonized_raw_source_id
+harmonized_raw,reported_analytical_method,Any reported analytical method information included in the raw data (any format),"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_analytical_method
+harmonized_raw,result_flag,Any reported flags associated with the reported concentration result in the raw data,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_result_flag
+harmonized_raw,reported_link,Any web link to location of the record in the original data source,"direct mapping from raw variable, if present, see mapping table in supplement",harmonized_raw_reported_link
+harmonized_raw,detected,Single variable indicating whether the sample was a detect or not,generated variable from post-processing harmonization script (MMDB New Data Source Post-Processing SOP),harmonized_raw_detected
+harmonized_raw,detect_conflict,Flag for whether there was conflict between detect logic flags in determining is the chemical record was “detected” or not,"mapped/generated variable in processing script (NULL=undefined, 0=No, 1=Yes)",harmonized_raw_detect_conflict
+harmonized_raw,substance_id,substanceid associated with this record (from substance table),links to substance (chemical) metadata,harmonized_raw_substance_id
+harmonized_raw,media_id,mediaid associated with this record (from media table),links to media metadata,harmonized_raw_media_id
+harmonized_raw,created_dt,Timestamp when row entry was created,used for record keeping purposes,harmonized_raw_created_dt
+harmonized_raw,created_by,Name of user who created the row entry,used for record keeping purposes,harmonized_raw_created_by
+harmonized_raw,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,harmonized_raw_updated_dt
+harmonized_raw,updated_by,Name of user who updated the row entry,used for record keeping purposes,harmonized_raw_updated_by
+harmonized_raw,record_status_cd,Status of the record (active vs. expired),record management,harmonized_raw_record_status_cd
+harmonized_raw,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,harmonized_raw_record_asesblt_tx
+harmonized_raw,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,harmonized_raw_record_exp_dt
+media,media_id,Unique database ID for the media table record,automated assignment,media_media_id
+media,reported_media,Reported media name in the raw data,"with reported_species, links to harmonized_raw and harmonized_agggregate tables",media_reported_media
+media,harmonized_medium,Harmonized medium associated with the reported_media,generated by database developers; see supplemental media table,media_harmonized_medium
+media,reported_species,Reported species name in the raw data,"with reported_media, links to harmonized_raw and harmonized_agggregate tables",media_reported_species
+media,source_id,sourceid associated with the table record (from file table; links to source table),links table record to source metadata,media_source_id
+media,created_dt,Timestamp when row entry was created,used for record keeping purposes,media_created_dt
+media,created_by,Name of user who created the row entry,used for record keeping purposes,media_created_by
+media,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,media_updated_dt
+media,updated_by,Name of user who updated the row entry,used for record keeping purposes,media_updated_by
+media,record_status_cd,Status of the record (active vs. expired),record management,media_record_status_cd
+media,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,media_record_asesblt_tx
+media,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,media_record_exp_dt
+raw_aggregate_data,aggregateid,Unique database ID for this individual table record,automated assignment,raw_aggregate_data_aggregateid
+raw_aggregate_data,variable_name,Variable name from raw aggregate data file,,raw_aggregate_data_variable_name
+raw_aggregate_data,variable_value,Variable value from raw aggregate data file,,raw_aggregate_data_variable_value
+raw_aggregate_data,file_id,fileid associated with this record (from file table),links to file metadata,raw_aggregate_data_file_id
+raw_aggregate_data,record_id,Record ID (row number in raw data file),same as in harmonized_agggregate table - links raw and harmonized variables together and to raw data file,raw_aggregate_data_record_id
+raw_aggregate_data,source_id,sourceid associated with the table record (from file table; links to source table),links table record to source metadata,raw_aggregate_data_source_id
+raw_aggregate_data,created_dt,Timestamp when row entry was created,used for record keeping purposes,raw_aggregate_data_created_dt
+raw_aggregate_data,created_by,Name of user who created the row entry,used for record keeping purposes,raw_aggregate_data_created_by
+raw_aggregate_data,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,raw_aggregate_data_updated_dt
+raw_aggregate_data,updated_by,Name of user who updated the row entry,used for record keeping purposes,raw_aggregate_data_updated_by
+raw_aggregate_data,record_status_cd,Status of the record (active vs. expired),record management,raw_aggregate_data_record_status_cd
+raw_aggregate_data,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,raw_aggregate_data_record_asesblt_tx
+raw_aggregate_data,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,raw_aggregate_data_record_exp_dt
+raw_data,sampleid,Unique database ID for this individual table record,automated assignment,raw_data_sampleid
+raw_data,variable_name,Variable name from raw data file,,raw_data_variable_name
+raw_data,variable_value,Variable value from raw data file,,raw_data_variable_value
+raw_data,file_id,fileid associated with this record (from file table),links to file metadata,raw_data_file_id
+raw_data,record_id,Record ID (row number in raw data file),same as in harmonized_raw table - links raw and harmonized variables together and to raw data file,raw_data_record_id
+raw_data,source_id,sourceid associated with the table record (from file table; links to source table),links table record to source metadata,raw_data_source_id
+raw_data,created_dt,Timestamp when row entry was created,used for record keeping purposes,raw_data_created_dt
+raw_data,created_by,Name of user who created the row entry,used for record keeping purposes,raw_data_created_by
+raw_data,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,raw_data_updated_dt
+raw_data,updated_by,Name of user who updated the row entry,used for record keeping purposes,raw_data_updated_by
+raw_data,record_status_cd,Status of the record (active vs. expired),record management,raw_data_record_status_cd
+raw_data,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,raw_data_record_asesblt_tx
+raw_data,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,raw_data_record_exp_dt
+source,source_id,Unique database ID for the data source,automated assignment,source_source_id
+source,description,Short description of the original data source,from data source input file,source_description
+source,data_collection_type,Data type: raw (single-sample) or aggregated,from data source input file,source_data_collection_type
+source,source_name_abbr,Abbreviated name for data source,from data source input file,source_source_name_abbr
+source,OPPT_phase,Collection phase of the original data (1: 2016; 2:2017),from data source input file,source_OPPT_phase
+source,Processed,Process status of the raw data (0: has not been processed to harmonized form; 1: processing has been completed),used by developers for tracking and QA,source_Processed
+source,harm_init,Initialization status of the harmonized table records for the data source (0: records have not been initialized/created; 1: records have not been initialized/created),used by developers for tracking and QA,source_harm_init
+source,harm_mapped,Mapping status of the harmonized table records for the data source (0: raw variables have not been mapped to harmonized; 1: all mapping has been completed),used by developers for tracking and QA,source_harm_mapped
+source,Loaded,Load status of the raw data (0: has not been loaded to raw table; 1: loaded into raw table),used by developers for tracking and QA,source_Loaded
+source,full_source_name,Full name of the data source,from data source input file,source_full_source_name
+source,created_dt,Timestamp when row entry was created,used for record keeping purposes,source_created_dt
+source,created_by,Name of user who created the row entry,used for record keeping purposes,source_created_by
+source,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,source_updated_dt
+source,updated_by,Name of user who updated the row entry,used for record keeping purposes,source_updated_by
+source,record_status_cd,Status of the record (active vs. expired),record management,source_record_status_cd
+source,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,source_record_asesblt_tx
+source,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,source_record_exp_dt
+substances,substance_id,Unique database ID for the substance table record,automated assignment,substances_substance_id
+substances,reported_casrn,Reported CASRN from the raw data files,"with reported_chemical_name, links to harmonized_raw and harmonized_agggregate tables",substances_reported_casrn
+substances,reported_chemical_name,Reported chemical name from the raw data files,"with reported_CASRN, links to harmonized_raw and harmonized_agggregate tables",substances_reported_chemical_name
+substances,DTXSID,DSSTOX chemical structure ID,curated by the EPA CompTox Chemicals Dashboard chemical curation team,substances_DTXSID
+substances,PREFERRED_NAME,Preferred chemical name for this DTXSID,from EPA CompTox Chemicals Dashboard,substances_PREFERRED_NAME
+substances,CASRN,CASRN associated with this DTXSID,from EPA CompTox Chemicals Dashboard,substances_CASRN
+substances,howcurated,A label description of how the chemical record was curated (typically: “Standard Curation and Provided RID”),generated during chemical curation,substances_howcurated
+substances,source_id,sourceid associated with the file (from source table),links substances to source metadata,substances_source_id
+substances,DTXRID,DSSTOX record ID,generated during chemical curation,substances_DTXRID
+substances,external_id,External identification number representing the data source name and record number,generated during chemical curation,substances_external_id
+substances,Substance_Type,"A description of the type of substance (e.g., Mixture of Stereoisomers, Single Compound, Mixture/Formulation, Polymer, Chemical Category, Macromolecule, Mineral/Composite, Unspecified/Multiple Forms)",generated during chemical curation,substances_Substance_Type
+substances,Structure_InChIKey,The InChl Key structure for a substance,generated during chemical curation,substances_Structure_InChIKey
+substances,Structure_Formula,The structural formula for a substance,generated during chemical curation,substances_Structure_Formula
+substances,created_dt,Timestamp when row entry was created,used for record keeping purposes,substances_created_dt
+substances,created_by,Name of user who created the row entry,used for record keeping purposes,substances_created_by
+substances,updated_dt,Timestamp when row entry was updated/edited,used for record keeping purposes,substances_updated_dt
+substances,updated_by,Name of user who updated the row entry,used for record keeping purposes,substances_updated_by
+substances,record_status_cd,Status of the record (active vs. expired),record management,substances_record_status_cd
+substances,record_asesblt_tx,"Type of access the record is assigned (EPA, PRIVET, PUBLIC)",record management,substances_record_asesblt_tx
+substances,record_exp_dt,"Record expiration date, when record is no longer valid or used, but maintained for posterity",record management,substances_record_exp_dt

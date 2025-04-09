@@ -1,0 +1,509 @@
+name,reported_media,harmonized_media
+chem_theatre,gaseous phase,ambient air
+chem_theatre,outdoor air,ambient air
+ctd,"water, cooking",drinking water
+ctd,fish,wildlife (fish)
+ctd,infant formula,food product
+ctd,"fruit, canned",food product
+ctd,"fruit, packaged",food product
+ctd,"meat, canned",food product
+ctd,"vegetables, canned",food product
+ctd,"vegetables, packaged",food product
+ctd,"beverage, caffeinated",food product
+ctd,"tea, black",food product
+ctd,"beverage, alcoholic",food product
+ctd,baking soda,food product
+ctd,butter,food product
+ctd,"egg, chicken",food product
+ctd,margarine,food product
+ctd,ice cream,food product
+ctd,"meat, pork",food product
+ctd,"meat, bacon",food product
+ctd,"meat, beef",food product
+ctd,"meat, poultry",food product
+ctd,"meat, processed",food product
+ctd,cheese,food product
+ctd,"milk, evaporated",food product
+ctd,"milk, nonfat",food product
+ctd,"milk, cow",food product
+ctd,"meat, ground turkey",food product
+ctd,"cheese, cottage",food product
+ctd,"meat, beef tenderloin",food product
+ctd,shrimp,food product
+ctd,"meat, pork sausage",food product
+ctd,"meat, ground chicken",food product
+ctd,"meat, wiener",food product
+ctd,"meat, ground lamb",food product
+ctd,"cheese, cream",food product
+ctd,"cheese, american",food product
+ctd,"cheese, gouda",food product
+ctd,"meat, duck",food product
+ctd,"meat, ground pork",food product
+ctd,"meat, ground beef",food product
+ctd,dairy products,food product
+ctd,meat,food product
+ctd,"meat, calf liver",food product
+ctd,"meat, chicken liver",food product
+ctd,"milk, goat",food product
+ctd,"tuna, canned",food product
+ctd,"yogurt, lowfat",food product
+ctd,milk,food product
+ctd,"salmon, canned",food product
+ctd,"tuna, canned albacore",food product
+ctd,"tuna, canned light",food product
+ctd,"tuna, canned white",food product
+ctd,seafood,food product
+ctd,tea,food product
+ctd,"tea, brick",food product
+ctd,turkey,food product
+ctd,"food, inorganic",food product
+chem_theatre,ground water,groundwater
+ctd,meconium,human (other tissues or fluids)
+ctd,adenoid,human (other tissues or fluids)
+ctd,"subcutaneous fat, abdominal",human (other tissues or fluids)
+ctd,tear,human (other tissues or fluids)
+ctd,bone,human (other tissues or fluids)
+ctd,abdominal muscle,human (other tissues or fluids)
+ctd,nail,human (other tissues or fluids)
+ctd,"nail, toe",human (other tissues or fluids)
+ctd,"cell, urothelial, exfoliated",human (other tissues or fluids)
+ctd,erythrocyte,human blood (whole/serum/plasma)
+ctd,blood cell,human blood (whole/serum/plasma)
+ctd,brain,human (other tissues or fluids)
+ctd,"blood, cord",human blood (whole/serum/plasma)
+ctd,"serum, cord",human blood (whole/serum/plasma)
+ctd,"plasma, cord",human blood (whole/serum/plasma)
+nhanes,plasma,human blood (whole/serum/plasma)
+nhanes,blood,human blood (whole/serum/plasma)
+nhanes,serum,human blood (whole/serum/plasma)
+ctd,"dust, indoor",indoor dust
+ctd,"floor, bedroom",indoor dust
+ctd,"floor, kitchen",indoor dust
+ctd,"dust, carpet",indoor dust
+chem_theatre,plants,other-ecological
+ip_chem_biota,unknow spp.,other-ecological
+ip_chem_biota,venerupis decussata,other-ecological
+ip_chem_biota,fucus vesiculosus,other-ecological
+ip_chem_biota,fucus,other-ecological
+ip_chem_biota,fucus serratus,other-ecological
+ip_chem_biota,fucus ceranoides,other-ecological
+nhanes,air,personal air
+ctd,sunscreen composite,product
+ctd,bar soap,product
+ctd,body lotion,product
+ctd,body wash,product
+ctd,carpet cleaner,product
+ctd,cat litter,product
+ctd,conditioner,product
+ctd,deodorant,product
+ctd,dish liquid,product
+ctd,fabric refresher,product
+ctd,facial cleanser,product
+ctd,fragrance or perfume,product
+ctd,hand soap,product
+ctd,laundry detergent,product
+ctd,shampoo,product
+ctd,sunscreen,product
+ctd,surface cleaner,product
+ctd,paper,product
+ctd,dishwasher detergent,product
+ctd,nail polish,product
+ctd,toilet bowl cleaner,product
+ctd,car interior cleaner,product
+ctd,cigarette,product
+ctd,fuel,product
+ctd,dye,product
+ctd,perfume,product
+ctd,polish or wax,product
+ctd,mascara,product
+ctd,"air freshener, car",product
+ctd,hand sanitizer,product
+ctd,foundation,product
+ctd,lip balm,product
+ctd,stain remover,product
+ctd,carpet,product
+ctd,"upholstery, living room",product
+ctd,glass cleaner,product
+ctd,polyurethane foam,product
+ctd,insecticide,product
+ctd,paint,product
+ctd,child safety seat,product
+ctd,hair gel,product
+ctd,scrubbing powder,product
+ctd,incense stick,product
+ctd,e-liquid,product
+ctd,product wipe,product
+ctd,e-cigarette,product
+ctd,e-cigarette vapor,product
+ctd,air freshener,product
+ctd,borax,product
+ctd,diaper,product
+ctd,dryer sheet,product
+ctd,facial lotion,product
+ctd,floor cleaner,product
+ctd,hair spray or mousse or gel,product
+ctd,laundry bleach,product
+ctd,lipstick,product
+ctd,pillow protector,product
+ctd,shaving cream,product
+ctd,"shower curtain, vinyl",product
+ctd,toothpaste,product
+ctd,tub and tile cleaner,product
+ctd,wet mop,product
+ctd,ore,product
+chem_theatre,freshwater sediment,sediment
+chem_theatre,marine sediment,sediment
+ctd,sediment,sediment
+ctd,handwipe,skin wipes
+ctd,body region,skin wipes
+chem_theatre,soil,"soil, or outdoor settled dust"
+ctd,"dust, outdoor","soil, or outdoor settled dust"
+chem_theatre,freshwater,surface water
+chem_theatre,seawater,surface water
+chem_theatre,ss,surface water
+ctd,"water, rain",surface water
+ctd,"water, sea",surface water
+ctd,snow,surface water
+ctd,house,product
+ctd,automobile,product
+ctd,macrophage,human blood (whole/serum/plasma)
+nhanes,urine,urine
+ices_biota,fucus,vegetation
+ices_biota,fucus ceranoides,vegetation
+ices_biota,fucus serratus,vegetation
+ices_biota,fucus vesiculosus,vegetation
+ctd,plant leaf,food product
+ctd,tobacco,food product
+ctd,"rice, brown",food product
+ctd,beetroot,food product
+ctd,"lettuce, butterhead",food product
+ctd,carrot,food product
+ctd,cucumber,food product
+ctd,"lettuce, iceberg",food product
+ctd,potato,food product
+ctd,radish,food product
+ctd,tomato,food product
+ctd,"cabbage, white",food product
+ctd,plant,food product
+ctd,rice,food product
+chem_theatre,greywater,"wastewater (influent, effluent)"
+chem_theatre,wastewater,"wastewater (influent, effluent)"
+ctd,"waste water, laundry","wastewater (influent, effluent)"
+ctd,"waste, industrial","wastewater (influent, effluent)"
+ices_biota,buccinum undatum,wildlife (aquatic invertebrate)
+ices_biota,cerastoderma edule,wildlife (aquatic invertebrate)
+ices_biota,crangon crangon,wildlife (aquatic invertebrate)
+ices_biota,crassostrea gigas,wildlife (aquatic invertebrate)
+ices_biota,dreissena polymorpha,wildlife (aquatic invertebrate)
+ices_biota,ensis siliqua,wildlife (aquatic invertebrate)
+ices_biota,haliotis tuberculata,wildlife (aquatic invertebrate)
+ices_biota,littorina littorea,wildlife (aquatic invertebrate)
+ices_biota,loligo vulgaris,wildlife (aquatic invertebrate)
+ices_biota,macoma balthica,wildlife (aquatic invertebrate)
+ices_biota,macoma baltica,wildlife (aquatic invertebrate)
+ices_biota,mya arenaria,wildlife (aquatic invertebrate)
+ices_biota,mya truncata,wildlife (aquatic invertebrate)
+ices_biota,mysidacea,wildlife (aquatic invertebrate)
+ices_biota,mytilus edulis,wildlife (aquatic invertebrate)
+ices_biota,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+ices_biota,nassarius nitidus,wildlife (aquatic invertebrate)
+ices_biota,nassarius reticulatus,wildlife (aquatic invertebrate)
+ices_biota,nephrops norvegicus,wildlife (aquatic invertebrate)
+ices_biota,neptunea antiqua,wildlife (aquatic invertebrate)
+ices_biota,nucella,wildlife (aquatic invertebrate)
+ices_biota,nucella lapillus,wildlife (aquatic invertebrate)
+ices_biota,ocenebra erinaceus,wildlife (aquatic invertebrate)
+ices_biota,ostrea edulis,wildlife (aquatic invertebrate)
+ices_biota,palaemon serratus,wildlife (aquatic invertebrate)
+ices_biota,pandalus borealis,wildlife (aquatic invertebrate)
+ices_biota,pecten maximus,wildlife (aquatic invertebrate)
+ices_biota,peringia ulvae,wildlife (aquatic invertebrate)
+ices_biota,saduria entomon,wildlife (aquatic invertebrate)
+ices_biota,venerupis philippinarum,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus edulis,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+ip_chem_biota,saduria entomon,wildlife (aquatic invertebrate)
+ip_chem_biota,macoma balthica,wildlife (aquatic invertebrate)
+ip_chem_biota,crassostrea angulata,wildlife (aquatic invertebrate)
+ip_chem_biota,dreissena polymorpha,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus,wildlife (aquatic invertebrate)
+ip_chem_biota,lymnaea palustris,wildlife (aquatic invertebrate)
+ip_chem_biota,crassostrea gigas,wildlife (aquatic invertebrate)
+ip_chem_biota,cerastoderma edule,wildlife (aquatic invertebrate)
+ip_chem_biota,venerupis philippinarum,wildlife (aquatic invertebrate)
+ip_chem_biota,donax trunculus,wildlife (aquatic invertebrate)
+ip_chem_biota,ostrea edulis,wildlife (aquatic invertebrate)
+ip_chem_biota,holothuria tubulosa,wildlife (aquatic invertebrate)
+ip_chem_biota,mitylus galloprovincialis,wildlife (aquatic invertebrate)
+ip_chem_biota,nephrops norvegicus,wildlife (aquatic invertebrate)
+ip_chem_biota,mya arenaria,wildlife (aquatic invertebrate)
+ip_chem_biota,nassarius reticulatus,wildlife (aquatic invertebrate)
+ip_chem_biota,nucella lapillus,wildlife (aquatic invertebrate)
+ip_chem_biota,palaemon serratus,wildlife (aquatic invertebrate)
+ip_chem_biota,littorina littorea,wildlife (aquatic invertebrate)
+ip_chem_biota,crangon crangon,wildlife (aquatic invertebrate)
+ip_chem_biota,pecten maximus,wildlife (aquatic invertebrate)
+ip_chem_biota,pandalus borealis,wildlife (aquatic invertebrate)
+ip_chem_biota,mysidacea,wildlife (aquatic invertebrate)
+ip_chem_biota,ensis siliqua,wildlife (aquatic invertebrate)
+ip_chem_biota,mya truncata,wildlife (aquatic invertebrate)
+ip_chem_biota,macoma baltica,wildlife (aquatic invertebrate)
+ip_chem_biota,haliotis tuberculata,wildlife (aquatic invertebrate)
+ctd,oyster,wildlife (aquatic invertebrate)
+ctd,scallop,wildlife (aquatic invertebrate)
+ctd,squid,wildlife (aquatic invertebrate)
+chem_theatre,marine mammals,wildlife (aquatic vertebrates/mammals)
+chem_theatre,terrestrial mammals,wildlife (aquatic vertebrates/mammals)
+ices_biota,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+ices_biota,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+ices_biota,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+ices_biota,globicephala melas,wildlife (aquatic vertebrates/mammals)
+ices_biota,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+ices_biota,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca groenlandica,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca hispida,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+ices_biota,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,globicephala melas,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phoca hispida,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+ctd,"meat, walrus, fermented",food product
+ctd,"meat, walrus, fresh",food product
+chem_theatre,birds,wildlife (birds)
+ices_biota,cepphus grylle,wildlife (birds)
+ices_biota,fulmarus glacialis,wildlife (birds)
+ices_biota,haematopus ostralegus,wildlife (birds)
+ices_biota,larus,wildlife (birds)
+ices_biota,larus argentatus,wildlife (birds)
+ices_biota,larus glaucoides,wildlife (birds)
+ices_biota,larus hyperboreus,wildlife (birds)
+ices_biota,rissa tridactyla,wildlife (birds)
+ices_biota,somateria mollissima,wildlife (birds)
+ices_biota,sterna hirundo,wildlife (birds)
+ices_biota,uria aalge,wildlife (birds)
+ices_biota,uria lomvia,wildlife (birds)
+ip_chem_biota,cepphus grylle,wildlife (birds)
+ip_chem_biota,larus hyperboreus,wildlife (birds)
+ip_chem_biota,uria aalge,wildlife (birds)
+ip_chem_biota,haematopus ostralegus,wildlife (birds)
+ip_chem_biota,fulmarus glacialis,wildlife (birds)
+ip_chem_biota,rissa tridactyla,wildlife (birds)
+ip_chem_biota,somateria mollissima,wildlife (birds)
+ip_chem_biota,sterna hirundo,wildlife (birds)
+ip_chem_biota,uria lomvia,wildlife (birds)
+ip_chem_biota,larus glaucoides,wildlife (birds)
+ip_chem_biota,larus,wildlife (birds)
+chem_theatre,fish,wildlife (fish)
+ices_biota,anarhichas lupus,wildlife (fish)
+ices_biota,anarhichas minor,wildlife (fish)
+ices_biota,anguilla anguilla,wildlife (fish)
+ices_biota,aphanopus carbo,wildlife (fish)
+ices_biota,bathysaurus ferox,wildlife (fish)
+ices_biota,boreogadus saida,wildlife (fish)
+ices_biota,brosme brosme,wildlife (fish)
+ices_biota,callionymus lyra,wildlife (fish)
+ices_biota,chelidonichthys kumu,wildlife (fish)
+ices_biota,chimaera monstrosa,wildlife (fish)
+ices_biota,clupea harengus,wildlife (fish)
+ices_biota,conger conger,wildlife (fish)
+ices_biota,coryphaenoides rupestris,wildlife (fish)
+ices_biota,eutrigla gurnardus,wildlife (fish)
+ices_biota,gadus morhua,wildlife (fish)
+ices_biota,gadus ogac,wildlife (fish)
+ices_biota,glyptocephalus cynoglossus,wildlife (fish)
+ices_biota,gobius,wildlife (fish)
+ices_biota,hippoglossoides platessoides,wildlife (fish)
+ices_biota,hoplostethus atlanticus,wildlife (fish)
+ices_biota,lepidorhombus boscii,wildlife (fish)
+ices_biota,lepidorhombus whiffiagonis,wildlife (fish)
+ices_biota,leucoraja naevus,wildlife (fish)
+ices_biota,limanda limanda,wildlife (fish)
+ices_biota,lophius budegassa,wildlife (fish)
+ices_biota,lophius piscatorius,wildlife (fish)
+ices_biota,mallotus villosus,wildlife (fish)
+ices_biota,melanogrammus aeglefinus,wildlife (fish)
+ices_biota,merlangius merlangus,wildlife (fish)
+ices_biota,merluccius merluccius,wildlife (fish)
+ices_biota,micromesistius poutassou,wildlife (fish)
+ices_biota,microstomus kitt,wildlife (fish)
+ices_biota,molva dypterygia,wildlife (fish)
+ices_biota,molva molva,wildlife (fish)
+ices_biota,mullus barbatus,wildlife (fish)
+ices_biota,myoxocephalus scorpius,wildlife (fish)
+ices_biota,pegusa lascaris,wildlife (fish)
+ices_biota,perca fluviatilis,wildlife (fish)
+ices_biota,platichthys flesus,wildlife (fish)
+ices_biota,pleuronectes platessa,wildlife (fish)
+ices_biota,pollachius pollachius,wildlife (fish)
+ices_biota,pollachius virens,wildlife (fish)
+ices_biota,psetta maxima,wildlife (fish)
+ices_biota,raja brachyura,wildlife (fish)
+ices_biota,raja clavata,wildlife (fish)
+ices_biota,raja montagui,wildlife (fish)
+ices_biota,raja radiata,wildlife (fish)
+ices_biota,reinhardtius hippoglossoides,wildlife (fish)
+ices_biota,salmo salar,wildlife (fish)
+ices_biota,salmo trutta,wildlife (fish)
+ices_biota,salvelinus alpinus,wildlife (fish)
+ices_biota,sardina pilchardus,wildlife (fish)
+ices_biota,scomber scombrus,wildlife (fish)
+ices_biota,scophthalmus rhombus,wildlife (fish)
+ices_biota,scyliorhinus canicula,wildlife (fish)
+ices_biota,sebastes marinus,wildlife (fish)
+ices_biota,sebastes mentella,wildlife (fish)
+ices_biota,solea solea,wildlife (fish)
+ices_biota,solea vulgaris,wildlife (fish)
+ices_biota,sprattus sprattus,wildlife (fish)
+ices_biota,squalus acanthias,wildlife (fish)
+ices_biota,thunnus alalunga,wildlife (fish)
+ices_biota,trigla lucerna,wildlife (fish)
+ices_biota,triglidae,wildlife (fish)
+ices_biota,zeus faber,wildlife (fish)
+ices_biota,zoarces viviparus,wildlife (fish)
+ip_chem_biota,limanda limanda,wildlife (fish)
+ip_chem_biota,pleuronectes platessa,wildlife (fish)
+ip_chem_biota,mullus barbatus,wildlife (fish)
+ip_chem_biota,perca fluviatilis,wildlife (fish)
+ip_chem_biota,clupea harengus,wildlife (fish)
+ip_chem_biota,clupea harengus,wildlife (fish)
+ip_chem_biota,gadus morhua,wildlife (fish)
+ip_chem_biota,perca fluviatilis,wildlife (fish)
+ip_chem_biota,boops boops,wildlife (fish)
+ip_chem_biota,platichthys flesus,wildlife (fish)
+ip_chem_biota,zoarces viviparus,wildlife (fish)
+ip_chem_biota,neogobius melanostomus,wildlife (fish)
+ip_chem_biota,merluccius merluccius,wildlife (fish)
+ip_chem_biota,merlangius merlangus,wildlife (fish)
+ip_chem_biota,microstomus kitt,wildlife (fish)
+ip_chem_biota,melanogrammus aeglefinus,wildlife (fish)
+ip_chem_biota,aphanopus carbo,wildlife (fish)
+ip_chem_biota,coryphaenoides rupestris,wildlife (fish)
+ip_chem_biota,molva dypterygia,wildlife (fish)
+ip_chem_biota,anguilla anguilla,wildlife (fish)
+ip_chem_biota,lepidorhombus whiffiagonis,wildlife (fish)
+ip_chem_biota,lophius piscatorius,wildlife (fish)
+ip_chem_biota,brosme brosme,wildlife (fish)
+ip_chem_biota,solea vulgaris,wildlife (fish)
+ip_chem_biota,myoxocephalus scorpius,wildlife (fish)
+ip_chem_biota,mallotus villosus,wildlife (fish)
+ip_chem_biota,boreogadus saida,wildlife (fish)
+ip_chem_biota,sprattus sprattus,wildlife (fish)
+ip_chem_biota,hippoglossoides platessoides,wildlife (fish)
+ip_chem_biota,molva molva,wildlife (fish)
+ip_chem_biota,salvelinus alpinus,wildlife (fish)
+ip_chem_biota,scomber scombrus,wildlife (fish)
+ip_chem_biota,leucoraja naevus,wildlife (fish)
+ip_chem_biota,pollachius pollachius,wildlife (fish)
+ip_chem_biota,zeus faber,wildlife (fish)
+ip_chem_biota,scophthalmus rhombus,wildlife (fish)
+ip_chem_biota,lophius budegassa,wildlife (fish)
+ip_chem_biota,solea solea,wildlife (fish)
+ip_chem_biota,thunnus alalunga,wildlife (fish)
+ip_chem_biota,conger conger,wildlife (fish)
+ip_chem_biota,raja clavata,wildlife (fish)
+ip_chem_biota,raja naevus,wildlife (fish)
+ip_chem_biota,sebastes mentella,wildlife (fish)
+ip_chem_biota,chimaera monstrosa,wildlife (fish)
+ip_chem_biota,pollachius virens,wildlife (fish)
+ip_chem_biota,eutrigla gurnardus,wildlife (fish)
+ip_chem_biota,psetta maxima,wildlife (fish)
+ip_chem_biota,bathysaurus ferox,wildlife (fish)
+ip_chem_biota,scyliorhinus canicula,wildlife (fish)
+ip_chem_biota,squalus acanthias,wildlife (fish)
+ip_chem_biota,hoplostethus atlanticus,wildlife (fish)
+ip_chem_biota,anarhichas lupus,wildlife (fish)
+ip_chem_biota,raja montagui,wildlife (fish)
+ip_chem_biota,micromesistius poutassou,wildlife (fish)
+ip_chem_biota,sebastes marinus,wildlife (fish)
+ip_chem_biota,salmo trutta,wildlife (fish)
+ip_chem_biota,glyptocephalus cynoglossus,wildlife (fish)
+ip_chem_biota,chelidonichthys kumu,wildlife (fish)
+ip_chem_biota,reinhardtius hippoglossoides,wildlife (fish)
+ip_chem_biota,raja brachyura,wildlife (fish)
+ip_chem_biota,salmo salar,wildlife (fish)
+ip_chem_biota,gobius,wildlife (fish)
+ip_chem_biota,triglidae,wildlife (fish)
+ip_chem_biota,anarhichas minor,wildlife (fish)
+ip_chem_biota,thunnus thynnus,wildlife (fish)
+ip_chem_biota,sardina pilchardus,wildlife (fish)
+ip_chem_biota,pegusa lascaris,wildlife (fish)
+ip_chem_biota,gadus ogac,wildlife (fish)
+ip_chem_biota,raja radiata,wildlife (fish)
+ctd,tilapia,wildlife (fish)
+ctd,tuna,wildlife (fish)
+ctd,salmon,wildlife (fish)
+ctd,catfish,wildlife (fish)
+ctd,mahi mahi,wildlife (fish)
+ctd,herring,wildlife (fish)
+ctd,sardine,wildlife (fish)
+ctd,trout,wildlife (fish)
+ctd,"catfish fillet, farm",food product
+ctd,halibut,wildlife (fish)
+ctd,"perch, wild",wildlife (fish)
+ctd,shark,wildlife (fish)
+ctd,anchovy,wildlife (fish)
+ctd,bluefish,wildlife (fish)
+ctd,carp,wildlife (fish)
+ctd,clam,wildlife (fish)
+ctd,cod,wildlife (fish)
+ctd,crab,wildlife (fish)
+ctd,croaker,wildlife (fish)
+ctd,flounder,wildlife (fish)
+ctd,"bass, sea",wildlife (fish)
+ctd,grouper,wildlife (fish)
+ctd,haddock,wildlife (fish)
+ctd,hake,wildlife (fish)
+ctd,"mackerel, king",wildlife (fish)
+ctd,lobster,wildlife (fish)
+ctd,mackerel,wildlife (fish)
+ctd,marlin,wildlife (fish)
+ctd,monkfish,wildlife (fish)
+ctd,mussel,wildlife (fish)
+ctd,ocean perch,wildlife (fish)
+ctd,orange roughy,wildlife (fish)
+ctd,perch,wildlife (fish)
+ctd,"perch, freshwater",wildlife (fish)
+ctd,pike,wildlife (fish)
+ctd,plaice,wildlife (fish)
+ctd,pollock,wildlife (fish)
+ctd,porgy,wildlife (fish)
+ctd,red snapper,wildlife (fish)
+ctd,rockfish,wildlife (fish)
+ctd,sablefish,wildlife (fish)
+ctd,"salmon, fresh",wildlife (fish)
+ctd,scorpionfish,wildlife (fish)
+ctd,sea bass,wildlife (fish)
+ctd,sea trout,wildlife (fish)
+ctd,shad,wildlife (fish)
+ctd,sheepshead,wildlife (fish)
+ctd,skate,wildlife (fish)
+ctd,snapper,wildlife (fish)
+ctd,sole,wildlife (fish)
+ctd,swordfish,wildlife (fish)
+ctd,tilefish,wildlife (fish)
+ctd,"tuna, fresh and frozen",wildlife (fish)
+ctd,walleye,wildlife (fish)
+ctd,whitefish,wildlife (fish)
+ctd,bass,wildlife (fish)
+ctd,bluegill,wildlife (fish)
+ctd,bowfin,wildlife (fish)
+ctd,crappie,wildlife (fish)
+ctd,drum,wildlife (fish)
+ctd,n pike,wildlife (fish)
+ctd,sucker,wildlife (fish)
+ctd,sunfish,wildlife (fish)
+ctd,"salmon fillet, farm",food product
+chem_theatre,invertebrates,wildlife (terrestrial invertebrates/worms)
+chem_theatre,reptiles,wildlife (terrestrial vertebrates)
+ices_biota,lepus timidus,wildlife (terrestrial vertebrates)
+ices_biota,ovis aries,wildlife (terrestrial vertebrates)
+ices_biota,ursus maritimus,wildlife (terrestrial vertebrates)
+ip_chem_biota,lepus timidus,wildlife (terrestrial vertebrates)
+ip_chem_biota,ovis aries,wildlife (terrestrial vertebrates)
+ip_chem_biota,ursus maritimus,wildlife (terrestrial vertebrates)

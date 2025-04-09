@@ -1,0 +1,2104 @@
+"name","reported_chemical_name","reported_casrn"
+"chem_theatre","pcb4+pcb10",NA
+"chem_theatre","total pcdds",NA
+"chem_theatre","total pcdfs",NA
+"chem_theatre","total pcdd/fs",NA
+"chem_theatre","pcdds-teqs",NA
+"chem_theatre","pcdfs-teqs",NA
+"chem_theatre","pcdd/fs-teqs",NA
+"chem_theatre","total teqs",NA
+"chem_theatre","total non-ortho pcbs",NA
+"chem_theatre","total mono-ortho pcbs",NA
+"chem_theatre","non-ortho pcbs-teqs",NA
+"chem_theatre","mono-ortho pcbs-teqs",NA
+"chem_theatre","coplanar pcbs-teqs",NA
+"chem_theatre","4'oh-cb101+120",NA
+"chem_theatre","4oh-cb107+4'oh-cb108",NA
+"chem_theatre","oh-penta-pcb",NA
+"chem_theatre","oh-hexa-pcb",NA
+"chem_theatre","3'oh-cb182+183",NA
+"chem_theatre","oh-hepta-pcb",NA
+"chem_theatre","4'oh-cb198+3'oh-cb203",NA
+"chem_theatre","oh-octa-pcb",NA
+"chem_theatre","oh-pcb",NA
+"chem_theatre","chls",NA
+"chem_theatre","oh-tetra-pcb",NA
+"chem_theatre","npahs",NA
+"chem_theatre","tocs",NA
+"chem_theatre","total as",NA
+"chem_theatre","toxaphene 50",NA
+"chem_theatre","total sn",NA
+"chem_theatre","poc",NA
+"chem_theatre","pcb15+pcb18",NA
+"chem_theatre","pcb118+pcb149",NA
+"chem_theatre","pcb187+pcb128",NA
+"chem_theatre","pcb156+pcb171",NA
+"chem_theatre","pcb157+pcb202",NA
+"chem_theatre","1,3,7-/1,3,8-tribdd",NA
+"chem_theatre","total pbdds",NA
+"chem_theatre","total pbdfs",NA
+"chem_theatre","total pbdd/dfs",NA
+"chem_theatre","pbdds-teq",NA
+"chem_theatre","pbdfs-teq",NA
+"chem_theatre","total dps",NA
+"chem_theatre","2,7-/2,8-dibdds",NA
+"chem_theatre","dibdds",NA
+"chem_theatre","trbdds",NA
+"chem_theatre","1,2,3,7-/1,2,3,8-tebdds",NA
+"chem_theatre","tebdds",NA
+"chem_theatre","pebdds",NA
+"chem_theatre","1,2,3,4,7,8-/1,2,3,6,7,8-hxbdds",NA
+"chem_theatre","hxbdds",NA
+"chem_theatre","mobdfs",NA
+"chem_theatre","dibdfs",NA
+"chem_theatre","trbdfs",NA
+"chem_theatre","tebdfs",NA
+"chem_theatre","pebdfs",NA
+"chem_theatre","hxbdfs",NA
+"chem_theatre","hpbdfs",NA
+"chem_theatre","9-clphe/2-clphe",NA
+"chem_theatre","1,5-cl2ant/9,10-cl2ant",NA
+"chem_theatre","1,8-br2ant/1,5-br2ant",NA
+"chem_theatre","uv-326","3896-11-5"
+"chem_theatre","dibmocdds",NA
+"chem_theatre","ho-trbmocde",NA
+"epa_9potw","pbde-28+pbde-33",NA
+"epa_9potw","cypermethrins",NA
+"usgs","escherichia coli",NA
+"usgs","depth, secchi disk depth",NA
+"usgs","gran acid neutralizing capacity",NA
+"usgs","ph",NA
+"usgs","phosphate-phosphorus",NA
+"usgs","turbidity",NA
+"usgs","specific conductance",NA
+"usgs","chlorophyll a, uncorrected for pheophytin",NA
+"usgs","total suspended solids",NA
+"usgs","dissolved oxygen (do)",NA
+"usgs","dissolved oxygen saturation",NA
+"usgs","temperature, water",NA
+"usgs","total solids",NA
+"usgs","apparent color",NA
+"usgs","total phosphorus, mixed forms",NA
+"usgs","hardness, ca, mg",NA
+"usgs","tide stage",NA
+"usgs","enterococcus",NA
+"usgs","salinity",NA
+"usgs","water appearance (text)",NA
+"usgs","fecal coliform",NA
+"usgs","flow",NA
+"usgs","weather comments (text)",NA
+"usgs","depth",NA
+"usgs","width",NA
+"usgs","kjeldahl nitrogen",NA
+"usgs","general observation (text)",NA
+"usgs","precipitation",NA
+"usgs","depth, bottom",NA
+"usgs","chlorophyll a (probe)",NA
+"usgs","conductivity",NA
+"usgs","oxidation reduction potential (orp)",NA
+"usgs","dissolved gases - saturation",NA
+"usgs","total coliform",NA
+"usgs","alkalinity, total",NA
+"usgs","total volatile solids",NA
+"usgs","biomass, drift macroinvertebrates",NA
+"usgs","sodium adsorption ratio [(na)/(sq root of 1/2 ca + mg)]",NA
+"usgs","barometric pressure",NA
+"usgs","weather condition (wmo code 4501) (choice list)",NA
+"usgs","nitrate + nitrite",NA
+"usgs","chlorophyll",NA
+"usgs","flow, stream stage (choice list)",NA
+"usgs","rbp2, habitat type, canopy (%)",NA
+"usgs","rbp2, habitat type, general comments",NA
+"usgs","wave height",NA
+"usgs","water level in relation to reference point",NA
+"usgs","cloud cover",NA
+"usgs","wind direction (direction from, expressed 0-360 deg)",NA
+"usgs","wind force, beaufort scale",NA
+"usgs","rbp2, weather condition, heavy rain in last 7 days, y/n (choice list)",NA
+"usgs","temperature, air",NA
+"usgs","flow, severity (choice list)",NA
+"usgs","total dissolved solids",NA
+"usgs","light attenuation coefficient",NA
+"usgs","2,4-d-13c6",NA
+"usgs","caffeine-trimethyl-13c3",NA
+"usgs","ibuprofen-13c3",NA
+"usgs","malathion-d10",NA
+"usgs","chlorophyll a (probe relative fluorescence)",NA
+"usgs","light, transmissivity",NA
+"usgs","water pressure",NA
+"usgs","ammonia-nitrogen",NA
+"usgs","nitrogen, mixed forms (nh3), (nh4), organic, (no2) and (no3)",NA
+"usgs","acidity, hydrogen ion (h+)",NA
+"usgs","ionic strength",NA
+"usgs","sum of anions",NA
+"usgs","sum of cations",NA
+"usgs","cumulative precipitation since last measurement",NA
+"usgs","elapsed time since last measurement",NA
+"usgs","secchi reading condition (choice list)",NA
+"usgs","cloud cover (choice list)",NA
+"usgs","wind condition (choice list)",NA
+"usgs","tide stage (choice list)",NA
+"usgs","velocity-discharge",NA
+"usgs","bromoxynil-13c6",NA
+"usgs","suspended sediment concentration (ssc)",NA
+"usgs","turbidity severity (choice list)",NA
+"usgs","anion/cation ratio",NA
+"usgs","specific conductance, calculated/measured ratio",NA
+"usgs","stream width measure",NA
+"usgs","aluminum, organic + inorganic monomeric (reactive aluminum)",NA
+"usgs","chlorophyll a, free of pheophytin",NA
+"usgs","rbp stream velocity",NA
+"usgs","stream physical appearance (choice list)",NA
+"usgs","light attenuation at measurement depth",NA
+"usgs","hydrograph limb (choice list)",NA
+"usgs","habitat type (choice list)",NA
+"usgs","substrate description (text)",NA
+"usgs","velocity - stream",NA
+"usgs","wind velocity",NA
+"usgs","soluble reactive phosphorus (srp)",NA
+"usgs","water level reference point elevation",NA
+"usgs","total kjeldahl nitrogen (organic n & nh3)",NA
+"usgs","water level in well, depth from a reference point",NA
+"usgs","precipitation, time since event",NA
+"usgs","mbas",NA
+"usgs","transparency, tube with disk",NA
+"usgs","height, gage",NA
+"usgs","true color",NA
+"usgs","aluminum, organic monomeric (reactive aluminum)",NA
+"usgs","inorganic monomeric aluminum",NA
+"usgs","depth, secchi disk depth (choice list)",NA
+"usgs","tetraethyl pyrophosphate",NA
+"usgs","alkalinity, bicarbonate",NA
+"usgs","halogen",NA
+"usgs","alkalinity, hydroxide",NA
+"usgs","alkalinity, phenolphthalein (total hydroxide+1/2 carbonate)",NA
+"usgs","alkalinity, carbonate",NA
+"usgs","fuel, diesel range (c10-c22)",NA
+"usgs","fuel, diesel range (c22-c32)",NA
+"usgs","stream cross-sectional area",NA
+"usgs","total hardness",NA
+"usgs","hardness, carbonate",NA
+"usgs","fuel, gasoline range (c6-c10)",NA
+"usgs","deuterium/hydrogen ratio",NA
+"usgs","oxygen-18/oxygen-16 ratio",NA
+"usgs","hardness, non-carbonate",NA
+"usgs","depth, data-logger (non-ported)",NA
+"usgs","light attenuation, depth at 99%",NA
+"usgs","biochemical oxygen demand, standard conditions",NA
+"usgs","chemical oxygen demand",NA
+"usgs","rbp stream depth - pool",NA
+"usgs","7-phenyltetradecane + 6-phenyltridecane mix",NA
+"usgs","c1-c3 fluorenes",NA
+"usgs","c1-c4 chrysenes",NA
+"usgs","c1-fluoranthenes/pyrenes",NA
+"usgs","c1-phenanthrenes/anthracenes",NA
+"usgs","c2-chrysenes",NA
+"usgs","c2-dibenzothiophenes",NA
+"usgs","c2-fluorenes",NA
+"usgs","c2-naphthalenes",NA
+"usgs","c2-phenanthrenes/anthracenes",NA
+"usgs","c3-chrysenes",NA
+"usgs","c3-dibenzothiophenes",NA
+"usgs","c3-fluorenes",NA
+"usgs","c3-naphthalenes",NA
+"usgs","c3-phenanthrenes/anthracenes",NA
+"usgs","c4-chrysenes",NA
+"usgs","c4-naphthalenes",NA
+"usgs","c4-phenanthrenes/anthracenes",NA
+"usgs","particle size (size/range in result particle size basis)",NA
+"usgs","density",NA
+"usgs","carbonaceous biochemical oxygen demand, standard conditions",NA
+"usgs","nutrient-nitrogen",NA
+"usgs","chlorophyll/pheophytin ratio",NA
+"usgs","elevation, water surface, msl",NA
+"usgs","depth, from ground surface to well water level",NA
+"usgs","organic nitrogen",NA
+"usgs","light, photosynthetic active radiation (par)",NA
+"usgs","stream stage",NA
+"usgs","chlorophyll b",NA
+"usgs","chlorophyll c",NA
+"usgs","fecal streptococcus group bacteria",NA
+"usgs","light, photosynthetic active radiation at depth (par)",NA
+"usgs","light, underwater incident",NA
+"usgs","biomass, phytoplankton",NA
+"usgs","flow, runoff",NA
+"usgs","light, underwater extinction coefficient (k)",NA
+"usgs","uranium-234/235/238",NA
+"usgs","current speed",NA
+"usgs","current direction",NA
+"usgs","fixed suspended solids",NA
+"usgs","chlordane, technical, and/or chlordane metabolites",NA
+"usgs","cations-anions",NA
+"usgs","reservoir volume",NA
+"usgs","surface area",NA
+"usgs","particle size, 3/4 inch (19.0mm)",NA
+"usgs","particle size, hydrometer (.040 mm)",NA
+"usgs","particle size, sieve no. 10, 9 mesh, (2.00mm)",NA
+"usgs","particle size, sieve no. 20, 20 mesh, (0.850mm)",NA
+"usgs","particle size, sieve no. 230, 250 mesh, (0.063mm)",NA
+"usgs","particle size, sieve no. 40, 35 mesh, (0.425mm)",NA
+"usgs","volatile suspended solids",NA
+"usgs","substrate - clay",NA
+"usgs","substrate - claypan soil",NA
+"usgs","substrate - sand, coarse",NA
+"usgs","substrate - silt, coarse",NA
+"usgs","substrate - silt, fine",NA
+"usgs","substrate - silt, medium",NA
+"usgs","substrate - silt, very fine",NA
+"usgs","substrate, clay, medium",NA
+"usgs","osmotic pressure",NA
+"usgs","beta particle",NA
+"usgs","alpha particle",NA
+"usgs","rbp2, weather condition, now (choice list)",NA
+"usgs","pheophytin ratio",NA
+"usgs","water",NA
+"usgs","phosphorus, particulate organic",NA
+"usgs","settleable solids",NA
+"usgs","total fixed solids",NA
+"usgs","carbonaceous biochemical oxygen demand, non-standard conditions",NA
+"usgs","acid neutralization potential as %caco3",NA
+"usgs","fixed dissolved solids",NA
+"usgs","chloromethyl methyl ether",NA
+"usgs","rbp substrate - silt 0.004-0.06 mm",NA
+"usgs","sea waves severity (choice list)",NA
+"usgs","pressure",NA
+"usgs","c2-fluoranthenes/pyrenes",NA
+"usgs","c3-fluoranthenes/pyrenes",NA
+"usgs","alkanes, total",NA
+"usgs","c35 hydrocarbons",NA
+"usgs","rbp substrate - gravel 2-64 mm",NA
+"usgs","rbp substrate - muck/mud - very fine particles",NA
+"usgs","rbp substrate - sand 0.06-2.0 mm",NA
+"usgs","precipitation 24hr prior to monitoring event amount",NA
+"usgs","water level (probe)",NA
+"usgs","total nitrogen, mixed forms",NA
+"usgs","elevation, groundwater surface, msl",NA
+"usgs","particle size, sieve no. 140, 150 mesh, (0.106mm)",NA
+"usgs","particle size, sieve no. 04, 4 mesh, (4.75mm)",NA
+"usgs","particle size, sieve no. 200, 200 mesh, (0.075mm)",NA
+"usgs","particle size, sieve no. 60, 60 mesh, (0.250mm)",NA
+"usgs","resistivity",NA
+"usgs","specific uv absorbance at 254 nm",NA
+"usgs","organic phosphorus",NA
+"usgs","density as sigma-t",NA
+"usgs","extract volume",NA
+"usgs","initial sample volume",NA
+"usgs","light, path",NA
+"usgs","optical density",NA
+"usgs","particulate organic carbon",NA
+"usgs","particulate organic nitrogen and particulate nitrogen",NA
+"usgs","total sulfate",NA
+"usgs","particulate inorganic carbon",NA
+"usgs","total kjeldahl nitrogen",NA
+"usgs","particulate inorganic phosphorus",NA
+"usgs","venice salinity category (choice list)",NA
+"usgs","survival",NA
+"usgs","moisture content",NA
+"usgs","silt",NA
+"usgs","total particulate organic carbon",NA
+"usgs","dissolved inorganic nitrogen/soluble reactive phosphorus ratio",NA
+"usgs","biomass",NA
+"usgs","phytoplankton biovolume",NA
+"usgs","temperature, sample",NA
+"usgs","cross-section depth",NA
+"usgs","bank erosion stability (choice list)",NA
+"usgs","bank vegetative stability (choice list)",NA
+"usgs","rbp2, aquatic vegetation, dominant type & species (choice list)",NA
+"usgs","rbp2, aquatic vegetation, portion of reach with av (%)",NA
+"usgs","rbp2, habitat type, gravel-cobble (%)",NA
+"usgs","rbp2, habitat type, riffle (%)",NA
+"usgs","rbp2, habitat type, run (%)",NA
+"usgs","rbp2, habitat type, snags (%)",NA
+"usgs","rbp2, habitat type, vegetated banks (%)",NA
+"usgs","rbp2, instream features, canopy cover (choice list)",NA
+"usgs","rbp2, instream features, channelized (y/n) (choice list)",NA
+"usgs","rbp2, instream features, est. stream depth",NA
+"usgs","rbp2, instream features, est. stream width",NA
+"usgs","rbp2, instream features, high water mark",NA
+"usgs","rbp2, riparian vegetation, dominant species present (choice list)",NA
+"usgs","rbp2, watershed, local erosion (choice list)",NA
+"usgs","rbp2, watershed, predominant surrounding landuse (choice list)",NA
+"usgs","riparian width ldb",NA
+"usgs","riparian width rdb",NA
+"usgs","fast riffle",NA
+"usgs","kick depth",NA
+"usgs","kick time",NA
+"usgs","rbp2, substrate, inorganic, bedrock",NA
+"usgs","rbp2, substrate, inorganic, boulder, >256 mm",NA
+"usgs","rbp2, substrate, inorganic, cobble, 64-256 mm",NA
+"usgs","rbp2, substrate, inorganic, gravel, 2-64 mm",NA
+"usgs","rbp2, substrate, organic, detritus, sticks, wood, etc. (cpom)",NA
+"usgs","rocky substrate (choice list)",NA
+"usgs","sandy substrate (choice list)",NA
+"usgs","slow riffle",NA
+"usgs","rbp2, substrate, inorganic, sand, 0.06-2.0 mm",NA
+"usgs","rbp2, substrate, inorganic, silt, 0.004-0.06 mm",NA
+"usgs","rbp2, habitat type, pools (%)",NA
+"usgs","rbp2, habitat type, sand (%)",NA
+"usgs","relative air temperature (choice list)",NA
+"usgs","wave height (wmo code 1555) (choice list)",NA
+"usgs","oil range organics",NA
+"usgs","beam attenuation (seabird)",NA
+"usgs","irradiance (seabird)",NA
+"usgs","spar",NA
+"usgs","transmittance, horizontal",NA
+"usgs","age",NA
+"usgs","length, total (fish)",NA
+"usgs","sex (choice list)",NA
+"usgs","weight",NA
+"usgs","bde-138/166",NA
+"usgs","count",NA
+"usgs","pcb-105/132",NA
+"usgs","pcb-109/123",NA
+"usgs","pcb-117/136",NA
+"usgs","pcb-122/165",NA
+"usgs","pcb-128/185",NA
+"usgs","pcb-129/178",NA
+"usgs","pcb-13/27",NA
+"usgs","pcb-171/201",NA
+"usgs","pcb-195/207",NA
+"usgs","pcb-20/33",NA
+"usgs","pcb-34/54",NA
+"usgs","pcb-37/41",NA
+"usgs","pcb-4/10",NA
+"usgs","pcb-40/103",NA
+"usgs","pcb-47/104",NA
+"usgs","pcb-56/84",NA
+"usgs","pcb-63/93",NA
+"usgs","pcb-66/91",NA
+"usgs","pcb-77/144",NA
+"usgs","pcb-83/119",NA
+"usgs","pcb-85/115/154",NA
+"usgs","pcb-90/101",NA
+"usgs","toxaphene parlar 38",NA
+"usgs","toxaphene parlar 40",NA
+"usgs","toxaphene parlar 41",NA
+"usgs","toxaphene parlar 44",NA
+"usgs","toxaphene parlar 50",NA
+"usgs","toxaphenetmx1",NA
+"usgs","visibility",NA
+"usgs","diesel range organics",NA
+"usgs","gasoline range organics",NA
+"usgs","light attenuation, depth at 10%",NA
+"usgs","light attenuation, depth at 50%",NA
+"usgs","total nitrogen/total phosphorus ratio (tn:tp)",NA
+"usgs","discharge, river/stream",NA
+"usgs","rbp stream width",NA
+"usgs","rbp substrate - cobbles 64-256 mm",NA
+"usgs","rbp2, habitat type, sand-silt-mud-muck (%)",NA
+"usgs","benzene, toluene, ethyl benzene, xylenes mix",NA
+"usgs","bde-28/33",NA
+"usgs","pcb-107/124",NA
+"usgs","pcb-110/115",NA
+"usgs","pcb-12/13",NA
+"usgs","pcb-128/166",NA
+"usgs","pcb-129/138/160/163",NA
+"usgs","pcb-134/143",NA
+"usgs","pcb-135/151/154",NA
+"usgs","pcb-139/140",NA
+"usgs","pcb-147/149",NA
+"usgs","pcb-153/168",NA
+"usgs","pcb-156/157",NA
+"usgs","pcb-171/173",NA
+"usgs","pcb-18/30",NA
+"usgs","pcb-180/193",NA
+"usgs","pcb-183/185",NA
+"usgs","pcb-197/200",NA
+"usgs","pcb-198/199",NA
+"usgs","pcb-20/28",NA
+"usgs","pcb-21/33",NA
+"usgs","pcb-26/29",NA
+"usgs","pcb-40/41/71",NA
+"usgs","pcb-44/47/65",NA
+"usgs","pcb-45/51",NA
+"usgs","pcb-49/69",NA
+"usgs","pcb-50/53",NA
+"usgs","pcb-59/62/75",NA
+"usgs","pcb-61/70/74/76",NA
+"usgs","pcb-83/99",NA
+"usgs","pcb-85/116/117",NA
+"usgs","pcb-86/87/97/108/119/125",NA
+"usgs","pcb-88/91",NA
+"usgs","pcb-90/101/113",NA
+"usgs","pcb-93/95/98/100/102",NA
+"usgs","transparency, secchi tube with disk",NA
+"usgs","oil and grease, surface slick/sheen - severity (choice list)",NA
+"usgs","pumping rate",NA
+"usgs","total sample volume",NA
+"usgs","individuals examined, actual number",NA
+"usgs","pcb-7/9",NA
+"usgs","pcb-195/208",NA
+"usgs","pcb-24/27",NA
+"usgs","pcb-170/190",NA
+"usgs","pcb-196/203",NA
+"usgs","pcb-123/149",NA
+"usgs","pcb-15/17",NA
+"usgs","pcb-182/187",NA
+"usgs","pcb-77/110",NA
+"usgs","pcb-70/76",NA
+"usgs","pcb-157/200",NA
+"usgs","rbp2, weather condition, general observation (text)",NA
+"usgs","rbp2, weather condition, past 24 hours (choice list)",NA
+"usgs","total nitrogen, mixed forms (nh3), (nh4), organic, (no2) and (no3)",NA
+"usgs","substrate - gravel",NA
+"usgs","substrate - silt/clay mix",NA
+"usgs","pcb-16/32",NA
+"usgs","pcb-135/144",NA
+"usgs","pcb-138/163/164",NA
+"usgs","relative humidity",NA
+"usgs","rbp turbidity code (choice list)",NA
+"usgs","dissolved gases",NA
+"usgs","toxicity, sediment, microtox, vibrio fischeri, ec50**retired**usebiologicalsample,subjecttaxon,intenttoxicity",NA
+"usgs","c1-acenaphthenes",NA
+"usgs","2-methyldibenzothiophenes/3-methyldibenzothiophenes",NA
+"usgs","3-methylfluoranthene/benzo[a]fluorene",NA
+"usgs","5,9-dimethylchrysene",NA
+"usgs","c1-benzo[a]anthracenes/chrysenes",NA
+"usgs","c1-benzofluoranthenes/benzopyrenes",NA
+"usgs","c1-biphenyls",NA
+"usgs","c2-benzo[a]anthracenes/chrysenes",NA
+"usgs","c2-benzofluoranthenes/benzopyrenes",NA
+"usgs","c2-biphenyls",NA
+"usgs","c3-benzo[a]anthracenes/chrysenes",NA
+"usgs","c4-benzo[a]anthracenes/chrysenes",NA
+"usgs","c4-dibenzothiophenes",NA
+"usgs","c4-fluoranthenes/pyrenes",NA
+"usgs","methyldibenzothiophene",NA
+"usgs","9-methylphenanthrene/4-methylphenanthrene",NA
+"usgs","gross alpha radioactivity, (thorium-230 ref std)",NA
+"usgs","gross beta radioactivity, (cesium-137 ref std)",NA
+"usgs","lake physical appearance (choice list)",NA
+"usgs","lake recreational suitability (choice list)",NA
+"usgs","precipitation 48hr prior to monitoring event (choice list)",NA
+"usgs","algae, blue-green (phylum cyanophyta) density",NA
+"usgs","uv absorption, relative conc. of organic constituents",NA
+"usgs","phycocyanin",NA
+"usgs","stream condition (text)",NA
+"usgs","stream physical appearance, minnesota (choice list)",NA
+"usgs","stream recreational suitability (choice list)",NA
+"usgs","precipitation 24hr prior to monitoring event (choice list)",NA
+"usgs","heterotrophic bacteria",NA
+"usgs","distance from/to",NA
+"usgs","rbp2, high g, riparian vegetative zone width, left bank (choice list)",NA
+"usgs","rbp2, high g, riparian vegetative zone width, right bank (choice list)",NA
+"usgs","oil and grease",NA
+"usgs","rbp2, high g, bank stability, left bank (choice list)",NA
+"usgs","rbp2, high g, bank stability, right bank (choice list)",NA
+"usgs","rbp2, high g, channel alteration (choice list)",NA
+"usgs","rbp2, high g, channel flow status (choice list)",NA
+"usgs","rbp2, high g, embeddedness (choice list)",NA
+"usgs","rbp2, high g, epifaunal substrate/available cover (choice list)",NA
+"usgs","rbp2, high g, frequency of riffles (or bends) (choice list)",NA
+"usgs","rbp2, high g, sediment deposition (choice list)",NA
+"usgs","rbp2, high g, vegetative protection, left bank (choice list)",NA
+"usgs","rbp2, high g, vegetative protection, right bank (choice list)",NA
+"usgs","rbp2, high g, velocity/depth regime (choice list)",NA
+"usgs","rbp2, low g, habitat assessment total score",NA
+"usgs","rbp2, water quality, water odors (choice list)",NA
+"usgs","rbp2, low g, bank stability, left bank (choice list)",NA
+"usgs","rbp2, low g, bank stability, right bank (choice list)",NA
+"usgs","rbp2, low g, channel alteration (choice list)",NA
+"usgs","rbp2, low g, channel flow status (choice list)",NA
+"usgs","rbp2, low g, channel sinuosity (choice list)",NA
+"usgs","rbp2, low g, epifaunal substrate/available cover (choice list)",NA
+"usgs","rbp2, low g, pool substrate characterization (choice list)",NA
+"usgs","rbp2, low g, pool variability (choice list)",NA
+"usgs","rbp2, low g, riparian vegetative zone width, left bank (choice list)",NA
+"usgs","rbp2, low g, riparian vegetative zone width, right bank (choice list)",NA
+"usgs","rbp2, low g, sediment deposition (choice list)",NA
+"usgs","rbp2, low g, vegetative protection, left bank (choice list)",NA
+"usgs","rbp2, low g, vegetative protection, right bank (choice list)",NA
+"usgs","light, (par at depth/par at surface) x 100",NA
+"usgs","pcb-21/33/53",NA
+"usgs","pcb-28/31",NA
+"usgs","pcb-5/8",NA
+"usgs","ddt/ddd/dde, sum of p,p' & o,p' isomers",NA
+"usgs","pcb-105/132/153",NA
+"usgs","pcb-137/176",NA
+"usgs","pcb-138/163",NA
+"usgs","pcb-171/202",NA
+"usgs","pcb-172/197",NA
+"usgs","pcb-37/42",NA
+"usgs","pcb-41/71",NA
+"usgs","pcb-56/60",NA
+"usgs","pcb-81/87",NA
+"usgs","total pcbs",NA
+"usgs","total sample weight",NA
+"usgs","fish kill, severity (choice list)",NA
+"usgs","floating algae mat - severity (choice list)",NA
+"usgs","floating debris - severity (choice list)",NA
+"usgs","floating detergent/soap - severity (choice list)",NA
+"usgs","floating garbage severity (choice list)",NA
+"usgs","hardness, calcium",NA
+"usgs","inorganic nitrogen (no2, no3, & nh3)",NA
+"usgs","sodium, percent total cations",NA
+"usgs","gross-uranium",NA
+"usgs","ammonia and ammonium",NA
+"usgs","stream flow, instantaneous",NA
+"usgs","temperature, air, deg c",NA
+"usgs","gage height",NA
+"usgs","uv 254",NA
+"usgs",".alpha.-hch-d6",NA
+"usgs","diazinon-d10",NA
+"usgs","caffeine-13c",NA
+"usgs","rbp high water mark",NA
+"usgs","depth of pond or reservoir in feet",NA
+"usgs","ethyl nicotinate-d4",NA
+"usgs","sediment",NA
+"usgs","suspended sediment discharge",NA
+"usgs","flow rate, instantaneous",NA
+"usgs","depth to water level below land surface",NA
+"usgs","biomass, periphyton",NA
+"usgs","dry period preceding precipitation",NA
+"usgs","hydrocarbons, petroleum",NA
+"usgs","nitrogen-15/14 ratio",NA
+"usgs","sulfur-34/sulfur-32 ratio",NA
+"usgs","detergent, severity (choice list)",NA
+"usgs","odor, atmospheric",NA
+"usgs","reservoir storage",NA
+"usgs","fluoranthene-1,2,3,4,5,6,7,8,9,10-d10",NA
+"usgs","cloud cover (percent)",NA
+"usgs","water transparency, secchi disc",NA
+"usgs","stream flow, mean. daily",NA
+"usgs","chemical oxygen demand, (high level)",NA
+"usgs","iron-related bacteria",NA
+"usgs","slime-forming bacteria",NA
+"usgs","bacteria, sulfate reducing",NA
+"usgs","triazines mixture, unspecified",NA
+"usgs","aroclor 1016 mixt. with aroclor 1242",NA
+"usgs","coliphage, male specific (f+) all groups",NA
+"usgs","bisphenol a-d14",NA
+"usgs","caffeine-d9",NA
+"usgs","bisphenol a-d3",NA
+"usgs","strontium-87/strontium-86, ratio",NA
+"usgs","monomeric aluminum",NA
+"usgs","organic monomeric aluminum",NA
+"usgs","isobutyl alcohol-d6",NA
+"usgs","hydroxydimethenamid",NA
+"usgs","cyanides amenable to chlorination (hcn & cn)",NA
+"usgs","biomass, plankton",NA
+"usgs","c8-alkylphenol",NA
+"usgs","floating sludge - severity (choice list)",NA
+"usgs","gas bubble severity (choice list)",NA
+"usgs","density of water at 20 deg c",NA
+"usgs","specific gravity",NA
+"usgs","chemical oxygen demand, (low level)",NA
+"usgs","extended diesel range organics c10-c36",NA
+"usgs","purge volume",NA
+"usgs","depth, total, from below top of casing",NA
+"usgs","well condition (choice list)",NA
+"usgs","depth, from below top of casing to water level",NA
+"usgs","biochemical oxygen demand, non-standard conditions",NA
+"usgs","turbidity field",NA
+"usgs","o-xylene, mixt. with m-xylene and p-xylene",NA
+"usgs","1,2,3,4,6,7/1,2,3,5,6,7-hexachloronaphthalene",NA
+"usgs","1,2,3,4/2,3,6,7-tetrachloronaphthalene",NA
+"usgs","dioxins and furans as 2,3,7,8-tcdd teqs***retired***use chlorinated dioxins and furans -- 2,3,7,8 congeners only",NA
+"usgs","labeled 1,2,3,5,7-pentachloronaphthalene",NA
+"usgs","pbde 156/169",NA
+"usgs","pcb-112/119",NA
+"usgs","pcb-43/52",NA
+"usgs","pcb-65/75",NA
+"usgs","total hexachloronaphthalene",NA
+"usgs","percent solids",NA
+"usgs","pcb-132/153",NA
+"usgs","pcb-158/160",NA
+"usgs","pcb-20/21/33",NA
+"usgs","chlorthal monoacid and diacid degradates",NA
+"usgs","2,2',3,4,4',5,5',6-ocbde",NA
+"usgs","2,3,3',4,4',5,6-hpbde",NA
+"usgs","bde-17/25",NA
+"usgs","primary productivity",NA
+"usgs","polycyclic aromatic hydrocarbons, high molecular weight",NA
+"usgs","polycyclic aromatic hydrocarbons, low molecular weight",NA
+"usgs","total pcbs + pcts",NA
+"usgs","nitrogen, ammonium/ammonia ratio",NA
+"usgs","depth, data-logger (ported)",NA
+"usgs","data-logger operating voltage",NA
+"usgs","depth, snow cover",NA
+"usgs","ice thickness",NA
+"usgs","aggressive index",NA
+"usgs","corrosion & scaling control, langelier saturation index",NA
+"usgs","bod, sediment load",NA
+"usgs","selenium dry weight",NA
+"usgs","length",NA
+"usgs","water level in well, msl",NA
+"usgs","elevation, msl",NA
+"usgs","gross alpha radioactivity, (nat-uranium ref std)",NA
+"usgs","aroclor 1254 mixt. with aroclor 1260",NA
+"usgs","aroclor 1248 mixt. with aroclor 1254 and aroclor 1260",NA
+"usgs","ph, lab",NA
+"usgs","dissolved oxygen",NA
+"usgs","temperature",NA
+"usgs","inorganic nitrogen (ammonia, nitrate and nitrite)",NA
+"usgs","adjusted gross alpha activity",NA
+"usgs","bhc, .beta.-bhc & .gamma.-bhc mix, unspecified",NA
+"usgs","pcb-138/160",NA
+"usgs","pcb-153/173/201",NA
+"usgs","pcb-17/18",NA
+"usgs","pcb-61/74",NA
+"usgs","pcb-66/95",NA
+"usgs","pcb-87/115",NA
+"usgs","pesticide mix, unspecified",NA
+"usgs","rbp2, substrate, inorganic, clay, <0.004 mm",NA
+"usgs","benzene, 1,2,4,5-tetrachloro- and/or 1,2,3,5-tetrachlorobenzene",NA
+"usgs","depth of water column",NA
+"usgs","odor severity (choice list)",NA
+"usgs","sand/substrate habitat type (%)",NA
+"usgs","toxaphene parlar 62",NA
+"usgs","toxaphene parlar 26",NA
+"usgs","mortality",NA
+"usgs","dissolved inorganic nitrogen/total phosphorus ratio",NA
+"usgs","taxon present (y/n) (choice list)",NA
+"usgs","ash free dry mass",NA
+"usgs","phaeophyton - phytoplankton (suspended)",NA
+"usgs","total particulate carbon",NA
+"usgs","total particulate nitrogen",NA
+"usgs","2-mobde",NA
+"usgs","bde-8/11",NA
+"usgs","pcb-82/151",NA
+"usgs","pcb-171/156 + unknown tetra-bde",NA
+"usgs","5-methylchrysene/6-methylchrysene",NA
+"usgs","rbp2, high g, habitat assessment total score",NA
+"usgs","oil slick coverage severity, choice list",NA
+"usgs","oil slick severity, choice list",NA
+"usgs","helium-4",NA
+"usgs","plutonium-239 and plutonium-240 combined",NA
+"usgs","isoepichlorotetracycline",NA
+"usgs","water content of snow",NA
+"usgs","temperature, water, deg f",NA
+"usgs","m-cresol mixt. with p-phenol",NA
+"usgs","dreissena polymorpha",NA
+"usgs","partial pressure of dissolved gases",NA
+"usgs","giardia lamblia",NA
+"usgs","hydrocarbons, c>28-c40",NA
+"usgs","hydrocarbons, c10-28",NA
+"usgs","pcb-107/123",NA
+"usgs","escherichia",NA
+"usgs","rbp2, water quality, turbidity (choice list)",NA
+"usgs","colored dissolved organic matter (cdom)",NA
+"usgs","bacteria mix, unspecified",NA
+"usgs","particle size, sieve no. 100, 100 mesh, (0.150mm)",NA
+"usgs","acidity",NA
+"usgs","carbofuran-d3",NA
+"usgs","floating foam/suds - severity (choice list)",NA
+"usgs","allyl-sec-butyl-barbituric acid",NA
+"usgs","oxidized nifedipine",NA
+"usgs","macroinvertebrates",NA
+"usgs","nitrogenous biochemical oxygen demand",NA
+"usgs","gross alpha radioactivity, (americium-241 ref std)",NA
+"usgs","gross beta radioactivity, (strontium-yttrium-90 ref std)",NA
+"usgs","particle size, 3/8 inch (9.5mm)",NA
+"usgs","particle size, hydrometer (0.001mm)",NA
+"usgs","nitrogen delta 15",NA
+"usgs","1-tailed critical (h)",NA
+"usgs","1-tailed critical (w)",NA
+"usgs","rank sum",NA
+"usgs","t-stat",NA
+"usgs","hardness, magnesium",NA
+"usgs","rbp substrate - boulders >256 mm",NA
+"usgs","chlorophyll a - periphyton (attached)",NA
+"usgs","optical brighteners fluorescent whitening agents by fluorescence",NA
+"usgs","pcb-41/64/71",NA
+"usgs","chrysene + triphenylene",NA
+"usgs","sediment, inorganic, classification (choice list)",NA
+"usgs","storm water flow",NA
+"usgs","actinomycetes",NA
+"usgs","bod, filtered, 5 day, 20 deg c",NA
+"usgs","precipitation event duration",NA
+"usgs","strontium radionuclides",NA
+"usgs","cryptosporidium parvum",NA
+"usgs","campylobacter jejuni",NA
+"usgs","enterococci",NA
+"usgs","salmonella",NA
+"usgs","hydrolyzable phosphorus",NA
+"usgs","2,3,7,8-tetrachlorodibenzo-p-dioxin, teq",NA
+"usgs","dry solids at 105 c",NA
+"usgs","bde-119/120",NA
+"usgs","2,4,5-t + silvex",NA
+"usgs","motor oil",NA
+"usgs","diuron metabolite",NA
+"usgs","soil water",NA
+"usgs","fish standard length",NA
+"usgs","length, total",NA
+"usgs","life stage (choice list)",NA
+"usgs","particle size",NA
+"usgs","37cl4-2,3,7,8-tcdd",NA
+"usgs","bz#081l",NA
+"usgs","bz#126l",NA
+"usgs","bz#169l",NA
+"usgs","labeled 1,2,3,4,6,7,8-heptachlorodibenzo-p-dioxin",NA
+"usgs","labeled 1,2,3,4,6,7,8-heptachlorodibenzofuran",NA
+"usgs","labeled 1,2,3,4,7,8-hexachlorodibenzo-p-dioxin",NA
+"usgs","labeled 1,2,3,4,7,8,9-heptachlorodibenzofuran",NA
+"usgs","labeled 1,2,3,6,7,8-hexachlorodibenzo-p-dioxin",NA
+"usgs","labeled 1,2,3,6,7,8-hexachlorodibenzofuran",NA
+"usgs","labeled 1,2,3,7,8-pentachlorodibenzofuran",NA
+"usgs","labeled 2,3,4,6,7,8-hexachlorodibenzofuran",NA
+"usgs","labeled 2,3,4,7,8-pentachlorodibenzofuran",NA
+"usgs","labeled 2,3,7,8-tetrachlorodibenzofuran",NA
+"usgs","bz#077l",NA
+"usgs","c-13 labeled total octahlorodibenzo-p-dioxin",NA
+"usgs","labeled 1,2,3,4,7,8-hexachlorodibenzofuran",NA
+"usgs","labeled 1,2,3,7,8-pentachlorodibenzo-p-dioxin",NA
+"usgs","labeled 1,2,3,7,8,9-hexachlorodibenzofuran",NA
+"usgs","labeled 2,3,7,8-tetrachlorodibenzo-p-dioxin",NA
+"usgs","total dioxin teq, mammalian",NA
+"usgs","chlorophyll a - phytoplankton (suspended)",NA
+"usgs","phaeophyton - periphyton (attached)",NA
+"usgs","pcb-128/167",NA
+"usgs","oxygen delta 18",NA
+"usgs","total nonfecal coliform",NA
+"usgs","plutonium-239 and/or plutonium-240",NA
+"usgs","thallium-208",NA
+"usgs","algae, all groups, density",NA
+"usgs","rbp2, substrate, organic, muck-mud, black-fine (fpom)",NA
+"usgs","floating vegetation severity, choice list",NA
+"usgs","1,2,4,5,6,8/1,2,4,5,7,8-hexachloronaphthalene",NA
+"usgs","fuel, diesel range (c10-c32)",NA
+"usgs","hydrocarbons, volatile",NA
+"usgs","algal growth potential",NA
+"usgs","benzo(g,h,i)perylene-d12",NA
+"usgs","water column habitat type (%)",NA
+"usgs","substrate - sand, fine",NA
+"usgs","substrate - sand, medium",NA
+"usgs","substrate - sand, very coarse",NA
+"usgs","substrate - sand, very fine",NA
+"usgs","substrate - silt",NA
+"usgs","depth, below bottom surface",NA
+"usgs","clostridium perfringens",NA
+"usgs","biologically reactive iron",NA
+"usgs","ddt, o,p'- and p,p'- isomers",NA
+"usgs","maximum total trihalomethane potential",NA
+"usgs","silica gel treated n-hexane extractable material",NA
+"usgs","submerged vegetation habitat type (%)",NA
+"usgs","16-epiestriol-d2",NA
+"usgs","17.beta.-estradiol-13,14,15,16,17,18-13c6",NA
+"usgs","bisphenol a-d16",NA
+"usgs","estriol-2,4,16,17-d4",NA
+"usgs","estrone-13,14,15,16,17,18-13c6",NA
+"usgs","ethynylestradiol-d4",NA
+"usgs","medroxyprogesterone-d3",NA
+"usgs","mestranol-2,4,16,16-d4",NA
+"usgs","nandrolone-d3",NA
+"usgs","trans-diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4",NA
+"usgs","krypton-84",NA
+"usgs","xenon-129",NA
+"usgs","radium isotopes, alpha emitting",NA
+"usgs","substrate - sand",NA
+"usgs","substrate - cobbles, small",NA
+"usgs","particle size, 0.002.mm",NA
+"usgs","particle size, hydrometer (0.007mm)",NA
+"usgs","rbp substrate - bedrock",NA
+"usgs","rbp2, habitat type, bedrock (%)",NA
+"usgs","cryptosporidium",NA
+"usgs","giardia",NA
+"usgs","aroclor 1242 mixt. with aroclor 1254 and aroclor 1260",NA
+"usgs","rbp2, substrate, organic, marl, grey shell fragments",NA
+"usgs","pcb-107/108",NA
+"usgs","tannin and lignin",NA
+"usgs","gemfibrozil-d6",NA
+"usgs","phenobarbital-d5",NA
+"usgs","sulfamethoxazole-13c6",NA
+"usgs","inhibited biochemical oxygen demand",NA
+"usgs","coliform/streptococcus ratio, fecal",NA
+"usgs","nitrate-nitrogen",NA
+"usgs","specific conductivity",NA
+"usgs","phytoplankton productivity",NA
+"usgs","nitrate-n",NA
+"usgs","ammonium-nitrogen",NA
+"usgs","ortho-phosphate-phosphorus",NA
+"usgs","3-methylphenol/4-methylphenol coelution",NA
+"usgs","pbde 197/204",NA
+"usgs","pcb-93/98/102",NA
+"usgs","pcb-128/162",NA
+"usgs","pcb-139/149",NA
+"usgs","pcb-163/164",NA
+"usgs","pcb-47/48",NA
+"usgs","pcb-52/69",NA
+"usgs","pcb-64/72",NA
+"usgs","pcb-86/97/117",NA
+"usgs","pcb-89/90/101",NA
+"usgs","pcb-106/118",NA
+"usgs","simultaneously extracted metals",NA
+"usgs","coliforms",NA
+"usgs","alkalinity",NA
+"usgs","nitrite-n",NA
+"usgs","secchi depth",NA
+"usgs","dissolved solids",NA
+"usgs","filterable suspended solids",NA
+"usgs","bde-85/155",NA
+"usgs","acid volatile sulfides",NA
+"usgs","simultaneously extracted metals/acid volatile sulfides",NA
+"usgs","organics volatile mix, unspecified",NA
+"usgs","particle size, 0.5 inch (12.5mm)",NA
+"usgs","diatoms",NA
+"usgs","phytoplankton",NA
+"usgs","pcb-132/168",NA
+"usgs","substrate - gravel, fine",NA
+"usgs","1,1,1-trichloropentane",NA
+"usgs","biomass/chlorophyll ratio",NA
+"usgs","diesel and residual range hydrocarbons",NA
+"usgs","terphenyl-d14",NA
+"usgs","brillouin taxonomic diversity index",NA
+"usgs","pcb-136/148",NA
+"usgs","pcb-37/42/59",NA
+"usgs","pcb-84/92",NA
+"usgs","particle distribution",NA
+"usgs","atenolol-d7",NA
+"usgs","dl-amphetamine-d5",NA
+"usgs","ecgonine methyl ester-d3",NA
+"usgs","fluoxetine-d6",NA
+"usgs","hydrocodone-d6",NA
+"usgs","growth",NA
+"usgs","reproduction",NA
+"usgs","substrate - gravel, medium",NA
+"usgs","odor threshold number",NA
+"usgs","bacteria,sulfate reducing",NA
+"usgs","refined used lubricating oils",NA
+"usgs","acid neutralization potential acidity (anpa)",NA
+"usgs","apatite inorganic phosphorus",NA
+"usgs","carcinogenic polycyclic aromatic hydrocarbons",NA
+"usgs","exchangeable phosphorus",NA
+"usgs","non-apatite inorganic phosphorus",NA
+"usgs","periphyton",NA
+"usgs","radioactivity, gross",NA
+"usgs","dioxin and furan mixture, unspecified",NA
+"usgs","petroleum hydrocarbons, total extractable",NA
+"usgs","aroclor 1242 mixt. with aroclor 1248 and aroclor 1254",NA
+"usgs","secchi, horizontal distance",NA
+"usgs","specific uv absorbance at 254 nm, corrected for fe",NA
+"usgs","uv absorbance at 440 nm",NA
+"usgs","aroclor 1242 mixt. with aroclor 1254",NA
+"usgs","enterobacter***retired***use enterobacter (monera)",NA
+"usgs","water odor (choice list)",NA
+"usgs","ion balance difference",NA
+"usgs","surfactants, anionic",NA
+"usgs","zooplankton",NA
+"usgs","rbp2, stream character, stream subsystem (choice list)",NA
+"usgs","rbp2, stream character, stream type (choice list)",NA
+"usgs","temperature, wet bulb",NA
+"usgs","particle size, 1.5 inch (37.5mm)",NA
+"usgs","particle size, 3 inch, (75.0mm)",NA
+"usgs","particle size, hydrometer (0.004mm)",NA
+"usgs","particle size, hydrometer (0.010mm)",NA
+"usgs","particle size, hydrometer (0.014mm)",NA
+"usgs","particle size, hydrometer (0.023mm)",NA
+"usgs","particle size, hydrometer (0.036mm)",NA
+"usgs","particle size, sieve no. 120, 115 mesh, (0.125mm)",NA
+"usgs","particle size, sieve no. 35, 32 mesh, (0.425mm)",NA
+"usgs","particle size, 1 inch (25.0mm)",NA
+"usgs","particle size, 2 inch, (50mm)",NA
+"usgs","fertilization",NA
+"usgs","biomass, benthic",NA
+"usgs","benzo[b,k]fluoranthene",NA
+"usgs","radium-226/228",NA
+"usgs","pseudoephedrine/ephedrine mix",NA
+"usgs","omeprazole/esomeprazole mix",NA
+"usgs","biogenic silica",NA
+"usgs","asulam",NA
+"usgs","chlorosulfonamide acid",NA
+"usgs","dechlorofipronil",NA
+"usgs","hydroxy monodemethyl fluometuron",NA
+"usgs","hydroxyfluometuron",NA
+"usgs","hydroxytebuthiuron",NA
+"usgs","sulfosulfuron ethyl sulfone",NA
+"usgs","2,4-d-d3",NA
+"usgs","3-phenoxybenzoic acid-13c6",NA
+"usgs","acetochlor-d11",NA
+"usgs","alachlor-d13",NA
+"usgs","carbaryl-d7",NA
+"usgs","cis-permethrin-13c6",NA
+"usgs","deethylatrazine-d6",NA
+"usgs","diflubenzuron-d4",NA
+"usgs","diuron-d6",NA
+"usgs","hexazinone-d6",NA
+"usgs","linuron-d6",NA
+"usgs","nicosulfuron-d6",NA
+"usgs","thiobencarb-d10",NA
+"usgs","tebuconazole-d6",NA
+"usgs","cis-androsterone-2,2,3,4,4-d5",NA
+"usgs","progesterone-13c3",NA
+"usgs","albuterol-d9",NA
+"usgs","hydrocodone-d3",NA
+"usgs","trimethoprim-d9",NA
+"usgs","codeine-d6",NA
+"usgs","pseudoephedrine-d3",NA
+"usgs","asb + cation",NA
+"usgs","wind direction from (choice list)",NA
+"usgs","oxazepam glucuronide",NA
+"usgs","biomass, species 35-40 mm size class",NA
+"usgs","count, species 35-40 mm size class",NA
+"usgs","oil and grease surface slick/sheen (y/n) (choice list)",NA
+"usgs","c3-benzopyrenes/perylenes",NA
+"usgs","c1-benzopyrenes/perylenes",NA
+"usgs","c1-mw 228 pah",NA
+"usgs","c2-benzopyrenes/perylenes",NA
+"usgs","c4-benzopyrenes/perylenes",NA
+"usgs","c5-benzo[a]anthracenes/chrysenes",NA
+"usgs","c5-benzopyrenes/perylenes",NA
+"usgs","c5-fluoranthenes/pyrenes",NA
+"usgs","c5-naphthalenes",NA
+"usgs","c5-phenanthrenes/anthracenes",NA
+"usgs","phycocyanins",NA
+"usgs","human enterovirus",NA
+"usgs","unknown arsenic species",NA
+"usgs","particle size, 1 inch (25.40mm)",NA
+"usgs","particle size, 1.5 inch (38.1mm)",NA
+"usgs","particle size, 2 inch, (50.80mm)",NA
+"usgs","particle size, 3 inch, (76.20mm)",NA
+"usgs","particle size, 3/4 inch (19.05mm)",NA
+"usgs","particle size, 3/8 inch (9.525mm)",NA
+"usgs","particle size, hydrometer (.008 mm)",NA
+"usgs","particle size, hydrometer (.011 mm)",NA
+"usgs","particle size, hydrometer (.015 mm)",NA
+"usgs","particle size, hydrometer (.026 mm)",NA
+"usgs","1-bromo-3-chloropropane-d6",NA
+"usgs","rbp water odors (choice list)",NA
+"usgs","ice cover, floating or solid - severity (choice list)",NA
+"usgs","13-c12-2,2',3,3',5,5',6,6'-occb",NA
+"usgs","diethyl-1,1,1',1'-d4-stilbestrol-3,3',5,5'-d4",NA
+"usgs","p,p'-ddt-d8",NA
+"usgs","carbon/nitrogen molar ratio",NA
+"usgs","primary/ secondary surrounding landuse (choice list)",NA
+"usgs","human norovirus",NA
+"usgs","cyanobacteria",NA
+"usgs","intergravel dissolved oxygen",NA
+"usgs","gravel",NA
+"usgs","tralkoxydim acid",NA
+"usgs","ddd, o,p'- and p,p'- isomers",NA
+"usgs","dde, o,o'-, o,p'-, and p,p'- isomers",NA
+"usgs","ddt/ddd/dde, sum of o,p' isomers",NA
+"usgs","ddt/ddd/dde, sum of p,p' isomers",NA
+"usgs","floating sewage (y/n) (choice list)",NA
+"usgs","temperature, air, deg f",NA
+"usgs","weather condition (wmo code 4677) (choice list)",NA
+"usgs","c9-c18 aliphatics",NA
+"usgs","bde-49/71",NA
+"usgs","hydrophobic fraction of organic carbon",NA
+"usgs","odor (adverse or offensive) (y/n) (choice list)",NA
+"usgs","acid - base potential",NA
+"usgs","acid generation potential",NA
+"usgs","sulfur, pyritic",NA
+"usgs","temperature difference",NA
+"usgs","age, otoliths (fish)",NA
+"usgs","substrate - cobbles",NA
+"usgs","algae, substrate rock/bank cover (choice list)",NA
+"usgs","total petroleum hydrocarbons (c6-c32 tph)",NA
+"usgs","dominant habitat type",NA
+"usgs","rosgen stream type",NA
+"usgs","substrate dominant, channel (choice list)",NA
+"usgs","total particulate phosphorus",NA
+"usgs","2-chlorophenol-d4",NA
+"usgs","discoloration (y/n) (choice list)",NA
+"usgs","floating debris (y/n) (choice list)",NA
+"usgs","floating foam/suds (y/n) (choice list)",NA
+"usgs","nps pollution - domestic pets present (y/n) (choice list)",NA
+"usgs","nps pollution - livestock present (y/n) (choice list)",NA
+"usgs","nps pollution - other (y/n) (choice list)",NA
+"usgs","observed recreational use - boating (y/n) (choice list)",NA
+"usgs","observed recreational use - fishing (y/n) (choice list)",NA
+"usgs","observed recreational use - other (y/n) (choice list)",NA
+"usgs","observed recreational use - swimming (y/n) (choice list)",NA
+"usgs","point source pollution - outfall pipe discharging (y/n) (choice list)",NA
+"usgs","point source pollution - outfall pipe present (y/n) (choice list)",NA
+"usgs","precipitation during activity (choice list)",NA
+"usgs","nps pollution - wildlife present (y/n) (choice list)",NA
+"usgs","biomass, species 25-30 mm size class",NA
+"usgs","biomass, species 30-35 mm size class",NA
+"usgs","count, species 25-30 mm size class",NA
+"usgs","count, species 30-35 mm size class",NA
+"usgs","grain size, clay (<2 um)",NA
+"usgs","grain size, coarse sand (>=630 to 2000 um)",NA
+"usgs","grain size, coarse silt (>=20 to 63 um)",NA
+"usgs","grain size, fine gravel and larger (>=2000 um)",NA
+"usgs","grain size, fine sand (>=63 to 200 um)",NA
+"usgs","grain size, fine silt (>=2 to 6.3 um)",NA
+"usgs","grain size, medium sand (>=200 to 630 um)",NA
+"usgs","grain size, medium silt (>=6.3 to 20 um)",NA
+"usgs","precipitation 48hr prior to monitoring event amount",NA
+"usgs","imidacloprid desnitro-olefin hydrochloride",NA
+"usgs","c5-c8 aliphatics",NA
+"usgs","c9-c12 aliphatics",NA
+"usgs","hydrocarbons, total purgeable",NA
+"usgs","fluoroethyldiaminotriazine (fdat)",NA
+"usgs","precipitation 36hr prior to monitoring event amount",NA
+"usgs","pcb-141/179",NA
+"usgs","pcb-157/173/201",NA
+"usgs","pcb-22/51",NA
+"usgs","pcb-41/64",NA
+"usgs","pcb-47/75",NA
+"usgs","pcb-55/91",NA
+"usgs","pcb-80/95",NA
+"usgs","hydrophilic fraction of organic carbon",NA
+"usgs","transphilic fraction of organic carbon",NA
+"usgs","acidity, total, phenolphthalein (as caco3)",NA
+"usgs","acidity, mineral methyl orange (as caco3)",NA
+"usgs","sediment oxygen demand",NA
+"usgs","suva (specific ultraviolet absorbance)",NA
+"usgs","temperature, sediment",NA
+"usgs","bz#001l",NA
+"usgs","bz#003l",NA
+"usgs","bz#004l",NA
+"usgs","bz#015l",NA
+"usgs","bz#019l",NA
+"usgs","bz#028l",NA
+"usgs","bz#037l",NA
+"usgs","bz#054l",NA
+"usgs","bz#104l",NA
+"usgs","bz#105l",NA
+"usgs","bz#111l",NA
+"usgs","bz#114l",NA
+"usgs","bz#118l",NA
+"usgs","bz#123l",NA
+"usgs","bz#155l",NA
+"usgs","bz#156l",NA
+"usgs","bz#157l",NA
+"usgs","bz#167l",NA
+"usgs","bz#178l",NA
+"usgs","bz#188l",NA
+"usgs","bz#189l",NA
+"usgs","bz#202l",NA
+"usgs","bz#205l",NA
+"usgs","bz#206l",NA
+"usgs","bz#208l",NA
+"usgs","bz#209l",NA
+"usgs","pcb-131/165",NA
+"usgs","pcb-47/48/75",NA
+"usgs","c11-c22 aromatics",NA
+"usgs","c19-c36 aliphatics",NA
+"usgs","usda soil texture classification (choice list)",NA
+"usgs","fuel, diesel range (c10-c28)",NA
+"usgs","pcb-115/87",NA
+"usgs","organics mix, unspecified",NA
+"usgs","anabaena",NA
+"usgs","pcb-117/116/85/110/115",NA
+"usgs","pcb-129/138/163",NA
+"usgs","pcb-135/151",NA
+"usgs","pcb-137/164",NA
+"usgs","pcb-93/98/100/102",NA
+"usgs","bisphenol f-d10",NA
+"usgs","bisphenol s-2,2',3,3',5,5',6,6'-d8",NA
+"usgs","pcb-138/158",NA
+"usgs","substrate - fines",NA
+"usgs","phosphated pesticides",NA
+"usgs","substrate - cobbles, medium",NA
+"usgs","stream velocity (choice list)",NA
+"usgs","discharge, mine",NA
+"usgs","polycyclic aromatic hydrocarbons as benzo[a]pyrene teq",NA
+"usgs","fuel, gasoline range (c10-c28)",NA
+"usgs","pcb congener 202-13c12",NA
+"usgs","c9-c10 aromatics",NA
+"usgs","number of individuals***retired***use individuals examined, actual number",NA
+"usgs","age, scales (fish)",NA
+"usgs","fish fork length",NA
+"usgs","dde, o,p'- and p,p'- isomers",NA
+"usgs","substrate - clay/fine partic. org. matt.",NA
+"usgs","orthophosphate as po4",NA
+"usgs","argon-36",NA
+"usgs","xenon-124",NA
+"usgs","xenon-128",NA
+"usgs","xenon-130",NA
+"usgs","xenon-132",NA
+"usgs","xenon-134",NA
+"usgs","xenon-136",NA
+"usgs","krypton-78",NA
+"usgs","krypton-80",NA
+"usgs","krypton-82",NA
+"usgs","krypton-86",NA
+"usgs","lithium-7/lithium-6, ratio",NA
+"usgs","gamma radiation",NA
+"usgs","evaporation",NA
+"usgs","planktothrix",NA
+"usgs","volume storage",NA
+"usgs","residue, total",NA
+"usgs","horizontal secchi disk",NA
+"usgs","microcystins and nodularins",NA
+"usgs","rbp2, stream character, stream origin (choice list)",NA
+"usgs","toxicity, sediment, leptocheirus plumulosus, survival**retired**usebiologicalsample,subjecttaxon,intenttoxicity",NA
+"usgs","algae, blue-green (phylum cyanophyta) percent",NA
+"usgs","1,2,3,4,6,7,8-heptachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,4,6,7,8-heptachlorodibenzofuran-c13",NA
+"usgs","1,2,3,4,7,8-hexachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,4,7,8-hexachlorodibenzofuran-c13",NA
+"usgs","1,2,3,6,7,8-hexachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,6,7,8-hexachlorodibenzofuran-c13",NA
+"usgs","1,2,3,7,8-pentachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,7,8-pentachlorodibenzofuran-c13",NA
+"usgs","1,2,3,7,8,9-hexachlorodibenzofuran-c13",NA
+"usgs","2,3,4,6,7,8-hexachlorodibenzofuran-c13",NA
+"usgs","2,3,4,7,8-pentachlorodibenzofuran-c13",NA
+"usgs","2,3,7,8-tetrachlorodibenzo-p-dioxin-c13",NA
+"usgs","2,3,7,8-tetrachlorodibenzofuran-c13",NA
+"usgs","octachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,4-tetrachlorodibenzo-p-dioxin-c13",NA
+"usgs","1,2,3,7,8,9-hexachlorodibenzo-p-dioxin-c13",NA
+"usgs","2,3,7,8-tetrachlorodibenzo-p-dioxin-cl37",NA
+"usgs","pcb-132/161",NA
+"usgs","pcb-43/49",NA
+"usgs","pcb-61/70",NA
+"usgs","pcb-66/76",NA
+"usgs","pcb-87/117/125",NA
+"usgs","pcb-95/98/102",NA
+"usgs","aliphatics fraction",NA
+"usgs","aromatics fraction",NA
+"usgs","chlorophyll a (probe) concentration, cyanobacteria (bluegreen)",NA
+"usgs","wind speed severity (choice list)",NA
+"usgs","macrophytes covering streambed (emergent and submerged) (choice list)",NA
+"usgs","biomass, species 40-45 mm size class",NA
+"usgs","count, species 40-45 mm size class",NA
+"usgs","wetted width",NA
+"usgs","pcb-131/142",NA
+"usgs","pcb-20/23",NA
+"usgs","pcb-58/63",NA
+"usgs","pcb-64/71/72",NA
+"usgs","pcb-66/80",NA
+"usgs","pcb-83/109",NA
+"usgs","pcb-91/121",NA
+"usgs","pcb-93/95/98/102",NA
+"usgs","pcb-97/116/117",NA
+"usgs","total dichloro biphenyls",NA
+"usgs","total heptachloro biphenyls",NA
+"usgs","total hexachloro biphenyls",NA
+"usgs","total monochloro biphenyls",NA
+"usgs","total nonachloro biphenyls",NA
+"usgs","total octachloro biphenyls",NA
+"usgs","total pentachloro biphenyls",NA
+"usgs","total tetrachloro biphenyls",NA
+"usgs","total trichloro biphenyls",NA
+"usgs","carbon-13/carbon-12 ratio",NA
+"usgs","microcystin dlr",NA
+"usgs","microcystin drr",NA
+"usgs","pcb-202/171/176",NA
+"usgs","pcb-203/195",NA
+"usgs","pcb-52/43",NA
+"usgs","pcb-56/60/85",NA
+"usgs","pcb-135/144/147/127",NA
+"usgs","pcb-137/176/130",NA
+"usgs","non-purgeable organic carbon (npoc)",NA
+"usgs","bicyclopyrone syn503870",NA
+"usgs","pcb-108/124",NA
+"usgs","pcb-43/73",NA
+"usgs","pcb-86/87/97/109/119/125",NA
+"usgs","pcb-95/93/100",NA
+"usgs","pcb-98/102",NA
+"usgs","gas range organics (c6-c10)",NA
+"usgs","substrate - gravel, very fine",NA
+"usgs","7h-dibenzo(b,g)carbazole, 7-methyl-",NA
+"usgs","benzene, 1-nitro-2-(p-methylphenyl ethynyl)",NA
+"usgs","1-isobutoxy-2-ethylhexane",NA
+"usgs","oxirane, 2-(chloromethyl)-2-methyl",NA
+"usgs","active channel width",NA
+"usgs","odor type (choice list)",NA
+"usgs","hardness",NA
+"usgs","extractable organic matter (eom)",NA
+"usgs","simultaneously extracted metals/acid volatile sulfides (metals esb based on final chron. value for avs (foc))",NA
+"usgs","oxygen uptake, day",NA
+"usgs","watershed, predominant surrounding land use",NA
+"usgs","substrate - miscellaneous other",NA
+"usgs","condition class, chemical (acid neutralizing capacity)",NA
+"usgs","bacteria, iron reducing",NA
+"usgs","bacteria, slime-forming",NA
+"usgs","oil range organics c28-c35",NA
+"usgs","tide range",NA
+"usgs","pcb-107/109",NA
+"usgs","pcb-108/112",NA
+"usgs","pcb-111/115",NA
+"usgs","pcb-146/165",NA
+"usgs","pcb-41/64/71/72",NA
+"usgs","pcb-42/59",NA
+"usgs","pcb-48/75",NA
+"usgs","pcb-85/116",NA
+"usgs","precipitation last 24hrs (ca swamp) (choice list)",NA
+"usgs","large woody debris - lwd density (choice list)",NA
+"usgs","stream bed color (choice list)",NA
+"usgs","phosphorus, hydrolyzable",NA
+"usgs","perfluoro[1,2-13c2]decanoic acid",NA
+"usgs","perfluoro[1,2-13c2]dodecanoic acid",NA
+"usgs","perfluoro[1,2-13c2]hexadecanoic acid",NA
+"usgs","perfluoro[1,2-13c2]hexanoic acid",NA
+"usgs","perfluoro[1,2-13c2]tetradecanoic acid",NA
+"usgs","perfluoro[1,2-13c2]undecanoic acid",NA
+"usgs","perfluoro[1,2,3,4-13c4]butanoic acid",NA
+"usgs","perfluoro[1,2,3,4-13c4]octanoic acid",NA
+"usgs","perfluoro[1,2,3,4,5-13c5]nonanoic acid",NA
+"usgs","perfluoro[1,2,3,4,5,6,7-13c7]undecanoic acid",NA
+"usgs","perfluoro[1,2,3,4,6-13c5]hexanoic acid",NA
+"usgs","sodium perfluoro-1-[1,2,3,4-18o2]octanesulfonate",NA
+"usgs","sodium perfluoro-1-hexane[18o2]sulfonate",NA
+"usgs","condition class (dissolved oxygen (do))",NA
+"usgs","dissolved oxygen uptake",NA
+"usgs","2,4-dichlorophenoxy-3,5,6-d3-acetic-d2 acid",NA
+"usgs","2,4,5-trichlorophenoxyacetic acid-d4",NA
+"usgs","eptc-d14",NA
+"usgs","parathion-d10",NA
+"usgs","phorate-d10",NA
+"usgs","simazine-d10",NA
+"usgs","rbp2, sediment/substrate, deposits (choice list)",NA
+"usgs","particle size, sieve no. 18, 16 mesh, (1.00mm)",NA
+"usgs","rbp2, habitat type, submerged macrophytes (%)",NA
+"usgs","wind speed (choice list)",NA
+"usgs","trichloroacetic acid, pent-2-en-4-ynyl ester",NA
+"usgs","hardness, total by calculation",NA
+"usgs","2-butanone-d5",NA
+"usgs","btex, total",NA
+"usgs","fuel, diesel range (c28-c36)",NA
+"usgs","escherichia coli proportional contribution by livestock (%)",NA
+"usgs","stream depth (choice list)",NA
+"usgs","total petroleum hydrocarbon - extended range organ",NA
+"ca_surf_sediment","s-cypermethrin",NA
+"ca_surf_water","dcpa acid metabolites",NA
+"ca_surf_water","acet",NA
+"ca_surf_water","total chlorthal dimethyl (dcpa, mtp & tpa combined)",NA
+"ca_surf_water","4-cloc",NA
+"ca_surf_water","s-cypermethrin",NA
+"epa_amtic","mercury, gaseous oxide",NA
+"epa_tnsss","nitrate/nitrite","c005"
+"epa_tnsss","water-extractable phosphorus","c055"
+"epa_ucmr","aerobic spores",NA
+"epa_ucmr","e. coli",NA
+"epa_ucmr","enterococci",NA
+"epa_ucmr","enteroviruses (rt-qpcr)",NA
+"epa_ucmr","enteroviruses (cell culture)",NA
+"epa_ucmr","male specific phage",NA
+"epa_ucmr","noroviruses gia",NA
+"epa_ucmr","noroviruses gib",NA
+"epa_ucmr","noroviruses gii",NA
+"epa_ucmr","somatic phage",NA
+"epa_ucmr","total coliforms",NA
+"fda_tds_pest","no residue found",NA
+"fda_tds_pest","iprodione metabolite isomer",NA
+"fda_tds_pest","vinclozolin metabolite e",NA
+"ices_biota","dry weight percent",NA
+"ices_biota","length (max) (in combination with matrx)",NA
+"ices_biota","length (mean or individual) (in combination with matrx)",NA
+"ices_biota","length (min) (in combination with matrx)",NA
+"ices_biota","extractable lipid percent",NA
+"ices_biota","parlar 40 (2-endo 3-exo 5-endo 6-exo 8 9 10 10 octachlorobornane)",NA
+"ices_biota","parlar 41 (2-exo 3-endo 5-exo 8 9 9 10 10 octachlorobornane)",NA
+"ices_biota","parlar 44 (2-exo 5 5 8 9 9 10 10 octachlorobornane)",NA
+"ices_biota","parlar 62 (2-endo 2-exo 5-endo 5-exo 8 9 9 10 10 nonachlorobornane)",NA
+"ices_biota",NA,NA
+"ices_biota","fat weight percent",NA
+"ices_biota","weight (mean or individual) (in combination with matrx)",NA
+"ices_biota","weight (maximum) (in combination with matrx)",NA
+"ices_biota","weight (minimum) (in combination with matrx)",NA
+"ices_biota","sum of cbs.- specify in method data (metdc). deprecated. request specific code",NA
+"ices_biota","sum of (ddt (p p')  dde (p p')  ddd (p p')  ddt (o p')  dde (o p')  ddd (o p'))",NA
+"ices_biota","sum of (ddt (p p') dde (p p') ddd (p p') ddt (o p') dde (o p') ddd (o p'))",NA
+"ices_biota","age (mean)",NA
+"ices_biota","age (max)",NA
+"ices_biota","age (min)",NA
+"ices_biota","height (mean or individual) (in combination with matrx)",NA
+"ices_biota","% females displaying imposex",NA
+"ices_biota","imposex stage (reported for single individual as an integer) used to determine the penis classification index",NA
+"ices_biota","length of female penis (mm) (imposex)",NA
+"ices_biota","length of male penis (mm) (imposex)",NA
+"ices_biota","penis classification index (sum of imposex stage values of all females examined) / (number of females)",NA
+"ices_biota","vas deferens sequence (stages 0-6) (imposex)",NA
+"ices_biota","erod - ethoxyresorufin-o-deethylase - (munit pmol resorufin/mg-protein/min  substrate: 7-ethoxyresorufin)",NA
+"ices_biota","erod - ethoxyresorufin-o-deethylase - (munit pmol resorufin/mg-protein/min substrate: 7-ethoxyresorufin)",NA
+"ices_biota","protein concentration (volume) (unit example: mg protein / ml homogenized matrix)",NA
+"ices_biota","breadth (ex. matrix eg)",NA
+"ices_biota","lipid weight percent",NA
+"ices_biota","nitrogen isotope of mass 15",NA
+"ices_biota","parlar 69 (2 2 5 5 6-exo 8b 8c 9c 10a 10b-decachlorobornane)",NA
+"ices_biota","parlar 32 (2-endo 2-exo 5-endo 6-exo 8 9 10 heptachlorobornane)",NA
+"ices_biota","thickness (""organ"" described in matrx - ex. bb  es(egg shell)  ex (shell))",NA
+"ices_biota","thickness (""""organ"""" described in matrx - ex. bb es(egg shell) ex (shell))",NA
+"ices_biota","moisture content percent",NA
+"ices_biota","cb138 + cb163",NA
+"ices_biota","penta-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","sum of cbs.- sum of (cb28  cb52  cb101  cb118  cb138  cb153  cb180)",NA
+"ices_biota","sum of cbs.- sum of (cb28 cb52 cb101 cb118 cb138 cb153 cb180)",NA
+"ices_biota","polychlorinated biphenyls - deprecated-  report as single pcbs",NA
+"ices_biota","polychlorinated biphenyls - deprecated- report as single pcbs",NA
+"ices_biota","short chain chlorinated paraffin (c10-c13)",NA
+"ices_biota","1 2 3 7 8/1 2 3 4 8-pentachloro-dibenzofuran",NA
+"ices_biota","dibutyltin ion",NA
+"ices_biota","c1-dibenzothiophenes",NA
+"ices_biota","c2-dibenzothiophenes",NA
+"ices_biota","dioctyltin ion",NA
+"ices_biota","monophenyltin ion",NA
+"ices_biota","c1-naphthalenes",NA
+"ices_biota","c2-naphthalenes",NA
+"ices_biota","c3-naphthalenes",NA
+"ices_biota","c1-phenanthrenes",NA
+"ices_biota","c2-phenanthrenes",NA
+"ices_biota","sum of (ddt (p p')  dde (p p')  ddd (p p'))",NA
+"ices_biota","sum of (ddt (p p') dde (p p') ddd (p p'))",NA
+"ices_biota","sum of cbs.- sum of (cb28  cb52  cb101  cb138  cb153  cb180)",NA
+"ices_biota","sum of cbs.- sum of (cb28 cb52 cb101 cb138 cb153 cb180)",NA
+"ices_biota","benzo[b+j]fluoranthene",NA
+"ices_biota","benzo[b+k]fluoranthene",NA
+"ices_biota","cb56 + cb60",NA
+"ices_biota","1 2 3 4 7 8/1 2 3 4 7 9-hexachloro-dibenzofuran",NA
+"ices_biota","chrysene + triphenylene",NA
+"ices_biota","c3-dibenzothiophenes",NA
+"ices_biota","c4-naphthalenes",NA
+"ices_biota","c3-phenanthrenes",NA
+"ices_biota","pbb153 + bd154 (pbb153 + bde154)",NA
+"ices_biota","tricyclohexyltin ion",NA
+"ices_biota","delta-aminolevulinic acid dehydratase",NA
+"ices_biota","gonadal somatic index ((gonad weight/whole organism weight) x 100)",NA
+"ices_biota","ash content",NA
+"ices_biota","benzene 1 2 3 4 5-pentabromo-6-(3 4 5-tribromophenoxy)- (pbde205)",NA
+"ices_biota","benzo[j k]fluoranthene",NA
+"ices_biota","sum of pentachloro-dibenzo dioxin",NA
+"ices_biota","sum of heptachloro-dibenzo dioxin",NA
+"ices_biota","sum of tetrachloro-dibenzo dioxin",NA
+"ices_biota","sum of hexachloro-dibenzo dioxin",NA
+"ices_biota","sum of pentachloro-dibenzofuran",NA
+"ices_biota","sum of heptachloro-dibenzofuran",NA
+"ices_biota","sum of tetrachloro-dibenzofuran",NA
+"ices_biota","sum of hexachloro-dibenzofuran",NA
+"ices_biota","dibenz[a c/a h]anthracene",NA
+"ices_biota","extractable persistent organically bound chlorine",NA
+"ices_biota","liver somatic index  liver weight/whole organism weight) x 100)",NA
+"ices_biota","liver somatic index liver weight/whole organism weight) x 100)",NA
+"ices_biota","metallothionein",NA
+"ices_biota","parlar 42a",NA
+"ices_biota","parlar 40 + parlar 41",NA
+"ices_biota","polychlorinated dibenzo-p-dioxins",NA
+"ices_biota","polychlorinated dibenzo-furans",NA
+"ices_biota","ddt (p p') + dde (p p')",NA
+"ices_biota","vitellogenin (microgram per ml)",NA
+"ices_biota","lysosomal labilisation period",NA
+"ices_biota","dna adducts",NA
+"ices_biota","acetylcholine esterase activity (unit example: amount acetylthiocholine (actc)/time/amount protein)",NA
+"ices_biota","% sterile females (imps 5-6  ints 2 or above)",NA
+"ices_biota","% sterile females (imps 5-6 ints 2 or above)",NA
+"ices_biota","% females displaying intersex",NA
+"ices_biota","intersex stage index",NA
+"ices_biota","vas deferens sequence index (mean of vds stages scored) (imposex)",NA
+"ices_biota","benzo[b+j k]fluoranthene",NA
+"ices_biota","% dna in tail (a measure of the proportion of total dna present in the comet tail)",NA
+"ices_biota","comet assay - number of cells screened",NA
+"ices_biota","neutral red retention time (mean retention time in minutes)",NA
+"ices_biota","benzene pentabromophenoxy- (pbde116)",NA
+"ices_biota","benzene 1 2 3 4-tetrabromo-5-(3 4-dibromophenoxy)- (bde156)",NA
+"ices_biota","benzene pentabromo(2 4 5-tribromophenoxy)- (pbde 203)",NA
+"ices_biota","benzene 1 2 3 4 5-pentabromo-6-(2 3 4 5-tetrabromophenoxy)- (pbde206)",NA
+"ices_biota","benzene pentabromo(2 3 4 6-tetrabromophenoxy)- (pbde 207)",NA
+"ices_biota","benzene 1-bromo-2-phenoxy- (pbde1)",NA
+"ices_biota","benzene 1 3-dibromo-2-phenoxy- (pbde10)",NA
+"ices_biota","benzene 1-bromo-3-(4-bromophenoxy)- (pbde13)",NA
+"ices_biota","benzene 1-bromo-3-phenoxy- (pbde2)",NA
+"ices_biota","catalase activity  (unit example: micromol/min/mg protein)",NA
+"ices_biota","catalase activity (unit example: micromol/min/mg protein)",NA
+"ices_biota","cb128 + cb174",NA
+"ices_biota","cb156 + cb172",NA
+"ices_biota","glutathionine transferase",NA
+"ices_biota","hepta-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","hexa-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","octa-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","scope for growth (p = a - r)",NA
+"ices_biota","tetra-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","tri-bromodiphenyl ether (sum of congeners)",NA
+"ices_biota","survival time",NA
+"ices_biota","% female population",NA
+"ices_biota","relative penis length index (%) (mean female penis length/mean male penis length) x 100",NA
+"ices_biota","relative penis size index (%) ((mean female penis length)^3/(mean male penis length)^3) x 100",NA
+"ices_biota","cbs (3 chlorine atoms)",NA
+"ices_biota","cbs (4 chlorine atoms)",NA
+"ices_biota","cbs (5 chlorine atoms)",NA
+"ices_biota","cbs (6 chlorine atoms)",NA
+"ices_biota","cbs (7 chlorine atoms)",NA
+"ices_biota","cbs (8 chlorine atoms)",NA
+"ices_biota","benzene 1 2 3 5-tetrabromo-4-(2 3 5-tribromophenoxy)- (bde175)",NA
+"ices_biota","cb66 + cb95",NA
+"ices_sediment",NA,NA
+"ices_sediment","loss on ignition",NA
+"ices_sediment","polychlorinated biphenyls - deprecated-  report as single pcbs",NA
+"ices_sediment","polychlorinated biphenyls - deprecated- report as single pcbs",NA
+"ices_sediment","sum of (ddt (p p')  dde (p p')  ddd (p p')  ddt (o p')  dde (o p')  ddd (o p'))",NA
+"ices_sediment","sum of (ddt (p p') dde (p p') ddd (p p') ddt (o p') dde (o p') ddd (o p'))",NA
+"ices_sediment","total hydrocarbons (by uvf)",NA
+"ices_sediment","grain size mass fraction <20 micron",NA
+"ices_sediment","sum of cbs.- specify in method data (metdc). deprecated. request specific code",NA
+"ices_sediment","benzo[b+j]fluoranthene",NA
+"ices_sediment","benzo[b+j k]fluoranthene",NA
+"ices_sediment","benzo[b+k]fluoranthene",NA
+"ices_sediment","benzo[j k]fluoranthene",NA
+"ices_sediment","3 3' 4-trichlorobiphenyl (cb35)",NA
+"ices_sediment","chrysene + triphenylene",NA
+"ices_sediment","dibenz[a c/a h]anthracene",NA
+"ices_sediment","2 6-dichlorobenzonitrile",NA
+"ices_sediment","dibutyltin ion",NA
+"ices_sediment","c1-dibenzothiophenes",NA
+"ices_sediment","c2-dibenzothiophenes",NA
+"ices_sediment","c3-dibenzothiophenes",NA
+"ices_sediment","1 2-dichlorobenzene",NA
+"ices_sediment","1 3-dichlorobenzene",NA
+"ices_sediment","1 4-dichlorobenzene",NA
+"ices_sediment","2 3-dichlorophenol",NA
+"ices_sediment","2 4-dichlorophenol",NA
+"ices_sediment","2 5-dichlorophenol",NA
+"ices_sediment","2 6-dichlorophenol",NA
+"ices_sediment","3 4-dichlorophenol",NA
+"ices_sediment","3 5-dichlorophenol",NA
+"ices_sediment","2 4-dimethylphenol",NA
+"ices_sediment","dioctyltin ion",NA
+"ices_sediment","dry weight percent",NA
+"ices_sediment","sum of (alpha-endosulfan  beta-endosulfan  endosulphan sulphate)",NA
+"ices_sediment","sum of (alpha-endosulfan beta-endosulfan endosulphan sulphate)",NA
+"ices_sediment","grain size mass fraction range >1000 micron - <2000",NA
+"ices_sediment","grain size mass fraction range >125 micron - <250",NA
+"ices_sediment","grain size mass fraction range >250 micron - <500",NA
+"ices_sediment","grain size mass fraction range >4000 micron - <8000",NA
+"ices_sediment","grain size mass fraction range >500 micron - <1000",NA
+"ices_sediment","grain size mass fraction range >63 micron - <125",NA
+"ices_sediment","grain size mass fraction range >63 micron - <2000 (sand)",NA
+"ices_sediment","grain size kurtosis",NA
+"ices_sediment","grain size mean",NA
+"ices_sediment","grain size median",NA
+"ices_sediment","grain size mass fraction <1000 micron",NA
+"ices_sediment","grain size mass fraction <200 micron",NA
+"ices_sediment","grain size mass fraction <2000 micron",NA
+"ices_sediment","grain size mass fraction <500 micron",NA
+"ices_sediment","grain size mass fraction <63 micron (silt/clay)",NA
+"ices_sediment","grain size mass fraction <90 micron",NA
+"ices_sediment","grain size mass fraction >8000 micron",NA
+"ices_sediment","grain size skewness",NA
+"ices_sediment","grain size sorting",NA
+"ices_sediment","moisture content percent",NA
+"ices_sediment","mineral oil hydrocarbons - c10-c40",NA
+"ices_sediment","monophenyltin ion",NA
+"ices_sediment","c1-naphthalenes",NA
+"ices_sediment","c2-naphthalenes",NA
+"ices_sediment","c3-naphthalenes",NA
+"ices_sediment","c4-naphthalenes",NA
+"ices_sediment","c1-phenanthrenes",NA
+"ices_sediment","c2-phenanthrenes",NA
+"ices_sediment","c3-phenanthrenes",NA
+"ices_sediment","parlar 32 (2-endo 2-exo 5-endo 6-exo 8 9 10 heptachlorobornane)",NA
+"ices_sediment","parlar 62 (2-endo 2-exo 5-endo 5-exo 8 9 9 10 10 nonachlorobornane)",NA
+"ices_sediment","polychlorinated dibenzo-p-dioxins",NA
+"ices_sediment","polychlorinated dibenzo-furans",NA
+"ices_sediment","percent net response",NA
+"ices_sediment","redox potential",NA
+"ices_sediment","aldrin + dieldrin",NA
+"ices_sediment","sum of cbs.- sum of (cb28  cb52  cb101  cb118  cb138  cb153  cb180)",NA
+"ices_sediment","sum of cbs.- sum of (cb28 cb52 cb101 cb118 cb138 cb153 cb180)",NA
+"ices_sediment","sum of (ddt (p p')  dde (p p')  ddd (p p'))",NA
+"ices_sediment","sum of (ddt (p p') dde (p p') ddd (p p'))",NA
+"ices_sediment","sum of 5 non-specified pah's - legacy data only",NA
+"ices_sediment","2 3 4 5-tetrachlorophenol",NA
+"ices_sediment","2 3 5 6-tetrachlorophenol",NA
+"ices_sediment","tricyclohexyltin ion",NA
+"ices_sediment","2 3 4 6-tetrachlorophenol",NA
+"ices_sediment","total hydrocarbons (by gc)",NA
+"ices_sediment","1 2 3/1 2 4/1 3 5 trichlorobenzene mixture",NA
+"ices_sediment","2 4 6-trichlorophenol",NA
+"ices_sediment","2 4 5-trichlorophenol",NA
+"ices_sediment","3 4 5-trichlorophenol",NA
+"ices_sediment","2 3 4-trichlorophenol",NA
+"ices_sediment","2 3 5-trichlorophenol",NA
+"ices_sediment","2 3 6-trichlorophenol",NA
+"ices_sediment","grain size mass fraction range >2000 micron - <4000",NA
+"ices_sediment","grain size mass fraction <16 micron",NA
+"ices_sediment","hydrogen ion concentration (ph)",NA
+"ices_sediment","cb138 + cb163",NA
+"ices_sediment","1 2-dichloroethane",NA
+"ices_sediment","grain size mass fraction <1 micron",NA
+"ices_sediment","grain size mass fraction <105 micron",NA
+"ices_sediment","grain size mass fraction <1200 micron",NA
+"ices_sediment","grain size mass fraction <125 micron",NA
+"ices_sediment","grain size mass fraction <15 micron",NA
+"ices_sediment","grain size mass fraction <150 micron",NA
+"ices_sediment","grain size mass fraction <1700 micron",NA
+"ices_sediment","grain size mass fraction <2 micron",NA
+"ices_sediment","grain size mass fraction <210 micron",NA
+"ices_sediment","grain size mass fraction <250 micron",NA
+"ices_sediment","grain size mass fraction <3 micron",NA
+"ices_sediment","grain size mass fraction <300 micron",NA
+"ices_sediment","grain size mass fraction <31 micron",NA
+"ices_sediment","grain size mass fraction <4 micron",NA
+"ices_sediment","grain size mass fraction <420 micron",NA
+"ices_sediment","grain size mass fraction <50 micron",NA
+"ices_sediment","grain size mass fraction <53 micron",NA
+"ices_sediment","grain size mass fraction <600 micron",NA
+"ices_sediment","grain size mass fraction <630 micron",NA
+"ices_sediment","grain size mass fraction <7 micron",NA
+"ices_sediment","grain size mass fraction <75 micron",NA
+"ices_sediment","grain size mass fraction <8 micron",NA
+"ices_sediment","grain size mass fraction <850 micron",NA
+"ices_sediment","grain size mass fraction >2000 micron (gravel)",NA
+"ices_sediment","% mortality",NA
+"ices_sediment","sediment age determined from time of sampling",NA
+"ip_chem_seawater","lead","7439-92-1_dissolved"
+"ip_chem_seawater","copper","7440-50-8_dissolved"
+"ip_chem_seawater","chromium","7440-47-3_dissolved"
+"ip_chem_seawater","nickel","7440-02-0_dissolved"
+"ip_chem_seawater","zinc","7440-66-6_dissolved"
+"ip_chem_seawater","cadmium","7440-43-9_dissolved"
+"ip_chem_seawater","arsenic","7440-38-2_dissolved"
+"ip_chem_seawater","mercury","7439-97-6_dissolved"
+"ip_chem_seawater","cadmium dissolved","7440-43-9_dissolved"
+"ip_chem_seawater","mercury dissolved","7439-97-6_dissolved"
+"ip_chem_seawater","lead dissolved","7439-92-1_dissolved"
+"ip_chem_seawater","nickel dissolved","7440-02-0_dissolved"
+"ip_chem_seawater","zinc dissolved","7440-66-6_dissolved"
+"ip_chem_seawater","arsenic dissolved","7440-38-2_dissolved"
+"ip_chem_seawater","chromium dissolved","7440-47-3_dissolved"
+"ip_chem_seawater","copper dissolved","7440-50-8_dissolved"
+"usda_nrp","desfuroylceftiofur cystine disulfide",NA
+"usda_nrp","umi",NA
+"usda_nrp","ddt and metabolites",NA
+"ip_chem_ibs","7-carboxy-(mono-methyl-heptyl)phthalate","<na>"
+"ip_chem_ibs","7-oh-(mono-methyl-octyl)phthalate","<na>"
+"ip_chem_ibs","7-oxo-(mono-methyl-octyl)phthalate","<na>"
+"carb","pm2.5",NA
+"carb","pm10",NA
+"carb","pm1.5",NA
+"ctd","aerosols",NA
+"ctd","particulate matter",NA
+"ctd","air pollutants",NA
+"ctd","soot",NA
+"ctd","metals, heavy",NA
+"ctd","benzaldehydes",NA
+"ctd","amides",NA
+"ctd","ammonium compounds",NA
+"ctd","asbestos, amphibole",NA
+"ctd","asbestos, serpentine",NA
+"ctd","benzimidazoles",NA
+"ctd","disinfectants",NA
+"ctd","thiazoles",NA
+"ctd","benzalkonium compounds",NA
+"ctd","benzoates",NA
+"ctd","d,d-t80-prallethrin","23031-36-9"
+"ctd","dust",NA
+"ctd","halogenated diphenyl ethers",NA
+"ctd","endocrine disruptors",NA
+"ctd","endotoxins",NA
+"ctd","estrogens",NA
+"ctd","flame retardants",NA
+"ctd","fungicides, industrial",NA
+"ctd","herbicides",NA
+"ctd","hexanes",NA
+"ctd","hydrocarbons, brominated",NA
+"ctd","insecticides",NA
+"ctd","isocyanates",NA
+"ctd","manganese compounds",NA
+"ctd","methylmercury compounds",NA
+"ctd","organic chemicals",NA
+"ctd","organophosphorus compounds",NA
+"ctd","8-isoprostaglandin f1alpha",NA
+"ctd","vehicle emissions",NA
+"ctd","pesticides",NA
+"ctd","carbamates",NA
+"ctd","carcinogens",NA
+"ctd","hydrocarbons, chlorinated",NA
+"ctd","cholinesterase inhibitors",NA
+"ctd","polycyclic aromatic hydrocarbons-dna adduct",NA
+"ctd","radioactive fallout",NA
+"ctd","radioactive pollutants",NA
+"ctd","rodenticides",NA
+"ctd","smoke",NA
+"ctd","tobacco smoke pollution",NA
+"ctd","volatile organic compounds",NA
+"ctd","waste water",NA
+"ctd","water pollutants, chemical",NA
+"ctd","chlorides",NA
+"ctd","coke",NA
+"ctd","aldehydes",NA
+"ctd","hydrocarbons, fluorinated",NA
+"ctd","monoterpenes",NA
+"ctd","heptanes",NA
+"ctd","phenyl ethers",NA
+"ctd","solvents",NA
+"ctd","bos d 2 allergen",NA
+"ctd","sulfur oxides",NA
+"ctd","fluorine compounds",NA
+"ctd","chlorine compounds",NA
+"ctd","vanadium compounds",NA
+"ctd","benzene derivatives",NA
+"ctd","2,3-didehydro-5-o-mycaminosyl-23-o-acetyltylonolide",NA
+"ctd","aflatoxin b1-lysine adduct",NA
+"ctd","blood glucose",NA
+"ctd","dibenzofurans, polychlorinated",NA
+"ctd","heterocyclic compounds",NA
+"ctd","lipid peroxides",NA
+"ctd","bromides",NA
+"ctd","methylarsonite",NA
+"ctd","aminobenzoates",NA
+"ctd","antigens, bacterial",NA
+"ctd","antigens, dermatophagoides",NA
+"ctd","antigens, fungal",NA
+"ctd","antigens, plant",NA
+"ctd","benzopyrans",NA
+"ctd","beta-glucans",NA
+"ctd","fluorocarbons",NA
+"ctd","phenanthrenes",NA
+"ctd","phthalic acids",NA
+"ctd","tetrahydronaphthalenes",NA
+"ctd","tritolyl phosphates",NA
+"ctd","fatty acids, unsaturated",NA
+"ctd","nanotubes, carbon",NA
+"ctd","margarine","8029-82-1"
+"ctd","furans",NA
+"ctd","polychlorodibenzofuran",NA
+"ctd","organotin compounds",NA
+"ctd","aflatoxin-albumin adduct",NA
+"ctd","chlorobenzoates",NA
+"ctd","thyroid hormones",NA
+"ctd","sulfonamides",NA
+"ctd","cholesterol, hdl",NA
+"ctd","cholesterol, ldl",NA
+"ctd","environmental pollutants",NA
+"ctd","monoisononylphthalate",NA
+"ctd","elements, radioactive",NA
+"ctd","soil pollutants, radioactive",NA
+"ctd","fluor-edenite",NA
+"ctd","tobacco tar",NA
+"ctd","arsenates",NA
+"ctd","bisphenol a disulfate",NA
+"ctd","dicarboxylic acids",NA
+"ctd","uroporphyrins",NA
+"ctd","coproporphyrins",NA
+"ctd","iodides",NA
+"ctd","organophosphates",NA
+"ctd","pyrenes",NA
+"ctd","porphyrins",NA
+"epa_nscrlft","12 coplanar pcbs teq",NA
+"epa_nscrlft","dioxins and furans teq",NA
+"epa_nscrlft","pcb 107 + pcb 124",NA
+"epa_nscrlft","pcb 110 + pcb 115",NA
+"epa_nscrlft","pcb 12 + pcb 13",NA
+"epa_nscrlft","pcb 128 + pcb 166",NA
+"epa_nscrlft","pcb 129 + pcb 138 + pcb 160 + pcb 163",NA
+"epa_nscrlft","pcb 134 + pcb 143",NA
+"epa_nscrlft","pcb 135 + pcb 151 + pcb 154",NA
+"epa_nscrlft","pcb 139 + pcb 140",NA
+"epa_nscrlft","pcb 147 + pcb 149",NA
+"epa_nscrlft","pcb 153 + pcb 168",NA
+"epa_nscrlft","pcb 156 + pcb 157",NA
+"epa_nscrlft","pcb 171 + pcb 173",NA
+"epa_nscrlft","pcb 18 + pcb 30",NA
+"epa_nscrlft","pcb 180 + pcb 193",NA
+"epa_nscrlft","pcb 183 + pcb 185",NA
+"epa_nscrlft","pcb 197 + pcb 200",NA
+"epa_nscrlft","pcb 198 + pcb 199",NA
+"epa_nscrlft","pcb 20 + pcb 28",NA
+"epa_nscrlft","pcb 21 + pcb 33",NA
+"epa_nscrlft","pcb 26 + pcb 29",NA
+"epa_nscrlft","pcb 40 + pcb 41 + pcb 71",NA
+"epa_nscrlft","pcb 44 + pcb 47 + pcb 65",NA
+"epa_nscrlft","pcb 45 + pcb 51",NA
+"epa_nscrlft","pcb 49 + pcb 69",NA
+"epa_nscrlft","pcb 50 + pcb 53",NA
+"epa_nscrlft","pcb 59 + pcb 62 + pcb 75",NA
+"epa_nscrlft","pcb 61 + pcb 70 + pcb 74 + pcb 76",NA
+"epa_nscrlft","pcb 83 + pcb 99",NA
+"epa_nscrlft","pcb 85 + pcb 116 + pcb 117",NA
+"epa_nscrlft","pcb 86 + pcb 87 + pcb 97 + pcb 108 + pcb 119 + pcb 125",NA
+"epa_nscrlft","pcb 88 + pcb 91",NA
+"epa_nscrlft","pcb 90 + pcb 101 + pcb 113",NA
+"epa_nscrlft","pcb 93 + pcb 95 + pcb 98 + pcb 100 + pcb 102",NA
+"epa_nscrlft","total teq",NA
+"nhanes","desisopropyl atrazine mercapturate",NA
+"nhanes","inorganic-related arsenic species",NA
+"nhanes","branched perfluorooctanoic acid (sb-pfoa)",NA
+"nhanes","branched perfluoromethylheptane sulfonic acid (sm-pfos)",NA
+"nhanes","cyclohexane-1;2-dicarboxylic mono hydroxyisononyl ester (mhnch)",NA
+"nhanes","cyclohexane-1;2-dicarboxylic mono hydroxyisononyl ester (mhnch) (creatin",NA
+"nhanes","2- & 3-hydroxyphenanthrene",NA
+"nhanes","2-aminothiazoline-4-carboxylic acid",NA
+"nhanes","3- & 4-methylhippuric acid",NA
+"nhanes","3-and 4-methylhippuric acid",NA
+"epa_dmr","bod, 5-day, 20 deg. c",NA
+"epa_dmr","solids, total suspended",NA
+"epa_dmr","oil & grease",NA
+"epa_dmr","oil and grease",NA
+"epa_dmr","chemical oxygen demand (cod)",NA
+"epa_dmr","phenolics, total recoverable",NA
+"epa_dmr","sulfide-hydrogen sulfide (undissociated)",NA
+"epa_dmr","ammonia & ammonium- total",NA
+"epa_dmr","hardness, total (as caco3)",NA
+"epa_dmr","alkalinity, total (as caco3)",NA
+"epa_dmr","benzene, ethylbenzene, toluene, xylene combination",NA
+"epa_dmr","hydrocarbons, petroleum",NA
+"epa_dmr","base neutrals & acid (method 625), total",NA
+"epa_dmr","organics, tot purgeables (method 624)",NA
+"epa_dmr","solids, total dissolved",NA
+"epa_dmr","benzoic acids, total",NA
+"epa_dmr","seafood processing waste",NA
+"epa_dmr","bod, carbonaceous, 05 day, 20 c",NA
+"epa_dmr","nitrite plus nitrate, dry weight [as n]",NA
+"epa_dmr","bod, carbonaceous, 5 day, 5 c",NA
+"epa_dmr","solids, total susp per production",NA
+"epa_dmr","solids, total dissolved (tds)",NA
+"epa_dmr","volatile compounds, (gc/ms)",NA
+"epa_dmr","carbonaceous bod, 5 day, 20 deg c filtrd",NA
+"epa_dmr","halogens, adsorbable organic",NA
+"epa_dmr","phenolic compounds, total",NA
+"epa_dmr","oil and grease, hexane extr method",NA
+"epa_dmr","organic pesticide chemicals (40 cfr455)",NA
+"epa_dmr","oxygen demand, chem. (cod), dissolved",NA
+"epa_dmr","thiocarbamates",NA
+"epa_dmr","total pesticides",NA
+"epa_dmr","explosives, combined tnt + rdx + tetryl",NA
+"epa_dmr","total toxic organics (tto) (40 cfr433)",NA
+"epa_dmr","organics, total toxic (tto)",NA
+"epa_dmr","total phenols",NA
+"epa_dmr","cod, 25n k2cr207, tot",NA
+"epa_dmr","tin, tri-organo-",NA
+"epa_dmr","btex",NA
+"epa_dmr","halogen, total organic",NA
+"epa_dmr","methylene blue active substances",NA
+"epa_dmr","domestic waste, solids",NA
+"epa_dmr","nitrogenous oxygen demand (20-day, 20 c)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr467)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr464a)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr464b)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr464c)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr464d)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr413)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr468)",NA
+"epa_dmr","total toxic organics(tto) (40 cfr465)",NA
+"epa_dmr","total toxic organics (tto) (40 cfr469)",NA
+"epa_dmr","solids, total suspended, net value",NA
+"epa_dmr","oil & grease, total recoverable",NA
+"epa_dmr","acidity, total (as caco3)",NA
+"epa_dmr","sediment, suspended",NA
+"epa_dmr","oxygen demand, chem. (low level) (cod)",NA
+"epa_dmr","oxygen demand, chem. (high level) (cod)",NA
+"epa_dmr","aromatics, total purgeable",NA
+"epa_dmr","total purgeable halocarbons",NA
+"epa_dmr","oxidants, total residual",NA
+"epa_dmr","alkalinity, phenolphthaline method",NA
+"epa_dmr","hydrocarbons, total petroleum",NA
+"epa_dmr","benzene, toluene, xylene in combination",NA
+"epa_dmr","petrol hydrocarbons, total recoverable",NA
+"epa_dmr","ddt/ddd/dde, sum of p,p' & o,p' isomers",NA
+"epa_dmr","halomethanes, sum",NA
+"epa_dmr","phenolic compounds, unchlorinated",NA
+"epa_dmr","total petroleum hydrocarbons - waste oil",NA
+"epa_dmr","total petroleum hydrocarbon - diesel",NA
+"epa_dmr","total petroleum hydrocarbon - gasoline",NA
+"epa_dmr","resin acids, total",NA
+"epa_dmr","tannin and lignin",NA
+"epa_dmr","foaming agents",NA
+"epa_dmr","volatile halogenated hydrocarbons",NA
+"epa_dmr","phthalate esters",NA
+"epa_dmr","surfactants, as ctas, effluent",NA
+"epa_dmr","mercaptans, total",NA
+"epa_dmr","giardia",NA
+"epa_dmr","freeboard",NA
+"epa_dmr","solids, volatile suspended",NA
+"epa_dmr","pesticides, general",NA
+"epa_dmr","sanitary waste, residual chlorine",NA
+"epa_dmr","sanitary waste, solids",NA
+"epa_dmr","well fluids, oil & grease",NA
+"epa_dmr","base neutrals & acid (method 625), efflnt",NA
+"epa_dmr","volatile organic compound (voc)",NA
+"epa_dmr","hardness, tot calc. (ca, mg, fe) as cac03",NA
+"epa_dmr","phosphate, total (p2o5), water","17101369"
+"epa_dmr","volatile fraction organics (epa 624)",NA
+"epa_dmr","biochemical oxygen demand-5",NA
+"epa_dmr","oil petroleum, total recoverable","8002059"
+"epa_dmr","organics, volatile (njac reg. 7:23-17e)",NA
+"epa_dmr","surfactants, anionic",NA
+"epa_dmr","oxidants, free available",NA
+"epa_dmr","oxygen demand, ultimate",NA
+"epa_dmr","<na>",NA
+"epa_dmr","oil and grease (soxhlet extr.) tot.",NA
+"epa_dmr","biomass, plankton",NA
+"epa_dmr","organic halides, total",NA
+"epa_dmr","solids, fixed suspended",NA
+"epa_dmr","adsorbable organic halides (aox)",NA
+"epa_dmr","volatile organics detected",NA
+"epa_dmr","produced water, oil and grease",NA
+"epa_dmr","combined metals sum",NA
+"epa_dmr","bod, (ult. all stages)",NA
+"epa_dmr","bod, nitrogen inhib 5-day (20 deg. c)",NA
+"epa_dmr","total suspended solids",NA
+"epa_dmr","bod, 5-day",NA
+"epa_dmr","total k001 constituents",NA
+"epa_dmr","endrin + endrin aldehyde (sum)",NA
+"epa_dmr","fats, oils & grease (total o & g less tph)",NA
+"epa_dmr","clostridium perfringens",NA
+"epa_dmr","alkalinity, carbonate (as caco3)",NA
+"epa_dmr","halogen, total residual",NA
+"epa_dmr","solids, total dissolved- 180 deg. c",NA
+"epa_dmr","solids, total suspd. non-volatile",NA
+"epa_dmr","bod, carbonaceous, 5-day, 20 deg c",NA
+"epa_dmr","freon, total",NA
+"epa_dmr","solids, total dissolved (inorganic)",NA
+"epa_dmr","phenolics, total",NA
+"epa_dmr","suspended solids",NA
+"epa_dmr","metals, total",NA
+"epa_dmr","chlorides & sulfates",NA
+"epa_dmr","alkalinity, bicarbonate (as caco3)",NA
+"epa_dmr","dock discharge of phosphorus","7723140"
+"epa_dmr","metals, tox priority pollutants, total",NA
+"epa_dmr","cbod5/nh3-n",NA
+"epa_dmr","solids, volatile dissolved",NA
+"epa_dmr","solids, fixed dissolved",NA
+"epa_dmr","solids, total dissolved, total tons",NA
+"epa_dmr","solids, total fixed",NA
+"epa_dmr","produced water, radium 226, total","13982633"
+"epa_dmr","produced water, radium 228, total","15262201"
+"epa_dmr","biocides",NA
+"epa_dmr","heptachlor + heptachlor epoxide",NA
+"epa_dmr","acidity",NA
+"epa_dmr","organics-tot voltile (njac reg.7:23-17e)",NA
+"epa_dmr","suspended solids, total",NA
+"epa_dmr","solids, total",NA
+"epa_dmr","nonyl phenoxypoly ethanol",NA
+"epa_dmr","phthalates, total",NA
+"epa_dmr","toxics",NA
+"epa_dmr","bod",NA
+"epa_dmr","c11-c22 aromatics",NA
+"epa_dmr","c19-c36 aliphatics",NA
+"epa_dmr","c5-c8 aliphatics",NA
+"epa_dmr","c9-c10 aromatics",NA
+"epa_dmr","c9-c12 aliphatics",NA
+"epa_dmr","c9-c18 aliphatics",NA
+"epa_dmr","2,3,7,8-tcdd tec",NA
+"epa_dmr","nalco macrotrol 9210",NA
+"epa_dmr","base/neutral compounds",NA
+"epa_dmr","purgeable aromatics method 602",NA
+"epa_dmr","oxidants released, total residual",NA
+"epa_dmr","chlorine produced oxidants",NA
+"epa_dmr","hardness, ca mg calculated (mg/l as caco3)",NA
+"epa_dmr","diesel range organics diesel, total, wtr",NA
+"epa_dmr","amines, organic total",NA
+"epa_dmr","suspended solids, total annual",NA
+"epa_dmr","oil & grease (freon extr.-ir meth) tot, rc",NA
+"epa_dmr","endothall salts and esters",NA
+"epa_dmr","solids accumulation rate tot dry weight",NA
+"epa_dmr","bod, carbonaceous, 20 day, 20 c",NA
+"epa_dmr","organic active ingredients (40 cfr455)",NA
+"epa_dmr","benzene, halogenated",NA
+"epa_dmr","solids, dry, discharge to sol. handling sys.",NA
+"epa_dmr","solids, total susp. per 1000 gallons",NA
+"epa_dmr","hydrocarbons, in h2o, ir, cc14 extractible chromatograph",NA
+"epa_dmr","total agg concentration #1",NA
+"epa_dmr","total agg concentration #2",NA
+"epa_dmr","oxygen demand, total (tod)",NA
+"epa_dmr","dichlorobenzyl trifluoride","30498352"
+"epa_dmr","total agg concentration #3",NA
+"epa_dmr","bod, carbonaceous, 28-day (20 deg. c)",NA
+"epa_dmr","hydrazines, total",NA
+"epa_dmr","nitrofurans",NA
+"epa_dmr","total agg concentration #4",NA
+"epa_dmr","chlorine, total residual, duration of violation",NA
+"epa_dmr","purgeable hydrocarbons, meth. 601",NA
+"epa_dmr","betz slimicide c-31, total",NA
+"epa_dmr","iron and manganese, total",NA
+"epa_dmr","halogens, total combined",NA
+"epa_dmr","residue, tot fltrble (dried at 105 c)",NA
+"epa_dmr","chlorinated hydrocarbons, general",NA
+"epa_dmr","oil & grease, non-polar material",NA
+"epa_dmr","glycol mix applied",NA
+"epa_dmr","chemical oxygen demand, soluble",NA
+"epa_dmr","sanitary waste, bod, 5-day",NA
+"epa_dmr","sanitary waste, tss",NA
+"epa_dmr","nitrobodies, total",NA
+"epa_dmr","total suspendable solids",NA
+"epa_dmr","inorganic suspended solids",NA
+"epa_dmr","furans",NA
+"epa_dmr","nonpurgeable organic halides",NA
+"epa_dmr","purgeable organic halides",NA
+"epa_dmr","chlorinated hydrocarbons, total",NA
+"epa_dmr","klebsiella species",NA
+"epa_dmr","solids, total volatile",NA
+"epa_dmr","bod, 5-day, dissolved",NA
+"epa_dmr","herbicides, total",NA
+"epa_dmr","acid compounds",NA
+"epa_dmr","total base/neutral priority pollutants",NA
+"epa_dmr","total acid priority pollutants",NA
+"epa_dmr","oxygen demand, nitrogenous, ultimate",NA
+"epa_dmr","oxygen demand, ult. carbonaceous (ucod)",NA
+"epa_dmr","endothall salts & esters",NA
+"epa_dmr","benomyl and carbendazim",NA
+"epa_dmr","oxygen demand, sum product",NA
+"epa_dmr","aldrin + dieldrin",NA
+"epa_dmr","chlorinated pesticides, total",NA
+"epa_dmr","total volatile priority pollutants",NA
+"epa_dmr","bod, filtered, 5 day, 20 deg c",NA
+"epa_dmr","acids, total volatile (as acetic acid)",NA
+"epa_dmr","bod, 5-day, 20 deg c per cfs of streamflw",NA
+"epa_dmr","wwt drill fluids/cuttings, tds",NA
+"epa_dmr","volatile hydrocarbons",NA
+"epa_dmr","betz clam-trol ct-4",NA
+"epa_dmr","algicides, general",NA
+"epa_dmr","betzdearborn dg5671",NA
+"epa_dmr","polyacrylamide chloride",NA
+"epa_dmr","cyanide and thiocyanate - total",NA
+"epa_dmr","non-halogenated volatile organics",NA
+"epa_dmr","solids, dry, removed from sol. handling sys.",NA
+"epa_dmr","iron and manganese, soluble",NA
+"epa_dmr","total agg concentration #5",NA
+"epa_dmr","total agg concentration #6",NA
+"epa_dmr","chlorine demand, 1 hr",NA
+"epa_dmr","residue, settleable",NA
+"epa_dmr","manure, wet tons removed",NA
+"epa_dmr","sum bod and ammonia, water",NA
+"epa_dmr","formation test fluids, free oil",NA
+"epa_dmr","oil & grease, dry weight",NA
+"epa_dmr","solids, settleable, net",NA
+"epa_dmr","biochemical oxygen demand",NA
+"epa_dmr","chloroform extractables, total",NA
+"epa_dmr","polybrominated diphenyl oxides",NA
+"epa_dmr","phenolic compounds,total",NA
+"epa_dmr","hydrocarbons, nitrated",NA
+"epa_dmr","total petroleum hydrocarbons - diesel and waste oil",NA
+"epa_dmr","bod, 20-day (20 deg. c)",NA
+"epa_dmr","solids, total non- volatile, non-fixed",NA
+"epa_dmr","carbamates",NA
+"epa_dmr","thorium-230 + thorium-232",NA
+"epa_dmr","corrosion inhibitor",NA
+"epa_dmr","produced water, gross beta radiation","12587472"
+"epa_dmr","suspended solids, total discharge",NA
+"ip_chem_lakes","phenols","no cas 34"
+"ip_chem_lakes","hydrocarbons","no cas 6"
+"ip_chem_lakes","copper dissolved","7440-50-8_dissolved"
+"ip_chem_lakes","antimony dissolved","7440-36-0_dissolved"
+"ip_chem_lakes","pcb (sum)","no cas 15"
+"ip_chem_lakes","iron dissolved","7439-89-6_dissolved"
+"ip_chem_lakes","lead dissolved","7439-92-1_dissolved"
+"ip_chem_lakes","chromium 6+","no cas 29"
+"ip_chem_lakes","chloride","no cas 26"
+"ip_chem_lakes","zinc dissolved","7440-66-6_dissolved"
+"ip_chem_lakes","cadmium dissolved","7440-43-9_dissolved"
+"ip_chem_lakes","chromium 3+","no cas 28"
+"ip_chem_lakes","arsenic dissolved","7440-38-2_dissolved"
+"ip_chem_lakes","chromium dissolved","7440-47-3_dissolved"
+"ip_chem_lakes","nickel dissolved","7440-02-0_dissolved"
+"ip_chem_lakes","mercury dissolved","7439-97-6_dissolved"
+"ip_chem_lakes","brominated diphenylethers","no cas 19"
+"ip_chem_lakes","manganese dissolved","7439-96-5_dissolved"
+"ip_chem_lakes","sulphate","no cas 32"
+"ip_chem_lakes","tellurium dissolved","13494-80-9_dissolved"
+"ip_chem_lakes","thallium dissolved","7440-28-0_dissolved"
+"ip_chem_lakes","titanium dissolved","7440-32-6_dissolved"
+"ip_chem_lakes","silver dissolved","7440-22-4_dissolved"
+"ip_chem_lakes","uranium dissolved","7440-61-1_dissolved"
+"ip_chem_lakes","vanadium dissolved","7440-62-2_dissolved"
+"ip_chem_lakes","meta + para xylene","<na>"
+"ip_chem_lakes","molybdenum and its compounds dissolved","7439-98-7_dissolved"
+"ip_chem_lakes","polyaromatic hydro-carbons (pah) (sum)","no cas 13"
+"ip_chem_lakes","cobalt dissolved","7440-48-4_dissolved"
+"ip_chem_lakes","ddt sum = (ddt, o,p' + ddt, p,p')","no cas 22"
+"ip_chem_lakes","beryllium dissolved","7440-41-7_dissolved"
+"ip_chem_lakes","boron dissolved","7440-42-8_dissolved"
+"ip_chem_lakes","barium dissolved","7440-39-3_dissolved"
+"ip_chem_lakes","ddt + dde + ddd total = (ddt, o,p' + ddt, p,p' + dde, o,p' + dde, p,p' + ddd, o,p' + ddd, p,p')","no cas 12"
+"ip_chem_lakes","adsorbable organic halogens (aox)","no cas 1"
+"ip_chem_lakes","ddt total according directive 2008/105/ec = (ddt, o,p' + ddt, p,p' + dde, p,p' + ddd, p,p')","no cas 23"
+"ip_chem_lakes","total pcbs","no cas 18"
+"ip_chem_lakes","detergents","no cas 3"
+"ip_chem_lakes","aluminium dissolved","7429-90-5_dissolved"
+"ip_chem_lakes","pah excl bicycl (sum)","no cas 14"
+"ip_chem_lakes","pcb total (congeners 28, 52, 101, 118, 138, 153, 180)","no cas 8"
+"ip_chem_lakes","ddt total according directive 2008/105/ec = (ddt, o,p' + ddt, p,p' + d...","23"
+"ip_chem_lakes","potassium","7440-09-7"
+"ip_chem_lakes","extractable organically bound chlorine","no cas 4"
+"ip_chem_lakes","extractable persistent organically bound chlorine","no cas 5"
+"ip_chem_lakes","lenacil","2164-08-1"
+"ip_chem_lakes","pcb7 (sum)","no cas 16"
+"ip_chem_lakes","pesticides (sum)","no cas 30"
+"ip_chem_lakes","chlorine cl-","no cas 27"
+"ip_chem_lakes","dichlorobenzene","no cas 24"
+"ip_chem_lakes","epsilon-hch","6108-10-07"
+"ip_chem_lakes","strontium dissolved","7440-24-6_dissolved"
+"ip_chem_lakes","polyaromatic hydro-carbons (pah) (sum)","<na>"
+"ip_chem_lakes","detergents","<na>"
+"ip_chem_lakes","phenols","<na>"
+"ip_chem_lakes","hydroxysimazine","2599-11-3"
+"ip_chem_lakes","total pcbs","<na>"
+"ip_chem_lakes","pcb total (congeners 28, 52, 101, 118, 138, 153, 180)","<na>"
+"ip_chem_lakes","chromium 6+","<na>"
+"ip_chem_lakes","hydrocarbons","<na>"
+"ip_chem_lakes","pesticides (sum)","<na>"
+"ip_chem_lakes","chloride","<na>"
+"ip_chem_lakes","ddt sum = (ddt, o,p' + ddt, p,p')","<na>"
+"ip_chem_lakes","pcb7 (sum)","<na>"
+"ip_chem_lakes","ddt + dde + ddd total = (ddt, o,p' + ddt, p,p' + dde, o,p' + dde, p,p' + ddd, o,p' + ddd, p,p')","<na>"
+"ip_chem_lakes","ddd (tde) sum = (ddd, o,p' + ddd, p,p')","<na>"
+"ip_chem_lakes","dde sum = (dde, o,p' + dde, p,p')","<na>"
+"ip_chem_lakes","dichlorobenzene","<na>"
+"ip_chem_lakes","adsorbable organic halogens (aox)","<na>"
+"ip_chem_lakes","ddt total according directive 2008/105/ec = (ddt, o,p' + ddt, p,p' + dde, p,p' + ddd, p,p')","<na>"
+"ip_chem_lakes","pcb (sum)","<na>"
+"ip_chem_lakes","chromium 3+","<na>"
+"ip_chem_lakes","tcdd (dioxins and furans)","<na>"
+"ip_chem_lakes","selenium dissolved","7782-49-2_dissolved"
+"ip_chem_lakes","molybdenum dissolved","7439-98-7_dissolved"
+"ip_chem_lakes","tin and its compounds dissolved","7440-31-5_dissolved"
+"ip_chem_lakes","dibutylzinn-kation","14488-53-0"
+"ip_chem_lakes","ddt total","23"
+"ip_chem_lakes","extractable organically bound chlorine","<na>"
+"ip_chem_lakes","fluorid dissolved","16984-48-8_dissolved"
+"ip_chem_lakes","chinomethionat","2439-01-2"
+"ip_chem_lakes","chloropropylate","5836-10-2"
+"ip_chem_lakes","picloram","1918-02-1"
+"ip_chem_lakes","tensioactifs anioniques","not known (1)"
+"ip_chem_lakes","m-xylčne/p-xylčne (somme)","not known (2)"
+"ip_chem_lakes","benzo(j)fluoranthčne","205-82-3"
+"ip_chem_lakes","bromierte diphenylether (summe aus kongeneren 28, 47, 99, 100, 153 und 154)","not known (5)"
+"ip_chem_lakes","niobium","7440-03-1"
+"ip_chem_lakes","benazolin","3813-05-6"
+"ip_chem_lakes","somme(b,j,k)-benzofluoranthčnes","not known (3)"
+"ip_chem_lakes","xylčnes totaux","not known (4)"
+"ip_chem_lakes","1-(3,4-dichlorophenyl)-urea","2327-02-8"
+"ip_chem_lakes","410-tensioactifs anioniques","not known (1)"
+"ip_chem_lakes","sulphate","<na>"
+"ip_chem_lakes","tin dissolved","7440-31-5_dissolved"
+"ip_chem_lakes","brominated diphenylethers","<na>"
+"ip_chem_lakes","meta + para-xylene","<na>"
+"ip_chem_lakes","chlorine cl-","<na>"
+"ip_chem_lakes","heptenophos","23560-59-0 "
+"ip_chem_lakes","methylene blue active substances (mbas)","<na>"
+"ip_chem_lakes","oxifluorfen","4287-03-3"
+"ip_chem_lakes","dichlorophenol","<na>"
+"ip_chem_biomonitoring","potassium","7440-09-7"
+"ip_chem_biomonitoring","chrysene + triphenylene","218-01-9 (chr)"
+"ip_chem_biomonitoring","methyl-triclosan","4640-01-1"
+"ip_chem_biomonitoring","tributyltin","<na>"
+"ip_chem_biomonitoring","triphenyltin","<na>"
+"ip_chem_biomonitoring","4-nonylphenol monoethoxylate","<na>"
+"ip_chem_biomonitoring","mehp","<na>"
+"ip_chem_biomonitoring","2cx-mmhp","<na>"
+"ip_chem_biomonitoring","5cx-mepp","<na>"
+"ip_chem_biomonitoring","5oxo-mehp","<na>"
+"ip_chem_biomonitoring","5oh-mehp","<na>"
+"ip_chem_biomonitoring","mnbp","<na>"
+"ip_chem_biomonitoring","mibp","<na>"
+"ip_chem_biomonitoring","mbzp","<na>"
+"ip_chem_biomonitoring","7oh-minp","<na>"
+"ip_chem_biomonitoring","7oxo-minp","<na>"
+"ip_chem_biomonitoring","7cx-minp","<na>"
+"ip_chem_biomonitoring","total bisphenol a","<na>"
+"ip_chem_biomonitoring","mnop","<na>"
+"ip_chem_biomonitoring","mchp","<na>"
+"ip_chem_biomonitoring","oh-mnbp","<na>"
+"ip_chem_biomonitoring","cx-mcpp","<na>"
+"ip_chem_biomonitoring","oh-mibp","<na>"
+"ip_chem_biomonitoring","mep","<na>"
+"ip_chem_biomonitoring","mmp","<na>"
+"ip_chem_biomonitoring","mnpep","<na>"
+"ip_chem_biomonitoring","iso-butyl paraben","4247-02-3"
+"ip_chem_biomonitoring","cx-mphxp","<na>"
+"ip_chem_biomonitoring","oh-mphp","<na>"
+"ip_chem_biomonitoring","oxo-mphp","<na>"
+"ip_chem_biomonitoring","minch","<na>"
+"ip_chem_biomonitoring","oh-minch","<na>"
+"ip_chem_biomonitoring","oxo-minch","<na>"
+"ip_chem_biomonitoring","cx-minch","<na>"
+"ip_chem_biomonitoring","5-hydroxy-n-methyl-2-pyrrolidone","<na>"
+"ip_chem_biomonitoring","2-hydroxy-n-methylsuccinimide","<na>"
+"ip_chem_biomonitoring","5-hydroxy-n-ethyl-2-pyrrolidone","<na>"
+"ip_chem_biomonitoring","2-hydroxy-n-ethylsuccinimide","<na>"
+"ip_chem_biomonitoring","di-(2-ethylhexyl) phthalate (dehp) metabolites","<na>"
+"ip_chem_biomonitoring","dichlorophenol isomers","<na>"
+"ip_chem_biomonitoring","di-iso-nonyl phthalate (dinp) metabolites","<na>"
+"ip_chem_biomonitoring","monobutyl phthalate isomers","<na>"
+"ip_chem_biomonitoring","mono-carboxy-iso-octyl phthalate","<na>"
+"ip_chem_biomonitoring","mono-hydroxy-iso-nonyl phthalate","<na>"
+"ip_chem_biomonitoring","mono-iso-decyl phthalate","<na>"
+"ip_chem_biomonitoring","mono-iso-nonyl phthalate","<na>"
+"ip_chem_biomonitoring","mono-oxo-iso-nonyl phthalate","<na>"
+"ip_chem_biomonitoring","propyl paraben isomers","<na>"

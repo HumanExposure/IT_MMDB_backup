@@ -1,0 +1,2366 @@
+"name","reported_media","reported_species"
+"chem_theatre","fish",NA
+"chem_theatre","marine mammals",NA
+"chem_theatre","terrestrial mammals",NA
+"chem_theatre","birds",NA
+"chem_theatre","marine sediment",NA
+"chem_theatre","invertebrates",NA
+"chem_theatre","freshwater",NA
+"chem_theatre","soil",NA
+"chem_theatre","greywater",NA
+"chem_theatre","plants",NA
+"chem_theatre","freshwater sediment",NA
+"chem_theatre","",NA
+"chem_theatre","outdoor air",NA
+"chem_theatre","reptiles",NA
+"chem_theatre","ground water",NA
+"chem_theatre","seawater",NA
+"chem_theatre","wastewater",NA
+"chem_theatre","ss",NA
+"chem_theatre","gaseous phase",NA
+"epa_9potw","influent",NA
+"epa_9potw","effluent",NA
+"usgs","water",""
+"usgs","tissue",""
+"usgs","sediment",""
+"usgs","air",""
+"usgs","surface water",""
+"usgs","groundwater",""
+"usgs","ambient air",""
+"usgs","municipal waste",""
+"usgs","surface soil/sediment",""
+"usgs","subsurface soil/sediment",""
+"usgs","sieved sediment",""
+"usgs","unsieved sediment",""
+"usgs","stormwater",""
+"usgs","bottom material",""
+"usgs","biological tissue",""
+"usgs","wet fall material",""
+"usgs","soil moisture",""
+"usgs","interstitial",""
+"usgs","finished water",""
+"usgs","effluent",""
+"usgs","elutriation",""
+"usgs","bulk deposition",""
+"usgs","suspended",""
+"usgs","hyporheic zone",""
+"usgs","leachate",""
+"usgs","wastewater treatment plant effluent",""
+"usgs","mixing zone",""
+"usgs","industrial effluent",""
+"usgs","rainwater",""
+"usgs","interstitial water",""
+"usgs","tissue","oncorhynchus mykiss"
+"usgs","tissue","micropterus dolomieu"
+"usgs","tissue","perca flavescens"
+"usgs","tissue","micropterus salmoides"
+"usgs","tissue","morone americana"
+"usgs","tissue","micropterus cataractae"
+"usgs","tissue","lepomis auritus"
+"usgs","tissue","lobotes surinamensis"
+"usgs","water","esox niger"
+"usgs","water","moxostoma macrolepidotum"
+"usgs","water","rhinichthys atratulus"
+"usgs","water","rhinichthys cataractae"
+"usgs","water","pimephales notatus"
+"usgs","water","lepomis auritus"
+"usgs","water","catostomus commersonii"
+"usgs","water","esox lucius"
+"usgs","water","lepomis gibbosus"
+"usgs","water","semotilus atromaculatus"
+"usgs","water","semotilus corporalis"
+"usgs","water","notropis hudsonius"
+"usgs","water","cottus bairdii"
+"usgs","water","lepomis macrochirus"
+"usgs","water","etheostoma olmstedi"
+"usgs","water","ambloplites rupestris"
+"usgs","water","micropterus dolomieu"
+"usgs","water","percina peltata"
+"usgs","water","etheostoma blennioides"
+"usgs","water","lepomis cyanellus"
+"usgs","water","notropis rubellus"
+"usgs","water","cyprinella spiloptera"
+"usgs","water","luxilus cornutus"
+"usgs","water","exoglossum maxillingua"
+"usgs","water","hypentelium nigricans"
+"usgs","water","noturus insignis"
+"usgs","water","nocomis micropogon"
+"usgs","tissue","salvelinus alpinus"
+"usgs","tissue","cardiidae"
+"usgs","tissue","abarenicola"
+"usgs","tissue","nephtys"
+"usgs","water","ceriodaphnia dubia"
+"usgs","tissue","mytilus californianus"
+"usgs","water","pimephales promelas"
+"usgs","water","hyalella azteca"
+"usgs","water","eohaustorius estuarius"
+"usgs","water","eurytemora affinis"
+"usgs","tissue","amphistichus argenteus"
+"usgs","tissue","cymatogaster aggregata"
+"usgs","tissue","ictalurus punctatus"
+"usgs","tissue","salvelinus namaycush"
+"usgs","tissue","sander vitreus"
+"usgs","tissue","coregonus hoyi"
+"usgs","tissue","myoxocephalus thompsonii"
+"usgs","tissue","osteichthyes"
+"usgs","tissue","osmerus mordax"
+"usgs","sediment","catenulida (platyhelminthes), acoelomorpha, rhabditophora***retired***use (platyhelminthe"
+"usgs","sediment","stylodrilus heringianus"
+"usgs","sediment","oligochaeta (oligochaeta)"
+"usgs","sediment","pisidium"
+"usgs","sediment","lumbriculidae"
+"usgs","sediment","diporeia"
+"usgs","sediment","enchytraeidae"
+"usgs","tissue","pomoxis annularis"
+"usgs","tissue","lepomis cyanellus"
+"usgs","tissue","selar crumenophthalmus"
+"usgs","tissue","lepomis macrochirus"
+"usgs","tissue","cyprinus carpio"
+"usgs","tissue","pomoxis nigromaculatus"
+"usgs","tissue","morone saxatilis"
+"usgs","tissue","ameiurus nebulosus"
+"usgs","tissue","bidyanus bidyanus"
+"usgs","tissue","paralichthys dentatus"
+"usgs","tissue","ictalurus furcatus"
+"usgs","tissue","ambloplites rupestris"
+"usgs","tissue","channa argus"
+"usgs","tissue","centropristis striata"
+"usgs","tissue","rangia cuneata"
+"usgs","tissue","catostomus commersoni***retired***use catostomus commersonii"
+"usgs","tissue","mytilus edulis"
+"usgs","tissue","anguilla rostrata"
+"usgs","biological tissue","magnoliopsida"
+"usgs","biological tissue","taxon unknown"
+"usgs","canopy",""
+"usgs","biological tissue","cyprinus carpio"
+"usgs","tissue","salmo trutta"
+"usgs","tissue","ptychocheilus oregonensis"
+"usgs","wastewater treatment plant influent",""
+"usgs","tissue","aplodinotus grunniens"
+"usgs","tissue","bivalvia"
+"usgs","tissue","trachemys scripta elegans"
+"usgs","tissue","morone chrysops"
+"usgs","tissue","acipenser fulvescens"
+"usgs","tissue","oncorhynchus kisutch"
+"usgs","tissue","oncorhynchus tshawytscha"
+"usgs","tissue","esox lucius"
+"usgs","tissue","mugilidae"
+"usgs","tissue","cynoscion nebulosus"
+"usgs","tissue","lepomis"
+"usgs","water","americamysis bahia"
+"usgs","tissue","sebastes caurinus"
+"usgs","sediment","mysis relicta"
+"usgs","sediment","gammarus"
+"usgs","sediment","naididae"
+"usgs","sediment","chironomus"
+"usgs","sediment","dreissena bugensis"
+"usgs","sediment","micropsectra"
+"usgs","sediment","tanytarsus"
+"usgs","sediment","vejdovskyella intermedia"
+"usgs","sediment","tubificidae"
+"usgs","tissue","coregonus kiyi"
+"usgs","sediment","thalassodrilus hallae"
+"usgs","sediment","pisidiidae"
+"usgs","tissue","catostomus commersonii"
+"usgs","tissue","lepomis megalotis"
+"usgs","tissue","lepomis gibbosus"
+"usgs","tissue","ameiurus natalis"
+"usgs","tissue","salvelinus fontinalis"
+"usgs","tissue","homarus americanus"
+"usgs","tissue","siphateles bicolor"
+"usgs","tissue","catostomus catostomus"
+"usgs","tissue","amia calva"
+"usgs","tissue","pomoxis"
+"usgs","tissue","carpiodes"
+"usgs","water","ictalurus punctatus"
+"usgs","water","etheostoma zonale"
+"usgs","water","cottus"
+"usgs","water","notropis volucellus"
+"usgs","water","ameiurus natalis"
+"usgs","tissue","mercenaria"
+"usgs","tissue","abarenicola pacifica"
+"usgs","tissue","mya arenaria"
+"usgs","water","oncorhynchus mykiss"
+"usgs","sediment","potamothrix vejdovskyi"
+"usgs","sediment","limnodrilus hoffmeisteri"
+"usgs","sediment","tubifex tubifex"
+"usgs","sediment","potamothrix moldaviensis"
+"usgs","biological tissue","oncorhynchus mykiss"
+"usgs","biological tissue","mylopharodon conocephalus"
+"usgs","biological tissue","salmo trutta"
+"usgs","tissue","micropterus punctulatus"
+"usgs","drinking water",""
+"usgs","tissue","ictiobus cyprinellus"
+"usgs","tissue","ameiurus"
+"usgs","tissue","corbicula fluminea"
+"usgs","tissue","scorpaenichthys marmoratus"
+"usgs","tissue","hexagrammos decagrammus"
+"usgs","sediment","heterotrissocladius subpilosus"
+"usgs","sediment","hydra"
+"usgs","biological tissue","serranus tigrinus"
+"usgs","tissue","ictiobus bubalus"
+"usgs","deionized water",""
+"usgs","tissue","esox niger"
+"usgs","tissue","pleuronichthys verticalis"
+"usgs","tissue","minytrema melanops"
+"usgs","tissue","ameiurus brunneus"
+"usgs","tissue","archosargus probatocephalus"
+"usgs","tissue","pylodictis olivaris"
+"usgs","tissue","sebastes melanops"
+"usgs","tissue","sebastes carnatus"
+"usgs","tissue","sebastes auriculatus"
+"usgs","tissue","lepomis microlophus"
+"usgs","sediment","orthocladius"
+"usgs","sediment","nemertea"
+"usgs","sediment","spirosperma nikolskyi"
+"usgs","sediment","stylaria lacustris"
+"usgs","tissue","coregonus clupeaformis"
+"usgs","tissue","mysis"
+"usgs","tissue","coregonus zenithicus"
+"usgs","biological tissue","ameiurus natalis"
+"usgs","biological tissue","gambusia affinis"
+"usgs","biological tissue","anisoptera"
+"usgs","biological tissue","micropterus salmoides"
+"usgs","biological tissue","lepomis cyanellus"
+"usgs","biological tissue","lepomis macrochirus"
+"usgs","biological tissue","ictalurus punctatus"
+"usgs","biological tissue","plantae"
+"usgs","tissue","salmo salar"
+"usgs","tissue","mugil cephalus"
+"usgs","water","salmo trutta"
+"usgs","tissue","sebastes miniatus"
+"usgs","tissue","ophiodon elongatus"
+"usgs","tissue","ptychocheilus grandis"
+"usgs","sediment","protanypus"
+"usgs","sediment","girardia tigrina"
+"usgs","tissue","chelydra serpentina"
+"usgs","tissue","ameiurus melas"
+"usgs","tissue","lutjanus kasmira"
+"usgs","tissue","carpiodes cyprinus"
+"usgs","tissue","prosopium cylindraceum"
+"usgs","tissue","dorosoma cepedianum"
+"usgs","tissue","esox masquinongy"
+"usgs","tissue","coregonus artedi"
+"usgs","water","campostoma anomalum"
+"usgs","water","etheostoma flabellare"
+"usgs","tissue","triakis semifasciata"
+"usgs","tissue","mytilus galloprovincialis"
+"usgs","tissue","moxostoma erythrurum"
+"usgs","sediment","ophidonais serpentina"
+"usgs","sediment","polypedilum"
+"usgs","tissue","hexagenia"
+"usgs","tissue","carpiodes carpio"
+"usgs","tissue","sander vitreus x sander canadensis"
+"usgs","tissue","gila coerulea"
+"usgs","ocean water",""
+"usgs","tissue","hypophthalmichthys molitrix"
+"usgs","tissue","citharichthys sordidus"
+"usgs","tissue","parophrys vetulus"
+"usgs","tissue","orthodon microlepidotus"
+"usgs","sediment","aulodrilus americanus"
+"usgs","sediment","valvata lewisi"
+"usgs","sediment","aulodrilus pigueti"
+"usgs","sediment","procladius"
+"usgs","sediment","quistadrilus multisetosus"
+"usgs","sediment","chaetogaster diaphanus"
+"usgs","sediment","ilyodrilus templetoni"
+"usgs","sediment","spirosperma ferox"
+"usgs","sediment","valvata sincera"
+"usgs","sediment","aulodrilus pluriseta"
+"usgs","sediment","uncinais uncinata"
+"usgs","sediment","slavina appendiculata"
+"usgs","sediment","arcteonais lomondi"
+"usgs","sediment","tasserkidrilus americanus"
+"usgs","tissue","sander canadensis"
+"usgs","water","salvelinus fontinalis"
+"usgs","water","cottus cognatus"
+"usgs","tissue","brachiopoda"
+"usgs","tissue","sebastes mystinus"
+"usgs","tissue","sebastes maliger"
+"usgs","tissue","gambusia affinis"
+"usgs","sediment","gloiobdella elongata"
+"usgs","sediment","nais bretscheri"
+"usgs","sediment","limnodrilus claparedeianus"
+"usgs","sediment","amphipoda"
+"usgs","tissue","lota lota"
+"usgs","tissue","nereis"
+"usgs","tissue","catostomus occidentalis"
+"usgs","tissue","paralichthys californicus"
+"usgs","tissue","coregonus albula"
+"usgs","tissue","semotilus atromaculatus"
+"usgs","interstitial water","ceriodaphnia dubia"
+"usgs","interstitial water","pimephales promelas"
+"usgs","tissue","morone"
+"usgs","tissue","micropterus"
+"usgs","tissue","sebastes serranoides"
+"usgs","sediment","tasserkidrilus superiorensis"
+"usgs","tissue","luxilus chrysocephalus"
+"usgs","tissue","sebastes rosaceus"
+"usgs","tissue","tilapia"
+"usgs","tissue","hysterocarpus traskii"
+"usgs","sediment","paratanytarsus"
+"usgs","sediment","nais simplex"
+"usgs","sediment","paranais frici"
+"usgs","tissue","myliobatis californica"
+"usgs","tissue","hypsurus caryi"
+"usgs","sediment","aulodrilus limnobius"
+"usgs","water","atherinops affinis"
+"usgs","tissue","hypentelium nigricans"
+"usgs","tissue","sebastes atrovirens"
+"usgs","tissue","sebastes chrysomelas"
+"usgs","sediment","ablabesmyia"
+"usgs","tissue","hypophthalmichthys nobilis"
+"usgs","tissue","carassius auratus"
+"usgs","sediment","helobdella stagnalis"
+"usgs","sediment","mollusca"
+"usgs","sediment","rhyacodrilus coccineus"
+"usgs","water","orconectes rusticus"
+"usgs","tissue","sebastes nebulosus"
+"usgs","tissue","corbicula"
+"usgs","tissue","atherinops affinis"
+"usgs","water","notemigonus crysoleucas"
+"usgs","tissue","diporeia"
+"usgs","sediment","dicrotendipes fumidus"
+"usgs","sediment","ceriodaphnia dubia"
+"usgs","sediment","pimephales promelas"
+"usgs","tissue","genyonemus lineatus"
+"usgs","sediment","hexagenia"
+"usgs","tissue","animalia"
+"usgs","sediment","heterotrissocladius marcidus"
+"usgs","sediment","paracladopelma undine"
+"usgs","sediment","paracladopelma winnelli"
+"usgs","tissue","catostomus clarkii"
+"usgs","tissue","ameiurus catus"
+"usgs","sediment","caecidotea"
+"usgs","tissue","gila bicolor***retired***use siphateles bicolor"
+"usgs","tissue","hesperoleucus symmetricus"
+"usgs","sediment","valvata perdepressa"
+"usgs","sediment","heterotrissocladius"
+"usgs","sediment","amnicola limosus"
+"usgs","sediment","valvata tricarinata"
+"usgs","sediment","specaria josinae"
+"usgs","sediment","limnodrilus cervix"
+"usgs","sediment","piguetiella blanci"
+"usgs","sediment","isochaetides freyi"
+"usgs","sediment","manayunkia speciosa"
+"usgs","water","carpiodes cyprinus"
+"usgs","water","cyprinus carpio"
+"usgs","water","pomoxis nigromaculatus"
+"usgs","water","cottus girardi"
+"usgs","tissue","sebastes flavidus"
+"usgs","sediment","polypedilum tuberculum"
+"usgs","water","calopterygidae"
+"usgs","water","plecoptera"
+"usgs","water","simuliidae"
+"usgs","water","asellidae"
+"usgs","water","chironomidae"
+"usgs","water","platyhelminthes"
+"usgs","water","tipulidae"
+"usgs","water","cipangopaludina chinensis"
+"usgs","water","corbicula fluminea"
+"usgs","water","dreissena polymorpha"
+"usgs","water","sphaeriidae***retired***use pisidiidae"
+"usgs","water","unionoida"
+"usgs","sediment","valvata"
+"usgs","tissue","pleuronectiformes"
+"usgs","water","baetis"
+"usgs","water","nigronia"
+"usgs","water","orconectes"
+"usgs","water","sialis"
+"usgs","water","stenonema"
+"usgs","water","optioservus"
+"usgs","water","psephenus"
+"usgs","water","clinocera"
+"usgs","water","paragnetina"
+"usgs","water","psychomyia"
+"usgs","water","isonychia"
+"usgs","water","stenelmis"
+"usgs","water","cultus"
+"usgs","water","maccaffertium"
+"usgs","water","ceratopsyche"
+"usgs","water","paraleptophlebia"
+"usgs","water","epeorus"
+"usgs","water","gammarus"
+"usgs","water","cheumatopsyche"
+"usgs","water","dolophilodes"
+"usgs","water","antocha"
+"usgs","water","oligochaeta***retired***use oligochaeta (clitellata), oligochaeta (oligochaeta)"
+"usgs","water","simulium"
+"usgs","water","atherix"
+"usgs","water","cyprinodon variegatus"
+"usgs","water","thalassiosira pseudonana"
+"usgs","water","strongylocentrotus purpuratus"
+"usgs","tissue","neogobius melanostomus"
+"usgs","tissue","cottus cognatus"
+"usgs","tissue","alosa pseudoharengus"
+"usgs","sediment","ampelisca abdita"
+"usgs","sediment","capitella"
+"usgs","sediment","pectinaria"
+"usgs","sediment","nassarius obsoletus"
+"usgs","sediment","corophium"
+"usgs","sediment","nephtys incisa"
+"usgs","sediment","mercenaria mercenaria"
+"usgs","sediment","streblospio benedicti"
+"usgs","tissue","cyprinella spiloptera"
+"usgs","tissue","micropterus dolomieui***retired***use micropterus dolomieu"
+"usgs","tissue","mylocheilus caurinus"
+"usgs","tissue","salvelinus confluentus"
+"usgs","biological tissue","morone saxatilis"
+"usgs","tissue","oncorhynchus clarki"
+"usgs","unknown","metacarcinus magister"
+"usgs","unknown","mya arenaria"
+"usgs","unknown","vaccinium parvifolium"
+"usgs","tissue","siluriformes"
+"usgs","tissue","luxilus cornutus"
+"usgs","biological tissue","micropterus dolomieu"
+"usgs","biological tissue","prosopium williamsoni"
+"usgs","tissue","catostomus columbianus"
+"usgs","unknown","cerastoderma edule"
+"usgs","unknown",""
+"usgs","tissue","morone saxatilis x chrysops"
+"usgs","water","haploperla"
+"usgs","water","neophylax"
+"usgs","water","cinygmula"
+"usgs","water","polycentropus"
+"usgs","water","ceratopogonidae"
+"usgs","water","leucrocuta"
+"usgs","water","paracapnia"
+"usgs","water","neoperla"
+"usgs","tissue","archoplites interruptus"
+"usgs","sediment","phallodrillus hallae"
+"usgs","sediment","prionospio heterobranchia"
+"usgs","sediment","leucon americanus"
+"usgs","sediment","tellina"
+"usgs","sediment","idotea metallica"
+"usgs","sediment","glycera"
+"usgs","sediment","scoloplos robustus"
+"usgs","sediment","tharyx"
+"usgs","tissue","oncorhynchus clarkii"
+"usgs","tissue","moxostoma anisurum"
+"usgs","tissue","bothidae"
+"usgs","tissue","notemigonus crysoleucas"
+"usgs","tissue","dorosoma petenense"
+"usgs","tissue","menidia beryllina"
+"usgs","tissue","ctenopharyngodon idella"
+"usgs","sediment","platyhelminthes"
+"usgs","sediment","stictochironomus"
+"usgs","unknown","salicornia depressa"
+"usgs","landfill effluent",""
+"usgs","tissue","scomberomorus cavalla"
+"usgs","tissue","sciaenops ocellatus"
+"usgs","tissue","pogonias cromis"
+"usgs","tissue","menticirrhus"
+"usgs","tissue","centrarchidae"
+"usgs","tissue","menticirrhus americanus"
+"usgs","water","acentrella"
+"usgs","water","amphinemura"
+"usgs","water","eurylophella"
+"usgs","water","hemerodromia"
+"usgs","water","isoperla"
+"usgs","water","rhyacophila"
+"usgs","water","drunella"
+"usgs","water","ephemerella"
+"usgs","water","allocapnia"
+"usgs","water","alloperla"
+"usgs","water","caecidotea"
+"usgs","water","caenis"
+"usgs","water","turbellaria***retired***use catenulida (platyhelminthes), acoelomorpha, rhabditophora"
+"usgs","water","hydropsyche"
+"usgs","water","serratella"
+"usgs","water","ancylidae"
+"usgs","water","nematoda"
+"usgs","water","hydracarina"
+"usgs","sediment","echinogammarus"
+"usgs","sediment","limnodrilus profundicola"
+"usgs","sediment","alitta succinea"
+"usgs","sediment","crepidula fornicata"
+"usgs","sediment","rhithropanopeus harrisii"
+"usgs","sediment","mytilus edulis"
+"usgs","sediment","protohaustorius"
+"usgs","tissue","moxostoma duquesnii"
+"usgs","tissue","morone mississippiensis"
+"usgs","tissue","fundulus notatus"
+"usgs","tissue","campostoma anomalum"
+"usgs","tissue","moxostoma breviceps"
+"usgs","municipal sewage effluent",""
+"usgs","tissue","alosa sapidissima"
+"usgs","biological tissue","animalia"
+"usgs","tissue","ostrea lurida"
+"usgs","tissue","prosopium williamsoni"
+"usgs","unknown","protothaca staminea"
+"usgs","unknown","saxidomus giganteus***retired***use saxidomus gigantea"
+"usgs","unknown","alnus"
+"usgs","unknown","lysichiton americanus"
+"usgs","water","rhithrogena"
+"usgs","water","acroneuria"
+"usgs","water","habrophlebia"
+"usgs","water","agnetina"
+"usgs","sediment","nais communis"
+"usgs","sediment","nais variabilis"
+"usgs","sediment","vejdovskyella comata"
+"usgs","sediment","paralauterborniella nigrohalteralis"
+"usgs","tissue","catostomus macrocheilus"
+"usgs","tissue","moxostoma macrolepidotum"
+"usgs","water","habrophlebiodes"
+"usgs","water","promoresia"
+"usgs","tissue","oligochaeta (oligochaeta)"
+"usgs","tissue","oncorhynchus nerka"
+"usgs","unknown","rubus spectabilis"
+"usgs","water","corynoneura"
+"usgs","water","dicranota"
+"usgs","water","dubiraphia"
+"usgs","water","dubiraphia quadrinotata"
+"usgs","water","nais behningi"
+"usgs","water","nais bretscheri"
+"usgs","water","nyctiophylax (paranyctiophylax)"
+"usgs","water","paratanytarsus"
+"usgs","water","taeniopteryx"
+"usgs","water","tubificidae"
+"usgs","water","ceratopsyche slossonae"
+"usgs","water","gammarus pseudolimnaeus"
+"usgs","water","brachycentrus occidentalis"
+"usgs","water","stenacron interpunctatum"
+"usgs","water","conchapelopia"
+"usgs","water","micropsectra"
+"usgs","water","pycnopsyche"
+"usgs","water","optioservus fastiditus"
+"usgs","water","diamesa"
+"usgs","water","hydropsyche betteni"
+"usgs","water","orthocladiinae"
+"usgs","water","physa"
+"usgs","water","polypedilum"
+"usgs","water","tvetenia"
+"usgs","tissue","cyprinidae"
+"usgs","tissue","hypostomus plecostomus"
+"usgs","sediment","nucula"
+"usgs","sediment","crangon septemspinosa"
+"usgs","unknown","vaccinium"
+"usgs","water","oulimnius"
+"usgs","water","ameletus"
+"usgs","water","ephemera (ephemeridae)"
+"usgs","water","leuctra"
+"usgs","sediment","paracladopelma"
+"usgs","sediment","potthastia"
+"usgs","sediment","clymenella torquata"
+"usgs","sediment","ampelisca"
+"usgs","sediment","pagurus"
+"usgs","tissue","nocomis biguttatus"
+"usgs","sediment","glycera americana"
+"usgs","sediment","rhepoxynius epistomus"
+"usgs","sediment","spio"
+"usgs","sediment","sabellaria vulgaris"
+"usgs","sediment","costoanachis"
+"usgs","untreated water supply",""
+"usgs","water","sweltsa"
+"usgs","water","stenacron"
+"usgs","water","chelipoda"
+"usgs","water","remenus"
+"usgs","water","heptagenia"
+"usgs","water","pteronarcys"
+"usgs","water","chimarra"
+"usgs","water","ephoron"
+"usgs","sediment","rhyacodrilus montanus"
+"usgs","sediment","polydora cornuta"
+"usgs","sediment","mulinia lateralis"
+"usgs","biological tissue","pomatomus saltatrix"
+"usgs","tissue","esox americanus"
+"usgs","water","chelifera"
+"usgs","sediment","stephensoniania trivandrana"
+"usgs","sediment","anthozoa (anthozoa)"
+"usgs","water","argia"
+"usgs","water","gammaridae"
+"usgs","water","diplectrona"
+"usgs","water","corydalus"
+"usgs","water","perlesta"
+"usgs","water","tricorythodes"
+"usgs","sediment","psectrocladius"
+"usgs","sediment","eteone"
+"usgs","sediment","crepidula plana"
+"usgs","sediment","neomysis americana"
+"usgs","tissue","oncorhynchus clarkii lewisi"
+"usgs","water","hexatoma"
+"usgs","water","pleuroceridae"
+"usgs","water","anthopotamus"
+"usgs","water","stylogomphus"
+"usgs","sediment","yoldia"
+"usgs","sediment","leptocheirus plumulosus"
+"usgs","sediment","pontogeneia inermis"
+"usgs","sediment","ampelisca macrocephala"
+"usgs","biological tissue","perca flavescens"
+"usgs","indoor air",""
+"usgs","tissue","farfantepenaeus aztecus"
+"usgs","tissue","penaeus"
+"usgs","sediment","prionospio steenstrupi"
+"usgs","sediment","corophium volutator"
+"usgs","sediment","cyathura polita"
+"usgs","sediment","harmothoe extenuata"
+"usgs","tissue","pimephales notatus"
+"usgs","tissue","nuttallia obscurata"
+"usgs","unknown","malus"
+"usgs","water","macronychus"
+"usgs","water","ancyronyx"
+"usgs","water","dasyhelea"
+"usgs","water","probezzia"
+"usgs","water","siphlonurus"
+"usgs","tissue","phalacrocorax auritus"
+"usgs","sediment","marphysa sanguinea"
+"usgs","water","molophilus"
+"usgs","water","leucotrichia"
+"usgs","tissue","enchytraeidae"
+"usgs","sediment","pherusa plumosa"
+"usgs","tissue","pimephales promelas"
+"usgs","water","neureclipsis"
+"usgs","water","potamyia"
+"usgs","sediment","harnischia"
+"usgs","sediment","eteone heteropoda"
+"usgs","water","crangonyx"
+"usgs","sediment","physa"
+"usgs","sediment","hydrobaenus"
+"usgs","sediment","cryptonatica affinis"
+"usgs","sediment","arabella iricolor"
+"usgs","sediment","potamothrix bedoti"
+"usgs","water","agapetus"
+"usgs","sediment","mysis"
+"usgs","water","gomphidae"
+"usgs","water","acerpenna"
+"usgs","sediment","potamothrix bavaricus"
+"usgs","sediment","prionospio"
+"usgs","water","prosimulium"
+"usgs","water","helopicus"
+"usgs","water","brachycentrus"
+"usgs","water","glossosoma"
+"usgs","water","choroterpes"
+"usgs","water","diphetor"
+"usgs","water","plauditus"
+"usgs","water","apatania"
+"usgs","water","hirudinea***retired***use hirudinea (clitellata), hirudinea (hirudinea)"
+"usgs","tissue","catostomus tahoensis"
+"usgs","water","chrysops"
+"usgs","water","limnophyes"
+"usgs","water","pagastia"
+"usgs","water","thienemanniella"
+"usgs","water","tipula"
+"usgs","water","neoplasta"
+"usgs","water","lype diversa"
+"usgs","water","parakiefferiella"
+"usgs","water","ceratopsyche sparna"
+"usgs","water","caecidotea communis"
+"usgs","water","parametriocnemus"
+"usgs","water","rheotanytarsus"
+"usgs","water","boyeria"
+"usgs","sediment","animalia"
+"usgs","water","lepidostoma"
+"usgs","sediment","sthenelais"
+"usgs","tissue","hypophthalmichthys"
+"usgs","water","baetidae"
+"usgs","sediment","amphitrite ornata"
+"usgs","water","leptophlebiidae"
+"usgs","water","pseudocloeon"
+"usgs","sediment","bathyporeia quoddyensis"
+"usgs","water","brachycentrus americanus"
+"usgs","water","ceratopogoninae"
+"usgs","water","drunella grandis"
+"usgs","water","eukiefferiella"
+"usgs","water","drunella doddsii"
+"usgs","water","taenionema"
+"usgs","water","heterlimnius corpulentus"
+"usgs","water","capniidae"
+"usgs","water","limnephilidae"
+"usgs","water","megarcys signata"
+"usgs","water","neothremma"
+"usgs","water","oreogeton"
+"usgs","water","rhyacophila brunnea"
+"usgs","water","sperchon"
+"usgs","water","enchytraeidae"
+"usgs","water","baetis tricaudatus"
+"usgs","water","cricotopus"
+"usgs","water","pericoma"
+"usgs","water","rhyacophila sibirica"
+"usgs","water","zapada oregonensis"
+"usgs","water","hesperoperla pacifica"
+"usgs","water","zapada cinctipes"
+"usgs","water","arctopsyche"
+"usgs","water","lebertia"
+"usgs","water","podmosta"
+"usgs","water","chloroperlidae"
+"usgs","tissue","chironomidae"
+"usgs","water","cryptolabis"
+"usgs","water","dineutus"
+"usgs","water","physidae"
+"usgs","sediment","nematoda"
+"usgs","water","hydropsychidae"
+"usgs","water","diptera"
+"usgs","water","ophiogomphus"
+"usgs","water","pisidium"
+"usgs","water","sphaerium"
+"usgs","water","maccaffertium vicarium"
+"usgs","sediment","probythinella lacustris"
+"usgs","water","procloeon"
+"usgs","tissue","sphaeriidae***retired***use pisidiidae"
+"usgs","sediment","hydrolimax grisea"
+"usgs","tissue","brachyura"
+"usgs","filter residue",""
+"usgs","surface water sediment",""
+"usgs","snowmelt",""
+"usgs","sediment","chironomidae"
+"usgs","water","ameiurus melas"
+"usgs","sediment","branchiura sowerbyi"
+"usgs","sediment","microchironomus"
+"usgs","sediment","potamopyrgus antipodarum"
+"usgs","sediment","cryptochironomus"
+"usgs","sediment","polypedilum halterale"
+"usgs","sediment","hyalella azteca"
+"usgs","tissue","nephropidae"
+"usgs","tissue","ambloplites constellatus"
+"usgs","pore water",""
+"usgs","air","amphinemura banksi"
+"usgs","air","brillia"
+"usgs","air","ceratopogoninae"
+"usgs","air","drunella coloradensis"
+"usgs","air","epeorus deceptivus"
+"usgs","air","heterotrissocladius"
+"usgs","air","isoperla"
+"usgs","air","naididae"
+"usgs","air","paraphaenocladius"
+"usgs","air","polypedilum"
+"usgs","air","neothremma"
+"usgs","air","sweltsa"
+"usgs","air","corynoneura"
+"usgs","air","hesperophylax"
+"usgs","air","neoplasta"
+"usgs","air","cinygmula"
+"usgs","air","polycelis coronata"
+"usgs","air","prosimulium"
+"usgs","air","baetis bicaudatus"
+"usgs","air","leuctridae"
+"usgs","air","macropelopia"
+"usgs","air","thienemanniella"
+"usgs","air","zapada cinctipes"
+"usgs","air","chloroperlidae"
+"usgs","air","enchytraeidae"
+"usgs","air","micropsectra"
+"usgs","air","ameletus"
+"usgs","air","rhyacophila vofixa"
+"usgs","air","sperchon"
+"usgs","air","zapada oregonensis"
+"usgs","air","pagastia"
+"usgs","air","oreogeton"
+"usgs","air","tvetenia"
+"usgs","sediment","gastropoda"
+"usgs","sediment","cincinnatia cincinnatiensis"
+"usgs","sediment","limnodrilus udekemianus"
+"usgs","sediment","gammarus pseudolimnaeus"
+"usgs","tissue","atherinopsis californiensis"
+"usgs","sediment","dreissena polymorpha"
+"usgs","tissue","chaenobryttus gulosus***retired***use lepomis gulosus"
+"usgs","tissue","tresus capax"
+"usgs","tissue","clinocardium nuttallii"
+"usgs","water","chaetocladius"
+"usgs","water","epeorus vitreus"
+"usgs","water","ferrissia"
+"usgs","water","leucotrichia pictipes"
+"usgs","water","liodessus affinis"
+"usgs","water","maccaffertium modestum"
+"usgs","water","neoplea striola"
+"usgs","water","rheocricotopus"
+"usgs","water","rheosmittia"
+"usgs","water","stenelmis crenata"
+"usgs","water","isoperla signata"
+"usgs","water","acerpenna macdunnoughi"
+"usgs","water","brillia"
+"usgs","water","hydatophylax argus"
+"usgs","water","sublettea"
+"usgs","water","tvetenia vitracies"
+"usgs","water","dubiraphia minima"
+"usgs","water","micrasema wataga"
+"usgs","water","optioservus trivittatus"
+"usgs","water","ephemerella subvaria"
+"usgs","water","ectemnia"
+"usgs","water","microtendipes"
+"usgs","water","taeniopterygidae"
+"usgs","water","ceratopsyche walkeri"
+"usgs","water","tanytarsus"
+"usgs","water","stylodrilus heringianus"
+"usgs","water","ephemerella excrucians"
+"usgs","water","isoperla transmarina"
+"usgs","water","glossosoma intermedium"
+"usgs","water","psychomyia flavida"
+"usgs","tissue","erimyzon oblongus"
+"usgs","tissue","nocomis micropogon"
+"usgs","tissue","lepisosteus osseus"
+"usgs","sediment","cricotopus"
+"usgs","sediment","rhyacodrilus sodalis"
+"usgs","tissue","ictiobus niger"
+"usgs","tissue","acipenser transmontanus"
+"usgs","tissue","phanerodon furcatus"
+"usgs","water","ephemeroptera"
+"usgs","tissue","moxostoma valenciennesi"
+"usgs","sediment","polypedilum scalaenum"
+"usgs","water","leptophlebia"
+"usgs","water","aeshna umbrosa"
+"usgs","water","natarsia"
+"usgs","water","rheocricotopus tuberculatus"
+"usgs","water","stempellinella"
+"usgs","water","nais simplex"
+"usgs","water","nemoura trispinosa"
+"usgs","water","stegopterna"
+"usgs","water","trissopelopia ogemawi"
+"usgs","water","zavrelimyia"
+"usgs","water","chironominae"
+"usgs","water","nanocladius"
+"usgs","water","eurylophella funeralis"
+"usgs","water","polypedilum aviceps"
+"usgs","water","tanypodinae"
+"usgs","water","diplectrona modesta"
+"usgs","water","rhyacophila vibox"
+"usgs","water","amphipoda"
+"usgs","water","gyrinidae"
+"usgs","water","lymnaeidae"
+"usgs","water","chironomus"
+"usgs","water","glossosomatidae"
+"usgs","tissue","saxidomus gigantea"
+"usgs","tissue","rhinichthys cataractae"
+"usgs","tissue","leptocottus armatus"
+"usgs","sediment","chaetogaster diastrophus"
+"usgs","water","hydrobiidae"
+"usgs","tissue","hyperprosopon argenteum"
+"usgs","water","paralauterborniella nigrohalterale"
+"usgs","tissue","embiotoca jacksoni"
+"usgs","tissue","rhacochilus vacca"
+"usgs","sediment","paralauterborniella"
+"usgs","water","aulodrilus pluriseta"
+"usgs","water","ceratopogon"
+"usgs","water","cordulegaster"
+"usgs","water","cordulegaster obliqua"
+"usgs","water","heterotrissocladius marcidus"
+"usgs","water","molanna"
+"usgs","water","stilocladius"
+"usgs","water","diplocladius cultriger"
+"usgs","water","heleniella"
+"usgs","water","baetis brunneicolor"
+"usgs","water","pseudorthocladius"
+"usgs","water","paratendipes"
+"usgs","tissue","engraulis mordax"
+"usgs","tissue","gasterosteus aculeatus"
+"usgs","air","pseudodiamesa"
+"usgs","air","agabus"
+"usgs","air","limnophyes"
+"usgs","air","ormosia (eriopterini)"
+"usgs","sediment","rhyacodrilus"
+"usgs","water","etheostoma exile"
+"usgs","water","goniobasis"
+"usgs","tissue","archocentrus nigrofasciatus"
+"usgs","water","cladotanytarsus"
+"usgs","water","gomphus"
+"usgs","water","hetaerina"
+"usgs","water","phaenopsectra"
+"usgs","water","platycentropus"
+"usgs","water","nigronia serricornis"
+"usgs","water","pseudolimnophila"
+"usgs","water","acerpenna pygmaea"
+"usgs","tissue","umbra limi"
+"usgs","water","caecidotea racovitzai"
+"usgs","water","enallagma"
+"usgs","water","mooreobdella microstoma"
+"usgs","water","campeloma decisum"
+"usgs","water","stagnicola"
+"usgs","tissue","panulirus interruptus"
+"usgs","water","oligochaeta (oligochaeta)"
+"usgs","tissue","fundulus parvipinnis"
+"usgs","water","calopteryx maculata"
+"usgs","water","labrundinia"
+"usgs","water","piguetiella michiganensis"
+"usgs","water","potthastia longimana"
+"usgs","water","rheopelopia"
+"usgs","water","synorthocladius"
+"usgs","water","cordulegaster maculata"
+"usgs","water","nanocladius branchicolus"
+"usgs","water","paracladopelma"
+"usgs","water","rhithrogena jejuna"
+"usgs","water","paraphaenocladius"
+"usgs","water","dicrotendipes"
+"usgs","water","prosimulium mixtum"
+"usgs","water","erioptera"
+"usgs","water","glossiphonia complanata"
+"usgs","water","limnephilus rhombicus"
+"usgs","water","tribelos"
+"usgs","water","ablabesmyia"
+"usgs","water","hydroptila"
+"usgs","water","ilyodrilus templetoni"
+"usgs","water","limnodrilus hoffmeisteri"
+"usgs","water","macronychus glabratus"
+"usgs","water","ceratopsyche bronta"
+"usgs","water","nilotanypus"
+"usgs","water","potthastia"
+"usgs","water","simulium gouldingi"
+"usgs","water","stylogomphus albistylus"
+"usgs","water","ablabesmyia mallochi"
+"usgs","water","ephemera simulans"
+"usgs","water","orthocladius lignicola"
+"usgs","tissue","paralabrax maculatofasciatus"
+"usgs","tissue","cottus"
+"usgs","tissue","pacifastacus leniusculus"
+"usgs","tissue","exopalaemon modestus"
+"usgs","tissue","margaritifera falcata"
+"ca_surf_sediment",NA,NA
+"ca_surf_water",NA,NA
+"epa_amtic",NA,NA
+"epa_tnsss",NA,NA
+"epa_ucmr","drinking water",NA
+"fda_tds_elem","apple (red), raw (w/ peel)",NA
+"fda_tds_elem","apple juice, bottled",NA
+"fda_tds_elem","applesauce, bottled",NA
+"fda_tds_elem","apricots, canned in heavy/light syrup",NA
+"fda_tds_elem","asparagus, fresh/frozen, boiled",NA
+"fda_tds_elem","avocado, raw",NA
+"fda_tds_elem","bf, dutch apple/apple cobbler",NA
+"fda_tds_elem","bf, infant formula, milk-based, high iron, rtf",NA
+"fda_tds_elem","bf, infant formula, milk-based, iron fortified, rtf",NA
+"fda_tds_elem","bf, infant formula, milk-based, low iron, rtf",NA
+"fda_tds_elem","bf, infant formula, soy-based, rtf",NA
+"fda_tds_elem","bf, apples with berries",NA
+"fda_tds_elem","bf, apples with fruit other than berries",NA
+"fda_tds_elem","bf, applesauce",NA
+"fda_tds_elem","bf, apricots w/ mixed fruit",NA
+"fda_tds_elem","bf, arrowroot cookies",NA
+"fda_tds_elem","bf, banana dessert",NA
+"fda_tds_elem","bf, bananas",NA
+"fda_tds_elem","bf, bananas and pineapple",NA
+"fda_tds_elem","bf, beef and broth/gravy",NA
+"fda_tds_elem","bf, beef and noodles/beef stroganoff",NA
+"fda_tds_elem","bf, carrots",NA
+"fda_tds_elem","bf, cereal, barley, dry, prep w/ water",NA
+"fda_tds_elem","bf, cereal, mixed, dry, prep w/ water",NA
+"fda_tds_elem","bf, cereal, oatmeal w/ fruit, prep w/ water",NA
+"fda_tds_elem","bf, cereal, oatmeal, dry, prep w/ water",NA
+"fda_tds_elem","bf, cereal, rice w/apples, dry, prep w/ water",NA
+"fda_tds_elem","bf, cereal, rice, dry, prep w/ water",NA
+"fda_tds_elem","bf, chicken and broth/gravy",NA
+"fda_tds_elem","bf, chicken noodle dinner",NA
+"fda_tds_elem","bf, chicken w/ rice",NA
+"fda_tds_elem","bf, custard/pudding",NA
+"fda_tds_elem","bf, fruit dessert/pudding",NA
+"fda_tds_elem","bf, fruit yogurt dessert",NA
+"fda_tds_elem","bf, green beans",NA
+"fda_tds_elem","bf, juice, apple",NA
+"fda_tds_elem","bf, juice, apple-banana",NA
+"fda_tds_elem","bf, juice, apple-cherry",NA
+"fda_tds_elem","bf, juice, apple-grape",NA
+"fda_tds_elem","bf, juice, grape",NA
+"fda_tds_elem","bf, juice, mixed fruit",NA
+"fda_tds_elem","bf, juice, orange",NA
+"fda_tds_elem","bf, juice, pear",NA
+"fda_tds_elem","bf, lamb and broth/gravy",NA
+"fda_tds_elem","bf, macaroni and cheese",NA
+"fda_tds_elem","bf, macaroni, tomato and beef",NA
+"fda_tds_elem","bf, mixed vegetables",NA
+"fda_tds_elem","bf, peach cobbler/dessert",NA
+"fda_tds_elem","bf, peaches",NA
+"fda_tds_elem","bf, pears",NA
+"fda_tds_elem","bf, pears and pineapple",NA
+"fda_tds_elem","bf, peas",NA
+"fda_tds_elem","bf, plums/prunes w/ apples or pears",NA
+"fda_tds_elem","bf, plums/prunes w/apples or pears",NA
+"fda_tds_elem","bf, squash",NA
+"fda_tds_elem","bf, sweet potatoes",NA
+"fda_tds_elem","bf, teething biscuits",NA
+"fda_tds_elem","bf, turkey and  rice",NA
+"fda_tds_elem","bf, turkey and broth/gravy",NA
+"fda_tds_elem","bf, veal and broth/gravy",NA
+"fda_tds_elem","bf, vegetables and beef",NA
+"fda_tds_elem","bf, vegetables and chicken",NA
+"fda_tds_elem","bf, vegetables and ham",NA
+"fda_tds_elem","bf, vegetables and turkey",NA
+"fda_tds_elem","bf, zweiback toast",NA
+"fda_tds_elem","bf. apples with berries",NA
+"fda_tds_elem","bagel, plain, toasted",NA
+"fda_tds_elem","banana, raw",NA
+"fda_tds_elem","beef roast, chuck, oven-roasted",NA
+"fda_tds_elem","beef steak, loin/sirloin, broiled",NA
+"fda_tds_elem","beef stroganoff w/ noodles, homemade",NA
+"fda_tds_elem","beef w/ vegetables in sauce, from chinese carry-out",NA
+"fda_tds_elem","beef, ground, regular, pan-cooked",NA
+"fda_tds_elem","beer",NA
+"fda_tds_elem","beets, canned",NA
+"fda_tds_elem","biscuits, refrigerated-type, baked",NA
+"fda_tds_elem","black olives",NA
+"fda_tds_elem","bologna (beef/pork)",NA
+"fda_tds_elem","bottled drinking water (mineral/spring), not carbonated or flavored",NA
+"fda_tds_elem","bread, cracked wheat",NA
+"fda_tds_elem","bread, multigrain",NA
+"fda_tds_elem","bread, rye",NA
+"fda_tds_elem","bread, white, enriched",NA
+"fda_tds_elem","bread, whole wheat",NA
+"fda_tds_elem","breakfast tart/toaster pastry",NA
+"fda_tds_elem","broccoli, fresh/frozen, boiled",NA
+"fda_tds_elem","brown gravy, canned or bottled",NA
+"fda_tds_elem","brownie",NA
+"fda_tds_elem","brussels sprouts, fresh/frozen, boiled",NA
+"fda_tds_elem","burrito w/ beef, beans and cheese, from mexican carry-out",NA
+"fda_tds_elem","butter, regular (not lowfat)",NA
+"fda_tds_elem","butter, regular (not lowfat), salted",NA
+"fda_tds_elem","cabbage, fresh, boiled",NA
+"fda_tds_elem","cake, chocolate w/ icing",NA
+"fda_tds_elem","cake, white w/ icing",NA
+"fda_tds_elem","cake, yellow w/ icing",NA
+"fda_tds_elem","candy bar, chocolate, nougat, and nuts",NA
+"fda_tds_elem","candy bar, milk chocolate, plain",NA
+"fda_tds_elem","candy, hard, any flavor",NA
+"fda_tds_elem","cantaloupe, raw/frozen",NA
+"fda_tds_elem","carbonated beverage, cola, low-calorie",NA
+"fda_tds_elem","carbonated beverage, cola, regular",NA
+"fda_tds_elem","carbonated beverage, fruit-flavored, regular",NA
+"fda_tds_elem","carrot, baby, raw",NA
+"fda_tds_elem","carrot, fresh, peeled, boiled",NA
+"fda_tds_elem","catfish, pan-cooked w/ oil",NA
+"fda_tds_elem","cauliflower, fresh/frozen, boiled",NA
+"fda_tds_elem","celery, raw",NA
+"fda_tds_elem","cheese, american, processed",NA
+"fda_tds_elem","cheese, swiss, natural",NA
+"fda_tds_elem","cheese, cheddar, natural (sharp/mild)",NA
+"fda_tds_elem","chicken breast, fried, fast-food (w/ skin)",NA
+"fda_tds_elem","chicken breast, oven-roasted (skin removed)",NA
+"fda_tds_elem","chicken filet (broiled) sandwich on bun, fast-food",NA
+"fda_tds_elem","chicken leg, fried, fast-food  (w/ skin)",NA
+"fda_tds_elem","chicken nuggets, fast-food",NA
+"fda_tds_elem","chicken potpie, frozen, heated",NA
+"fda_tds_elem","chicken thigh, oven-roasted (skin removed)",NA
+"fda_tds_elem","chicken w/ vegetables in sauce, from chinese carry-out",NA
+"fda_tds_elem","chili con carne w/ beans, canned",NA
+"fda_tds_elem","chocolate chip cookies",NA
+"fda_tds_elem","clam chowder, new england, canned, cond, prep w/ whl milk",NA
+"fda_tds_elem","coffee, decaffeinated, from ground",NA
+"fda_tds_elem","coffee, from ground",NA
+"fda_tds_elem","coleslaw, mayonnaise-type, from grocery/deli",NA
+"fda_tds_elem","collards, fresh/frozen, boiled",NA
+"fda_tds_elem","corn flakes cereal",NA
+"fda_tds_elem","corn, canned",NA
+"fda_tds_elem","corn, fresh/frozen, boiled",NA
+"fda_tds_elem","corn/hominy grits, enriched, cooked",NA
+"fda_tds_elem","corn/tortilla chips",NA
+"fda_tds_elem","cornbread, homemade",NA
+"fda_tds_elem","cottage cheese, creamed, lowfat (2% milk fat)",NA
+"fda_tds_elem","crackers, butter-type",NA
+"fda_tds_elem","crackers, graham",NA
+"fda_tds_elem","crackers, saltine",NA
+"fda_tds_elem","cranberry juice cocktail, canned/bottled",NA
+"fda_tds_elem","cream cheese",NA
+"fda_tds_elem","cream of wheat (farina), enriched, cooked",NA
+"fda_tds_elem","cream substitute, non-dairy, liquid/frozen",NA
+"fda_tds_elem","cream, half & half",NA
+"fda_tds_elem","crisped rice cereal",NA
+"fda_tds_elem","cucumber, peeled, raw",NA
+"fda_tds_elem","dill cucumber pickles",NA
+"fda_tds_elem","doughnut, cake-type, any flavor, from donut store",NA
+"fda_tds_elem","egg, cheese, and ham on english muffin, fast-food",NA
+"fda_tds_elem","eggplant, fresh, peeled, boiled",NA
+"fda_tds_elem","eggs, boiled",NA
+"fda_tds_elem","eggs, scrambled w/ oil",NA
+"fda_tds_elem","english muffin, plain, toasted",NA
+"fda_tds_elem","fish sandwich on bun, fast-food",NA
+"fda_tds_elem","fish sticks or patty, frozen, oven-cooked",NA
+"fda_tds_elem","frankfurter (beef/pork), boiled",NA
+"fda_tds_elem","french fries, fast-food",NA
+"fda_tds_elem","fried rice, meatless, from chinese carry-out",NA
+"fda_tds_elem","fruit cocktail, canned in light syrup",NA
+"fda_tds_elem","fruit drink (10% juice), canned or bottled",NA
+"fda_tds_elem","fruit drink, from powder",NA
+"fda_tds_elem","fruit juice blend (100% juice), canned/bottled",NA
+"fda_tds_elem","fruit-flavored cereal, presweetened",NA
+"fda_tds_elem","gelatin dessert, any flavor",NA
+"fda_tds_elem","granola bar, w/ raisins",NA
+"fda_tds_elem","granola w/ raisins",NA
+"fda_tds_elem","grape juice, frozen conc, reconstituted",NA
+"fda_tds_elem","grapefruit juice, bottled",NA
+"fda_tds_elem","grapefruit, raw",NA
+"fda_tds_elem","grapes (red/green), raw",NA
+"fda_tds_elem","green beans, canned",NA
+"fda_tds_elem","green beans, fresh/frozen, boiled",NA
+"fda_tds_elem","ham, cured (not canned), baked",NA
+"fda_tds_elem","honey",NA
+"fda_tds_elem","ice cream, light, vanilla",NA
+"fda_tds_elem","ice cream, regular (not lowfat), vanilla",NA
+"fda_tds_elem","infant formula, soy-based, rtf",NA
+"fda_tds_elem","jelly, any flavor",NA
+"fda_tds_elem","lamb chop, pan-cooked w/ oil",NA
+"fda_tds_elem","lasagna w/ meat, frozen, heated",NA
+"fda_tds_elem","lemonade, frozen conc, reconstituted",NA
+"fda_tds_elem","lettuce, iceberg, raw",NA
+"fda_tds_elem","lettuce, iceburg, raw",NA
+"fda_tds_elem","lettuce, leaf, raw",NA
+"fda_tds_elem","lima beans, immature, frozen, boiled",NA
+"fda_tds_elem","liver (beef/calf), pan-cooked w/ oil",NA
+"fda_tds_elem","luncheon meat (chicken/turkey)",NA
+"fda_tds_elem","luncheon meat, ham",NA
+"fda_tds_elem","macaroni and cheese, prepared from box mix",NA
+"fda_tds_elem","macaroni salad, from grocery/deli",NA
+"fda_tds_elem","margarine, regular (not lowfat), salted",NA
+"fda_tds_elem","mayonnaise, regular, bottled",NA
+"fda_tds_elem","meal replacement, liquid rtd, any flavor",NA
+"fda_tds_elem","meatloaf, beef, homemade",NA
+"fda_tds_elem","milk shake, chocolate, fast-food",NA
+"fda_tds_elem","milk, chocolate, lowfat, fluid",NA
+"fda_tds_elem","milk, lowfat (2%), fluid",NA
+"fda_tds_elem","milk, skim, fluid",NA
+"fda_tds_elem","milk, whole, fluid",NA
+"fda_tds_elem","mixed vegetables, frozen, boiled",NA
+"fda_tds_elem","muffin, fruit or plain",NA
+"fda_tds_elem","mushrooms, raw",NA
+"fda_tds_elem","mustard, yellow, plain",NA
+"fda_tds_elem","noodles, egg, enriched, boiled",NA
+"fda_tds_elem","oat ring cereal",NA
+"fda_tds_elem","oatmeal, plain, cooked",NA
+"fda_tds_elem","okra, fresh/frozen, boiled",NA
+"fda_tds_elem","olive oil",NA
+"fda_tds_elem","onion, mature, raw",NA
+"fda_tds_elem","orange (navel/valencia), raw",NA
+"fda_tds_elem","orange juice, bottled/carton",NA
+"fda_tds_elem","orange juice, frozen conc, reconstituted",NA
+"fda_tds_elem","pancakes, frozen, heated",NA
+"fda_tds_elem","peach, canned in light/medium syrup",NA
+"fda_tds_elem","peach, raw/frozen",NA
+"fda_tds_elem","peanut butter, creamy",NA
+"fda_tds_elem","peanut butter, smooth/creamy",NA
+"fda_tds_elem","peanuts, dry roasted, salted",NA
+"fda_tds_elem","pear, canned in light syrup",NA
+"fda_tds_elem","pear, raw (w/ peel)",NA
+"fda_tds_elem","peas, green, fresh/frozen, boiled",NA
+"fda_tds_elem","pepper, sweet, green, raw",NA
+"fda_tds_elem","pie, apple, fresh/frozen",NA
+"fda_tds_elem","pie, pumpkin, fresh/frozen",NA
+"fda_tds_elem","pineapple juice, frozen conc, reconstituted",NA
+"fda_tds_elem","pineapple, canned in juice",NA
+"fda_tds_elem","pinto beans, dry, boiled",NA
+"fda_tds_elem","pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+"fda_tds_elem","popcorn, microwave, butter-flavored",NA
+"fda_tds_elem","popsicle, fruit-flavored",NA
+"fda_tds_elem","pork and beans, canned",NA
+"fda_tds_elem","pork bacon, oven-cooked",NA
+"fda_tds_elem","pork chop, pan-cooked w/ oil",NA
+"fda_tds_elem","pork roast, loin, oven-roasted",NA
+"fda_tds_elem","pork sausage (link/patty), oven-cooked",NA
+"fda_tds_elem","pork sausage, (link/patty) oven-cooked",NA
+"fda_tds_elem","potato chips",NA
+"fda_tds_elem","potato salad, mayonnaise-type, from grocery/deli",NA
+"fda_tds_elem","potato, baked (w/ peel)",NA
+"fda_tds_elem","potato, boiled (w/out peel)",NA
+"fda_tds_elem","potato, mashed, prepared from fresh",NA
+"fda_tds_elem","potatoes, mashed, prepared from fresh",NA
+"fda_tds_elem","pretzels, hard, salted",NA
+"fda_tds_elem","prune juice, bottled",NA
+"fda_tds_elem","pudding, ready-to-eat, flavor other than chocolate",NA
+"fda_tds_elem","quarter-pound cheeseburger on bun, fast-food",NA
+"fda_tds_elem","quarter-pound hamburger on bun, fast-food",NA
+"fda_tds_elem","raisin bran cereal",NA
+"fda_tds_elem","raisins",NA
+"fda_tds_elem","refried beans, canned",NA
+"fda_tds_elem","rice, white, enriched, cooked",NA
+"fda_tds_elem","salad dressing, italian, regular",NA
+"fda_tds_elem","salad dressing, creamy/buttermilk type, low-calorie",NA
+"fda_tds_elem","salad dressing, creamy/buttermilk type, regular",NA
+"fda_tds_elem","salami, luncheon-meat type (not hard)",NA
+"fda_tds_elem","salmon, steaks/fillets, baked",NA
+"fda_tds_elem","sandwich cookies w/ cr?me filling",NA
+"fda_tds_elem","sandwich cookies w/ creme filling",NA
+"fda_tds_elem","sherbet, fruit-flavored",NA
+"fda_tds_elem","shredded wheat cereal",NA
+"fda_tds_elem","shrimp, boiled",NA
+"fda_tds_elem","soup, oriental noodles (ramen noodles), prep w/ water",NA
+"fda_tds_elem","soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+"fda_tds_elem","soup, chicken noodle, canned, cond, prep w/ water",NA
+"fda_tds_elem","soup, tomato, canned, cond, prep w/ water",NA
+"fda_tds_elem","soup, vegetable beef, canned, cond, prep w/ water",NA
+"fda_tds_elem","sour cream",NA
+"fda_tds_elem","sour cream dip, any flavor",NA
+"fda_tds_elem","spaghetti w/ meat sauce, homemade",NA
+"fda_tds_elem","spaghetti, enriched, boiled",NA
+"fda_tds_elem","spinach, fresh/frozen, boiled",NA
+"fda_tds_elem","squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+"fda_tds_elem","squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+"fda_tds_elem","stew, beef and vegetable, canned",NA
+"fda_tds_elem","strawberries, raw/frozen",NA
+"fda_tds_elem","sugar cookies",NA
+"fda_tds_elem","sugar, white, granulated",NA
+"fda_tds_elem","summer squash, fresh/frozen, boiled",NA
+"fda_tds_elem","sunflower seeds (shelled), roasted, salted",NA
+"fda_tds_elem","sweet & sour sauce",NA
+"fda_tds_elem","sweet potatoes, canned",NA
+"fda_tds_elem","sweet roll/danish pastry",NA
+"fda_tds_elem","syrup, chocolate",NA
+"fda_tds_elem","syrup, pancake",NA
+"fda_tds_elem","taco/tostada w/ beef and cheese, from mexican carry-out",NA
+"fda_tds_elem","tea, decaffeinated, from tea bag",NA
+"fda_tds_elem","tea, from tea bag",NA
+"fda_tds_elem","tomato catsup",NA
+"fda_tds_elem","tomato juice, bottled",NA
+"fda_tds_elem","tomato salsa, bottled",NA
+"fda_tds_elem","tomato sauce, plain, bottled",NA
+"fda_tds_elem","tomato, raw",NA
+"fda_tds_elem","tortilla, flour",NA
+"fda_tds_elem","tuna noodle casserole, homemade",NA
+"fda_tds_elem","tuna, canned in water, drained",NA
+"fda_tds_elem","turkey breast, oven-roasted",NA
+"fda_tds_elem","turnip, fresh/frozen, boiled",NA
+"fda_tds_elem","vegetable oil",NA
+"fda_tds_elem","watermelon, raw/frozen",NA
+"fda_tds_elem","white beans, dry, boiled",NA
+"fda_tds_elem","wine, dry table, red/ white",NA
+"fda_tds_elem","yogurt, lowfat, fruit-flavored",NA
+"fda_tds_pest","apple (red), raw (w/ peel)",NA
+"fda_tds_pest","apple juice, bottled",NA
+"fda_tds_pest","applesauce, bottled",NA
+"fda_tds_pest","apricots, canned in heavy/light syrup",NA
+"fda_tds_pest","asparagus, fresh/frozen, boiled",NA
+"fda_tds_pest","avocado, raw",NA
+"fda_tds_pest","bf, dutch apple/apple cobbler",NA
+"fda_tds_pest","bf, infant formula, milk-based, high iron, rtf",NA
+"fda_tds_pest","bf, infant formula, milk-based, low iron, rtf",NA
+"fda_tds_pest","bf, infant formula, soy-based, rtf",NA
+"fda_tds_pest","bf, apples with berries",NA
+"fda_tds_pest","bf, apples with fruit other than berries",NA
+"fda_tds_pest","bf, applesauce",NA
+"fda_tds_pest","bf, apricots w/ mixed fruit",NA
+"fda_tds_pest","bf, arrowroot cookies",NA
+"fda_tds_pest","bf, banana dessert",NA
+"fda_tds_pest","bf, bananas",NA
+"fda_tds_pest","bf, bananas and pineapple",NA
+"fda_tds_pest","bf, beef and broth/gravy",NA
+"fda_tds_pest","bf, beef and noodles/beef stroganoff",NA
+"fda_tds_pest","bf, carrots",NA
+"fda_tds_pest","bf, cereal, barley, dry, prep w/ water",NA
+"fda_tds_pest","bf, cereal, mixed, dry, prep w/ water",NA
+"fda_tds_pest","bf, cereal, oatmeal w/ fruit, prep w/ water",NA
+"fda_tds_pest","bf, cereal, oatmeal, dry, prep w/ water",NA
+"fda_tds_pest","bf, cereal, rice w/apples, dry, prep w/ water",NA
+"fda_tds_pest","bf, cereal, rice, dry, prep w/ water",NA
+"fda_tds_pest","bf, chicken and broth/gravy",NA
+"fda_tds_pest","bf, chicken noodle dinner",NA
+"fda_tds_pest","bf, chicken w/ rice",NA
+"fda_tds_pest","bf, custard/pudding",NA
+"fda_tds_pest","bf, fruit dessert/pudding",NA
+"fda_tds_pest","bf, fruit yogurt dessert",NA
+"fda_tds_pest","bf, green beans",NA
+"fda_tds_pest","bf, juice, apple",NA
+"fda_tds_pest","bf, juice, apple-banana",NA
+"fda_tds_pest","bf, juice, apple-cherry",NA
+"fda_tds_pest","bf, juice, apple-grape",NA
+"fda_tds_pest","bf, juice, grape",NA
+"fda_tds_pest","bf, juice, mixed fruit",NA
+"fda_tds_pest","bf, juice, orange",NA
+"fda_tds_pest","bf, juice, pear",NA
+"fda_tds_pest","bf, lamb and broth/gravy",NA
+"fda_tds_pest","bf, macaroni and cheese",NA
+"fda_tds_pest","bf, macaroni, tomato and beef",NA
+"fda_tds_pest","bf, mixed vegetables",NA
+"fda_tds_pest","bf, peach cobbler/dessert",NA
+"fda_tds_pest","bf, peaches",NA
+"fda_tds_pest","bf, pears",NA
+"fda_tds_pest","bf, pears and pineapple",NA
+"fda_tds_pest","bf, peas",NA
+"fda_tds_pest","bf, plums/prunes w/apples or pears",NA
+"fda_tds_pest","bf, squash",NA
+"fda_tds_pest","bf, sweet potatoes",NA
+"fda_tds_pest","bf, teething biscuits",NA
+"fda_tds_pest","bf, turkey and  rice",NA
+"fda_tds_pest","bf, turkey and broth/gravy",NA
+"fda_tds_pest","bf, turkey and rice",NA
+"fda_tds_pest","bf, veal and broth/gravy",NA
+"fda_tds_pest","bf, vegetables and beef",NA
+"fda_tds_pest","bf, vegetables and chicken",NA
+"fda_tds_pest","bf, vegetables and ham",NA
+"fda_tds_pest","bf, vegetables and turkey",NA
+"fda_tds_pest","bf, zweiback toast",NA
+"fda_tds_pest","bagel, plain, toasted",NA
+"fda_tds_pest","banana, raw",NA
+"fda_tds_pest","beef roast, chuck, oven-roasted",NA
+"fda_tds_pest","beef steak, loin/sirloin, broiled",NA
+"fda_tds_pest","beef stroganoff w/ noodles, homemade",NA
+"fda_tds_pest","beef w/ vegetables in sauce, from chinese carry-out",NA
+"fda_tds_pest","beef, ground, regular, pan-cooked",NA
+"fda_tds_pest","beer",NA
+"fda_tds_pest","beets, canned",NA
+"fda_tds_pest","biscuits, refrigerated-type, baked",NA
+"fda_tds_pest","black olives",NA
+"fda_tds_pest","bologna (beef/pork)",NA
+"fda_tds_pest","bottled drinking water (mineral/spring), not carbonated or flavored",NA
+"fda_tds_pest","bread, cracked wheat",NA
+"fda_tds_pest","bread, rye",NA
+"fda_tds_pest","bread, white, enriched",NA
+"fda_tds_pest","bread, whole wheat",NA
+"fda_tds_pest","breakfast tart/toaster pastry",NA
+"fda_tds_pest","broccoli, fresh/frozen, boiled",NA
+"fda_tds_pest","brown gravy, canned or bottled",NA
+"fda_tds_pest","brownie",NA
+"fda_tds_pest","brussels sprouts, fresh/frozen, boiled",NA
+"fda_tds_pest","burrito w/ beef, beans and cheese, from mexican carry-out",NA
+"fda_tds_pest","butter, regular (not lowfat), salted",NA
+"fda_tds_pest","cabbage, fresh, boiled",NA
+"fda_tds_pest","cake, chocolate w/ icing",NA
+"fda_tds_pest","cake, white w/ icing",NA
+"fda_tds_pest","cake, white w/ icing (formerly yellow cake)",NA
+"fda_tds_pest","cake, yellow w/ icing",NA
+"fda_tds_pest","candy bar, chocolate, nougat, and nuts",NA
+"fda_tds_pest","candy bar, milk chocolate, plain",NA
+"fda_tds_pest","candy, hard, any flavor",NA
+"fda_tds_pest","cantaloupe, raw/frozen",NA
+"fda_tds_pest","carbonated beverage, cola, low-calorie",NA
+"fda_tds_pest","carbonated beverage, cola, regular",NA
+"fda_tds_pest","carbonated beverage, fruit-flavored, regular",NA
+"fda_tds_pest","carrot, baby, raw",NA
+"fda_tds_pest","carrot, fresh, peeled, boiled",NA
+"fda_tds_pest","catfish, pan-cooked w/ oil",NA
+"fda_tds_pest","cauliflower, fresh/frozen, boiled",NA
+"fda_tds_pest","celery, raw",NA
+"fda_tds_pest","cheese, american, processed",NA
+"fda_tds_pest","cheese, swiss, natural",NA
+"fda_tds_pest","cheese, cheddar, natural (sharp/mild)",NA
+"fda_tds_pest","chicken breast, fried, fast-food (w/ skin)",NA
+"fda_tds_pest","chicken breast, oven-roasted (skin removed)",NA
+"fda_tds_pest","chicken filet (broiled) sandwich on bun, fast-food",NA
+"fda_tds_pest","chicken leg, fried, fast-food  (w/ skin)",NA
+"fda_tds_pest","chicken leg, fried, fast-food (w/ skin)",NA
+"fda_tds_pest","chicken nuggets, fast-food",NA
+"fda_tds_pest","chicken potpie, frozen, heated",NA
+"fda_tds_pest","chicken thigh, oven-roasted (skin removed)",NA
+"fda_tds_pest","chicken w/ vegetables in sauce, from chinese carry-out",NA
+"fda_tds_pest","chili con carne w/ beans, canned",NA
+"fda_tds_pest","chocolate chip cookies",NA
+"fda_tds_pest","clam chowder, new england, canned, cond, prep w/ whl milk",NA
+"fda_tds_pest","coffee, decaffeinated, from ground",NA
+"fda_tds_pest","coffee, from ground",NA
+"fda_tds_pest","coleslaw, mayonnaise-type, from grocery/deli",NA
+"fda_tds_pest","collards, fresh/frozen, boiled",NA
+"fda_tds_pest","corn flakes cereal",NA
+"fda_tds_pest","corn, canned",NA
+"fda_tds_pest","corn, fresh/frozen, boiled",NA
+"fda_tds_pest","corn/hominy grits, enriched, cooked",NA
+"fda_tds_pest","corn/tortilla chips",NA
+"fda_tds_pest","cornbread, homemade",NA
+"fda_tds_pest","cottage cheese, creamed, lowfat (2% milk fat)",NA
+"fda_tds_pest","crackers, butter-type",NA
+"fda_tds_pest","crackers, graham",NA
+"fda_tds_pest","crackers, saltine",NA
+"fda_tds_pest","cranberry juice cocktail, canned/bottled",NA
+"fda_tds_pest","cream cheese",NA
+"fda_tds_pest","cream of wheat (farina), enriched, cooked",NA
+"fda_tds_pest","cream substitute, non-dairy, liquid/frozen",NA
+"fda_tds_pest","cream substitute, non-diary, liquid/frozen",NA
+"fda_tds_pest","cream, half & half",NA
+"fda_tds_pest","crisped rice cereal",NA
+"fda_tds_pest","cucumber, peeled, raw",NA
+"fda_tds_pest","dill cucumber pickles",NA
+"fda_tds_pest","doughnut, cake-type, any flavor, from donut store",NA
+"fda_tds_pest","egg, cheese, and ham on english muffin, fast-food",NA
+"fda_tds_pest","eggplant, fresh, peeled, boiled",NA
+"fda_tds_pest","eggs, boiled",NA
+"fda_tds_pest","eggs, scrambled w/ oil",NA
+"fda_tds_pest","english muffin, plain, toasted",NA
+"fda_tds_pest","fish sandwich on bun, fast-food",NA
+"fda_tds_pest","fish sticks or patty, frozen, oven-cooked",NA
+"fda_tds_pest","frankfurter (beef/pork), boiled",NA
+"fda_tds_pest","french fries, fast-food",NA
+"fda_tds_pest","fried rice, meatless, from chinese carry-out",NA
+"fda_tds_pest","fruit cocktail, canned in light syrup",NA
+"fda_tds_pest","fruit drink (10% juice), canned or bottled",NA
+"fda_tds_pest","fruit drink, from powder",NA
+"fda_tds_pest","fruit juice blend (100% juice), canned/bottled",NA
+"fda_tds_pest","fruit-flavored cereal, presweetened",NA
+"fda_tds_pest","gelatin dessert, any flavor",NA
+"fda_tds_pest","granola bar, w/ raisins",NA
+"fda_tds_pest","granola w/ raisins",NA
+"fda_tds_pest","grape juice, frozen conc, reconstituted",NA
+"fda_tds_pest","grapefruit juice, bottled",NA
+"fda_tds_pest","grapefruit, raw",NA
+"fda_tds_pest","grapes (red/green), raw",NA
+"fda_tds_pest","green beans, canned",NA
+"fda_tds_pest","green beans, fresh/frozen, boiled",NA
+"fda_tds_pest","ham, cured (not canned), baked",NA
+"fda_tds_pest","honey",NA
+"fda_tds_pest","ice cream, light, vanilla",NA
+"fda_tds_pest","ice cream, regular (not lowfat), vanilla",NA
+"fda_tds_pest","infant formula, milk-based, high iron, rtf",NA
+"fda_tds_pest","infant formula, milk-based, low iron, rtf",NA
+"fda_tds_pest","jelly, any flavor",NA
+"fda_tds_pest","lamb chop, pan-cooked w/ oil",NA
+"fda_tds_pest","lasagna w/ meat, frozen, heated",NA
+"fda_tds_pest","lemonade, frozen conc, reconstituted",NA
+"fda_tds_pest","lettuce, iceberg, raw",NA
+"fda_tds_pest","lettuce, leaf, raw",NA
+"fda_tds_pest","lima beans, immature, frozen, boiled",NA
+"fda_tds_pest","liver (beef/calf), pan-cooked w/ oil",NA
+"fda_tds_pest","luncheon meat (chicken/turkey)",NA
+"fda_tds_pest","luncheon meat (ham)",NA
+"fda_tds_pest","luncheon meat, ham",NA
+"fda_tds_pest","macaroni and cheese, prepared from box mix",NA
+"fda_tds_pest","macaroni salad, from grocery/deli",NA
+"fda_tds_pest","margarine, regular (not lowfat), salted",NA
+"fda_tds_pest","mayonnaise, regular, bottled",NA
+"fda_tds_pest","meal replacement, liquid rtd, any flavor",NA
+"fda_tds_pest","meatloaf, beef, homemade",NA
+"fda_tds_pest","milk shake, chocolate, fast-food",NA
+"fda_tds_pest","milk, chocolate, lowfat, fluid",NA
+"fda_tds_pest","milk, lowfat (2%), fluid",NA
+"fda_tds_pest","milk, skim, fluid",NA
+"fda_tds_pest","milk, whole, fluid",NA
+"fda_tds_pest","mixed vegetables, frozen, boiled",NA
+"fda_tds_pest","muffin, fruit or plain",NA
+"fda_tds_pest","mushrooms, raw",NA
+"fda_tds_pest","mustard, yellow, plain",NA
+"fda_tds_pest","noodles, egg, enriched, boiled",NA
+"fda_tds_pest","oat ring cereal",NA
+"fda_tds_pest","oatmeal, plain, cooked",NA
+"fda_tds_pest","okra, fresh/frozen, boiled",NA
+"fda_tds_pest","olive oil",NA
+"fda_tds_pest","onion, mature, raw",NA
+"fda_tds_pest","orange (navel/valencia), raw",NA
+"fda_tds_pest","orange juice, bottled/carton",NA
+"fda_tds_pest","orange juice, frozen conc, reconstituted",NA
+"fda_tds_pest","pancakes, frozen, heated",NA
+"fda_tds_pest","peach, canned in light/medium syrup",NA
+"fda_tds_pest","peach, raw/frozen",NA
+"fda_tds_pest","peanut butter, smooth/creamy",NA
+"fda_tds_pest","peanuts, dry roasted, salted",NA
+"fda_tds_pest","pear, canned in light syrup",NA
+"fda_tds_pest","pear, raw (w/ peel)",NA
+"fda_tds_pest","peas, green, fresh/frozen, boiled",NA
+"fda_tds_pest","pepper, sweet, green, raw",NA
+"fda_tds_pest","pie, apple, fresh/frozen",NA
+"fda_tds_pest","pie, pumpkin, fresh/frozen",NA
+"fda_tds_pest","pineapple juice, frozen conc, reconstituted",NA
+"fda_tds_pest","pineapple, canned in juice",NA
+"fda_tds_pest","pinto beans, dry, boiled",NA
+"fda_tds_pest","pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+"fda_tds_pest","popcorn, microwave, butter-flavored",NA
+"fda_tds_pest","popsicle, fruit-flavored",NA
+"fda_tds_pest","pork and beans, canned",NA
+"fda_tds_pest","pork bacon, oven-cooked",NA
+"fda_tds_pest","pork chop, pan-cooked w/ oil",NA
+"fda_tds_pest","pork roast, loin, oven-roasted",NA
+"fda_tds_pest","pork sausage (link/patty), oven-cooked",NA
+"fda_tds_pest","pork sausage, (link/patty) oven-cooked",NA
+"fda_tds_pest","potato chips",NA
+"fda_tds_pest","potato salad, mayonnaise-type, from grocery/deli",NA
+"fda_tds_pest","potato, baked (w/ peel)",NA
+"fda_tds_pest","potato, boiled (w/out peel)",NA
+"fda_tds_pest","potato, mashed, prepared from fresh",NA
+"fda_tds_pest","potatoes, mashed, prepared from fresh",NA
+"fda_tds_pest","pretzels, hard, salted",NA
+"fda_tds_pest","prune juice, bottled",NA
+"fda_tds_pest","pudding, ready-to-eat, flavor other than chocolate",NA
+"fda_tds_pest","quarter-pound cheeseburger on bun, fast-food",NA
+"fda_tds_pest","quarter-pound hamburger on bun, fast-food",NA
+"fda_tds_pest","raisin bran cereal",NA
+"fda_tds_pest","raisins",NA
+"fda_tds_pest","refried beans, canned",NA
+"fda_tds_pest","rice, white, enriched, cooked",NA
+"fda_tds_pest","salad dressing, italian, regular",NA
+"fda_tds_pest","salad dressing, creamy/buttermilk type, low-calorie",NA
+"fda_tds_pest","salad dressing, creamy/buttermilk type, regular",NA
+"fda_tds_pest","salami, luncheon-meat type (not hard)",NA
+"fda_tds_pest","salmon, steaks/fillets, baked",NA
+"fda_tds_pest","sandwich cookies w/ cr?me filling",NA
+"fda_tds_pest","sherbet, fruit-flavored",NA
+"fda_tds_pest","shredded wheat cereal",NA
+"fda_tds_pest","shrimp, boiled",NA
+"fda_tds_pest","soup, oriental noodles (ramen noodles), prep w/ water",NA
+"fda_tds_pest","soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+"fda_tds_pest","soup, chicken noodle, canned, cond, prep w/ water",NA
+"fda_tds_pest","soup, tomato, canned, cond, prep w/ water",NA
+"fda_tds_pest","soup, vegetable beef, canned, cond, prep w/ water",NA
+"fda_tds_pest","sour cream",NA
+"fda_tds_pest","sour cream dip, any flavor",NA
+"fda_tds_pest","spaghetti w/ meat sauce, homemade",NA
+"fda_tds_pest","spaghetti, enriched, boiled",NA
+"fda_tds_pest","spinach, fresh/frozen, boiled",NA
+"fda_tds_pest","squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+"fda_tds_pest","squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+"fda_tds_pest","stew, beef and vegetable, canned",NA
+"fda_tds_pest","strawberries, raw/frozen",NA
+"fda_tds_pest","sugar cookies",NA
+"fda_tds_pest","sugar, white, granulated",NA
+"fda_tds_pest","summer squash, fresh/frozen, boiled",NA
+"fda_tds_pest","sunflower seeds (shelled), roasted, salted",NA
+"fda_tds_pest","sweet & sour sauce",NA
+"fda_tds_pest","sweet potatoes, canned",NA
+"fda_tds_pest","sweet roll/danish pastry",NA
+"fda_tds_pest","syrup, chocolate",NA
+"fda_tds_pest","syrup, pancake",NA
+"fda_tds_pest","taco/tostada w/ beef and cheese, from mexican carry-out",NA
+"fda_tds_pest","tea, decaffeinated, from tea bag",NA
+"fda_tds_pest","tea, from tea bag",NA
+"fda_tds_pest","tomato catsup",NA
+"fda_tds_pest","tomato juice, bottled",NA
+"fda_tds_pest","tomato salsa, bottled",NA
+"fda_tds_pest","tomato sauce, plain, bottled",NA
+"fda_tds_pest","tomato, raw",NA
+"fda_tds_pest","tortilla, flour",NA
+"fda_tds_pest","tuna noodle casserole, homemade",NA
+"fda_tds_pest","tuna, canned in water, drained",NA
+"fda_tds_pest","turkey breast, oven-roasted",NA
+"fda_tds_pest","turnip, fresh/frozen, boiled",NA
+"fda_tds_pest","vegetable oil",NA
+"fda_tds_pest","watermelon, raw/frozen",NA
+"fda_tds_pest","white beans, dry, boiled",NA
+"fda_tds_pest","wine, dry table, red/ white",NA
+"fda_tds_pest","yogurt, lowfat, fruit-flavored",NA
+"airmon",NA,NA
+"ices_biota","tissue","anarhichas lupus"
+"ices_biota","other","anarhichas lupus"
+"ices_biota","tissue","anarhichas minor"
+"ices_biota","other","anarhichas minor"
+"ices_biota","tissue","anguilla anguilla"
+"ices_biota","other","anguilla anguilla"
+"ices_biota","tissue","aphanopus carbo"
+"ices_biota","tissue","balaenoptera acutorostrata"
+"ices_biota","other","balaenoptera acutorostrata"
+"ices_biota","tissue","bathysaurus ferox"
+"ices_biota","tissue","boreogadus saida"
+"ices_biota","other","boreogadus saida"
+"ices_biota","tissue","brosme brosme"
+"ices_biota","other","brosme brosme"
+"ices_biota","other","buccinum undatum"
+"ices_biota","tissue","callionymus lyra"
+"ices_biota","other","callionymus lyra"
+"ices_biota","other","cepphus grylle"
+"ices_biota","tissue","cepphus grylle"
+"ices_biota","other","cerastoderma edule"
+"ices_biota","tissue","chelidonichthys kumu"
+"ices_biota","other","chelidonichthys kumu"
+"ices_biota","tissue","chimaera monstrosa"
+"ices_biota","other","chimaera monstrosa"
+"ices_biota","tissue","clupea harengus"
+"ices_biota","","clupea harengus"
+"ices_biota","other","clupea harengus"
+"ices_biota","tissue","conger conger"
+"ices_biota","other","conger conger"
+"ices_biota","tissue","coryphaenoides rupestris"
+"ices_biota","other","crangon crangon"
+"ices_biota","","crangon crangon"
+"ices_biota","tissue","crangon crangon"
+"ices_biota","other","crassostrea gigas"
+"ices_biota","tissue","delphinapterus leucas"
+"ices_biota","tissue","delphinus delphis"
+"ices_biota","other","dreissena polymorpha"
+"ices_biota","other","ensis siliqua"
+"ices_biota","tissue","eutrigla gurnardus"
+"ices_biota","other","eutrigla gurnardus"
+"ices_biota","other","fucus"
+"ices_biota","other","fucus ceranoides"
+"ices_biota","other","fucus serratus"
+"ices_biota","other","fucus vesiculosus"
+"ices_biota","fat","fulmarus glacialis"
+"ices_biota","tissue","fulmarus glacialis"
+"ices_biota","tissue","gadus morhua"
+"ices_biota","blood","gadus morhua"
+"ices_biota","other","gadus morhua"
+"ices_biota","","gadus morhua"
+"ices_biota","tissue","gadus ogac"
+"ices_biota","tissue","globicephala melas"
+"ices_biota","other","globicephala melas"
+"ices_biota","tissue","glyptocephalus cynoglossus"
+"ices_biota","other","glyptocephalus cynoglossus"
+"ices_biota","other","gobius"
+"ices_biota","other","haematopus ostralegus"
+"ices_biota","tissue","halichoerus grypus"
+"ices_biota","blood","halichoerus grypus"
+"ices_biota","other","haliotis tuberculata"
+"ices_biota","tissue","hippoglossoides platessoides"
+"ices_biota","other","hippoglossoides platessoides"
+"ices_biota","tissue","hoplostethus atlanticus"
+"ices_biota","other","larus"
+"ices_biota","other","larus argentatus"
+"ices_biota","tissue","larus glaucoides"
+"ices_biota","other","larus glaucoides"
+"ices_biota","fat","larus hyperboreus"
+"ices_biota","tissue","larus hyperboreus"
+"ices_biota","other","larus hyperboreus"
+"ices_biota","tissue","lepidorhombus boscii"
+"ices_biota","other","lepidorhombus boscii"
+"ices_biota","tissue","lepidorhombus whiffiagonis"
+"ices_biota","other","lepidorhombus whiffiagonis"
+"ices_biota","tissue","lepus timidus"
+"ices_biota","other","lepus timidus"
+"ices_biota","tissue","leucoraja naevus"
+"ices_biota","other","leucoraja naevus"
+"ices_biota","tissue","limanda limanda"
+"ices_biota","blood","limanda limanda"
+"ices_biota","other","limanda limanda"
+"ices_biota","tissue","littorina littorea"
+"ices_biota","other","littorina littorea"
+"ices_biota","tissue","loligo vulgaris"
+"ices_biota","other","loligo vulgaris"
+"ices_biota","tissue","lophius budegassa"
+"ices_biota","other","lophius budegassa"
+"ices_biota","tissue","lophius piscatorius"
+"ices_biota","other","lophius piscatorius"
+"ices_biota","other","macoma balthica"
+"ices_biota","other","macoma baltica"
+"ices_biota","tissue","mallotus villosus"
+"ices_biota","other","mallotus villosus"
+"ices_biota","tissue","melanogrammus aeglefinus"
+"ices_biota","other","melanogrammus aeglefinus"
+"ices_biota","tissue","merlangius merlangus"
+"ices_biota","other","merlangius merlangus"
+"ices_biota","tissue","merluccius merluccius"
+"ices_biota","other","merluccius merluccius"
+"ices_biota","tissue","micromesistius poutassou"
+"ices_biota","tissue","microstomus kitt"
+"ices_biota","other","microstomus kitt"
+"ices_biota","tissue","molva dypterygia"
+"ices_biota","tissue","molva molva"
+"ices_biota","other","molva molva"
+"ices_biota","tissue","monodon monoceros"
+"ices_biota","other","monodon monoceros"
+"ices_biota","tissue","mullus barbatus"
+"ices_biota","other","mullus barbatus"
+"ices_biota","other","mya arenaria"
+"ices_biota","other","mya truncata"
+"ices_biota","tissue","myoxocephalus scorpius"
+"ices_biota","other","myoxocephalus scorpius"
+"ices_biota","other","mysidacea"
+"ices_biota","other","mytilus"
+"ices_biota","other","mytilus edulis"
+"ices_biota","tissue","mytilus edulis"
+"ices_biota","blood","mytilus edulis"
+"ices_biota","","mytilus edulis"
+"ices_biota","other","mytilus galloprovincialis"
+"ices_biota","other","nassarius nitidus"
+"ices_biota","tissue","nassarius reticulatus"
+"ices_biota","other","nassarius reticulatus"
+"ices_biota","tissue","neogobius melanostomus"
+"ices_biota","other","neogobius melanostomus"
+"ices_biota","tissue","nephrops norvegicus"
+"ices_biota","other","nephrops norvegicus"
+"ices_biota","other","neptunea antiqua"
+"ices_biota","tissue","nucella"
+"ices_biota","other","nucella"
+"ices_biota","tissue","nucella lapillus"
+"ices_biota","other","nucella lapillus"
+"ices_biota","other","ocenebra erinaceus"
+"ices_biota","tissue","ostrea edulis"
+"ices_biota","other","ostrea edulis"
+"ices_biota","tissue","ovis aries"
+"ices_biota","fat","ovis aries"
+"ices_biota","tissue","palaemon serratus"
+"ices_biota","other","palaemon serratus"
+"ices_biota","other","pandalus borealis"
+"ices_biota","tissue","pandalus borealis"
+"ices_biota","tissue","pecten maximus"
+"ices_biota","other","pecten maximus"
+"ices_biota","tissue","pegusa lascaris"
+"ices_biota","other","pegusa lascaris"
+"ices_biota","tissue","perca fluviatilis"
+"ices_biota","other","perca fluviatilis"
+"ices_biota","other","peringia ulvae"
+"ices_biota","tissue","phoca groenlandica"
+"ices_biota","other","phoca groenlandica"
+"ices_biota","tissue","phoca hispida"
+"ices_biota","other","phoca hispida"
+"ices_biota","tissue","phoca vitulina"
+"ices_biota","blood","phoca vitulina"
+"ices_biota","other","phoca vitulina"
+"ices_biota","tissue","phocoena phocoena"
+"ices_biota","tissue","platichthys flesus"
+"ices_biota","blood","platichthys flesus"
+"ices_biota","other","platichthys flesus"
+"ices_biota","tissue","pleuronectes platessa"
+"ices_biota","blood","pleuronectes platessa"
+"ices_biota","other","pleuronectes platessa"
+"ices_biota","tissue","pollachius pollachius"
+"ices_biota","other","pollachius pollachius"
+"ices_biota","tissue","pollachius virens"
+"ices_biota","other","pollachius virens"
+"ices_biota","tissue","psetta maxima"
+"ices_biota","other","psetta maxima"
+"ices_biota","tissue","raja brachyura"
+"ices_biota","other","raja brachyura"
+"ices_biota","tissue","raja clavata"
+"ices_biota","other","raja clavata"
+"ices_biota","tissue","raja montagui"
+"ices_biota","other","raja montagui"
+"ices_biota","tissue","raja radiata"
+"ices_biota","tissue","reinhardtius hippoglossoides"
+"ices_biota","other","reinhardtius hippoglossoides"
+"ices_biota","tissue","rissa tridactyla"
+"ices_biota","fat","rissa tridactyla"
+"ices_biota","other","rissa tridactyla"
+"ices_biota","other","saduria entomon"
+"ices_biota","tissue","salmo salar"
+"ices_biota","other","salmo salar"
+"ices_biota","tissue","salmo trutta"
+"ices_biota","other","salmo trutta"
+"ices_biota","tissue","salvelinus alpinus"
+"ices_biota","other","salvelinus alpinus"
+"ices_biota","tissue","sardina pilchardus"
+"ices_biota","other","sardina pilchardus"
+"ices_biota","tissue","scomber scombrus"
+"ices_biota","other","scomber scombrus"
+"ices_biota","tissue","scophthalmus rhombus"
+"ices_biota","other","scophthalmus rhombus"
+"ices_biota","tissue","scyliorhinus canicula"
+"ices_biota","other","scyliorhinus canicula"
+"ices_biota","tissue","sebastes marinus"
+"ices_biota","other","sebastes marinus"
+"ices_biota","tissue","sebastes mentella"
+"ices_biota","other","sebastes mentella"
+"ices_biota","tissue","solea solea"
+"ices_biota","other","solea solea"
+"ices_biota","tissue","solea vulgaris"
+"ices_biota","","solea vulgaris"
+"ices_biota","other","solea vulgaris"
+"ices_biota","fat","somateria mollissima"
+"ices_biota","tissue","somateria mollissima"
+"ices_biota","other","somateria mollissima"
+"ices_biota","tissue","sprattus sprattus"
+"ices_biota","other","sprattus sprattus"
+"ices_biota","tissue","squalus acanthias"
+"ices_biota","other","squalus acanthias"
+"ices_biota","other","sterna hirundo"
+"ices_biota","tissue","thunnus alalunga"
+"ices_biota","other","thunnus alalunga"
+"ices_biota","tissue","trigla lucerna"
+"ices_biota","other","trigla lucerna"
+"ices_biota","tissue","triglidae"
+"ices_biota","other","triglidae"
+"ices_biota","other","uria aalge"
+"ices_biota","tissue","uria lomvia"
+"ices_biota","tissue","ursus maritimus"
+"ices_biota","other","ursus maritimus"
+"ices_biota","other","venerupis philippinarum"
+"ices_biota","tissue","zeus faber"
+"ices_biota","other","zeus faber"
+"ices_biota","tissue","zoarces viviparus"
+"ices_biota","other","zoarces viviparus"
+"ices_sediment","sediment",NA
+"ices_sediment","",NA
+"ip_chem_biota","sb","mytilus edulis"
+"ip_chem_biota","li","limanda limanda"
+"ip_chem_biota","mu","limanda limanda"
+"ip_chem_biota","li","pleuronectes platessa"
+"ip_chem_biota","mu","mullus barbatus"
+"ip_chem_biota","wo","mytilus edulis"
+"ip_chem_biota","sb","mytilus galloprovincialis"
+"ip_chem_biota","mu","perca fluviatilis"
+"ip_chem_biota","wo","mytilus galloprovincialis"
+"ip_chem_biota","mu","clupea harengus"
+"ip_chem_biota","mu","gadus morhua"
+"ip_chem_biota","li","gadus morhua"
+"ip_chem_biota","li","clupea harengus"
+"ip_chem_biota","li","perca fluviatilis"
+"ip_chem_biota","wo","saduria entomon"
+"ip_chem_biota","sb","macoma balthica"
+"ip_chem_biota","mu","boops boops"
+"ip_chem_biota","li","mytilus galloprovincialis"
+"ip_chem_biota","mu","platichthys flesus"
+"ip_chem_biota","li","platichthys flesus"
+"ip_chem_biota","sb","gadus morhua"
+"ip_chem_biota","sb","platichthys flesus"
+"ip_chem_biota","mu","zoarces viviparus"
+"ip_chem_biota","sb","unknow spp."
+"ip_chem_biota","sb","crassostrea angulata"
+"ip_chem_biota","sb","dreissena polymorpha"
+"ip_chem_biota","sb","mytilus"
+"ip_chem_biota","","perca fluviatilis"
+"ip_chem_biota","","clupea harengus"
+"ip_chem_biota","wo","lymnaea palustris"
+"ip_chem_biota","wo","clupea harengus"
+"ip_chem_biota","wo","perca fluviatilis"
+"ip_chem_biota","wo","crassostrea gigas"
+"ip_chem_biota","sb",""
+"ip_chem_biota","wo","cerastoderma edule"
+"ip_chem_biota","wo","venerupis philippinarum"
+"ip_chem_biota","wo","venerupis decussata"
+"ip_chem_biota","wo","donax trunculus"
+"ip_chem_biota","wo","ostrea edulis"
+"ip_chem_biota","sb","holothuria tubulosa"
+"ip_chem_biota","sb","mitylus galloprovincialis"
+"ip_chem_biota","tm","mytilus edulis"
+"ip_chem_biota","tm","nephrops norvegicus"
+"ip_chem_biota","mu","merluccius merluccius"
+"ip_chem_biota","sb","mya arenaria"
+"ip_chem_biota","li","merlangius merlangus"
+"ip_chem_biota","mu","merlangius merlangus"
+"ip_chem_biota","sb","nassarius reticulatus"
+"ip_chem_biota","ro","gadus morhua"
+"ip_chem_biota","mu","microstomus kitt"
+"ip_chem_biota","li","microstomus kitt"
+"ip_chem_biota","li","melanogrammus aeglefinus"
+"ip_chem_biota","mu","melanogrammus aeglefinus"
+"ip_chem_biota","sb","nucella lapillus"
+"ip_chem_biota","go","aphanopus carbo"
+"ip_chem_biota","li","aphanopus carbo"
+"ip_chem_biota","mu","aphanopus carbo"
+"ip_chem_biota","mu","coryphaenoides rupestris"
+"ip_chem_biota","li","coryphaenoides rupestris"
+"ip_chem_biota","mu","molva dypterygia"
+"ip_chem_biota","li","molva dypterygia"
+"ip_chem_biota","wo","fucus vesiculosus"
+"ip_chem_biota","mu","pleuronectes platessa"
+"ip_chem_biota","sb","crassostrea gigas"
+"ip_chem_biota","mu","anguilla anguilla"
+"ip_chem_biota","mu","lepidorhombus whiffiagonis"
+"ip_chem_biota","li","lepidorhombus whiffiagonis"
+"ip_chem_biota","li","merluccius merluccius"
+"ip_chem_biota","sb","ostrea edulis"
+"ip_chem_biota","tm","palaemon serratus"
+"ip_chem_biota","mu","lophius piscatorius"
+"ip_chem_biota","sb","littorina littorea"
+"ip_chem_biota","tm","crangon crangon"
+"ip_chem_biota","sb","crangon crangon"
+"ip_chem_biota","wo","fucus"
+"ip_chem_biota","li","zoarces viviparus"
+"ip_chem_biota","go","pecten maximus"
+"ip_chem_biota","mu","pecten maximus"
+"ip_chem_biota","wo","fucus serratus"
+"ip_chem_biota","mu","brosme brosme"
+"ip_chem_biota","li","brosme brosme"
+"ip_chem_biota","sb","pecten maximus"
+"ip_chem_biota","tm","pandalus borealis"
+"ip_chem_biota","mu","solea vulgaris"
+"ip_chem_biota","fe","cepphus grylle"
+"ip_chem_biota","li","myoxocephalus scorpius"
+"ip_chem_biota","mu","mallotus villosus"
+"ip_chem_biota","li","monodon monoceros"
+"ip_chem_biota","mu","monodon monoceros"
+"ip_chem_biota","ki","monodon monoceros"
+"ip_chem_biota","mu","boreogadus saida"
+"ip_chem_biota","li","boreogadus saida"
+"ip_chem_biota","li","larus hyperboreus"
+"ip_chem_biota","fa","larus hyperboreus"
+"ip_chem_biota","mu","sprattus sprattus"
+"ip_chem_biota","bb","balaenoptera acutorostrata"
+"ip_chem_biota","li","hippoglossoides platessoides"
+"ip_chem_biota","bb","phoca vitulina"
+"ip_chem_biota","li","phoca vitulina"
+"ip_chem_biota","sb","mysidacea"
+"ip_chem_biota","eg","uria aalge"
+"ip_chem_biota","sb","cerastoderma edule"
+"ip_chem_biota","bb","phocoena phocoena"
+"ip_chem_biota","sb","ensis siliqua"
+"ip_chem_biota","mu","molva molva"
+"ip_chem_biota","li","molva molva"
+"ip_chem_biota","mu","salvelinus alpinus"
+"ip_chem_biota","mu","scomber scombrus"
+"ip_chem_biota","mu","leucoraja naevus"
+"ip_chem_biota","mu","pollachius pollachius"
+"ip_chem_biota","mu","zeus faber"
+"ip_chem_biota","mu","palaemon serratus"
+"ip_chem_biota","mu","scophthalmus rhombus"
+"ip_chem_biota","mu","lophius budegassa"
+"ip_chem_biota","mu","solea solea"
+"ip_chem_biota","mu","thunnus alalunga"
+"ip_chem_biota","mu","conger conger"
+"ip_chem_biota","mu","raja clavata"
+"ip_chem_biota","gi","aphanopus carbo"
+"ip_chem_biota","bl","halichoerus grypus"
+"ip_chem_biota","bb","halichoerus grypus"
+"ip_chem_biota","li","cepphus grylle"
+"ip_chem_biota","eg","haematopus ostralegus"
+"ip_chem_biota","sh","mytilus edulis"
+"ip_chem_biota","mu","raja naevus"
+"ip_chem_biota","mu","sebastes mentella"
+"ip_chem_biota","li","sebastes mentella"
+"ip_chem_biota","mu","hippoglossoides platessoides"
+"ip_chem_biota","li","solea vulgaris"
+"ip_chem_biota","fa","fulmarus glacialis"
+"ip_chem_biota","li","fulmarus glacialis"
+"ip_chem_biota","sb","mya truncata"
+"ip_chem_biota","li","chimaera monstrosa"
+"ip_chem_biota","mu","chimaera monstrosa"
+"ip_chem_biota","mu","pollachius virens"
+"ip_chem_biota","mu","eutrigla gurnardus"
+"ip_chem_biota","bb","globicephala melas"
+"ip_chem_biota","ki","globicephala melas"
+"ip_chem_biota","li","globicephala melas"
+"ip_chem_biota","mu","globicephala melas"
+"ip_chem_biota","mu","psetta maxima"
+"ip_chem_biota","mu","ostrea edulis"
+"ip_chem_biota","eh","cepphus grylle"
+"ip_chem_biota","eg","cepphus grylle"
+"ip_chem_biota","li","pollachius virens"
+"ip_chem_biota","mu","bathysaurus ferox"
+"ip_chem_biota","go","bathysaurus ferox"
+"ip_chem_biota","li","bathysaurus ferox"
+"ip_chem_biota","mu","scyliorhinus canicula"
+"ip_chem_biota","mu","squalus acanthias"
+"ip_chem_biota","tm","platichthys flesus"
+"ip_chem_biota","gi","lophius piscatorius"
+"ip_chem_biota","go","lophius piscatorius"
+"ip_chem_biota","li","lophius piscatorius"
+"ip_chem_biota","mu","hoplostethus atlanticus"
+"ip_chem_biota","li","hoplostethus atlanticus"
+"ip_chem_biota","go","hoplostethus atlanticus"
+"ip_chem_biota","wo","crangon crangon"
+"ip_chem_biota","mu","anarhichas lupus"
+"ip_chem_biota","mu","raja montagui"
+"ip_chem_biota","mu","micromesistius poutassou"
+"ip_chem_biota","li","micromesistius poutassou"
+"ip_chem_biota","li","sebastes marinus"
+"ip_chem_biota","mu","sebastes marinus"
+"ip_chem_biota","li","salmo trutta"
+"ip_chem_biota","mu","salmo trutta"
+"ip_chem_biota","bb","monodon monoceros"
+"ip_chem_biota","fa","rissa tridactyla"
+"ip_chem_biota","li","rissa tridactyla"
+"ip_chem_biota","wo","fucus ceranoides"
+"ip_chem_biota","mu","glyptocephalus cynoglossus"
+"ip_chem_biota","fa","somateria mollissima"
+"ip_chem_biota","li","somateria mollissima"
+"ip_chem_biota","li","nephrops norvegicus"
+"ip_chem_biota","mu","nephrops norvegicus"
+"ip_chem_biota","go","molva dypterygia"
+"ip_chem_biota","li","glyptocephalus cynoglossus"
+"ip_chem_biota","wo","platichthys flesus"
+"ip_chem_biota","sb","macoma baltica"
+"ip_chem_biota","li","lepus timidus"
+"ip_chem_biota","bb","phoca hispida"
+"ip_chem_biota","mu","phoca hispida"
+"ip_chem_biota","li","phoca hispida"
+"ip_chem_biota","bc","phoca vitulina"
+"ip_chem_biota","bs","phoca vitulina"
+"ip_chem_biota","mu","chelidonichthys kumu"
+"ip_chem_biota","ki","phoca hispida"
+"ip_chem_biota","li","ovis aries"
+"ip_chem_biota","mu","reinhardtius hippoglossoides"
+"ip_chem_biota","wo","pecten maximus"
+"ip_chem_biota","li","pollachius pollachius"
+"ip_chem_biota","mu","raja brachyura"
+"ip_chem_biota","mu","rissa tridactyla"
+"ip_chem_biota","br","rissa tridactyla"
+"ip_chem_biota","ki","rissa tridactyla"
+"ip_chem_biota","wo","gadus morhua"
+"ip_chem_biota","li","scomber scombrus"
+"ip_chem_biota","mu","salmo salar"
+"ip_chem_biota","sb","venerupis philippinarum"
+"ip_chem_biota","sb","gobius"
+"ip_chem_biota","mu","triglidae"
+"ip_chem_biota","bb","ursus maritimus"
+"ip_chem_biota","mu","anarhichas minor"
+"ip_chem_biota","mu","thunnus thynnus"
+"ip_chem_biota","eg","sterna hirundo"
+"ip_chem_biota","li","uria lomvia"
+"ip_chem_biota","ro","pollachius pollachius"
+"ip_chem_biota","wo","solea vulgaris"
+"ip_chem_biota","li","sardina pilchardus"
+"ip_chem_biota","mu","sardina pilchardus"
+"ip_chem_biota","sb","haliotis tuberculata"
+"ip_chem_biota","bb","delphinus delphis"
+"ip_chem_biota","li","delphinus delphis"
+"ip_chem_biota","mu","pegusa lascaris"
+"ip_chem_biota","","ovis aries"
+"ip_chem_biota","ki","cepphus grylle"
+"ip_chem_biota","bb","myoxocephalus scorpius"
+"ip_chem_biota","bb","salvelinus alpinus"
+"ip_chem_biota","li","larus glaucoides"
+"ip_chem_biota","li","reinhardtius hippoglossoides"
+"ip_chem_biota","li","pandalus borealis"
+"ip_chem_biota","mu","delphinapterus leucas"
+"ip_chem_biota","bb","delphinapterus leucas"
+"ip_chem_biota","ki","delphinapterus leucas"
+"ip_chem_biota","li","delphinapterus leucas"
+"ip_chem_biota","ep","delphinapterus leucas"
+"ip_chem_biota","li","gadus ogac"
+"ip_chem_biota","li","anarhichas minor"
+"ip_chem_biota","li","raja radiata"
+"ip_chem_biota","ba","balaenoptera acutorostrata"
+"ip_chem_biota","ki","balaenoptera acutorostrata"
+"ip_chem_biota","li","balaenoptera acutorostrata"
+"ip_chem_biota","mu","balaenoptera acutorostrata"
+"ip_chem_biota","","crangon crangon"
+"ip_chem_biota","eh","larus"
+"ip_chem_seawater",NA,NA
+"ip_chem_sediment",NA,NA
+"usda_nrp","muscle","animal-cattle-beef cow"
+"usda_nrp","muscle","animal-cattle-heifer"
+"usda_nrp","muscle","animal-cattle-steer"
+"usda_nrp","muscle","animal-swine-market swine"
+"usda_nrp","muscle","animal-swine-sow"
+"usda_nrp","muscle","animal-sheep-lamb"
+"usda_nrp","kidney","animal-cattle-beef cow"
+"usda_nrp","muscle","animal-calf-bob veal"
+"usda_nrp","kidney","animal-calf-bob veal"
+"usda_nrp","kidney","animal-cattle-bull"
+"usda_nrp","muscle","animal-cattle-dairy cow"
+"usda_nrp","kidney","animal-cattle-dairy cow"
+"usda_nrp","kidney","animal-calf-heavy calf"
+"usda_nrp","kidney","animal-cattle-heifer"
+"usda_nrp","kidney","animal-cattle-steer"
+"usda_nrp","kidney","animal-swine-market swine"
+"usda_nrp","kidney","animal-swine-sow"
+"usda_nrp","kidney","animal-calf-formula-fed veal"
+"usda_nrp","muscle","animal-cattle-bull"
+"usda_nrp","kidney","animal-calf-non formula-fed veal"
+"usda_nrp","kidney","animal-sheep-lamb"
+"usda_nrp","liver","animal-cattle-beef cow"
+"usda_nrp","liver","animal-calf-bob veal"
+"usda_nrp","liver","animal-cattle-bull"
+"usda_nrp","liver","animal-cattle-dairy cow"
+"usda_nrp","liver","animal-calf-heavy calf"
+"usda_nrp","liver","animal-cattle-heifer"
+"usda_nrp","liver","animal-cattle-steer"
+"usda_nrp","muscle","animal-calf-heavy calf"
+"usda_nrp","liver","animal-swine-market swine"
+"usda_nrp","liver","animal-swine-sow"
+"usda_nrp","muscle","animal-cattle-steer/heifer carcass sponge"
+"usda_nrp","muscle","product-thermally processed, commercially sterile"
+"usda_nrp","liver","animal-cattle-steer/heifer carcass sponge"
+"usda_nrp","kidney","animal-goat"
+"usda_nrp","muscle","product-raw-intact-beef"
+"usda_nrp","kidney","animal-cattle-steer/heifer carcass sponge"
+"usda_nrp","liver","animal-goat"
+"usda_nrp","liver","animal-calf-non formula-fed veal"
+"usda_nrp","muscle",""
+"usda_nrp","muscle","animal-sheep-mature sheep"
+"usda_nrp","muscle","animal-swine-roaster swine"
+"usda_nrp","kidney","animal-swine-roaster swine"
+"usda_nrp","muscle","animal-calf-non formula-fed veal"
+"usda_nrp","liver","animal-swine-roaster swine"
+"usda_nrp","muscle","product-rte-other fully cooked, not sliced"
+"usda_nrp","kidney","animal-swine-boar/stag swine"
+"usda_nrp","kidney","animal-sheep-mature sheep"
+"usda_nrp","muscle","product-nrte-ground, comminuted or otherwise nonintact meat"
+"usda_nrp","liver","animal-sheep-lamb"
+"usda_nrp","muscle","product-rte-fully cooked, sausage products"
+"usda_nrp","muscle","animal-turkey"
+"ip_chem_ibs","human (urine)",NA
+"biomon_ca","urine",NA
+"biomon_ca","serum",NA
+"biomon_ca","blood",NA
+"ca_airmon","ambient air",NA
+"carb","indoor air",NA
+"carb","indoor dust",NA
+"carb","personal air",NA
+"carb","ambient air",NA
+"ctd","",NA
+"ctd","borax",NA
+"ctd","abdominal muscle",NA
+"ctd","adenoid",NA
+"ctd","adipose tissue",NA
+"ctd","air",NA
+"ctd","air freshener",NA
+"ctd","air freshener, car",NA
+"ctd","air, ambient",NA
+"ctd","air, breath",NA
+"ctd","air, breath, exhaled",NA
+"ctd","air, indoor",NA
+"ctd","air, outdoor",NA
+"ctd","air, personal",NA
+"ctd","amniotic fluid",NA
+"ctd","anchovy",NA
+"ctd","automobile",NA
+"ctd","back",NA
+"ctd","baking soda",NA
+"ctd","bar soap",NA
+"ctd","bass",NA
+"ctd","bass, sea",NA
+"ctd","beetroot",NA
+"ctd","beverage, alcoholic",NA
+"ctd","beverage, caffeinated",NA
+"ctd","blood",NA
+"ctd","blood cell",NA
+"ctd","blood, cord",NA
+"ctd","bluefish",NA
+"ctd","bluegill",NA
+"ctd","body lotion",NA
+"ctd","body region",NA
+"ctd","body wash",NA
+"ctd","bone",NA
+"ctd","bowfin",NA
+"ctd","brain",NA
+"ctd","breath",NA
+"ctd","butter",NA
+"ctd","cabbage, white",NA
+"ctd","car interior cleaner",NA
+"ctd","carp",NA
+"ctd","carpet",NA
+"ctd","carpet cleaner",NA
+"ctd","carrot",NA
+"ctd","cat litter",NA
+"ctd","catfish",NA
+"ctd","catfish fillet, farm",NA
+"ctd","cell, urothelial, exfoliated",NA
+"ctd","cheese",NA
+"ctd","cheese, american",NA
+"ctd","cheese, cottage",NA
+"ctd","cheese, cream",NA
+"ctd","cheese, gouda",NA
+"ctd","chest",NA
+"ctd","child safety seat",NA
+"ctd","cigarette",NA
+"ctd","clam",NA
+"ctd","cod",NA
+"ctd","colostrum",NA
+"ctd","conditioner",NA
+"ctd","crab",NA
+"ctd","crappie",NA
+"ctd","croaker",NA
+"ctd","cucumber",NA
+"ctd","dairy products",NA
+"ctd","deodorant",NA
+"ctd","diaper",NA
+"ctd","dish liquid",NA
+"ctd","dishwasher detergent",NA
+"ctd","drum",NA
+"ctd","dryer sheet",NA
+"ctd","dust",NA
+"ctd","dust, carpet",NA
+"ctd","dust, house",NA
+"ctd","dust, indoor",NA
+"ctd","dust, outdoor",NA
+"ctd","dye",NA
+"ctd","e-cigarette",NA
+"ctd","e-cigarette vapor",NA
+"ctd","e-liquid",NA
+"ctd","egg, chicken",NA
+"ctd","erythrocyte",NA
+"ctd","fabric refresher",NA
+"ctd","facial cleanser",NA
+"ctd","facial lotion",NA
+"ctd","femur head",NA
+"ctd","fish",NA
+"ctd","floor cleaner",NA
+"ctd","floor, bedroom",NA
+"ctd","floor, kitchen",NA
+"ctd","flounder",NA
+"ctd","follicular fluid",NA
+"ctd","food",NA
+"ctd","food, inorganic",NA
+"ctd","forearm, left",NA
+"ctd","forearm, right",NA
+"ctd","foundation",NA
+"ctd","fragrance or perfume",NA
+"ctd","frontal lobe",NA
+"ctd","fruit, canned",NA
+"ctd","fruit, packaged",NA
+"ctd","fuel",NA
+"ctd","glass cleaner",NA
+"ctd","grouper",NA
+"ctd","haddock",NA
+"ctd","hair",NA
+"ctd","hair gel",NA
+"ctd","hair spray or mousse or gel",NA
+"ctd","hake",NA
+"ctd","halibut",NA
+"ctd","hand",NA
+"ctd","hand sanitizer",NA
+"ctd","hand soap",NA
+"ctd","handwipe",NA
+"ctd","herring",NA
+"ctd","house",NA
+"ctd","ice cream",NA
+"ctd","incense stick",NA
+"ctd","infant formula",NA
+"ctd","insecticide",NA
+"ctd","kidney",NA
+"ctd","laundry bleach",NA
+"ctd","laundry detergent",NA
+"ctd","leg, lower, left",NA
+"ctd","leg, lower, right",NA
+"ctd","lettuce, butterhead",NA
+"ctd","lettuce, iceberg",NA
+"ctd","lip balm",NA
+"ctd","lipstick",NA
+"ctd","lobster",NA
+"ctd","lung",NA
+"ctd","mackerel",NA
+"ctd","mackerel, king",NA
+"ctd","macrophage",NA
+"ctd","mahi mahi",NA
+"ctd","margarine",NA
+"ctd","marlin",NA
+"ctd","mascara",NA
+"ctd","meat",NA
+"ctd","meat, bacon",NA
+"ctd","meat, beef",NA
+"ctd","meat, beef tenderloin",NA
+"ctd","meat, calf liver",NA
+"ctd","meat, canned",NA
+"ctd","meat, chicken liver",NA
+"ctd","meat, duck",NA
+"ctd","meat, ground beef",NA
+"ctd","meat, ground chicken",NA
+"ctd","meat, ground lamb",NA
+"ctd","meat, ground pork",NA
+"ctd","meat, ground turkey",NA
+"ctd","meat, pork",NA
+"ctd","meat, pork sausage",NA
+"ctd","meat, poultry",NA
+"ctd","meat, processed",NA
+"ctd","meat, walrus, fermented",NA
+"ctd","meat, walrus, fresh",NA
+"ctd","meat, wiener",NA
+"ctd","meconium",NA
+"ctd","milk",NA
+"ctd","milk, cow",NA
+"ctd","milk, evaporated",NA
+"ctd","milk, goat",NA
+"ctd","milk, human",NA
+"ctd","milk, nonfat",NA
+"ctd","monkfish",NA
+"ctd","mussel",NA
+"ctd","n pike",NA
+"ctd","nail",NA
+"ctd","nail polish",NA
+"ctd","nail, finger",NA
+"ctd","nail, toe",NA
+"ctd","occipital lobe",NA
+"ctd","ocean perch",NA
+"ctd","orange roughy",NA
+"ctd","ore",NA
+"ctd","oyster",NA
+"ctd","paint",NA
+"ctd","paper",NA
+"ctd","patella",NA
+"ctd","perch",NA
+"ctd","perch, freshwater",NA
+"ctd","perch, wild",NA
+"ctd","perfume",NA
+"ctd","pike",NA
+"ctd","pillow protector",NA
+"ctd","pituitary gland",NA
+"ctd","placenta",NA
+"ctd","plaice",NA
+"ctd","plant",NA
+"ctd","plant leaf",NA
+"ctd","plasma",NA
+"ctd","plasma, cord",NA
+"ctd","polish or wax",NA
+"ctd","pollock",NA
+"ctd","polyurethane foam",NA
+"ctd","porgy",NA
+"ctd","potato",NA
+"ctd","produce",NA
+"ctd","product wipe",NA
+"ctd","radish",NA
+"ctd","red snapper",NA
+"ctd","rice",NA
+"ctd","rice, brown",NA
+"ctd","rockfish",NA
+"ctd","sablefish",NA
+"ctd","saliva",NA
+"ctd","salmon",NA
+"ctd","salmon fillet, farm",NA
+"ctd","salmon, canned",NA
+"ctd","salmon, fresh",NA
+"ctd","sand",NA
+"ctd","sardine",NA
+"ctd","scallop",NA
+"ctd","scorpionfish",NA
+"ctd","scrubbing powder",NA
+"ctd","sea bass",NA
+"ctd","sea trout",NA
+"ctd","seafood",NA
+"ctd","sediment",NA
+"ctd","semen",NA
+"ctd","serum",NA
+"ctd","serum, cord",NA
+"ctd","shad",NA
+"ctd","shampoo",NA
+"ctd","shark",NA
+"ctd","shaving cream",NA
+"ctd","sheepshead",NA
+"ctd","shoulder, left",NA
+"ctd","shoulder, right",NA
+"ctd","shower curtain, vinyl",NA
+"ctd","shrimp",NA
+"ctd","skate",NA
+"ctd","skin",NA
+"ctd","snapper",NA
+"ctd","snow",NA
+"ctd","soil",NA
+"ctd","sole",NA
+"ctd","sputum",NA
+"ctd","squid",NA
+"ctd","stain remover",NA
+"ctd","subcutaneous fat, abdominal",NA
+"ctd","sucker",NA
+"ctd","sunfish",NA
+"ctd","sunscreen",NA
+"ctd","sunscreen composite",NA
+"ctd","surface cleaner",NA
+"ctd","sweat",NA
+"ctd","swordfish",NA
+"ctd","tea",NA
+"ctd","tea, black",NA
+"ctd","tea, brick",NA
+"ctd","tear",NA
+"ctd","thigh, left",NA
+"ctd","thigh, right",NA
+"ctd","thyroid gland",NA
+"ctd","tibia",NA
+"ctd","tilapia",NA
+"ctd","tilefish",NA
+"ctd","tobacco",NA
+"ctd","toilet bowl cleaner",NA
+"ctd","tomato",NA
+"ctd","tooth",NA
+"ctd","toothpaste",NA
+"ctd","trout",NA
+"ctd","tub and tile cleaner",NA
+"ctd","tuna",NA
+"ctd","tuna, canned",NA
+"ctd","tuna, canned albacore",NA
+"ctd","tuna, canned light",NA
+"ctd","tuna, canned white",NA
+"ctd","tuna, fresh and frozen",NA
+"ctd","turkey",NA
+"ctd","umbilical cord",NA
+"ctd","upholstery, living room",NA
+"ctd","urine",NA
+"ctd","vegetables, canned",NA
+"ctd","vegetables, packaged",NA
+"ctd","ventricular fluid",NA
+"ctd","walleye",NA
+"ctd","waste water, laundry",NA
+"ctd","waste, industrial",NA
+"ctd","water",NA
+"ctd","water, cooking",NA
+"ctd","water, drinking",NA
+"ctd","water, drinking, bottled",NA
+"ctd","water, rain",NA
+"ctd","water, sea",NA
+"ctd","water, tap",NA
+"ctd","water, well",NA
+"ctd","wet mop",NA
+"ctd","whitefish",NA
+"ctd","yogurt, lowfat",NA
+"ahhs","indoor dust",NA
+"ahhs","soil, or outdoor settled dust (specify)",NA
+"epa_nscrlft","fish tissue",NA
+"nhanes","hemoglobin adduct",NA
+"nhanes","serum",NA
+"nhanes","urine",NA
+"nhanes","whole blood",NA
+"nhanes","blood",NA
+"epa_dmr",NA,NA
+"ip_chem_lakes",NA,NA
+"ip_chem_biomonitoring","human (hair)",NA
+"ip_chem_biomonitoring","human (urine)",NA
+"ip_chem_biomonitoring","biota (animals)","bream (musculature)"
+"ip_chem_biomonitoring","biota (animals)","bream (liver)"
+"ip_chem_biomonitoring","biota (plants)","common spruce (one-year-old shoot)"
+"ip_chem_biomonitoring","biota (plants)","pine (one-year-shoots)"
+"ip_chem_biomonitoring","biota (animals)","roe deer, one-year-old (liver)"
+"ip_chem_biomonitoring","biota (plants)","lombardy poplar (leaves)"
+"ip_chem_biomonitoring","biota (plants)","beech (leaves)"
+"ip_chem_biomonitoring","biota (animals)","blue mussel (soft body)"
+"ip_chem_biomonitoring","biota (animals)","zebra mussel (soft body)"
+"ip_chem_biomonitoring","biota (animals)","earthworm (lumbricus terrestris) (whole body without faeces)"
+"ip_chem_biomonitoring","biota (animals)","marine samples (common bladder wrack)"
+"ip_chem_biomonitoring","biota (animals)","earthworm (aporrectodea longa) (whole body without faeces)"
+"ip_chem_biomonitoring","human (blood plasma)","students (blood plasma)"
+"ip_chem_biomonitoring","human (whole blood)","students (whole blood)"
+"ip_chem_biomonitoring","human (24h-sampling urine)","students (24h-sampling urine)"
+"ip_chem_biomonitoring","human (saliva)","students (saliva)"
+"ip_chem_biomonitoring","human (pubic hair)","students (pubic hair)"
+"ip_chem_biomonitoring","human (scalp hair)","students (scalp hair)"
+"ip_chem_biomonitoring","water (suspended particulate matter)","limnetic samples (suspended particulate matter)"
+"ip_chem_biomonitoring","biota (animals)","herring gull (egg content)"
+"ip_chem_biomonitoring","biota (animals)","feral pigeon (egg content)"
+"ip_chem_biomonitoring","biota (animals)","eelpout (musculature)"
+"ip_chem_biomonitoring","biota (animals)","eelpout (liver)"
+"ip_chem_biomonitoring","soil","soil (organic layer/root network)"
+"ip_chem_biomonitoring","soil","soil (topsoil)"
+"ip_chem_biomonitoring","soil","soil (subsoil)"
+"ip_chem_biomonitoring","human (cord blood)",NA
+"ip_chem_biomonitoring","human (blood)",NA

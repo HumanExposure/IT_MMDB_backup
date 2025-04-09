@@ -1,0 +1,2319 @@
+source_id,reported_media,reported_species,harmonized_medium
+150,indoor dust,NA,indoor dust
+150,"soil, or outdoor settled dust (specify)",NA,soil
+152,urine,NA,human blood (whole/serum/plasma)
+152,blood,NA,human blood (whole/serum/plasma)
+152,serum,NA,human blood (whole/serum/plasma)
+153,ambient air,NA,ambient air
+225,borax,NA,product
+226,serum,NA,human blood (whole/serum/plasma)
+226,whole blood,NA,human blood (whole/serum/plasma)
+158,gaseous phase,NA,ambient air
+158,outdoor air,NA,ambient air
+158,ground water,NA,groundwater
+158,freshwater sediment,NA,sediment
+158,marine sediment,NA,sediment
+158,soil,NA,soil
+158,freshwater,NA,surface water
+158,seawater,NA,surface water
+158,ss,NA,surface water
+158,NA,NA,unknown
+158,plants,NA,vegetation
+158,greywater,NA,"wastewater (influent, effluent)"
+158,wastewater,NA,"wastewater (influent, effluent)"
+158,marine mammals,NA,wildlife (aquatic vertebrates/mammals)
+158,birds,NA,wildlife (birds)
+158,fish,NA,wildlife (fish)
+158,invertebrates,NA,wildlife (terrestrial invertebrates/worms)
+158,reptiles,NA,wildlife (terrestrial vertebrates)
+158,terrestrial mammals,NA,wildlife (terrestrial vertebrates)
+160,effluent,NA,"wastewater (influent, effluent)"
+160,influent,NA,"wastewater (influent, effluent)"
+168,air,NA,ambient air
+168,ambient air,NA,ambient air
+168,deionized water,NA,drinking water
+168,drinking water,NA,drinking water
+168,finished water,NA,drinking water
+168,untreated water supply,NA,drinking water
+168,groundwater,NA,groundwater
+168,indoor air,NA,indoor air
+168,landfill effluent,NA,landfill leachate
+168,leachate,NA,landfill leachate
+168,biological tissue,animalia,livestock/meat
+168,sediment,animalia,livestock/meat
+168,tissue,animalia,livestock/meat
+168,biological tissue,taxon unknown,other-ecological
+168,filter residue,NA,other-environmental
+168,hyporheic zone,NA,other-environmental
+168,bulk deposition,NA,precipitation
+168,rainwater,NA,precipitation
+168,snowmelt,NA,precipitation
+168,wet fall material,NA,precipitation
+168,bottom material,NA,sediment
+168,elutriation,NA,sediment
+168,sediment,NA,sediment
+168,sieved sediment,NA,sediment
+168,subsurface soil/sediment,NA,sediment
+168,surface soil/sediment,NA,sediment
+168,surface water sediment,NA,sediment
+168,suspended,NA,sediment
+168,unsieved sediment,NA,sediment
+168,soil moisture,NA,soil
+168,interstitial,NA,surface water
+168,interstitial water,NA,surface water
+168,ocean water,NA,surface water
+168,pore water,NA,surface water
+168,surface water,NA,surface water
+168,water,NA,surface water
+168,biological tissue,NA,unknown
+168,tissue,NA,unknown
+168,unknown,NA,unknown
+168,biological tissue,magnoliopsida,vegetation
+168,biological tissue,plantae,vegetation
+168,canopy,NA,vegetation
+168,unknown,alnus,vegetation
+168,unknown,lysichiton americanus,vegetation
+168,unknown,malus,vegetation
+168,unknown,rubus spectabilis,vegetation
+168,unknown,salicornia depressa,vegetation
+168,unknown,vaccinium,vegetation
+168,unknown,vaccinium parvifolium,vegetation
+168,water,gomphus,vegetation
+168,effluent,NA,"wastewater (influent, effluent)"
+168,industrial effluent,NA,"wastewater (influent, effluent)"
+168,mixing zone,NA,"wastewater (influent, effluent)"
+168,municipal sewage effluent,NA,"wastewater (influent, effluent)"
+168,municipal waste,NA,"wastewater (influent, effluent)"
+168,stormwater,NA,"wastewater (influent, effluent)"
+168,wastewater treatment plant effluent,NA,"wastewater (influent, effluent)"
+168,wastewater treatment plant influent,NA,"wastewater (influent, effluent)"
+168,air,ameletus,wildlife (aquatic invertebrate)
+168,air,baetis bicaudatus,wildlife (aquatic invertebrate)
+168,air,brillia,wildlife (aquatic invertebrate)
+168,air,ceratopogoninae,wildlife (aquatic invertebrate)
+168,air,chloroperlidae,wildlife (aquatic invertebrate)
+168,air,cinygmula,wildlife (aquatic invertebrate)
+168,air,corynoneura,wildlife (aquatic invertebrate)
+168,air,drunella coloradensis,wildlife (aquatic invertebrate)
+168,air,epeorus deceptivus,wildlife (aquatic invertebrate)
+168,air,hesperophylax,wildlife (aquatic invertebrate)
+168,air,heterotrissocladius,wildlife (aquatic invertebrate)
+168,air,isoperla,wildlife (aquatic invertebrate)
+168,air,leuctridae,wildlife (aquatic invertebrate)
+168,air,limnophyes,wildlife (aquatic invertebrate)
+168,air,macropelopia,wildlife (aquatic invertebrate)
+168,air,micropsectra,wildlife (aquatic invertebrate)
+168,air,neoplasta,wildlife (aquatic invertebrate)
+168,air,neothremma,wildlife (aquatic invertebrate)
+168,air,oreogeton,wildlife (aquatic invertebrate)
+168,air,ormosia (eriopterini),wildlife (aquatic invertebrate)
+168,air,pagastia,wildlife (aquatic invertebrate)
+168,air,paraphaenocladius,wildlife (aquatic invertebrate)
+168,air,polycelis coronata,wildlife (aquatic invertebrate)
+168,air,polypedilum,wildlife (aquatic invertebrate)
+168,air,pseudodiamesa,wildlife (aquatic invertebrate)
+168,air,rhyacophila vofixa,wildlife (aquatic invertebrate)
+168,air,sperchon,wildlife (aquatic invertebrate)
+168,air,sweltsa,wildlife (aquatic invertebrate)
+168,air,thienemanniella,wildlife (aquatic invertebrate)
+168,air,tvetenia,wildlife (aquatic invertebrate)
+168,air,zapada cinctipes,wildlife (aquatic invertebrate)
+168,air,zapada oregonensis,wildlife (aquatic invertebrate)
+168,sediment,alitta succinea,wildlife (aquatic invertebrate)
+168,sediment,amnicola limosus,wildlife (aquatic invertebrate)
+168,sediment,ampelisca,wildlife (aquatic invertebrate)
+168,sediment,ampelisca abdita,wildlife (aquatic invertebrate)
+168,sediment,ampelisca macrocephala,wildlife (aquatic invertebrate)
+168,sediment,amphipoda,wildlife (aquatic invertebrate)
+168,sediment,amphitrite ornata,wildlife (aquatic invertebrate)
+168,sediment,anthozoa (anthozoa),wildlife (aquatic invertebrate)
+168,sediment,aulodrilus americanus,wildlife (aquatic invertebrate)
+168,sediment,aulodrilus limnobius,wildlife (aquatic invertebrate)
+168,sediment,aulodrilus pigueti,wildlife (aquatic invertebrate)
+168,sediment,aulodrilus pluriseta,wildlife (aquatic invertebrate)
+168,sediment,bathyporeia quoddyensis,wildlife (aquatic invertebrate)
+168,sediment,branchiura sowerbyi,wildlife (aquatic invertebrate)
+168,sediment,caecidotea,wildlife (aquatic invertebrate)
+168,sediment,capitella,wildlife (aquatic invertebrate)
+168,sediment,ceriodaphnia dubia,wildlife (aquatic invertebrate)
+168,sediment,chaetogaster diaphanus,wildlife (aquatic invertebrate)
+168,sediment,chaetogaster diastrophus,wildlife (aquatic invertebrate)
+168,sediment,chironomidae,wildlife (aquatic invertebrate)
+168,sediment,chironomus,wildlife (aquatic invertebrate)
+168,sediment,cincinnatia cincinnatiensis,wildlife (aquatic invertebrate)
+168,sediment,clymenella torquata,wildlife (aquatic invertebrate)
+168,sediment,corophium,wildlife (aquatic invertebrate)
+168,sediment,corophium volutator,wildlife (aquatic invertebrate)
+168,sediment,costoanachis,wildlife (aquatic invertebrate)
+168,sediment,crangon septemspinosa,wildlife (aquatic invertebrate)
+168,sediment,crepidula fornicata,wildlife (aquatic invertebrate)
+168,sediment,crepidula plana,wildlife (aquatic invertebrate)
+168,sediment,cryptochironomus,wildlife (aquatic invertebrate)
+168,sediment,cryptonatica affinis,wildlife (aquatic invertebrate)
+168,sediment,cyathura polita,wildlife (aquatic invertebrate)
+168,sediment,dicrotendipes fumidus,wildlife (aquatic invertebrate)
+168,sediment,diporeia,wildlife (aquatic invertebrate)
+168,sediment,dreissena bugensis,wildlife (aquatic invertebrate)
+168,sediment,dreissena polymorpha,wildlife (aquatic invertebrate)
+168,sediment,echinogammarus,wildlife (aquatic invertebrate)
+168,sediment,gammarus,wildlife (aquatic invertebrate)
+168,sediment,gammarus pseudolimnaeus,wildlife (aquatic invertebrate)
+168,sediment,harnischia,wildlife (aquatic invertebrate)
+168,sediment,helobdella stagnalis,wildlife (aquatic invertebrate)
+168,sediment,heterotrissocladius,wildlife (aquatic invertebrate)
+168,sediment,heterotrissocladius marcidus,wildlife (aquatic invertebrate)
+168,sediment,heterotrissocladius subpilosus,wildlife (aquatic invertebrate)
+168,sediment,hexagenia,wildlife (aquatic invertebrate)
+168,sediment,hydra,wildlife (aquatic invertebrate)
+168,sediment,hydrobaenus,wildlife (aquatic invertebrate)
+168,sediment,hydrolimax grisea,wildlife (aquatic invertebrate)
+168,sediment,ilyodrilus templetoni,wildlife (aquatic invertebrate)
+168,sediment,isochaetides freyi,wildlife (aquatic invertebrate)
+168,sediment,leptocheirus plumulosus,wildlife (aquatic invertebrate)
+168,sediment,leucon americanus,wildlife (aquatic invertebrate)
+168,sediment,limnodrilus cervix,wildlife (aquatic invertebrate)
+168,sediment,limnodrilus claparedeianus,wildlife (aquatic invertebrate)
+168,sediment,limnodrilus hoffmeisteri,wildlife (aquatic invertebrate)
+168,sediment,limnodrilus profundicola,wildlife (aquatic invertebrate)
+168,sediment,limnodrilus udekemianus,wildlife (aquatic invertebrate)
+168,sediment,lumbriculidae,wildlife (aquatic invertebrate)
+168,sediment,manayunkia speciosa,wildlife (aquatic invertebrate)
+168,sediment,marphysa sanguinea,wildlife (aquatic invertebrate)
+168,sediment,mercenaria mercenaria,wildlife (aquatic invertebrate)
+168,sediment,microchironomus,wildlife (aquatic invertebrate)
+168,sediment,micropsectra,wildlife (aquatic invertebrate)
+168,sediment,mollusca,wildlife (aquatic invertebrate)
+168,sediment,mulinia lateralis,wildlife (aquatic invertebrate)
+168,sediment,mysis,wildlife (aquatic invertebrate)
+168,sediment,mysis relicta,wildlife (aquatic invertebrate)
+168,sediment,mytilus edulis,wildlife (aquatic invertebrate)
+168,sediment,nais bretscheri,wildlife (aquatic invertebrate)
+168,sediment,nais communis,wildlife (aquatic invertebrate)
+168,sediment,nais simplex,wildlife (aquatic invertebrate)
+168,sediment,nais variabilis,wildlife (aquatic invertebrate)
+168,sediment,nassarius obsoletus,wildlife (aquatic invertebrate)
+168,sediment,nematoda,wildlife (aquatic invertebrate)
+168,sediment,nemertea,wildlife (aquatic invertebrate)
+168,sediment,neomysis americana,wildlife (aquatic invertebrate)
+168,sediment,nephtys incisa,wildlife (aquatic invertebrate)
+168,sediment,nucula,wildlife (aquatic invertebrate)
+168,sediment,ophidonais serpentina,wildlife (aquatic invertebrate)
+168,sediment,orthocladius,wildlife (aquatic invertebrate)
+168,sediment,pagurus,wildlife (aquatic invertebrate)
+168,sediment,paracladopelma,wildlife (aquatic invertebrate)
+168,sediment,paracladopelma undine,wildlife (aquatic invertebrate)
+168,sediment,paracladopelma winnelli,wildlife (aquatic invertebrate)
+168,sediment,paralauterborniella,wildlife (aquatic invertebrate)
+168,sediment,paralauterborniella nigrohalteralis,wildlife (aquatic invertebrate)
+168,sediment,paranais frici,wildlife (aquatic invertebrate)
+168,sediment,paratanytarsus,wildlife (aquatic invertebrate)
+168,sediment,pectinaria,wildlife (aquatic invertebrate)
+168,sediment,phallodrillus hallae,wildlife (aquatic invertebrate)
+168,sediment,pherusa plumosa,wildlife (aquatic invertebrate)
+168,sediment,physa,wildlife (aquatic invertebrate)
+168,sediment,piguetiella blanci,wildlife (aquatic invertebrate)
+168,sediment,pisidiidae,wildlife (aquatic invertebrate)
+168,sediment,pisidium,wildlife (aquatic invertebrate)
+168,sediment,platyhelminthes,wildlife (aquatic invertebrate)
+168,sediment,polydora cornuta,wildlife (aquatic invertebrate)
+168,sediment,polypedilum,wildlife (aquatic invertebrate)
+168,sediment,polypedilum halterale,wildlife (aquatic invertebrate)
+168,sediment,polypedilum scalaenum,wildlife (aquatic invertebrate)
+168,sediment,polypedilum tuberculum,wildlife (aquatic invertebrate)
+168,sediment,pontogeneia inermis,wildlife (aquatic invertebrate)
+168,sediment,potamopyrgus antipodarum,wildlife (aquatic invertebrate)
+168,sediment,potamothrix bavaricus,wildlife (aquatic invertebrate)
+168,sediment,potamothrix bedoti,wildlife (aquatic invertebrate)
+168,sediment,potamothrix moldaviensis,wildlife (aquatic invertebrate)
+168,sediment,potamothrix vejdovskyi,wildlife (aquatic invertebrate)
+168,sediment,potthastia,wildlife (aquatic invertebrate)
+168,sediment,prionospio,wildlife (aquatic invertebrate)
+168,sediment,prionospio heterobranchia,wildlife (aquatic invertebrate)
+168,sediment,prionospio steenstrupi,wildlife (aquatic invertebrate)
+168,sediment,probythinella lacustris,wildlife (aquatic invertebrate)
+168,sediment,procladius,wildlife (aquatic invertebrate)
+168,sediment,protanypus,wildlife (aquatic invertebrate)
+168,sediment,protohaustorius,wildlife (aquatic invertebrate)
+168,sediment,psectrocladius,wildlife (aquatic invertebrate)
+168,sediment,quistadrilus multisetosus,wildlife (aquatic invertebrate)
+168,sediment,rhepoxynius epistomus,wildlife (aquatic invertebrate)
+168,sediment,rhithropanopeus harrisii,wildlife (aquatic invertebrate)
+168,sediment,rhyacodrilus,wildlife (aquatic invertebrate)
+168,sediment,rhyacodrilus coccineus,wildlife (aquatic invertebrate)
+168,sediment,rhyacodrilus montanus,wildlife (aquatic invertebrate)
+168,sediment,rhyacodrilus sodalis,wildlife (aquatic invertebrate)
+168,sediment,sabellaria vulgaris,wildlife (aquatic invertebrate)
+168,sediment,scoloplos robustus,wildlife (aquatic invertebrate)
+168,sediment,slavina appendiculata,wildlife (aquatic invertebrate)
+168,sediment,specaria josinae,wildlife (aquatic invertebrate)
+168,sediment,spio,wildlife (aquatic invertebrate)
+168,sediment,spirosperma ferox,wildlife (aquatic invertebrate)
+168,sediment,spirosperma nikolskyi,wildlife (aquatic invertebrate)
+168,sediment,stephensoniania trivandrana,wildlife (aquatic invertebrate)
+168,sediment,sthenelais,wildlife (aquatic invertebrate)
+168,sediment,stictochironomus,wildlife (aquatic invertebrate)
+168,sediment,streblospio benedicti,wildlife (aquatic invertebrate)
+168,sediment,stylaria lacustris,wildlife (aquatic invertebrate)
+168,sediment,stylodrilus heringianus,wildlife (aquatic invertebrate)
+168,sediment,tanytarsus,wildlife (aquatic invertebrate)
+168,sediment,tasserkidrilus americanus,wildlife (aquatic invertebrate)
+168,sediment,tasserkidrilus superiorensis,wildlife (aquatic invertebrate)
+168,sediment,tellina,wildlife (aquatic invertebrate)
+168,sediment,thalassodrilus hallae,wildlife (aquatic invertebrate)
+168,sediment,tharyx,wildlife (aquatic invertebrate)
+168,sediment,tubifex tubifex,wildlife (aquatic invertebrate)
+168,sediment,tubificidae,wildlife (aquatic invertebrate)
+168,sediment,uncinais uncinata,wildlife (aquatic invertebrate)
+168,sediment,valvata,wildlife (aquatic invertebrate)
+168,sediment,valvata lewisi,wildlife (aquatic invertebrate)
+168,sediment,valvata perdepressa,wildlife (aquatic invertebrate)
+168,sediment,valvata sincera,wildlife (aquatic invertebrate)
+168,sediment,valvata tricarinata,wildlife (aquatic invertebrate)
+168,sediment,vejdovskyella comata,wildlife (aquatic invertebrate)
+168,sediment,vejdovskyella intermedia,wildlife (aquatic invertebrate)
+168,sediment,yoldia,wildlife (aquatic invertebrate)
+168,tissue,anguilla rostrata,wildlife (aquatic invertebrate)
+168,tissue,bivalvia,wildlife (aquatic invertebrate)
+168,tissue,brachiopoda,wildlife (aquatic invertebrate)
+168,tissue,brachyura,wildlife (aquatic invertebrate)
+168,tissue,campostoma anomalum,wildlife (aquatic invertebrate)
+168,tissue,cardiidae,wildlife (aquatic invertebrate)
+168,tissue,catostomus catostomus,wildlife (aquatic invertebrate)
+168,tissue,catostomus clarkii,wildlife (aquatic invertebrate)
+168,tissue,catostomus columbianus,wildlife (aquatic invertebrate)
+168,tissue,catostomus commersonii,wildlife (aquatic invertebrate)
+168,tissue,catostomus commersoni***retired***use catostomus commersonii,wildlife (aquatic invertebrate)
+168,tissue,catostomus macrocheilus,wildlife (aquatic invertebrate)
+168,tissue,catostomus occidentalis,wildlife (aquatic invertebrate)
+168,tissue,catostomus tahoensis,wildlife (aquatic invertebrate)
+168,tissue,chironomidae,wildlife (aquatic invertebrate)
+168,tissue,clinocardium nuttallii,wildlife (aquatic invertebrate)
+168,tissue,corbicula,wildlife (aquatic invertebrate)
+168,tissue,corbicula fluminea,wildlife (aquatic invertebrate)
+168,tissue,diporeia,wildlife (aquatic invertebrate)
+168,tissue,dorosoma cepedianum,wildlife (aquatic invertebrate)
+168,tissue,dorosoma petenense,wildlife (aquatic invertebrate)
+168,tissue,exopalaemon modestus,wildlife (aquatic invertebrate)
+168,tissue,farfantepenaeus aztecus,wildlife (aquatic invertebrate)
+168,tissue,hesperoleucus symmetricus,wildlife (aquatic invertebrate)
+168,tissue,hexagenia,wildlife (aquatic invertebrate)
+168,tissue,homarus americanus,wildlife (aquatic invertebrate)
+168,tissue,mercenaria,wildlife (aquatic invertebrate)
+168,tissue,mya arenaria,wildlife (aquatic invertebrate)
+168,tissue,mysis,wildlife (aquatic invertebrate)
+168,tissue,mytilus californianus,wildlife (aquatic invertebrate)
+168,tissue,mytilus edulis,wildlife (aquatic invertebrate)
+168,tissue,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+168,tissue,nephropidae,wildlife (aquatic invertebrate)
+168,tissue,nephtys,wildlife (aquatic invertebrate)
+168,tissue,nereis,wildlife (aquatic invertebrate)
+168,tissue,nuttallia obscurata,wildlife (aquatic invertebrate)
+168,tissue,ophiodon elongatus,wildlife (aquatic invertebrate)
+168,tissue,ostrea lurida,wildlife (aquatic invertebrate)
+168,tissue,pacifastacus leniusculus,wildlife (aquatic invertebrate)
+168,tissue,panulirus interruptus,wildlife (aquatic invertebrate)
+168,tissue,penaeus,wildlife (aquatic invertebrate)
+168,tissue,rangia cuneata,wildlife (aquatic invertebrate)
+168,tissue,saxidomus gigantea,wildlife (aquatic invertebrate)
+168,tissue,sphaeriidae***retired***use pisidiidae,wildlife (aquatic invertebrate)
+168,tissue,tresus capax,wildlife (aquatic invertebrate)
+168,tissue,triakis semifasciata,wildlife (aquatic invertebrate)
+168,unknown,cerastoderma edule,wildlife (aquatic invertebrate)
+168,unknown,metacarcinus magister,wildlife (aquatic invertebrate)
+168,unknown,mya arenaria,wildlife (aquatic invertebrate)
+168,unknown,protothaca staminea,wildlife (aquatic invertebrate)
+168,unknown,saxidomus giganteus***retired***use saxidomus gigantea,wildlife (aquatic invertebrate)
+168,water,acentrella,wildlife (aquatic invertebrate)
+168,water,acerpenna,wildlife (aquatic invertebrate)
+168,water,acerpenna macdunnoughi,wildlife (aquatic invertebrate)
+168,water,acerpenna pygmaea,wildlife (aquatic invertebrate)
+168,water,allocapnia,wildlife (aquatic invertebrate)
+168,water,alloperla,wildlife (aquatic invertebrate)
+168,water,ameletus,wildlife (aquatic invertebrate)
+168,water,americamysis bahia,wildlife (aquatic invertebrate)
+168,water,amphipoda,wildlife (aquatic invertebrate)
+168,water,ancylidae,wildlife (aquatic invertebrate)
+168,water,ancyronyx,wildlife (aquatic invertebrate)
+168,water,apatania,wildlife (aquatic invertebrate)
+168,water,arctopsyche,wildlife (aquatic invertebrate)
+168,water,asellidae,wildlife (aquatic invertebrate)
+168,water,aulodrilus pluriseta,wildlife (aquatic invertebrate)
+168,water,baetidae,wildlife (aquatic invertebrate)
+168,water,baetis,wildlife (aquatic invertebrate)
+168,water,baetis brunneicolor,wildlife (aquatic invertebrate)
+168,water,baetis tricaudatus,wildlife (aquatic invertebrate)
+168,water,brachycentrus,wildlife (aquatic invertebrate)
+168,water,brachycentrus americanus,wildlife (aquatic invertebrate)
+168,water,brachycentrus occidentalis,wildlife (aquatic invertebrate)
+168,water,brillia,wildlife (aquatic invertebrate)
+168,water,caecidotea,wildlife (aquatic invertebrate)
+168,water,caecidotea communis,wildlife (aquatic invertebrate)
+168,water,caecidotea racovitzai,wildlife (aquatic invertebrate)
+168,water,caenis,wildlife (aquatic invertebrate)
+168,water,campeloma decisum,wildlife (aquatic invertebrate)
+168,water,campostoma anomalum,wildlife (aquatic invertebrate)
+168,water,capniidae,wildlife (aquatic invertebrate)
+168,water,catostomus commersonii,wildlife (aquatic invertebrate)
+168,water,ceratopogon,wildlife (aquatic invertebrate)
+168,water,ceratopogonidae,wildlife (aquatic invertebrate)
+168,water,ceratopogoninae,wildlife (aquatic invertebrate)
+168,water,ceratopsyche,wildlife (aquatic invertebrate)
+168,water,ceratopsyche bronta,wildlife (aquatic invertebrate)
+168,water,ceratopsyche slossonae,wildlife (aquatic invertebrate)
+168,water,ceratopsyche sparna,wildlife (aquatic invertebrate)
+168,water,ceratopsyche walkeri,wildlife (aquatic invertebrate)
+168,water,ceriodaphnia dubia,wildlife (aquatic invertebrate)
+168,water,chaetocladius,wildlife (aquatic invertebrate)
+168,water,chelifera,wildlife (aquatic invertebrate)
+168,water,chelipoda,wildlife (aquatic invertebrate)
+168,water,cheumatopsyche,wildlife (aquatic invertebrate)
+168,water,chimarra,wildlife (aquatic invertebrate)
+168,water,chironomidae,wildlife (aquatic invertebrate)
+168,water,chironominae,wildlife (aquatic invertebrate)
+168,water,chironomus,wildlife (aquatic invertebrate)
+168,water,chloroperlidae,wildlife (aquatic invertebrate)
+168,water,choroterpes,wildlife (aquatic invertebrate)
+168,water,cinygmula,wildlife (aquatic invertebrate)
+168,water,cladotanytarsus,wildlife (aquatic invertebrate)
+168,water,clinocera,wildlife (aquatic invertebrate)
+168,water,conchapelopia,wildlife (aquatic invertebrate)
+168,water,corynoneura,wildlife (aquatic invertebrate)
+168,water,crangonyx,wildlife (aquatic invertebrate)
+168,water,cultus,wildlife (aquatic invertebrate)
+168,water,dasyhelea,wildlife (aquatic invertebrate)
+168,water,diamesa,wildlife (aquatic invertebrate)
+168,water,dicranota,wildlife (aquatic invertebrate)
+168,water,dicrotendipes,wildlife (aquatic invertebrate)
+168,water,dineutus,wildlife (aquatic invertebrate)
+168,water,diphetor,wildlife (aquatic invertebrate)
+168,water,diplectrona,wildlife (aquatic invertebrate)
+168,water,diplectrona modesta,wildlife (aquatic invertebrate)
+168,water,diplocladius cultriger,wildlife (aquatic invertebrate)
+168,water,diptera,wildlife (aquatic invertebrate)
+168,water,dolophilodes,wildlife (aquatic invertebrate)
+168,water,drunella,wildlife (aquatic invertebrate)
+168,water,drunella doddsii,wildlife (aquatic invertebrate)
+168,water,drunella grandis,wildlife (aquatic invertebrate)
+168,water,dubiraphia,wildlife (aquatic invertebrate)
+168,water,dubiraphia minima,wildlife (aquatic invertebrate)
+168,water,dubiraphia quadrinotata,wildlife (aquatic invertebrate)
+168,water,eohaustorius estuarius,wildlife (aquatic invertebrate)
+168,water,epeorus,wildlife (aquatic invertebrate)
+168,water,epeorus vitreus,wildlife (aquatic invertebrate)
+168,water,ephemera (ephemeridae),wildlife (aquatic invertebrate)
+168,water,ephemera simulans,wildlife (aquatic invertebrate)
+168,water,ephemerella,wildlife (aquatic invertebrate)
+168,water,ephemerella excrucians,wildlife (aquatic invertebrate)
+168,water,ephemerella subvaria,wildlife (aquatic invertebrate)
+168,water,ephemeroptera,wildlife (aquatic invertebrate)
+168,water,ephoron,wildlife (aquatic invertebrate)
+168,water,erioptera,wildlife (aquatic invertebrate)
+168,water,eukiefferiella,wildlife (aquatic invertebrate)
+168,water,eurylophella,wildlife (aquatic invertebrate)
+168,water,eurylophella funeralis,wildlife (aquatic invertebrate)
+168,water,eurytemora affinis,wildlife (aquatic invertebrate)
+168,water,ferrissia,wildlife (aquatic invertebrate)
+168,water,gammaridae,wildlife (aquatic invertebrate)
+168,water,gammarus,wildlife (aquatic invertebrate)
+168,water,gammarus pseudolimnaeus,wildlife (aquatic invertebrate)
+168,water,goniobasis,wildlife (aquatic invertebrate)
+168,water,gyrinidae,wildlife (aquatic invertebrate)
+168,water,habrophlebia,wildlife (aquatic invertebrate)
+168,water,habrophlebiodes,wildlife (aquatic invertebrate)
+168,water,haploperla,wildlife (aquatic invertebrate)
+168,water,heleniella,wildlife (aquatic invertebrate)
+168,water,helopicus,wildlife (aquatic invertebrate)
+168,water,hemerodromia,wildlife (aquatic invertebrate)
+168,water,heptagenia,wildlife (aquatic invertebrate)
+168,water,hesperoperla pacifica,wildlife (aquatic invertebrate)
+168,water,heterlimnius corpulentus,wildlife (aquatic invertebrate)
+168,water,heterotrissocladius marcidus,wildlife (aquatic invertebrate)
+168,water,hexatoma,wildlife (aquatic invertebrate)
+168,water,"hirudinea***retired***use hirudinea (clitellata), hirudinea (hirudinea)",wildlife (aquatic invertebrate)
+168,water,hyalella azteca,wildlife (aquatic invertebrate)
+168,water,hydatophylax argus,wildlife (aquatic invertebrate)
+168,water,hydracarina,wildlife (aquatic invertebrate)
+168,water,hydrobiidae,wildlife (aquatic invertebrate)
+168,water,hydropsyche,wildlife (aquatic invertebrate)
+168,water,hydropsyche betteni,wildlife (aquatic invertebrate)
+168,water,hydropsychidae,wildlife (aquatic invertebrate)
+168,water,hydroptila,wildlife (aquatic invertebrate)
+168,water,ilyodrilus templetoni,wildlife (aquatic invertebrate)
+168,water,isonychia,wildlife (aquatic invertebrate)
+168,water,isoperla,wildlife (aquatic invertebrate)
+168,water,isoperla signata,wildlife (aquatic invertebrate)
+168,water,isoperla transmarina,wildlife (aquatic invertebrate)
+168,water,labrundinia,wildlife (aquatic invertebrate)
+168,water,lebertia,wildlife (aquatic invertebrate)
+168,water,lepidostoma,wildlife (aquatic invertebrate)
+168,water,leptophlebia,wildlife (aquatic invertebrate)
+168,water,leptophlebiidae,wildlife (aquatic invertebrate)
+168,water,leucotrichia,wildlife (aquatic invertebrate)
+168,water,leucotrichia pictipes,wildlife (aquatic invertebrate)
+168,water,leucrocuta,wildlife (aquatic invertebrate)
+168,water,leuctra,wildlife (aquatic invertebrate)
+168,water,limnephilidae,wildlife (aquatic invertebrate)
+168,water,limnephilus rhombicus,wildlife (aquatic invertebrate)
+168,water,limnodrilus hoffmeisteri,wildlife (aquatic invertebrate)
+168,water,limnophyes,wildlife (aquatic invertebrate)
+168,water,liodessus affinis,wildlife (aquatic invertebrate)
+168,water,lymnaeidae,wildlife (aquatic invertebrate)
+168,water,lype diversa,wildlife (aquatic invertebrate)
+168,water,maccaffertium,wildlife (aquatic invertebrate)
+168,water,maccaffertium modestum,wildlife (aquatic invertebrate)
+168,water,maccaffertium vicarium,wildlife (aquatic invertebrate)
+168,water,macronychus,wildlife (aquatic invertebrate)
+168,water,macronychus glabratus,wildlife (aquatic invertebrate)
+168,water,megarcys signata,wildlife (aquatic invertebrate)
+168,water,micrasema wataga,wildlife (aquatic invertebrate)
+168,water,micropsectra,wildlife (aquatic invertebrate)
+168,water,microtendipes,wildlife (aquatic invertebrate)
+168,water,molanna,wildlife (aquatic invertebrate)
+168,water,molophilus,wildlife (aquatic invertebrate)
+168,water,mooreobdella microstoma,wildlife (aquatic invertebrate)
+168,water,nais behningi,wildlife (aquatic invertebrate)
+168,water,nais bretscheri,wildlife (aquatic invertebrate)
+168,water,nais simplex,wildlife (aquatic invertebrate)
+168,water,nanocladius,wildlife (aquatic invertebrate)
+168,water,nanocladius branchicolus,wildlife (aquatic invertebrate)
+168,water,natarsia,wildlife (aquatic invertebrate)
+168,water,nematoda,wildlife (aquatic invertebrate)
+168,water,nemoura trispinosa,wildlife (aquatic invertebrate)
+168,water,neoperla,wildlife (aquatic invertebrate)
+168,water,neophylax,wildlife (aquatic invertebrate)
+168,water,neoplasta,wildlife (aquatic invertebrate)
+168,water,neoplea striola,wildlife (aquatic invertebrate)
+168,water,neothremma,wildlife (aquatic invertebrate)
+168,water,neureclipsis,wildlife (aquatic invertebrate)
+168,water,nigronia,wildlife (aquatic invertebrate)
+168,water,nigronia serricornis,wildlife (aquatic invertebrate)
+168,water,nilotanypus,wildlife (aquatic invertebrate)
+168,water,nyctiophylax (paranyctiophylax),wildlife (aquatic invertebrate)
+168,water,optioservus,wildlife (aquatic invertebrate)
+168,water,optioservus fastiditus,wildlife (aquatic invertebrate)
+168,water,optioservus trivittatus,wildlife (aquatic invertebrate)
+168,water,oreogeton,wildlife (aquatic invertebrate)
+168,water,orthocladiinae,wildlife (aquatic invertebrate)
+168,water,orthocladius lignicola,wildlife (aquatic invertebrate)
+168,water,oulimnius,wildlife (aquatic invertebrate)
+168,water,pagastia,wildlife (aquatic invertebrate)
+168,water,paracapnia,wildlife (aquatic invertebrate)
+168,water,paracladopelma,wildlife (aquatic invertebrate)
+168,water,paragnetina,wildlife (aquatic invertebrate)
+168,water,parakiefferiella,wildlife (aquatic invertebrate)
+168,water,paralauterborniella nigrohalterale,wildlife (aquatic invertebrate)
+168,water,paraleptophlebia,wildlife (aquatic invertebrate)
+168,water,parametriocnemus,wildlife (aquatic invertebrate)
+168,water,paraphaenocladius,wildlife (aquatic invertebrate)
+168,water,paratanytarsus,wildlife (aquatic invertebrate)
+168,water,paratendipes,wildlife (aquatic invertebrate)
+168,water,perlesta,wildlife (aquatic invertebrate)
+168,water,phaenopsectra,wildlife (aquatic invertebrate)
+168,water,physa,wildlife (aquatic invertebrate)
+168,water,physidae,wildlife (aquatic invertebrate)
+168,water,piguetiella michiganensis,wildlife (aquatic invertebrate)
+168,water,pisidium,wildlife (aquatic invertebrate)
+168,water,platycentropus,wildlife (aquatic invertebrate)
+168,water,platyhelminthes,wildlife (aquatic invertebrate)
+168,water,plauditus,wildlife (aquatic invertebrate)
+168,water,plecoptera,wildlife (aquatic invertebrate)
+168,water,pleuroceridae,wildlife (aquatic invertebrate)
+168,water,podmosta,wildlife (aquatic invertebrate)
+168,water,polycentropus,wildlife (aquatic invertebrate)
+168,water,polypedilum,wildlife (aquatic invertebrate)
+168,water,polypedilum aviceps,wildlife (aquatic invertebrate)
+168,water,potamyia,wildlife (aquatic invertebrate)
+168,water,potthastia,wildlife (aquatic invertebrate)
+168,water,potthastia longimana,wildlife (aquatic invertebrate)
+168,water,probezzia,wildlife (aquatic invertebrate)
+168,water,procloeon,wildlife (aquatic invertebrate)
+168,water,promoresia,wildlife (aquatic invertebrate)
+168,water,psephenus,wildlife (aquatic invertebrate)
+168,water,pseudocloeon,wildlife (aquatic invertebrate)
+168,water,pseudolimnophila,wildlife (aquatic invertebrate)
+168,water,pseudorthocladius,wildlife (aquatic invertebrate)
+168,water,psychomyia,wildlife (aquatic invertebrate)
+168,water,psychomyia flavida,wildlife (aquatic invertebrate)
+168,water,pteronarcys,wildlife (aquatic invertebrate)
+168,water,pycnopsyche,wildlife (aquatic invertebrate)
+168,water,remenus,wildlife (aquatic invertebrate)
+168,water,rheocricotopus,wildlife (aquatic invertebrate)
+168,water,rheocricotopus tuberculatus,wildlife (aquatic invertebrate)
+168,water,rheopelopia,wildlife (aquatic invertebrate)
+168,water,rheosmittia,wildlife (aquatic invertebrate)
+168,water,rheotanytarsus,wildlife (aquatic invertebrate)
+168,water,rhithrogena,wildlife (aquatic invertebrate)
+168,water,rhithrogena jejuna,wildlife (aquatic invertebrate)
+168,water,rhyacophila,wildlife (aquatic invertebrate)
+168,water,rhyacophila brunnea,wildlife (aquatic invertebrate)
+168,water,rhyacophila sibirica,wildlife (aquatic invertebrate)
+168,water,rhyacophila vibox,wildlife (aquatic invertebrate)
+168,water,serratella,wildlife (aquatic invertebrate)
+168,water,sialis,wildlife (aquatic invertebrate)
+168,water,siphlonurus,wildlife (aquatic invertebrate)
+168,water,sperchon,wildlife (aquatic invertebrate)
+168,water,sphaeriidae***retired***use pisidiidae,wildlife (aquatic invertebrate)
+168,water,sphaerium,wildlife (aquatic invertebrate)
+168,water,stagnicola,wildlife (aquatic invertebrate)
+168,water,stempellinella,wildlife (aquatic invertebrate)
+168,water,stenacron,wildlife (aquatic invertebrate)
+168,water,stenacron interpunctatum,wildlife (aquatic invertebrate)
+168,water,stenonema,wildlife (aquatic invertebrate)
+168,water,stilocladius,wildlife (aquatic invertebrate)
+168,water,strongylocentrotus purpuratus,wildlife (aquatic invertebrate)
+168,water,stylodrilus heringianus,wildlife (aquatic invertebrate)
+168,water,stylogomphus,wildlife (aquatic invertebrate)
+168,water,stylogomphus albistylus,wildlife (aquatic invertebrate)
+168,water,sublettea,wildlife (aquatic invertebrate)
+168,water,sweltsa,wildlife (aquatic invertebrate)
+168,water,synorthocladius,wildlife (aquatic invertebrate)
+168,water,taenionema,wildlife (aquatic invertebrate)
+168,water,taeniopterygidae,wildlife (aquatic invertebrate)
+168,water,taeniopteryx,wildlife (aquatic invertebrate)
+168,water,tanypodinae,wildlife (aquatic invertebrate)
+168,water,tanytarsus,wildlife (aquatic invertebrate)
+168,water,thalassiosira pseudonana,wildlife (aquatic invertebrate)
+168,water,thienemanniella,wildlife (aquatic invertebrate)
+168,water,tipula,wildlife (aquatic invertebrate)
+168,water,tipulidae,wildlife (aquatic invertebrate)
+168,water,tribelos,wildlife (aquatic invertebrate)
+168,water,tricorythodes,wildlife (aquatic invertebrate)
+168,water,trissopelopia ogemawi,wildlife (aquatic invertebrate)
+168,water,tubificidae,wildlife (aquatic invertebrate)
+168,water,"turbellaria***retired***use catenulida (platyhelminthes), acoelomorpha, rhabditophora",wildlife (aquatic invertebrate)
+168,water,tvetenia,wildlife (aquatic invertebrate)
+168,water,tvetenia vitracies,wildlife (aquatic invertebrate)
+168,water,zapada cinctipes,wildlife (aquatic invertebrate)
+168,water,zapada oregonensis,wildlife (aquatic invertebrate)
+168,water,zavrelimyia,wildlife (aquatic invertebrate)
+168,air,prosimulium,wildlife (aquatic vertebrates/mammals)
+168,sediment,gloiobdella elongata,wildlife (aquatic vertebrates/mammals)
+168,sediment,glycera,wildlife (aquatic vertebrates/mammals)
+168,sediment,glycera americana,wildlife (aquatic vertebrates/mammals)
+168,water,glossiphonia complanata,wildlife (aquatic vertebrates/mammals)
+168,water,glossosoma,wildlife (aquatic vertebrates/mammals)
+168,water,glossosoma intermedium,wildlife (aquatic vertebrates/mammals)
+168,water,glossosomatidae,wildlife (aquatic vertebrates/mammals)
+168,water,prosimulium,wildlife (aquatic vertebrates/mammals)
+168,water,prosimulium mixtum,wildlife (aquatic vertebrates/mammals)
+168,tissue,phalacrocorax auritus,wildlife (birds)
+168,air,naididae,wildlife (fish)
+168,biological tissue,ameiurus natalis,wildlife (fish)
+168,biological tissue,cyprinus carpio,wildlife (fish)
+168,biological tissue,gambusia affinis,wildlife (fish)
+168,biological tissue,ictalurus punctatus,wildlife (fish)
+168,biological tissue,lepomis cyanellus,wildlife (fish)
+168,biological tissue,lepomis macrochirus,wildlife (fish)
+168,biological tissue,micropterus dolomieu,wildlife (fish)
+168,biological tissue,micropterus salmoides,wildlife (fish)
+168,biological tissue,morone saxatilis,wildlife (fish)
+168,biological tissue,mylopharodon conocephalus,wildlife (fish)
+168,biological tissue,oncorhynchus mykiss,wildlife (fish)
+168,biological tissue,perca flavescens,wildlife (fish)
+168,biological tissue,pomatomus saltatrix,wildlife (fish)
+168,biological tissue,prosopium williamsoni,wildlife (fish)
+168,biological tissue,salmo trutta,wildlife (fish)
+168,biological tissue,serranus tigrinus,wildlife (fish)
+168,sediment,girardia tigrina,wildlife (fish)
+168,sediment,naididae,wildlife (fish)
+168,sediment,pimephales promelas,wildlife (fish)
+168,tissue,acipenser fulvescens,wildlife (fish)
+168,tissue,acipenser transmontanus,wildlife (fish)
+168,tissue,alosa pseudoharengus,wildlife (fish)
+168,tissue,alosa sapidissima,wildlife (fish)
+168,tissue,ambloplites constellatus,wildlife (fish)
+178,fish tissue,NA,wildlife (fish)
+168,tissue,ambloplites rupestris,wildlife (fish)
+168,tissue,ameiurus,wildlife (fish)
+168,tissue,ameiurus brunneus,wildlife (fish)
+168,tissue,ameiurus catus,wildlife (fish)
+168,tissue,ameiurus melas,wildlife (fish)
+168,tissue,ameiurus natalis,wildlife (fish)
+168,tissue,ameiurus nebulosus,wildlife (fish)
+168,tissue,amia calva,wildlife (fish)
+168,tissue,amphistichus argenteus,wildlife (fish)
+168,tissue,aplodinotus grunniens,wildlife (fish)
+168,tissue,archocentrus nigrofasciatus,wildlife (fish)
+168,tissue,archoplites interruptus,wildlife (fish)
+168,tissue,archosargus probatocephalus,wildlife (fish)
+168,tissue,atherinops affinis,wildlife (fish)
+168,tissue,atherinopsis californiensis,wildlife (fish)
+168,tissue,bidyanus bidyanus,wildlife (fish)
+168,tissue,bothidae,wildlife (fish)
+168,tissue,carassius auratus,wildlife (fish)
+168,tissue,carpiodes,wildlife (fish)
+168,tissue,carpiodes carpio,wildlife (fish)
+168,tissue,carpiodes cyprinus,wildlife (fish)
+168,tissue,centrarchidae,wildlife (fish)
+168,tissue,centropristis striata,wildlife (fish)
+168,tissue,chaenobryttus gulosus***retired***use lepomis gulosus,wildlife (fish)
+168,tissue,channa argus,wildlife (fish)
+168,tissue,citharichthys sordidus,wildlife (fish)
+168,tissue,coregonus albula,wildlife (fish)
+168,tissue,coregonus artedi,wildlife (fish)
+168,tissue,coregonus clupeaformis,wildlife (fish)
+168,tissue,coregonus hoyi,wildlife (fish)
+168,tissue,coregonus kiyi,wildlife (fish)
+168,tissue,coregonus zenithicus,wildlife (fish)
+168,tissue,cottus,wildlife (fish)
+168,tissue,ctenopharyngodon idella,wildlife (fish)
+168,tissue,cymatogaster aggregata,wildlife (fish)
+168,tissue,cynoscion nebulosus,wildlife (fish)
+168,tissue,cyprinella spiloptera,wildlife (fish)
+168,tissue,cyprinidae,wildlife (fish)
+168,tissue,cyprinus carpio,wildlife (fish)
+168,tissue,embiotoca jacksoni,wildlife (fish)
+168,tissue,engraulis mordax,wildlife (fish)
+168,tissue,erimyzon oblongus,wildlife (fish)
+168,tissue,esox americanus,wildlife (fish)
+168,tissue,esox lucius,wildlife (fish)
+168,tissue,esox masquinongy,wildlife (fish)
+168,tissue,esox niger,wildlife (fish)
+168,tissue,fundulus notatus,wildlife (fish)
+168,tissue,fundulus parvipinnis,wildlife (fish)
+168,tissue,gambusia affinis,wildlife (fish)
+168,tissue,gasterosteus aculeatus,wildlife (fish)
+168,tissue,genyonemus lineatus,wildlife (fish)
+168,tissue,gila bicolor***retired***use siphateles bicolor,wildlife (fish)
+168,tissue,gila coerulea,wildlife (fish)
+168,tissue,hexagrammos decagrammus,wildlife (fish)
+168,tissue,hypentelium nigricans,wildlife (fish)
+168,tissue,hyperprosopon argenteum,wildlife (fish)
+168,tissue,hypophthalmichthys,wildlife (fish)
+168,tissue,hypophthalmichthys molitrix,wildlife (fish)
+168,tissue,hypophthalmichthys nobilis,wildlife (fish)
+168,tissue,hypostomus plecostomus,wildlife (fish)
+168,tissue,hypsurus caryi,wildlife (fish)
+168,tissue,hysterocarpus traskii,wildlife (fish)
+168,tissue,ictalurus furcatus,wildlife (fish)
+168,tissue,ictalurus punctatus,wildlife (fish)
+168,tissue,ictiobus bubalus,wildlife (fish)
+168,tissue,ictiobus cyprinellus,wildlife (fish)
+168,tissue,ictiobus niger,wildlife (fish)
+168,tissue,lepisosteus osseus,wildlife (fish)
+168,tissue,lepomis,wildlife (fish)
+168,tissue,lepomis auritus,wildlife (fish)
+168,tissue,lepomis cyanellus,wildlife (fish)
+168,tissue,lepomis gibbosus,wildlife (fish)
+168,tissue,lepomis macrochirus,wildlife (fish)
+168,tissue,lepomis megalotis,wildlife (fish)
+168,tissue,lepomis microlophus,wildlife (fish)
+168,tissue,leptocottus armatus,wildlife (fish)
+168,tissue,lobotes surinamensis,wildlife (fish)
+168,tissue,lota lota,wildlife (fish)
+168,tissue,lutjanus kasmira,wildlife (fish)
+168,tissue,luxilus chrysocephalus,wildlife (fish)
+168,tissue,luxilus cornutus,wildlife (fish)
+168,tissue,menidia beryllina,wildlife (fish)
+168,tissue,menticirrhus,wildlife (fish)
+168,tissue,menticirrhus americanus,wildlife (fish)
+168,tissue,micropterus,wildlife (fish)
+168,tissue,micropterus cataractae,wildlife (fish)
+168,tissue,micropterus dolomieu,wildlife (fish)
+168,tissue,micropterus dolomieui***retired***use micropterus dolomieu,wildlife (fish)
+168,tissue,micropterus punctulatus,wildlife (fish)
+168,tissue,micropterus salmoides,wildlife (fish)
+168,tissue,minytrema melanops,wildlife (fish)
+168,tissue,morone,wildlife (fish)
+168,tissue,morone americana,wildlife (fish)
+168,tissue,morone chrysops,wildlife (fish)
+168,tissue,morone mississippiensis,wildlife (fish)
+168,tissue,morone saxatilis,wildlife (fish)
+168,tissue,morone saxatilis x chrysops,wildlife (fish)
+168,tissue,moxostoma anisurum,wildlife (fish)
+168,tissue,moxostoma breviceps,wildlife (fish)
+179,NA,NA,sludge
+168,tissue,moxostoma duquesnii,wildlife (fish)
+168,tissue,moxostoma erythrurum,wildlife (fish)
+168,tissue,moxostoma macrolepidotum,wildlife (fish)
+168,tissue,moxostoma valenciennesi,wildlife (fish)
+168,tissue,mugil cephalus,wildlife (fish)
+168,tissue,mugilidae,wildlife (fish)
+168,tissue,myliobatis californica,wildlife (fish)
+168,tissue,mylocheilus caurinus,wildlife (fish)
+168,tissue,myoxocephalus thompsonii,wildlife (fish)
+168,tissue,neogobius melanostomus,wildlife (fish)
+168,tissue,nocomis biguttatus,wildlife (fish)
+168,tissue,nocomis micropogon,wildlife (fish)
+168,tissue,notemigonus crysoleucas,wildlife (fish)
+168,tissue,oncorhynchus clarki,wildlife (fish)
+168,tissue,oncorhynchus clarkii,wildlife (fish)
+168,tissue,oncorhynchus clarkii lewisi,wildlife (fish)
+168,tissue,oncorhynchus kisutch,wildlife (fish)
+168,tissue,oncorhynchus mykiss,wildlife (fish)
+168,tissue,oncorhynchus nerka,wildlife (fish)
+168,tissue,oncorhynchus tshawytscha,wildlife (fish)
+168,tissue,orthodon microlepidotus,wildlife (fish)
+168,tissue,osmerus mordax,wildlife (fish)
+168,tissue,osteichthyes,wildlife (fish)
+168,tissue,paralabrax maculatofasciatus,wildlife (fish)
+168,tissue,paralichthys californicus,wildlife (fish)
+168,tissue,paralichthys dentatus,wildlife (fish)
+168,tissue,parophrys vetulus,wildlife (fish)
+168,tissue,perca flavescens,wildlife (fish)
+168,tissue,phanerodon furcatus,wildlife (fish)
+168,tissue,pimephales notatus,wildlife (fish)
+168,tissue,pimephales promelas,wildlife (fish)
+168,tissue,pleuronectiformes,wildlife (fish)
+168,tissue,pleuronichthys verticalis,wildlife (fish)
+168,tissue,pogonias cromis,wildlife (fish)
+168,tissue,pomoxis,wildlife (fish)
+168,tissue,pomoxis annularis,wildlife (fish)
+168,tissue,pomoxis nigromaculatus,wildlife (fish)
+168,tissue,prosopium cylindraceum,wildlife (fish)
+168,tissue,prosopium williamsoni,wildlife (fish)
+168,tissue,ptychocheilus grandis,wildlife (fish)
+168,tissue,ptychocheilus oregonensis,wildlife (fish)
+168,tissue,pylodictis olivaris,wildlife (fish)
+168,tissue,rhacochilus vacca,wildlife (fish)
+168,tissue,rhinichthys cataractae,wildlife (fish)
+168,tissue,salmo salar,wildlife (fish)
+168,tissue,salmo trutta,wildlife (fish)
+168,tissue,salvelinus alpinus,wildlife (fish)
+168,tissue,salvelinus confluentus,wildlife (fish)
+168,tissue,salvelinus fontinalis,wildlife (fish)
+168,tissue,salvelinus namaycush,wildlife (fish)
+168,tissue,sander canadensis,wildlife (fish)
+168,tissue,sander vitreus,wildlife (fish)
+168,tissue,sander vitreus x sander canadensis,wildlife (fish)
+168,tissue,sciaenops ocellatus,wildlife (fish)
+168,tissue,scomberomorus cavalla,wildlife (fish)
+168,tissue,scorpaenichthys marmoratus,wildlife (fish)
+168,tissue,sebastes atrovirens,wildlife (fish)
+168,tissue,sebastes auriculatus,wildlife (fish)
+168,tissue,sebastes carnatus,wildlife (fish)
+168,tissue,sebastes caurinus,wildlife (fish)
+168,tissue,sebastes chrysomelas,wildlife (fish)
+168,tissue,sebastes flavidus,wildlife (fish)
+168,tissue,sebastes maliger,wildlife (fish)
+168,tissue,sebastes melanops,wildlife (fish)
+168,tissue,sebastes miniatus,wildlife (fish)
+168,tissue,sebastes mystinus,wildlife (fish)
+168,tissue,sebastes nebulosus,wildlife (fish)
+168,tissue,sebastes rosaceus,wildlife (fish)
+168,tissue,sebastes serranoides,wildlife (fish)
+168,tissue,selar crumenophthalmus,wildlife (fish)
+168,tissue,semotilus atromaculatus,wildlife (fish)
+168,tissue,siluriformes,wildlife (fish)
+168,tissue,siphateles bicolor,wildlife (fish)
+168,tissue,tilapia,wildlife (fish)
+168,tissue,umbra limi,wildlife (fish)
+168,water,ambloplites rupestris,wildlife (fish)
+168,water,ameiurus melas,wildlife (fish)
+168,water,ameiurus natalis,wildlife (fish)
+168,water,atherinops affinis,wildlife (fish)
+168,water,carpiodes cyprinus,wildlife (fish)
+168,water,cottus,wildlife (fish)
+168,water,cottus bairdii,wildlife (fish)
+168,water,cottus cognatus,wildlife (fish)
+168,water,cottus girardi,wildlife (fish)
+168,water,cyprinella spiloptera,wildlife (fish)
+168,water,cyprinodon variegatus,wildlife (fish)
+168,water,cyprinus carpio,wildlife (fish)
+168,water,esox lucius,wildlife (fish)
+168,water,esox niger,wildlife (fish)
+168,water,etheostoma blennioides,wildlife (fish)
+168,water,etheostoma exile,wildlife (fish)
+168,water,etheostoma flabellare,wildlife (fish)
+168,water,etheostoma olmstedi,wildlife (fish)
+168,water,etheostoma zonale,wildlife (fish)
+168,water,exoglossum maxillingua,wildlife (fish)
+168,water,hypentelium nigricans,wildlife (fish)
+168,water,ictalurus punctatus,wildlife (fish)
+168,water,lepomis auritus,wildlife (fish)
+168,water,lepomis cyanellus,wildlife (fish)
+168,water,lepomis gibbosus,wildlife (fish)
+168,water,lepomis macrochirus,wildlife (fish)
+168,water,luxilus cornutus,wildlife (fish)
+168,water,micropterus dolomieu,wildlife (fish)
+168,water,moxostoma macrolepidotum,wildlife (fish)
+168,water,nocomis micropogon,wildlife (fish)
+168,water,notemigonus crysoleucas,wildlife (fish)
+168,water,notropis hudsonius,wildlife (fish)
+168,water,notropis rubellus,wildlife (fish)
+168,water,notropis volucellus,wildlife (fish)
+168,water,noturus insignis,wildlife (fish)
+168,water,oncorhynchus mykiss,wildlife (fish)
+168,water,orconectes,wildlife (fish)
+168,water,percina peltata,wildlife (fish)
+168,water,pimephales notatus,wildlife (fish)
+168,water,pimephales promelas,wildlife (fish)
+168,water,pomoxis nigromaculatus,wildlife (fish)
+168,water,rhinichthys atratulus,wildlife (fish)
+168,water,rhinichthys cataractae,wildlife (fish)
+168,water,salmo trutta,wildlife (fish)
+168,water,salvelinus fontinalis,wildlife (fish)
+168,water,semotilus atromaculatus,wildlife (fish)
+168,water,semotilus corporalis,wildlife (fish)
+168,air,agabus,wildlife (terrestrial invertebrates/worms)
+168,air,amphinemura banksi,wildlife (terrestrial invertebrates/worms)
+168,air,enchytraeidae,wildlife (terrestrial invertebrates/worms)
+168,biological tissue,anisoptera,wildlife (terrestrial invertebrates/worms)
+168,sediment,ablabesmyia,wildlife (terrestrial invertebrates/worms)
+168,sediment,arabella iricolor,wildlife (terrestrial invertebrates/worms)
+168,sediment,arcteonais lomondi,wildlife (terrestrial invertebrates/worms)
+168,sediment,"catenulida (platyhelminthes), acoelomorpha, rhabditophora***retired***use (platyhelminthe",wildlife (terrestrial invertebrates/worms)
+168,sediment,cricotopus,wildlife (terrestrial invertebrates/worms)
+168,sediment,enchytraeidae,wildlife (terrestrial invertebrates/worms)
+168,sediment,eteone,wildlife (terrestrial invertebrates/worms)
+168,sediment,eteone heteropoda,wildlife (terrestrial invertebrates/worms)
+168,sediment,gastropoda,wildlife (terrestrial invertebrates/worms)
+168,sediment,harmothoe extenuata,wildlife (terrestrial invertebrates/worms)
+168,sediment,idotea metallica,wildlife (terrestrial invertebrates/worms)
+168,sediment,oligochaeta (oligochaeta),wildlife (terrestrial invertebrates/worms)
+168,tissue,abarenicola,wildlife (terrestrial invertebrates/worms)
+168,tissue,abarenicola pacifica,wildlife (terrestrial invertebrates/worms)
+168,tissue,enchytraeidae,wildlife (terrestrial invertebrates/worms)
+168,tissue,oligochaeta (oligochaeta),wildlife (terrestrial invertebrates/worms)
+168,water,ablabesmyia,wildlife (terrestrial invertebrates/worms)
+168,water,ablabesmyia mallochi,wildlife (terrestrial invertebrates/worms)
+168,water,acroneuria,wildlife (terrestrial invertebrates/worms)
+168,water,aeshna umbrosa,wildlife (terrestrial invertebrates/worms)
+168,water,agapetus,wildlife (terrestrial invertebrates/worms)
+168,water,agnetina,wildlife (terrestrial invertebrates/worms)
+168,water,amphinemura,wildlife (terrestrial invertebrates/worms)
+168,water,anthopotamus,wildlife (terrestrial invertebrates/worms)
+168,water,antocha,wildlife (terrestrial invertebrates/worms)
+168,water,argia,wildlife (terrestrial invertebrates/worms)
+168,water,atherix,wildlife (terrestrial invertebrates/worms)
+168,water,boyeria,wildlife (terrestrial invertebrates/worms)
+168,water,calopterygidae,wildlife (terrestrial invertebrates/worms)
+168,water,calopteryx maculata,wildlife (terrestrial invertebrates/worms)
+168,water,chrysops,wildlife (terrestrial invertebrates/worms)
+168,water,cordulegaster,wildlife (terrestrial invertebrates/worms)
+168,water,cordulegaster maculata,wildlife (terrestrial invertebrates/worms)
+168,water,cordulegaster obliqua,wildlife (terrestrial invertebrates/worms)
+181,"bf, green beans",NA,food product
+168,water,corydalus,wildlife (terrestrial invertebrates/worms)
+168,water,cricotopus,wildlife (terrestrial invertebrates/worms)
+168,water,cryptolabis,wildlife (terrestrial invertebrates/worms)
+168,water,ectemnia,wildlife (terrestrial invertebrates/worms)
+168,water,enallagma,wildlife (terrestrial invertebrates/worms)
+168,water,enchytraeidae,wildlife (terrestrial invertebrates/worms)
+168,water,gomphidae,wildlife (terrestrial invertebrates/worms)
+168,water,hetaerina,wildlife (terrestrial invertebrates/worms)
+168,water,oligochaeta (oligochaeta),wildlife (terrestrial invertebrates/worms)
+168,water,"oligochaeta***retired***use oligochaeta (clitellata), oligochaeta (oligochaeta)",wildlife (terrestrial invertebrates/worms)
+168,water,ophiogomphus,wildlife (terrestrial invertebrates/worms)
+168,water,pericoma,wildlife (terrestrial invertebrates/worms)
+168,water,simuliidae,wildlife (terrestrial invertebrates/worms)
+168,water,simulium,wildlife (terrestrial invertebrates/worms)
+168,water,simulium gouldingi,wildlife (terrestrial invertebrates/worms)
+168,water,stegopterna,wildlife (terrestrial invertebrates/worms)
+168,water,stenelmis,wildlife (terrestrial invertebrates/worms)
+168,water,stenelmis crenata,wildlife (terrestrial invertebrates/worms)
+168,tissue,chelydra serpentina,wildlife (terrestrial vertebrates)
+168,tissue,trachemys scripta elegans,wildlife (terrestrial vertebrates)
+176,NA,NA,surface water
+177,NA,NA,ambient air
+181,"apple juice, bottled",NA,food product
+181,"applesauce, bottled",NA,food product
+181,"apricots, canned in heavy/light syrup",NA,food product
+181,"asparagus, fresh/frozen, boiled",NA,food product
+181,"bagel, plain, toasted",NA,food product
+181,"beef, ground, regular, pan-cooked",NA,food product
+181,"beef roast, chuck, oven-roasted",NA,food product
+181,"beef steak, loin/sirloin, broiled",NA,food product
+181,"beef stroganoff w/ noodles, homemade",NA,food product
+181,"beef w/ vegetables in sauce, from chinese carry-out",NA,food product
+181,beer,NA,food product
+181,"beets, canned",NA,food product
+181,"bf, applesauce",NA,food product
+181,"bf, apples with berries",NA,food product
+181,bf. apples with berries,NA,food product
+181,"bf, apples with fruit other than berries",NA,food product
+181,"bf, apricots w/ mixed fruit",NA,food product
+181,"bf, arrowroot cookies",NA,food product
+181,"bf, banana dessert",NA,food product
+181,"bf, bananas",NA,food product
+181,"bf, bananas and pineapple",NA,food product
+181,"bf, beef and broth/gravy",NA,food product
+181,"bf, beef and noodles/beef stroganoff",NA,food product
+181,"bf, carrots",NA,food product
+181,"bf, cereal, barley, dry, prep w/ water",NA,food product
+181,"bf, cereal, mixed, dry, prep w/ water",NA,food product
+181,"bf, cereal, oatmeal, dry, prep w/ water",NA,food product
+181,"bf, cereal, oatmeal w/ fruit, prep w/ water",NA,food product
+181,"bf, cereal, rice, dry, prep w/ water",NA,food product
+181,"bf, cereal, rice w/apples, dry, prep w/ water",NA,food product
+181,"bf, chicken and broth/gravy",NA,food product
+181,"bf, chicken noodle dinner",NA,food product
+181,"bf, chicken w/ rice",NA,food product
+181,"bf, custard/pudding",NA,food product
+181,"bf, dutch apple/apple cobbler",NA,food product
+181,"bf, fruit dessert/pudding",NA,food product
+181,"bf, fruit yogurt dessert",NA,food product
+181,"bf, infant formula, milk-based, high iron, rtf",NA,food product
+181,"bf, infant formula, milk-based, iron fortified, rtf",NA,food product
+181,"bf, infant formula, milk-based, low iron, rtf",NA,food product
+181,"bf, infant formula, soy-based, rtf",NA,food product
+181,"bf, juice, apple",NA,food product
+181,"bf, juice, apple-banana",NA,food product
+181,"bf, juice, apple-cherry",NA,food product
+181,"bf, juice, apple-grape",NA,food product
+181,"bf, juice, grape",NA,food product
+181,"bf, juice, mixed fruit",NA,food product
+181,"bf, juice, orange",NA,food product
+181,"bf, juice, pear",NA,food product
+181,"bf, lamb and broth/gravy",NA,food product
+181,"bf, macaroni and cheese",NA,food product
+181,"bf, macaroni, tomato and beef",NA,food product
+181,"bf, mixed vegetables",NA,food product
+181,"bf, peach cobbler/dessert",NA,food product
+181,"bf, peaches",NA,food product
+181,"bf, pears",NA,food product
+181,"bf, pears and pineapple",NA,food product
+181,"bf, peas",NA,food product
+181,"bf, plums/prunes w/ apples or pears",NA,food product
+181,"bf, plums/prunes w/apples or pears",NA,food product
+181,"bf, squash",NA,food product
+181,"bf, sweet potatoes",NA,food product
+181,"bf, teething biscuits",NA,food product
+181,"bf, turkey and broth/gravy",NA,food product
+181,"bf, turkey and  rice",NA,food product
+181,"bf, veal and broth/gravy",NA,food product
+181,"bf, vegetables and beef",NA,food product
+181,"bf, vegetables and chicken",NA,food product
+181,"bf, vegetables and ham",NA,food product
+181,"bf, vegetables and turkey",NA,food product
+181,"bf, zweiback toast",NA,food product
+181,"biscuits, refrigerated-type, baked",NA,food product
+181,black olives,NA,food product
+181,bologna (beef/pork),NA,food product
+181,"bottled drinking water (mineral/spring), not carbonated or flavored",NA,food product
+181,"bread, cracked wheat",NA,food product
+181,"bread, multigrain",NA,food product
+181,"bread, rye",NA,food product
+181,"bread, white, enriched",NA,food product
+181,"bread, whole wheat",NA,food product
+181,breakfast tart/toaster pastry,NA,food product
+181,"broccoli, fresh/frozen, boiled",NA,food product
+181,"brown gravy, canned or bottled",NA,food product
+181,brownie,NA,food product
+181,"brussels sprouts, fresh/frozen, boiled",NA,food product
+181,"burrito w/ beef, beans and cheese, from mexican carry-out",NA,food product
+181,"butter, regular (not lowfat)",NA,food product
+181,"butter, regular (not lowfat), salted",NA,food product
+181,"cabbage, fresh, boiled",NA,food product
+181,"cake, chocolate w/ icing",NA,food product
+181,"cake, white w/ icing",NA,food product
+181,"cake, yellow w/ icing",NA,food product
+181,"candy bar, chocolate, nougat, and nuts",NA,food product
+181,"candy bar, milk chocolate, plain",NA,food product
+181,"candy, hard, any flavor",NA,food product
+181,"carbonated beverage, cola, low-calorie",NA,food product
+181,"carbonated beverage, cola, regular",NA,food product
+181,"carbonated beverage, fruit-flavored, regular",NA,food product
+181,"carrot, fresh, peeled, boiled",NA,food product
+181,"catfish, pan-cooked w/ oil",NA,food product
+181,"cauliflower, fresh/frozen, boiled",NA,food product
+181,"cheese, american, processed",NA,food product
+181,"cheese, cheddar, natural (sharp/mild)",NA,food product
+181,"cheese, swiss, natural",NA,food product
+181,"chicken breast, fried, fast-food (w/ skin)",NA,food product
+181,"chicken breast, oven-roasted (skin removed)",NA,food product
+181,"chicken filet (broiled) sandwich on bun, fast-food",NA,food product
+181,"chicken leg, fried, fast-food  (w/ skin)",NA,food product
+181,"chicken nuggets, fast-food",NA,food product
+181,"chicken potpie, frozen, heated",NA,food product
+181,"chicken thigh, oven-roasted (skin removed)",NA,food product
+181,"chicken w/ vegetables in sauce, from chinese carry-out",NA,food product
+181,"chili con carne w/ beans, canned",NA,food product
+181,chocolate chip cookies,NA,food product
+181,"clam chowder, new england, canned, cond, prep w/ whl milk",NA,food product
+181,"coffee, decaffeinated, from ground",NA,food product
+181,"coffee, from ground",NA,food product
+181,"coleslaw, mayonnaise-type, from grocery/deli",NA,food product
+181,"collards, fresh/frozen, boiled",NA,food product
+181,"cornbread, homemade",NA,food product
+181,"corn, canned",NA,food product
+181,corn flakes cereal,NA,food product
+181,"corn, fresh/frozen, boiled",NA,food product
+181,"corn/hominy grits, enriched, cooked",NA,food product
+181,corn/tortilla chips,NA,food product
+181,"cottage cheese, creamed, lowfat (2% milk fat)",NA,food product
+181,"crackers, butter-type",NA,food product
+181,"crackers, graham",NA,food product
+181,"crackers, saltine",NA,food product
+181,"cranberry juice cocktail, canned/bottled",NA,food product
+181,cream cheese,NA,food product
+181,"cream, half & half",NA,food product
+181,"cream of wheat (farina), enriched, cooked",NA,food product
+181,"cream substitute, non-dairy, liquid/frozen",NA,food product
+181,crisped rice cereal,NA,food product
+181,dill cucumber pickles,NA,food product
+181,"doughnut, cake-type, any flavor, from donut store",NA,food product
+181,"egg, cheese, and ham on english muffin, fast-food",NA,food product
+181,"eggplant, fresh, peeled, boiled",NA,food product
+181,"eggs, boiled",NA,food product
+181,"eggs, scrambled w/ oil",NA,food product
+181,"english muffin, plain, toasted",NA,food product
+181,"fish sandwich on bun, fast-food",NA,food product
+181,"fish sticks or patty, frozen, oven-cooked",NA,food product
+181,"frankfurter (beef/pork), boiled",NA,food product
+181,"french fries, fast-food",NA,food product
+181,"fried rice, meatless, from chinese carry-out",NA,food product
+181,"fruit cocktail, canned in light syrup",NA,food product
+181,"fruit drink (10% juice), canned or bottled",NA,food product
+181,"fruit drink, from powder",NA,food product
+181,"fruit-flavored cereal, presweetened",NA,food product
+181,"fruit juice blend (100% juice), canned/bottled",NA,food product
+181,"gelatin dessert, any flavor",NA,food product
+181,"granola bar, w/ raisins",NA,food product
+181,granola w/ raisins,NA,food product
+181,"grapefruit juice, bottled",NA,food product
+181,"grape juice, frozen conc, reconstituted",NA,food product
+181,"green beans, canned",NA,food product
+181,"green beans, fresh/frozen, boiled",NA,food product
+181,"ham, cured (not canned), baked",NA,food product
+181,honey,NA,food product
+181,"ice cream, light, vanilla",NA,food product
+181,"ice cream, regular (not lowfat), vanilla",NA,food product
+181,"infant formula, soy-based, rtf",NA,food product
+181,"jelly, any flavor",NA,food product
+181,"lamb chop, pan-cooked w/ oil",NA,food product
+181,"lasagna w/ meat, frozen, heated",NA,food product
+181,"lemonade, frozen conc, reconstituted",NA,food product
+181,"lima beans, immature, frozen, boiled",NA,food product
+181,"liver (beef/calf), pan-cooked w/ oil",NA,food product
+181,luncheon meat (chicken/turkey),NA,food product
+181,"luncheon meat, ham",NA,food product
+181,"macaroni and cheese, prepared from box mix",NA,food product
+181,"macaroni salad, from grocery/deli",NA,food product
+181,"margarine, regular (not lowfat), salted",NA,food product
+181,"mayonnaise, regular, bottled",NA,food product
+181,"meal replacement, liquid rtd, any flavor",NA,food product
+181,"meatloaf, beef, homemade",NA,food product
+181,"milk, chocolate, lowfat, fluid",NA,food product
+181,"milk, lowfat (2%), fluid",NA,food product
+181,"milk shake, chocolate, fast-food",NA,food product
+181,"milk, skim, fluid",NA,food product
+181,"milk, whole, fluid",NA,food product
+181,"mixed vegetables, frozen, boiled",NA,food product
+181,"muffin, fruit or plain",NA,food product
+181,"mustard, yellow, plain",NA,food product
+181,"noodles, egg, enriched, boiled",NA,food product
+181,"oatmeal, plain, cooked",NA,food product
+181,oat ring cereal,NA,food product
+181,"okra, fresh/frozen, boiled",NA,food product
+181,olive oil,NA,food product
+181,"orange juice, bottled/carton",NA,food product
+181,"orange juice, frozen conc, reconstituted",NA,food product
+181,"pancakes, frozen, heated",NA,food product
+181,"peach, canned in light/medium syrup",NA,food product
+181,"peanut butter, creamy",NA,food product
+181,"peanut butter, smooth/creamy",NA,food product
+181,"peanuts, dry roasted, salted",NA,food product
+181,"pear, canned in light syrup",NA,food product
+181,"peas, green, fresh/frozen, boiled",NA,food product
+181,"pie, apple, fresh/frozen",NA,food product
+181,"pie, pumpkin, fresh/frozen",NA,food product
+181,"pineapple, canned in juice",NA,food product
+181,"pineapple juice, frozen conc, reconstituted",NA,food product
+181,"pinto beans, dry, boiled",NA,food product
+181,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA,food product
+181,"popcorn, microwave, butter-flavored",NA,food product
+181,"popsicle, fruit-flavored",NA,food product
+181,"pork and beans, canned",NA,food product
+181,"pork bacon, oven-cooked",NA,food product
+181,"pork chop, pan-cooked w/ oil",NA,food product
+181,"pork roast, loin, oven-roasted",NA,food product
+181,"pork sausage (link/patty), oven-cooked",NA,food product
+181,"pork sausage, (link/patty) oven-cooked",NA,food product
+181,"potato, baked (w/ peel)",NA,food product
+181,"potato, boiled (w/out peel)",NA,food product
+181,potato chips,NA,food product
+181,"potatoes, mashed, prepared from fresh",NA,food product
+181,"potato, mashed, prepared from fresh",NA,food product
+181,"potato salad, mayonnaise-type, from grocery/deli",NA,food product
+181,"pretzels, hard, salted",NA,food product
+181,"prune juice, bottled",NA,food product
+181,"pudding, ready-to-eat, flavor other than chocolate",NA,food product
+181,"quarter-pound cheeseburger on bun, fast-food",NA,food product
+181,"quarter-pound hamburger on bun, fast-food",NA,food product
+181,raisin bran cereal,NA,food product
+181,raisins,NA,food product
+181,"refried beans, canned",NA,food product
+181,"rice, white, enriched, cooked",NA,food product
+181,"salad dressing, creamy/buttermilk type, low-calorie",NA,food product
+181,"salad dressing, creamy/buttermilk type, regular",NA,food product
+181,"salad dressing, italian, regular",NA,food product
+181,"salami, luncheon-meat type (not hard)",NA,food product
+181,"salmon, steaks/fillets, baked",NA,food product
+181,sandwich cookies w/ creme filling,NA,food product
+181,sandwich cookies w/ cr?me filling,NA,food product
+181,"sherbet, fruit-flavored",NA,food product
+181,shredded wheat cereal,NA,food product
+181,"shrimp, boiled",NA,food product
+181,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA,food product
+181,"soup, chicken noodle, canned, cond, prep w/ water",NA,food product
+181,"soup, oriental noodles (ramen noodles), prep w/ water",NA,food product
+181,"soup, tomato, canned, cond, prep w/ water",NA,food product
+181,"soup, vegetable beef, canned, cond, prep w/ water",NA,food product
+181,sour cream,NA,food product
+181,"sour cream dip, any flavor",NA,food product
+181,"spaghetti, enriched, boiled",NA,food product
+181,"spaghetti w/ meat sauce, homemade",NA,food product
+181,"spinach, fresh/frozen, boiled",NA,food product
+181,"stew, beef and vegetable, canned",NA,food product
+181,sugar cookies,NA,food product
+181,"sugar, white, granulated",NA,food product
+181,"summer squash, fresh/frozen, boiled",NA,food product
+181,"sunflower seeds (shelled), roasted, salted",NA,food product
+181,"sweet potatoes, canned",NA,food product
+181,sweet roll/danish pastry,NA,food product
+181,sweet & sour sauce,NA,food product
+181,"syrup, chocolate",NA,food product
+181,"syrup, pancake",NA,food product
+181,"taco/tostada w/ beef and cheese, from mexican carry-out",NA,food product
+181,"tea, decaffeinated, from tea bag",NA,food product
+181,"tea, from tea bag",NA,food product
+181,tomato catsup,NA,food product
+181,"tomato juice, bottled",NA,food product
+181,"tomato salsa, bottled",NA,food product
+181,"tomato sauce, plain, bottled",NA,food product
+181,"tortilla, flour",NA,food product
+181,"tuna, canned in water, drained",NA,food product
+181,"tuna noodle casserole, homemade",NA,food product
+181,"turkey breast, oven-roasted",NA,food product
+181,"turnip, fresh/frozen, boiled",NA,food product
+181,vegetable oil,NA,food product
+181,"white beans, dry, boiled",NA,food product
+181,"wine, dry table, red/ white",NA,food product
+181,"yogurt, lowfat, fruit-flavored",NA,food product
+181,"apple (red), raw (w/ peel)",NA,raw agricultural commodity
+181,"avocado, raw",NA,raw agricultural commodity
+181,"banana, raw",NA,raw agricultural commodity
+181,"cantaloupe, raw/frozen",NA,raw agricultural commodity
+181,"carrot, baby, raw",NA,raw agricultural commodity
+181,"celery, raw",NA,raw agricultural commodity
+181,"cucumber, peeled, raw",NA,raw agricultural commodity
+181,"grapefruit, raw",NA,raw agricultural commodity
+181,"grapes (red/green), raw",NA,raw agricultural commodity
+181,"lettuce, iceberg, raw",NA,raw agricultural commodity
+181,"lettuce, iceburg, raw",NA,raw agricultural commodity
+181,"lettuce, leaf, raw",NA,raw agricultural commodity
+181,"mushrooms, raw",NA,raw agricultural commodity
+181,"onion, mature, raw",NA,raw agricultural commodity
+181,"orange (navel/valencia), raw",NA,raw agricultural commodity
+181,"peach, raw/frozen",NA,raw agricultural commodity
+181,"pear, raw (w/ peel)",NA,raw agricultural commodity
+181,"pepper, sweet, green, raw",NA,raw agricultural commodity
+181,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA,raw agricultural commodity
+181,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA,raw agricultural commodity
+181,"strawberries, raw/frozen",NA,raw agricultural commodity
+181,"tomato, raw",NA,raw agricultural commodity
+181,"watermelon, raw/frozen",NA,raw agricultural commodity
+182,"apple juice, bottled",NA,food product
+182,"applesauce, bottled",NA,food product
+182,"apricots, canned in heavy/light syrup",NA,food product
+182,"asparagus, fresh/frozen, boiled",NA,food product
+182,"bagel, plain, toasted",NA,food product
+182,"beef, ground, regular, pan-cooked",NA,food product
+182,"beef roast, chuck, oven-roasted",NA,food product
+182,"beef steak, loin/sirloin, broiled",NA,food product
+182,"beef stroganoff w/ noodles, homemade",NA,food product
+182,"beef w/ vegetables in sauce, from chinese carry-out",NA,food product
+182,beer,NA,food product
+182,"beets, canned",NA,food product
+182,"bf, applesauce",NA,food product
+182,"bf, apples with berries",NA,food product
+182,"bf, apples with fruit other than berries",NA,food product
+182,"bf, apricots w/ mixed fruit",NA,food product
+182,"bf, arrowroot cookies",NA,food product
+182,"bf, banana dessert",NA,food product
+182,"bf, bananas",NA,food product
+182,"bf, bananas and pineapple",NA,food product
+182,"bf, beef and broth/gravy",NA,food product
+182,"bf, beef and noodles/beef stroganoff",NA,food product
+182,"bf, carrots",NA,food product
+182,"bf, cereal, barley, dry, prep w/ water",NA,food product
+182,"bf, cereal, mixed, dry, prep w/ water",NA,food product
+182,"bf, cereal, oatmeal, dry, prep w/ water",NA,food product
+182,"bf, cereal, oatmeal w/ fruit, prep w/ water",NA,food product
+182,"bf, cereal, rice, dry, prep w/ water",NA,food product
+182,"bf, cereal, rice w/apples, dry, prep w/ water",NA,food product
+182,"bf, chicken and broth/gravy",NA,food product
+182,"bf, chicken noodle dinner",NA,food product
+182,"bf, chicken w/ rice",NA,food product
+182,"bf, custard/pudding",NA,food product
+182,"bf, dutch apple/apple cobbler",NA,food product
+182,"bf, fruit dessert/pudding",NA,food product
+182,"bf, fruit yogurt dessert",NA,food product
+182,"bf, green beans",NA,food product
+182,"bf, infant formula, milk-based, high iron, rtf",NA,food product
+182,"bf, infant formula, milk-based, low iron, rtf",NA,food product
+182,"bf, infant formula, soy-based, rtf",NA,food product
+182,"bf, juice, apple",NA,food product
+182,"bf, juice, apple-banana",NA,food product
+182,"bf, juice, apple-cherry",NA,food product
+182,"bf, juice, apple-grape",NA,food product
+182,"bf, juice, grape",NA,food product
+182,"bf, juice, mixed fruit",NA,food product
+182,"bf, juice, orange",NA,food product
+182,"bf, juice, pear",NA,food product
+182,"bf, lamb and broth/gravy",NA,food product
+182,"bf, macaroni and cheese",NA,food product
+182,"bf, macaroni, tomato and beef",NA,food product
+182,"bf, mixed vegetables",NA,food product
+182,"bf, peach cobbler/dessert",NA,food product
+182,"bf, peaches",NA,food product
+182,"bf, pears",NA,food product
+182,"bf, pears and pineapple",NA,food product
+182,"bf, peas",NA,food product
+182,"bf, plums/prunes w/apples or pears",NA,food product
+182,"bf, squash",NA,food product
+182,"bf, sweet potatoes",NA,food product
+182,"bf, teething biscuits",NA,food product
+182,"bf, turkey and broth/gravy",NA,food product
+182,"bf, turkey and rice",NA,food product
+182,"bf, turkey and  rice",NA,food product
+182,"bf, veal and broth/gravy",NA,food product
+182,"bf, vegetables and beef",NA,food product
+182,"bf, vegetables and chicken",NA,food product
+182,"bf, vegetables and ham",NA,food product
+182,"bf, vegetables and turkey",NA,food product
+182,"bf, zweiback toast",NA,food product
+182,"biscuits, refrigerated-type, baked",NA,food product
+182,black olives,NA,food product
+182,bologna (beef/pork),NA,food product
+182,"bottled drinking water (mineral/spring), not carbonated or flavored",NA,food product
+182,"bread, cracked wheat",NA,food product
+182,"bread, rye",NA,food product
+182,"bread, white, enriched",NA,food product
+182,"bread, whole wheat",NA,food product
+182,breakfast tart/toaster pastry,NA,food product
+182,"broccoli, fresh/frozen, boiled",NA,food product
+182,"brown gravy, canned or bottled",NA,food product
+182,brownie,NA,food product
+182,"brussels sprouts, fresh/frozen, boiled",NA,food product
+182,"burrito w/ beef, beans and cheese, from mexican carry-out",NA,food product
+182,"butter, regular (not lowfat), salted",NA,food product
+182,"cabbage, fresh, boiled",NA,food product
+182,"cake, chocolate w/ icing",NA,food product
+182,"cake, white w/ icing",NA,food product
+182,"cake, white w/ icing (formerly yellow cake)",NA,food product
+182,"cake, yellow w/ icing",NA,food product
+182,"candy bar, chocolate, nougat, and nuts",NA,food product
+182,"candy bar, milk chocolate, plain",NA,food product
+182,"candy, hard, any flavor",NA,food product
+182,"carbonated beverage, cola, low-calorie",NA,food product
+182,"carbonated beverage, cola, regular",NA,food product
+182,"carbonated beverage, fruit-flavored, regular",NA,food product
+182,"carrot, fresh, peeled, boiled",NA,food product
+182,"catfish, pan-cooked w/ oil",NA,food product
+182,"cauliflower, fresh/frozen, boiled",NA,food product
+182,"cheese, american, processed",NA,food product
+182,"cheese, cheddar, natural (sharp/mild)",NA,food product
+182,"cheese, swiss, natural",NA,food product
+182,"chicken breast, fried, fast-food (w/ skin)",NA,food product
+182,"chicken breast, oven-roasted (skin removed)",NA,food product
+182,"chicken filet (broiled) sandwich on bun, fast-food",NA,food product
+182,"chicken leg, fried, fast-food  (w/ skin)",NA,food product
+182,"chicken leg, fried, fast-food (w/ skin)",NA,food product
+182,"chicken nuggets, fast-food",NA,food product
+182,"chicken potpie, frozen, heated",NA,food product
+182,"chicken thigh, oven-roasted (skin removed)",NA,food product
+182,"chicken w/ vegetables in sauce, from chinese carry-out",NA,food product
+182,"chili con carne w/ beans, canned",NA,food product
+182,chocolate chip cookies,NA,food product
+182,"clam chowder, new england, canned, cond, prep w/ whl milk",NA,food product
+182,"coffee, decaffeinated, from ground",NA,food product
+182,"coffee, from ground",NA,food product
+182,"coleslaw, mayonnaise-type, from grocery/deli",NA,food product
+182,"collards, fresh/frozen, boiled",NA,food product
+182,"cornbread, homemade",NA,food product
+182,"corn, canned",NA,food product
+182,corn flakes cereal,NA,food product
+182,"corn, fresh/frozen, boiled",NA,food product
+182,"corn/hominy grits, enriched, cooked",NA,food product
+182,corn/tortilla chips,NA,food product
+182,"cottage cheese, creamed, lowfat (2% milk fat)",NA,food product
+182,"crackers, butter-type",NA,food product
+182,"crackers, graham",NA,food product
+182,"crackers, saltine",NA,food product
+182,"cranberry juice cocktail, canned/bottled",NA,food product
+182,cream cheese,NA,food product
+182,"cream, half & half",NA,food product
+182,"cream of wheat (farina), enriched, cooked",NA,food product
+182,"cream substitute, non-dairy, liquid/frozen",NA,food product
+182,"cream substitute, non-diary, liquid/frozen",NA,food product
+182,crisped rice cereal,NA,food product
+182,dill cucumber pickles,NA,food product
+182,"doughnut, cake-type, any flavor, from donut store",NA,food product
+182,"egg, cheese, and ham on english muffin, fast-food",NA,food product
+182,"eggplant, fresh, peeled, boiled",NA,food product
+182,"eggs, boiled",NA,food product
+182,"eggs, scrambled w/ oil",NA,food product
+182,"english muffin, plain, toasted",NA,food product
+182,"fish sandwich on bun, fast-food",NA,food product
+182,"fish sticks or patty, frozen, oven-cooked",NA,food product
+182,"frankfurter (beef/pork), boiled",NA,food product
+182,"french fries, fast-food",NA,food product
+182,"fried rice, meatless, from chinese carry-out",NA,food product
+182,"fruit cocktail, canned in light syrup",NA,food product
+182,"fruit drink (10% juice), canned or bottled",NA,food product
+182,"fruit drink, from powder",NA,food product
+182,"fruit-flavored cereal, presweetened",NA,food product
+182,"fruit juice blend (100% juice), canned/bottled",NA,food product
+182,"gelatin dessert, any flavor",NA,food product
+182,"granola bar, w/ raisins",NA,food product
+182,granola w/ raisins,NA,food product
+182,"grapefruit juice, bottled",NA,food product
+182,"grape juice, frozen conc, reconstituted",NA,food product
+182,"green beans, canned",NA,food product
+182,"green beans, fresh/frozen, boiled",NA,food product
+182,"ham, cured (not canned), baked",NA,food product
+182,honey,NA,food product
+182,"ice cream, light, vanilla",NA,food product
+182,"ice cream, regular (not lowfat), vanilla",NA,food product
+182,"infant formula, milk-based, high iron, rtf",NA,food product
+182,"infant formula, milk-based, low iron, rtf",NA,food product
+182,"jelly, any flavor",NA,food product
+182,"lamb chop, pan-cooked w/ oil",NA,food product
+182,"lasagna w/ meat, frozen, heated",NA,food product
+182,"lemonade, frozen conc, reconstituted",NA,food product
+182,"lima beans, immature, frozen, boiled",NA,food product
+182,"liver (beef/calf), pan-cooked w/ oil",NA,food product
+182,luncheon meat (chicken/turkey),NA,food product
+182,luncheon meat (ham),NA,food product
+182,"luncheon meat, ham",NA,food product
+182,"macaroni and cheese, prepared from box mix",NA,food product
+182,"macaroni salad, from grocery/deli",NA,food product
+182,"margarine, regular (not lowfat), salted",NA,food product
+182,"mayonnaise, regular, bottled",NA,food product
+182,"meal replacement, liquid rtd, any flavor",NA,food product
+182,"meatloaf, beef, homemade",NA,food product
+182,"milk, chocolate, lowfat, fluid",NA,food product
+182,"milk, lowfat (2%), fluid",NA,food product
+182,"milk shake, chocolate, fast-food",NA,food product
+182,"milk, skim, fluid",NA,food product
+182,"milk, whole, fluid",NA,food product
+182,"mixed vegetables, frozen, boiled",NA,food product
+182,"muffin, fruit or plain",NA,food product
+182,"mustard, yellow, plain",NA,food product
+182,"noodles, egg, enriched, boiled",NA,food product
+182,"oatmeal, plain, cooked",NA,food product
+182,oat ring cereal,NA,food product
+182,"okra, fresh/frozen, boiled",NA,food product
+182,olive oil,NA,food product
+182,"orange juice, bottled/carton",NA,food product
+182,"orange juice, frozen conc, reconstituted",NA,food product
+182,"pancakes, frozen, heated",NA,food product
+182,"peach, canned in light/medium syrup",NA,food product
+182,"peanut butter, smooth/creamy",NA,food product
+182,"peanuts, dry roasted, salted",NA,food product
+182,"pear, canned in light syrup",NA,food product
+182,"peas, green, fresh/frozen, boiled",NA,food product
+182,"pie, apple, fresh/frozen",NA,food product
+182,"pie, pumpkin, fresh/frozen",NA,food product
+182,"pineapple, canned in juice",NA,food product
+182,"pineapple juice, frozen conc, reconstituted",NA,food product
+182,"pinto beans, dry, boiled",NA,food product
+182,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA,food product
+182,"popcorn, microwave, butter-flavored",NA,food product
+182,"popsicle, fruit-flavored",NA,food product
+182,"pork and beans, canned",NA,food product
+182,"pork bacon, oven-cooked",NA,food product
+182,"pork chop, pan-cooked w/ oil",NA,food product
+182,"pork roast, loin, oven-roasted",NA,food product
+182,"pork sausage (link/patty), oven-cooked",NA,food product
+182,"pork sausage, (link/patty) oven-cooked",NA,food product
+182,"potato, baked (w/ peel)",NA,food product
+182,"potato, boiled (w/out peel)",NA,food product
+182,potato chips,NA,food product
+182,"potatoes, mashed, prepared from fresh",NA,food product
+182,"potato, mashed, prepared from fresh",NA,food product
+182,"potato salad, mayonnaise-type, from grocery/deli",NA,food product
+182,"pretzels, hard, salted",NA,food product
+182,"prune juice, bottled",NA,food product
+182,"pudding, ready-to-eat, flavor other than chocolate",NA,food product
+182,"quarter-pound cheeseburger on bun, fast-food",NA,food product
+182,"quarter-pound hamburger on bun, fast-food",NA,food product
+182,raisin bran cereal,NA,food product
+182,raisins,NA,food product
+182,"refried beans, canned",NA,food product
+182,"rice, white, enriched, cooked",NA,food product
+182,"salad dressing, creamy/buttermilk type, low-calorie",NA,food product
+182,"salad dressing, creamy/buttermilk type, regular",NA,food product
+182,"salad dressing, italian, regular",NA,food product
+182,"salami, luncheon-meat type (not hard)",NA,food product
+182,"salmon, steaks/fillets, baked",NA,food product
+182,sandwich cookies w/ cr?me filling,NA,food product
+182,"sherbet, fruit-flavored",NA,food product
+182,shredded wheat cereal,NA,food product
+182,"shrimp, boiled",NA,food product
+182,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA,food product
+182,"soup, chicken noodle, canned, cond, prep w/ water",NA,food product
+182,"soup, oriental noodles (ramen noodles), prep w/ water",NA,food product
+182,"soup, tomato, canned, cond, prep w/ water",NA,food product
+182,"soup, vegetable beef, canned, cond, prep w/ water",NA,food product
+182,sour cream,NA,food product
+182,"sour cream dip, any flavor",NA,food product
+182,"spaghetti, enriched, boiled",NA,food product
+182,"spaghetti w/ meat sauce, homemade",NA,food product
+182,"spinach, fresh/frozen, boiled",NA,food product
+182,"stew, beef and vegetable, canned",NA,food product
+182,sugar cookies,NA,food product
+182,"sugar, white, granulated",NA,food product
+182,"summer squash, fresh/frozen, boiled",NA,food product
+182,"sunflower seeds (shelled), roasted, salted",NA,food product
+182,"sweet potatoes, canned",NA,food product
+182,sweet roll/danish pastry,NA,food product
+182,sweet & sour sauce,NA,food product
+182,"syrup, chocolate",NA,food product
+182,"syrup, pancake",NA,food product
+182,"taco/tostada w/ beef and cheese, from mexican carry-out",NA,food product
+182,"tea, decaffeinated, from tea bag",NA,food product
+182,"tea, from tea bag",NA,food product
+182,tomato catsup,NA,food product
+182,"tomato juice, bottled",NA,food product
+182,"tomato salsa, bottled",NA,food product
+182,"tomato sauce, plain, bottled",NA,food product
+182,"tortilla, flour",NA,food product
+182,"tuna, canned in water, drained",NA,food product
+182,"tuna noodle casserole, homemade",NA,food product
+182,"turkey breast, oven-roasted",NA,food product
+182,"turnip, fresh/frozen, boiled",NA,food product
+182,vegetable oil,NA,food product
+182,"white beans, dry, boiled",NA,food product
+182,"wine, dry table, red/ white",NA,food product
+182,"yogurt, lowfat, fruit-flavored",NA,food product
+182,"apple (red), raw (w/ peel)",NA,raw agricultural commodity
+182,"avocado, raw",NA,raw agricultural commodity
+182,"banana, raw",NA,raw agricultural commodity
+182,"cantaloupe, raw/frozen",NA,raw agricultural commodity
+182,"carrot, baby, raw",NA,raw agricultural commodity
+182,"celery, raw",NA,raw agricultural commodity
+182,"cucumber, peeled, raw",NA,raw agricultural commodity
+182,"grapefruit, raw",NA,raw agricultural commodity
+182,"grapes (red/green), raw",NA,raw agricultural commodity
+182,"lettuce, iceberg, raw",NA,raw agricultural commodity
+182,"lettuce, leaf, raw",NA,raw agricultural commodity
+182,"mushrooms, raw",NA,raw agricultural commodity
+182,"onion, mature, raw",NA,raw agricultural commodity
+182,"orange (navel/valencia), raw",NA,raw agricultural commodity
+182,"peach, raw/frozen",NA,raw agricultural commodity
+182,"pear, raw (w/ peel)",NA,raw agricultural commodity
+182,"pepper, sweet, green, raw",NA,raw agricultural commodity
+182,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA,raw agricultural commodity
+183,tissue,glyptocephalus cynoglossus,wildlife (fish)
+182,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA,raw agricultural commodity
+182,"strawberries, raw/frozen",NA,raw agricultural commodity
+182,"tomato, raw",NA,raw agricultural commodity
+182,"watermelon, raw/frozen",NA,raw agricultural commodity
+183,other,fucus,vegetation
+183,other,fucus ceranoides,vegetation
+183,other,fucus serratus,vegetation
+183,other,fucus vesiculosus,vegetation
+183,other,cerastoderma edule,wildlife (aquatic invertebrate)
+183,other,crangon crangon,wildlife (aquatic invertebrate)
+183,other,crassostrea gigas,wildlife (aquatic invertebrate)
+183,other,dreissena polymorpha,wildlife (aquatic invertebrate)
+183,other,ensis siliqua,wildlife (aquatic invertebrate)
+183,other,haliotis tuberculata,wildlife (aquatic invertebrate)
+183,other,littorina littorea,wildlife (aquatic invertebrate)
+183,other,macoma balthica,wildlife (aquatic invertebrate)
+183,other,macoma baltica,wildlife (aquatic invertebrate)
+183,other,mya arenaria,wildlife (aquatic invertebrate)
+183,other,mya truncata,wildlife (aquatic invertebrate)
+183,other,mysidacea,wildlife (aquatic invertebrate)
+183,other,mytilus,wildlife (aquatic invertebrate)
+183,other,mytilus edulis,wildlife (aquatic invertebrate)
+183,other,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+183,other,nassarius reticulatus,wildlife (aquatic invertebrate)
+183,other,nucella lapillus,wildlife (aquatic invertebrate)
+183,other,ostrea edulis,wildlife (aquatic invertebrate)
+183,other,pecten maximus,wildlife (aquatic invertebrate)
+183,other,saduria entomon,wildlife (aquatic invertebrate)
+183,other,venerupis philippinarum,wildlife (aquatic invertebrate)
+183,tissue,crangon crangon,wildlife (aquatic invertebrate)
+183,tissue,loligo vulgaris,wildlife (aquatic invertebrate)
+183,tissue,mytilus edulis,wildlife (aquatic invertebrate)
+183,tissue,nephrops norvegicus,wildlife (aquatic invertebrate)
+183,tissue,ostrea edulis,wildlife (aquatic invertebrate)
+183,tissue,palaemon serratus,wildlife (aquatic invertebrate)
+183,tissue,pandalus borealis,wildlife (aquatic invertebrate)
+183,tissue,pecten maximus,wildlife (aquatic invertebrate)
+183,NA,crangon crangon,wildlife (aquatic invertebrate)
+183,blood,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+183,blood,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+183,tissue,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+183,tissue,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+183,tissue,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+183,tissue,globicephala melas,wildlife (aquatic vertebrates/mammals)
+183,tissue,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+183,tissue,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+183,tissue,phoca groenlandica,wildlife (aquatic vertebrates/mammals)
+183,tissue,phoca hispida,wildlife (aquatic vertebrates/mammals)
+183,tissue,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+183,tissue,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+183,fat,fulmarus glacialis,wildlife (birds)
+183,fat,larus hyperboreus,wildlife (birds)
+183,fat,rissa tridactyla,wildlife (birds)
+183,fat,somateria mollissima,wildlife (birds)
+183,other,cepphus grylle,wildlife (birds)
+183,other,haematopus ostralegus,wildlife (birds)
+183,other,larus,wildlife (birds)
+183,other,larus argentatus,wildlife (birds)
+183,other,sterna hirundo,wildlife (birds)
+183,other,uria aalge,wildlife (birds)
+183,tissue,cepphus grylle,wildlife (birds)
+183,tissue,fulmarus glacialis,wildlife (birds)
+183,tissue,larus glaucoides,wildlife (birds)
+183,tissue,larus hyperboreus,wildlife (birds)
+183,tissue,rissa tridactyla,wildlife (birds)
+183,tissue,somateria mollissima,wildlife (birds)
+183,tissue,uria lomvia,wildlife (birds)
+183,blood,gadus morhua,wildlife (fish)
+183,blood,limanda limanda,wildlife (fish)
+183,blood,platichthys flesus,wildlife (fish)
+183,blood,pleuronectes platessa,wildlife (fish)
+183,other,clupea harengus,wildlife (fish)
+183,other,gadus morhua,wildlife (fish)
+183,other,gobius,wildlife (fish)
+183,other,platichthys flesus,wildlife (fish)
+183,other,pollachius pollachius,wildlife (fish)
+183,other,solea vulgaris,wildlife (fish)
+183,tissue,anarhichas lupus,wildlife (fish)
+183,tissue,anarhichas minor,wildlife (fish)
+183,tissue,anguilla anguilla,wildlife (fish)
+183,tissue,aphanopus carbo,wildlife (fish)
+183,tissue,bathysaurus ferox,wildlife (fish)
+183,tissue,boreogadus saida,wildlife (fish)
+183,tissue,brosme brosme,wildlife (fish)
+183,tissue,callionymus lyra,wildlife (fish)
+183,tissue,chelidonichthys kumu,wildlife (fish)
+183,tissue,chimaera monstrosa,wildlife (fish)
+183,tissue,clupea harengus,wildlife (fish)
+183,tissue,conger conger,wildlife (fish)
+183,tissue,coryphaenoides rupestris,wildlife (fish)
+183,tissue,eutrigla gurnardus,wildlife (fish)
+183,tissue,gadus morhua,wildlife (fish)
+183,tissue,gadus ogac,wildlife (fish)
+183,tissue,hippoglossoides platessoides,wildlife (fish)
+183,tissue,hoplostethus atlanticus,wildlife (fish)
+183,tissue,lepidorhombus boscii,wildlife (fish)
+183,tissue,lepidorhombus whiffiagonis,wildlife (fish)
+183,tissue,leucoraja naevus,wildlife (fish)
+183,tissue,limanda limanda,wildlife (fish)
+183,tissue,lophius budegassa,wildlife (fish)
+183,tissue,lophius piscatorius,wildlife (fish)
+183,tissue,mallotus villosus,wildlife (fish)
+183,tissue,melanogrammus aeglefinus,wildlife (fish)
+183,tissue,merlangius merlangus,wildlife (fish)
+183,tissue,merluccius merluccius,wildlife (fish)
+183,tissue,micromesistius poutassou,wildlife (fish)
+183,tissue,microstomus kitt,wildlife (fish)
+183,tissue,molva dypterygia,wildlife (fish)
+183,tissue,molva molva,wildlife (fish)
+183,tissue,mullus barbatus,wildlife (fish)
+183,tissue,myoxocephalus scorpius,wildlife (fish)
+183,tissue,neogobius melanostomus,wildlife (fish)
+183,tissue,pegusa lascaris,wildlife (fish)
+183,tissue,perca fluviatilis,wildlife (fish)
+183,tissue,platichthys flesus,wildlife (fish)
+183,tissue,pleuronectes platessa,wildlife (fish)
+183,tissue,pollachius pollachius,wildlife (fish)
+183,tissue,pollachius virens,wildlife (fish)
+183,tissue,psetta maxima,wildlife (fish)
+183,tissue,raja brachyura,wildlife (fish)
+183,tissue,raja clavata,wildlife (fish)
+183,tissue,raja montagui,wildlife (fish)
+183,tissue,raja radiata,wildlife (fish)
+183,tissue,reinhardtius hippoglossoides,wildlife (fish)
+183,tissue,salmo salar,wildlife (fish)
+183,tissue,salmo trutta,wildlife (fish)
+183,tissue,salvelinus alpinus,wildlife (fish)
+183,tissue,sardina pilchardus,wildlife (fish)
+183,tissue,scomber scombrus,wildlife (fish)
+183,tissue,scophthalmus rhombus,wildlife (fish)
+183,tissue,scyliorhinus canicula,wildlife (fish)
+183,tissue,sebastes marinus,wildlife (fish)
+183,tissue,sebastes mentella,wildlife (fish)
+183,tissue,solea solea,wildlife (fish)
+183,tissue,solea vulgaris,wildlife (fish)
+183,tissue,sprattus sprattus,wildlife (fish)
+183,tissue,squalus acanthias,wildlife (fish)
+183,tissue,thunnus alalunga,wildlife (fish)
+183,tissue,trigla lucerna,wildlife (fish)
+183,tissue,triglidae,wildlife (fish)
+183,tissue,zeus faber,wildlife (fish)
+183,tissue,zoarces viviparus,wildlife (fish)
+183,fat,ovis aries,wildlife (terrestrial vertebrates)
+183,tissue,lepus timidus,wildlife (terrestrial vertebrates)
+183,tissue,ovis aries,wildlife (terrestrial vertebrates)
+183,tissue,ursus maritimus,wildlife (terrestrial vertebrates)
+184,NA,NA,ambient air
+185,sediment,NA,sediment
+185,NA,NA,sediment
+186,sb,unknow spp.,other-ecological
+186,sb,NA,other-ecological
+186,wo,venerupis decussata,other-ecological
+186,wo,fucus,vegetation
+186,wo,fucus ceranoides,vegetation
+186,wo,fucus serratus,vegetation
+186,wo,fucus vesiculosus,vegetation
+186,go,hoplostethus atlanticus,wildlife (aquatic invertebrate)
+186,go,pecten maximus,wildlife (aquatic invertebrate)
+186,li,hoplostethus atlanticus,wildlife (aquatic invertebrate)
+186,li,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+186,li,nephrops norvegicus,wildlife (aquatic invertebrate)
+186,li,pandalus borealis,wildlife (aquatic invertebrate)
+186,mu,hoplostethus atlanticus,wildlife (aquatic invertebrate)
+186,mu,nephrops norvegicus,wildlife (aquatic invertebrate)
+186,mu,ostrea edulis,wildlife (aquatic invertebrate)
+186,mu,palaemon serratus,wildlife (aquatic invertebrate)
+186,mu,pecten maximus,wildlife (aquatic invertebrate)
+186,sb,mytilus edulis,wildlife (aquatic invertebrate)
+186,sb,cerastoderma edule,wildlife (aquatic invertebrate)
+186,sb,crangon crangon,wildlife (aquatic invertebrate)
+186,sb,crassostrea angulata,wildlife (aquatic invertebrate)
+186,sb,crassostrea gigas,wildlife (aquatic invertebrate)
+186,sb,dreissena polymorpha,wildlife (aquatic invertebrate)
+186,sb,ensis siliqua,wildlife (aquatic invertebrate)
+186,sb,haliotis tuberculata,wildlife (aquatic invertebrate)
+186,sb,holothuria tubulosa,wildlife (aquatic invertebrate)
+186,sb,littorina littorea,wildlife (aquatic invertebrate)
+186,sb,macoma balthica,wildlife (aquatic invertebrate)
+186,sb,macoma baltica,wildlife (aquatic invertebrate)
+186,sb,mitylus galloprovincialis,wildlife (aquatic invertebrate)
+186,sb,mya arenaria,wildlife (aquatic invertebrate)
+186,sb,mya truncata,wildlife (aquatic invertebrate)
+186,sb,mysidacea,wildlife (aquatic invertebrate)
+186,sb,mytilus,wildlife (aquatic invertebrate)
+186,sb,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+186,sb,nassarius reticulatus,wildlife (aquatic invertebrate)
+186,sb,nucella lapillus,wildlife (aquatic invertebrate)
+186,sb,ostrea edulis,wildlife (aquatic invertebrate)
+186,sb,pecten maximus,wildlife (aquatic invertebrate)
+186,sb,venerupis philippinarum,wildlife (aquatic invertebrate)
+186,sh,mytilus edulis,wildlife (aquatic invertebrate)
+186,tm,crangon crangon,wildlife (aquatic invertebrate)
+186,tm,mytilus edulis,wildlife (aquatic invertebrate)
+186,tm,nephrops norvegicus,wildlife (aquatic invertebrate)
+186,tm,palaemon serratus,wildlife (aquatic invertebrate)
+186,tm,pandalus borealis,wildlife (aquatic invertebrate)
+186,wo,cerastoderma edule,wildlife (aquatic invertebrate)
+186,wo,crangon crangon,wildlife (aquatic invertebrate)
+186,wo,crassostrea gigas,wildlife (aquatic invertebrate)
+186,wo,donax trunculus,wildlife (aquatic invertebrate)
+186,wo,lymnaea palustris,wildlife (aquatic invertebrate)
+186,wo,mytilus edulis,wildlife (aquatic invertebrate)
+186,wo,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+186,wo,ostrea edulis,wildlife (aquatic invertebrate)
+186,wo,pecten maximus,wildlife (aquatic invertebrate)
+186,wo,saduria entomon,wildlife (aquatic invertebrate)
+186,wo,venerupis philippinarum,wildlife (aquatic invertebrate)
+186,NA,crangon crangon,wildlife (aquatic invertebrate)
+186,ba,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+186,bb,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+186,bb,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+186,bb,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+186,bb,globicephala melas,wildlife (aquatic vertebrates/mammals)
+186,bb,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+186,bb,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+186,bb,phoca hispida,wildlife (aquatic vertebrates/mammals)
+186,bb,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+186,bb,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+186,bc,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+186,bl,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+186,bs,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+186,ep,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+186,ki,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+186,ki,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+186,ki,globicephala melas,wildlife (aquatic vertebrates/mammals)
+186,ki,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+186,ki,phoca hispida,wildlife (aquatic vertebrates/mammals)
+186,li,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+186,li,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+186,li,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+186,li,globicephala melas,wildlife (aquatic vertebrates/mammals)
+186,li,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+186,li,phoca hispida,wildlife (aquatic vertebrates/mammals)
+186,li,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+186,mu,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+186,mu,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+186,mu,globicephala melas,wildlife (aquatic vertebrates/mammals)
+186,mu,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+186,mu,phoca hispida,wildlife (aquatic vertebrates/mammals)
+186,br,rissa tridactyla,wildlife (birds)
+186,eg,cepphus grylle,wildlife (birds)
+186,eg,haematopus ostralegus,wildlife (birds)
+186,eg,sterna hirundo,wildlife (birds)
+186,eg,uria aalge,wildlife (birds)
+186,eh,cepphus grylle,wildlife (birds)
+186,eh,larus,wildlife (birds)
+186,fa,fulmarus glacialis,wildlife (birds)
+186,fa,larus hyperboreus,wildlife (birds)
+186,fa,rissa tridactyla,wildlife (birds)
+186,fa,somateria mollissima,wildlife (birds)
+186,fe,cepphus grylle,wildlife (birds)
+186,ki,cepphus grylle,wildlife (birds)
+186,ki,rissa tridactyla,wildlife (birds)
+186,li,cepphus grylle,wildlife (birds)
+186,li,fulmarus glacialis,wildlife (birds)
+186,li,larus glaucoides,wildlife (birds)
+186,li,larus hyperboreus,wildlife (birds)
+186,li,rissa tridactyla,wildlife (birds)
+186,li,somateria mollissima,wildlife (birds)
+186,li,uria lomvia,wildlife (birds)
+186,mu,rissa tridactyla,wildlife (birds)
+186,bb,myoxocephalus scorpius,wildlife (fish)
+186,bb,salvelinus alpinus,wildlife (fish)
+186,gi,aphanopus carbo,wildlife (fish)
+186,gi,lophius piscatorius,wildlife (fish)
+186,go,aphanopus carbo,wildlife (fish)
+186,go,bathysaurus ferox,wildlife (fish)
+186,go,lophius piscatorius,wildlife (fish)
+186,go,molva dypterygia,wildlife (fish)
+186,li,clupea harengus,wildlife (fish)
+186,li,anarhichas minor,wildlife (fish)
+186,li,aphanopus carbo,wildlife (fish)
+186,li,bathysaurus ferox,wildlife (fish)
+186,li,boreogadus saida,wildlife (fish)
+186,li,brosme brosme,wildlife (fish)
+186,li,chimaera monstrosa,wildlife (fish)
+186,li,coryphaenoides rupestris,wildlife (fish)
+186,li,gadus morhua,wildlife (fish)
+186,li,gadus ogac,wildlife (fish)
+186,li,glyptocephalus cynoglossus,wildlife (fish)
+186,li,hippoglossoides platessoides,wildlife (fish)
+186,li,lepidorhombus whiffiagonis,wildlife (fish)
+186,li,limanda limanda,wildlife (fish)
+186,li,lophius piscatorius,wildlife (fish)
+186,li,melanogrammus aeglefinus,wildlife (fish)
+186,li,merlangius merlangus,wildlife (fish)
+186,li,merluccius merluccius,wildlife (fish)
+186,li,micromesistius poutassou,wildlife (fish)
+186,li,microstomus kitt,wildlife (fish)
+186,li,molva dypterygia,wildlife (fish)
+186,li,molva molva,wildlife (fish)
+186,li,myoxocephalus scorpius,wildlife (fish)
+186,li,perca fluviatilis,wildlife (fish)
+186,li,platichthys flesus,wildlife (fish)
+186,li,pleuronectes platessa,wildlife (fish)
+186,li,pollachius pollachius,wildlife (fish)
+186,li,pollachius virens,wildlife (fish)
+186,li,raja radiata,wildlife (fish)
+186,li,reinhardtius hippoglossoides,wildlife (fish)
+186,li,salmo trutta,wildlife (fish)
+186,li,sardina pilchardus,wildlife (fish)
+186,li,scomber scombrus,wildlife (fish)
+186,li,sebastes marinus,wildlife (fish)
+186,li,sebastes mentella,wildlife (fish)
+186,li,solea vulgaris,wildlife (fish)
+186,li,zoarces viviparus,wildlife (fish)
+186,mu,anarhichas lupus,wildlife (fish)
+186,mu,anarhichas minor,wildlife (fish)
+186,mu,anguilla anguilla,wildlife (fish)
+186,mu,aphanopus carbo,wildlife (fish)
+186,mu,bathysaurus ferox,wildlife (fish)
+186,mu,boops boops,wildlife (fish)
+186,mu,boreogadus saida,wildlife (fish)
+186,mu,brosme brosme,wildlife (fish)
+186,mu,chelidonichthys kumu,wildlife (fish)
+186,mu,chimaera monstrosa,wildlife (fish)
+186,mu,clupea harengus,wildlife (fish)
+186,mu,conger conger,wildlife (fish)
+186,mu,coryphaenoides rupestris,wildlife (fish)
+186,mu,eutrigla gurnardus,wildlife (fish)
+186,mu,gadus morhua,wildlife (fish)
+186,mu,glyptocephalus cynoglossus,wildlife (fish)
+186,mu,hippoglossoides platessoides,wildlife (fish)
+186,mu,lepidorhombus whiffiagonis,wildlife (fish)
+186,mu,leucoraja naevus,wildlife (fish)
+186,mu,limanda limanda,wildlife (fish)
+186,mu,lophius budegassa,wildlife (fish)
+186,mu,lophius piscatorius,wildlife (fish)
+186,mu,mallotus villosus,wildlife (fish)
+186,mu,melanogrammus aeglefinus,wildlife (fish)
+186,mu,merlangius merlangus,wildlife (fish)
+186,mu,merluccius merluccius,wildlife (fish)
+186,mu,micromesistius poutassou,wildlife (fish)
+186,mu,microstomus kitt,wildlife (fish)
+186,mu,molva dypterygia,wildlife (fish)
+186,mu,molva molva,wildlife (fish)
+186,mu,mullus barbatus,wildlife (fish)
+186,mu,pegusa lascaris,wildlife (fish)
+186,mu,perca fluviatilis,wildlife (fish)
+186,mu,platichthys flesus,wildlife (fish)
+186,mu,pleuronectes platessa,wildlife (fish)
+186,mu,pollachius pollachius,wildlife (fish)
+186,mu,pollachius virens,wildlife (fish)
+186,mu,psetta maxima,wildlife (fish)
+186,mu,raja brachyura,wildlife (fish)
+186,mu,raja clavata,wildlife (fish)
+186,mu,raja montagui,wildlife (fish)
+186,mu,raja naevus,wildlife (fish)
+186,mu,reinhardtius hippoglossoides,wildlife (fish)
+186,mu,salmo salar,wildlife (fish)
+186,mu,salmo trutta,wildlife (fish)
+186,mu,salvelinus alpinus,wildlife (fish)
+186,mu,sardina pilchardus,wildlife (fish)
+186,mu,scomber scombrus,wildlife (fish)
+186,mu,scophthalmus rhombus,wildlife (fish)
+186,mu,scyliorhinus canicula,wildlife (fish)
+186,mu,sebastes marinus,wildlife (fish)
+186,mu,sebastes mentella,wildlife (fish)
+186,mu,solea solea,wildlife (fish)
+186,mu,solea vulgaris,wildlife (fish)
+186,mu,sprattus sprattus,wildlife (fish)
+186,mu,squalus acanthias,wildlife (fish)
+186,mu,thunnus alalunga,wildlife (fish)
+186,mu,thunnus thynnus,wildlife (fish)
+186,mu,triglidae,wildlife (fish)
+186,mu,zeus faber,wildlife (fish)
+186,mu,zoarces viviparus,wildlife (fish)
+186,ro,gadus morhua,wildlife (fish)
+186,ro,pollachius pollachius,wildlife (fish)
+186,sb,gadus morhua,wildlife (fish)
+186,sb,gobius,wildlife (fish)
+186,sb,platichthys flesus,wildlife (fish)
+186,tm,platichthys flesus,wildlife (fish)
+186,wo,clupea harengus,wildlife (fish)
+186,wo,gadus morhua,wildlife (fish)
+186,wo,perca fluviatilis,wildlife (fish)
+186,wo,platichthys flesus,wildlife (fish)
+186,wo,solea vulgaris,wildlife (fish)
+186,NA,clupea harengus,wildlife (fish)
+186,NA,perca fluviatilis,wildlife (fish)
+186,bb,ursus maritimus,wildlife (terrestrial vertebrates)
+186,li,lepus timidus,wildlife (terrestrial vertebrates)
+186,li,ovis aries,wildlife (terrestrial vertebrates)
+186,NA,ovis aries,wildlife (terrestrial vertebrates)
+187,NA,NA,surface water
+188,NA,NA,sediment
+226,hemoglobin adduct,NA,human blood (whole/serum/plasma)
+191,muscle,"product-rte-fully cooked, sausage products",food product
+191,muscle,"product-rte-other fully cooked, not sliced",food product
+191,muscle,"product-thermally processed, commercially sterile",food product
+191,kidney,animal-calf-bob veal,livestock/meat
+191,kidney,animal-calf-formula-fed veal,livestock/meat
+191,kidney,animal-calf-heavy calf,livestock/meat
+191,kidney,animal-calf-non formula-fed veal,livestock/meat
+191,kidney,animal-cattle-beef cow,livestock/meat
+191,kidney,animal-cattle-bull,livestock/meat
+191,kidney,animal-cattle-dairy cow,livestock/meat
+191,kidney,animal-cattle-heifer,livestock/meat
+191,kidney,animal-cattle-steer,livestock/meat
+191,kidney,animal-cattle-steer/heifer carcass sponge,livestock/meat
+191,kidney,animal-goat,livestock/meat
+191,kidney,animal-sheep-lamb,livestock/meat
+191,kidney,animal-sheep-mature sheep,livestock/meat
+191,kidney,animal-swine-boar/stag swine,livestock/meat
+191,kidney,animal-swine-market swine,livestock/meat
+191,kidney,animal-swine-roaster swine,livestock/meat
+191,kidney,animal-swine-sow,livestock/meat
+191,liver,animal-calf-bob veal,livestock/meat
+191,liver,animal-calf-heavy calf,livestock/meat
+191,liver,animal-calf-non formula-fed veal,livestock/meat
+191,liver,animal-cattle-beef cow,livestock/meat
+191,liver,animal-cattle-bull,livestock/meat
+191,liver,animal-cattle-dairy cow,livestock/meat
+191,liver,animal-cattle-heifer,livestock/meat
+191,liver,animal-cattle-steer,livestock/meat
+191,liver,animal-cattle-steer/heifer carcass sponge,livestock/meat
+191,liver,animal-goat,livestock/meat
+191,liver,animal-sheep-lamb,livestock/meat
+191,liver,animal-swine-market swine,livestock/meat
+191,liver,animal-swine-roaster swine,livestock/meat
+191,liver,animal-swine-sow,livestock/meat
+191,muscle,animal-calf-bob veal,livestock/meat
+191,muscle,animal-calf-heavy calf,livestock/meat
+191,muscle,animal-calf-non formula-fed veal,livestock/meat
+191,muscle,animal-cattle-beef cow,livestock/meat
+191,muscle,animal-cattle-bull,livestock/meat
+191,muscle,animal-cattle-dairy cow,livestock/meat
+191,muscle,animal-cattle-heifer,livestock/meat
+191,muscle,animal-cattle-steer,livestock/meat
+191,muscle,animal-cattle-steer/heifer carcass sponge,livestock/meat
+191,muscle,animal-sheep-lamb,livestock/meat
+191,muscle,animal-sheep-mature sheep,livestock/meat
+191,muscle,animal-swine-market swine,livestock/meat
+191,muscle,animal-swine-roaster swine,livestock/meat
+191,muscle,animal-swine-sow,livestock/meat
+191,muscle,animal-turkey,livestock/meat
+191,muscle,"product-nrte-ground, comminuted or otherwise nonintact meat",livestock/meat
+191,muscle,product-raw-intact-beef,livestock/meat
+191,muscle,NA,livestock/meat
+193,NA,NA,surface water
+194,human (scalp hair),students (scalp hair),human (other tissues or fluids)
+194,human (hair),NA,human (other tissues or fluids)
+194,human (saliva),students (saliva),human (other tissues or fluids)
+194,human (pubic hair),students (pubic hair),human (other tissues or fluids)
+194,human (whole blood),students (whole blood),human blood (whole/serum/plasma)
+194,human (cord blood),NA,human blood (whole/serum/plasma)
+194,human (blood),NA,human blood (whole/serum/plasma)
+194,human (blood plasma),students (blood plasma),human blood (whole/serum/plasma)
+194,soil,soil (organic layer/root network),sediment
+194,water (suspended particulate matter),limnetic samples (suspended particulate matter),sediment
+194,soil,soil (topsoil),sediment
+194,soil,soil (subsoil),sediment
+194,human (urine),NA,urine
+194,human (24h-sampling urine),students (24h-sampling urine),urine
+194,biota (plants),common spruce (one-year-old shoot),vegetation
+194,biota (plants),pine (one-year-shoots),vegetation
+194,biota (plants),beech (leaves),vegetation
+194,biota (plants),lombardy poplar (leaves),vegetation
+194,biota (animals),marine samples (common bladder wrack),wildlife (aquatic invertebrate)
+194,biota (animals),blue mussel (soft body),wildlife (aquatic invertebrate)
+194,biota (animals),zebra mussel (soft body),wildlife (aquatic invertebrate)
+194,biota (animals),herring gull (egg content),wildlife (birds)
+194,biota (animals),feral pigeon (egg content),wildlife (birds)
+194,biota (animals),bream (musculature),wildlife (fish)
+194,biota (animals),eelpout (liver),wildlife (fish)
+194,biota (animals),eelpout (musculature),wildlife (fish)
+194,biota (animals),bream (liver),wildlife (fish)
+194,biota (animals),earthworm (aporrectodea longa) (whole body without faeces),wildlife (terrestrial invertebrates/worms)
+194,biota (animals),earthworm (lumbricus terrestris) (whole body without faeces),wildlife (terrestrial invertebrates/worms)
+194,biota (animals),"roe deer, one-year-old (liver)",wildlife (terrestrial vertebrates)
+195,human (urine),NA,urine
+201,NA,NA,"wastewater (influent, effluent)"
+211,drinking water,NA,drinking water
+226,blood,NA,human blood (whole/serum/plasma)
+226,urine,NA,urine
+225,"water, drinking",NA,drinking water
+225,butter,NA,food product
+225,snapper,NA,wildlife (fish)
+225,"tooth, dentine",NA,human (other tissues or fluids)
+225,sucker,NA,wildlife (fish)
+225,"leg, lower, left",NA,skin wipes
+225,hake,NA,wildlife (fish)
+225,hair gel,NA,product
+225,pike,NA,wildlife (fish)
+225,"water, drinking, bottled",NA,drinking water
+225,"cigarette, aerosol",NA,product
+225,shrimp,NA,food product
+225,scallop,NA,wildlife (aquatic invertebrate)
+225,"egg, chicken",NA,livestock/meat
+225,"meat, ground turkey",NA,livestock/meat
+225,car interior cleaner,NA,product
+225,"meat, processed",NA,food product
+225,"leg, lower, right",NA,skin wipes
+225,soil,NA,soil
+225,cake,NA,food product
+225,sole,NA,wildlife (fish)
+225,liver,NA,human (other tissues or fluids)
+225,hand soap,NA,product
+225,conditioner,NA,product
+225,"cell, urothelial, exfoliated",NA,human (other tissues or fluids)
+225,bile,NA,human (other tissues or fluids)
+225,"shoulder, right",NA,skin wipes
+225,hand wash,NA,product
+225,"cell, macrophage",NA,human (other tissues or fluids)
+225,adipose tissue,NA,human (other tissues or fluids)
+225,"shoulder, left",NA,skin wipes
+225,tomato,NA,raw agricultural commodity
+225,carpet cleaner,NA,product
+225,monkfish,NA,wildlife (fish)
+225,turkey,NA,livestock/meat
+225,"salmon fillet, farm",NA,food product
+225,serum,NA,human blood (whole/serum/plasma)
+225,herring,NA,wildlife (fish)
+225,fish,NA,wildlife (fish)
+225,porgy,NA,wildlife (fish)
+225,"teethers, plastic",NA,product
+225,halibut,NA,wildlife (fish)
+225,tobacco,NA,food product
+225,stain remover,NA,product
+225,"tuna, canned white",NA,food product
+225,cerebrospinal fluid,NA,human (other tissues or fluids)
+225,dental sealant,NA,product
+225,flounder,NA,wildlife (fish)
+225,"meat, walrus, fermented",NA,food product
+225,"mat, play",NA,product
+225,"cell, erythrocyte",NA,human blood (whole/serum/plasma)
+225,"forearm, left",NA,skin wipes
+225,"air, breath, exhaled",NA,personal air
+225,blood,NA,human blood (whole/serum/plasma)
+225,bass,NA,wildlife (fish)
+225,lip balm,NA,product
+225,shaving cream,NA,product
+225,placenta,NA,human (other tissues or fluids)
+225,meat,NA,livestock/meat
+225,handwipe,NA,skin wipes
+225,skin,NA,skin wipes
+225,laundry detergent,NA,product
+225,carpet,NA,product
+225,"meat, pork sausage",NA,food product
+225,sardine,NA,wildlife (fish)
+225,dishwasher detergent,NA,product
+216,NA,NA,sediment
+225,"fish, marine",NA,wildlife (fish)
+222,indoor air,NA,indoor air
+225,whitefish,NA,wildlife (fish)
+222,personal air,NA,personal air
+222,outdoor air,NA,ambient air
+222,floor dust,NA,indoor dust
+222,house dust,NA,indoor dust
+225,tooth,NA,human (other tissues or fluids)
+225,sand,NA,soil
+225,polyurethane foam,NA,product
+225,"tea, black",NA,food product
+225,"nail, toe",NA,human (other tissues or fluids)
+225,"meat, wiener",NA,food product
+225,rockfish,NA,wildlife (fish)
+225,dairy products,NA,food product
+225,soil-gas,NA,other-environmental
+225,"meat, beef",NA,livestock/meat
+225,"dust, outdoor",NA,soil
+225,dryer sheet,NA,product
+225,foundation,NA,product
+225,central nervous system,NA,human (other tissues or fluids)
+225,drum,NA,wildlife (fish)
+225,floor,NA,indoor dust
+225,"meat, poultry",NA,livestock/meat
+225,facial lotion,NA,product
+225,anchovy,NA,wildlife (fish)
+225,follicular fluid,NA,human (other tissues or fluids)
+225,colostrum,NA,human (other tissues or fluids)
+225,swordfish,NA,wildlife (fish)
+225,"tea, green",NA,food product
+225,"dust, indoor",NA,indoor dust
+225,facial cleanser,NA,product
+225,mascara,NA,product
+225,"water, well",NA,groundwater
+225,tilapia,NA,wildlife (fish)
+225,"meat, ground lamb",NA,livestock/meat
+225,blood cell,NA,human blood (whole/serum/plasma)
+225,crappie,NA,wildlife (fish)
+225,incense stick,NA,product
+225,mackerel,NA,wildlife (fish)
+225,ventricular fluid,NA,human (other tissues or fluids)
+225,plasma,NA,human blood (whole/serum/plasma)
+225,occipital lobe,NA,human (other tissues or fluids)
+225,"milk, human",NA,breast milk
+225,"yogurt, lowfat",NA,food product
+225,pancreas,NA,human (other tissues or fluids)
+225,salmon,NA,wildlife (fish)
+225,"bone, patella",NA,human (other tissues or fluids)
+225,child safety seat,NA,product
+225,oyster,NA,wildlife (aquatic invertebrate)
+225,shad,NA,wildlife (fish)
+225,wet mop,NA,product
+225,"meat, calf liver",NA,livestock/meat
+225,thyroid gland,NA,human (other tissues or fluids)
+225,urine,NA,urine
+225,toy,NA,product
+225,"air, personal",NA,personal air
+225,toilet bowl cleaner,NA,product
+225,"salmon, canned",NA,food product
+225,"cheese, gouda",NA,food product
+225,"dust, carpet",NA,indoor dust
+225,"meat, walrus, fresh",NA,food product
+225,"tuna, canned",NA,food product
+225,lobster,NA,wildlife (aquatic invertebrate)
+225,"dust, floor",NA,indoor dust
+225,umbilical cord,NA,human (other tissues or fluids)
+225,squid,NA,wildlife (aquatic invertebrate)
+225,nail polish,NA,product
+225,plaice,NA,wildlife (fish)
+225,surface cleaner,NA,product
+225,heart,NA,human (other tissues or fluids)
+225,"air freshener, car",NA,product
+225,abdominal muscle,NA,human (other tissues or fluids)
+225,sputum,NA,human (other tissues or fluids)
+225,marlin,NA,wildlife (fish)
+225,"air, indoor",NA,indoor air
+225,"tuna, fresh and frozen",NA,wildlife (fish)
+225,chest,NA,skin wipes
+225,wallboard,NA,product
+225,"milk, goat",NA,food product
+225,hair spray or mousse or gel,NA,product
+225,air,NA,ambient air
+225,bluefish,NA,wildlife (fish)
+225,"waste water, laundry",NA,"wastewater (influent, effluent)"
+225,lipstick,NA,product
+225,"cheese, cream",NA,food product
+225,kidney,NA,human (other tissues or fluids)
+225,snow,NA,surface water
+225,cartomizer fluid,NA,product
+225,cat litter,NA,product
+225,food,NA,food product
+225,catfish,NA,wildlife (fish)
+225,red snapper,NA,wildlife (fish)
+225,milk,NA,food product
+225,stomach,NA,human (other tissues or fluids)
+225,sweat,NA,human (other tissues or fluids)
+225,sunfish,NA,wildlife (fish)
+225,vegetable,NA,raw agricultural commodity
+225,"fruit, packaged",NA,food product
+225,deodorant,NA,product
+225,croaker,NA,wildlife (fish)
+225,polish or wax,NA,product
+225,"upholstery, living room",NA,product
+225,mussel,NA,wildlife (aquatic invertebrate)
+225,sea trout,NA,wildlife (fish)
+225,"meat, ground beef",NA,livestock/meat
+225,paint,NA,product
+225,"perch, freshwater",NA,wildlife (fish)
+225,product wipe,NA,product
+225,fragrance or perfume,NA,product
+225,dye,NA,product
+225,"meat, chicken liver",NA,livestock/meat
+225,plant leaf,NA,vegetation
+225,"milk, nonfat",NA,food product
+225,mahi mahi,NA,wildlife (fish)
+225,"pepper, red",NA,raw agricultural commodity
+225,"e-cigarette, aerosol",NA,product
+225,"perch, wild",NA,wildlife (fish)
+225,fuel,NA,product
+225,ice cream,NA,food product
+225,subcutaneous fat,NA,human (other tissues or fluids)
+225,"blood spot, dried",NA,human blood (whole/serum/plasma)
+225,"meat, ground chicken",NA,livestock/meat
+225,"cell, b-lymphocyte",NA,human blood (whole/serum/plasma)
+225,"catfish fillet, farm",NA,food product
+225,"meat, duck",NA,livestock/meat
+225,"dust, house",NA,indoor dust
+225,diaper,NA,product
+225,"air, outdoor",NA,ambient air
+225,house,NA,product
+225,"blood, cord",NA,human blood (whole/serum/plasma)
+225,perch,NA,wildlife (fish)
+225,"subcutaneous fat, abdominal",NA,human (other tissues or fluids)
+225,fabric refresher,NA,product
+225,shampoo,NA,product
+225,breath,NA,personal air
+225,sea bass,NA,wildlife (fish)
+225,NA,NA,unknown
+225,NA,NA,unknown
+225,surface wipe,NA,indoor dust
+225,"plasma, cord",NA,human blood (whole/serum/plasma)
+225,foot wash,NA,product
+225,produce,NA,raw agricultural commodity
+225,automobile,NA,product
+225,"bone, tibia",NA,human (other tissues or fluids)
+225,ocean perch,NA,wildlife (fish)
+225,sablefish,NA,wildlife (fish)
+225,"e-cigarette, liquid",NA,product
+225,radish,NA,raw agricultural commodity
+225,"tea, white",NA,food product
+225,spinal cord,NA,human (other tissues or fluids)
+225,"meat, ground pork",NA,livestock/meat
+225,insecticide,NA,product
+225,cosmetic product,NA,product
+225,clam,NA,wildlife (aquatic invertebrate)
+225,"cabbage, white",NA,food product
+225,orange roughy,NA,wildlife (fish)
+225,"water, rain",NA,surface water
+225,"water, sea",NA,surface water
+225,sunscreen,NA,product
+225,"wristband, silicone",NA,other-personal
+225,"meat, pork",NA,livestock/meat
+225,beetroot,NA,raw agricultural commodity
+225,cucumber,NA,raw agricultural commodity
+225,"air, ambient",NA,ambient air
+225,"meat, beef tenderloin",NA,livestock/meat
+225,bowfin,NA,wildlife (fish)
+225,body region,NA,skin wipes
+225,water,NA,surface water
+225,"beverage, caffeinated",NA,food product
+225,pillow protector,NA,product
+225,tilefish,NA,wildlife (fish)
+225,"shower curtain, vinyl",NA,product
+225,"food, inorganic",NA,food product
+225,"mackerel, king",NA,wildlife (fish)
+225,sheepshead,NA,wildlife (fish)
+225,frontal lobe,NA,human (other tissues or fluids)
+225,"serum, cord",NA,human blood (whole/serum/plasma)
+225,carp,NA,wildlife (fish)
+225,"meat, canned",NA,livestock/meat
+225,dish liquid,NA,product
+225,tea,NA,food product
+225,tear,NA,human (other tissues or fluids)
+225,n pike,NA,wildlife (fish)
+225,"cheese, cottage",NA,food product
+225,air freshener,NA,product
+225,laundry bleach,NA,product
+225,bone,NA,human (other tissues or fluids)
+225,"tea, oolong",NA,food product
+225,cod,NA,wildlife (fish)
+225,"tuna, canned light",NA,food product
+225,scorpionfish,NA,wildlife (fish)
+225,"lettuce, butterhead",NA,raw agricultural commodity
+225,baking soda,NA,food product
+225,"forearm, right",NA,skin wipes
+225,dust,NA,indoor dust
+225,"floor, bedroom",NA,indoor dust
+225,bluegill,NA,wildlife (fish)
+225,semen,NA,human (other tissues or fluids)
+225,"rice, brown",NA,raw agricultural commodity
+225,crab,NA,wildlife (aquatic invertebrate)
+225,"waste, industrial",NA,"wastewater (influent, effluent)"
+225,sunscreen composite,NA,product
+225,trout,NA,wildlife (fish)
+225,"thigh, left",NA,skin wipes
+225,garlic,NA,raw agricultural commodity
+225,walleye,NA,wildlife (fish)
+225,"water, river",NA,surface water
+225,carrot,NA,raw agricultural commodity
+225,bar soap,NA,product
+225,"bone, femur head",NA,human (other tissues or fluids)
+225,toothpaste,NA,product
+225,hair,NA,human (other tissues or fluids)
+225,sediment,NA,sediment
+225,potato,NA,raw agricultural commodity
+225,body wash,NA,product
+225,rice,NA,raw agricultural commodity
+225,"beverage, alcoholic",NA,food product
+225,floor cleaner,NA,product
+225,paper,NA,product
+225,grouper,NA,wildlife (fish)
+225,"thigh, right",NA,skin wipes
+225,blood platelet,NA,human blood (whole/serum/plasma)
+225,"milk, cow",NA,food product
+225,skate,NA,wildlife (fish)
+225,infant formula,NA,food product
+225,hand,NA,skin wipes
+225,"tooth, enamel",NA,human (other tissues or fluids)
+225,"water, cooking",NA,drinking water
+225,tuna,NA,wildlife (fish)
+225,leukocyte,NA,human blood (whole/serum/plasma)
+225,saliva,NA,human (other tissues or fluids)
+225,adenoid,NA,human (other tissues or fluids)
+225,"dust, vacuum bag",NA,indoor dust
+225,lung,NA,human (other tissues or fluids)
+225,ore,NA,product
+225,cigarette,NA,product
+225,seafood,NA,food product
+225,"lettuce, iceberg",NA,raw agricultural commodity
+225,"air, breath",NA,personal air
+225,pituitary gland,NA,human (other tissues or fluids)
+225,margarine,NA,food product
+225,"vegetable, packaged",NA,food product
+225,pollock,NA,wildlife (fish)
+225,"floor, kitchen",NA,indoor dust
+225,"water, tap",NA,drinking water
+225,shark,NA,wildlife (fish)
+225,lymphocyte,NA,human blood (whole/serum/plasma)
+225,nail,NA,human (other tissues or fluids)
+225,amniotic fluid,NA,human (other tissues or fluids)
+225,back,NA,skin wipes
+225,brain,NA,human (other tissues or fluids)
+225,"cheese, american",NA,food product
+225,"tea, brick",NA,food product
+225,haddock,NA,wildlife (fish)
+225,e-cigarette,NA,product
+225,"fruit, canned",NA,food product
+225,"milk, evaporated",NA,food product
+225,perfume,NA,product
+225,tub and tile cleaner,NA,product
+225,"fish, freshwater",NA,wildlife (fish)
+225,"water, waste",NA,"wastewater (influent, effluent)"
+225,"brain, superior frontal gyrus",NA,human (other tissues or fluids)
+225,scrubbing powder,NA,product
+225,meconium,NA,human (other tissues or fluids)
+225,"nail, finger",NA,human (other tissues or fluids)
+225,"tuna, canned albacore",NA,food product
+225,"glove, food handling",NA,product
+225,"salmon, fresh",NA,wildlife (fish)
+225,body lotion,NA,product
+225,"bass, sea",NA,wildlife (fish)
+225,glass cleaner,NA,product
+225,"vegetable, canned",NA,food product
+225,cheese,NA,food product
+225,hand sanitizer,NA,product
+225,"meat, bacon",NA,livestock/meat
+225,plant,NA,vegetation

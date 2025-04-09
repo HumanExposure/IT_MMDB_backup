@@ -1,0 +1,917 @@
+reported_chemical_name,reported_casrn,files_source_sourceid,sourceid,name,Chemical
+Aerosols,NULL,144,144,ctd,NA
+Air Pollutants,NULL,144,144,ctd,NA
+"Antigens, Bacterial",NULL,144,144,ctd,NA
+"Antigens, Dermatophagoides",NULL,144,144,ctd,NA
+"Antigens, Fungal",NULL,144,144,ctd,NA
+"Antigens, Plant",NULL,144,144,ctd,NA
+Blood Glucose,NULL,144,144,ctd,NA
+Coke,NULL,144,144,ctd,1
+"d,d-T80-prallethrin",23031-36-9,144,144,ctd,1
+Dust,NULL,144,144,ctd,NA
+Endocrine Disruptors,NULL,144,144,ctd,NA
+Environmental Pollutants,NULL,144,144,ctd,NA
+Particulate Matter,NULL,144,144,ctd,NA
+Radioactive Fallout,NULL,144,144,ctd,NA
+Radioactive Pollutants,NULL,144,144,ctd,NA
+Smoke,NULL,144,144,ctd,NA
+"Soil Pollutants, Radioactive",NULL,144,144,ctd,NA
+Solvents,NULL,144,144,ctd,NA
+Soot,NULL,144,144,ctd,NA
+Waste Water,NULL,144,144,ctd,NA
+"Water Pollutants, Chemical",NULL,144,144,ctd,NA
+PM1.5,NULL,154,154,carb,NA
+PM10,NULL,154,154,carb,NA
+Coplanar PCBs-TEQs,NULL,158,158,chem_theatre,NA
+mono-ortho PCBs-TEQs,NULL,158,158,chem_theatre,NA
+non-ortho PCBs-TEQs,NULL,158,158,chem_theatre,NA
+PBDDs-TEQ,NULL,158,158,chem_theatre,NA
+PBDFs-TEQ,NULL,158,158,chem_theatre,NA
+PCDD/Fs-TEQs,NULL,158,158,chem_theatre,NA
+PCDDs-TEQs,NULL,158,158,chem_theatre,NA
+PCDFs-TEQs,NULL,158,158,chem_theatre,NA
+Total TEQs,NULL,158,158,chem_theatre,NA
+1-Tailed Critical (H),NULL,168,168,usgs,NA
+1-Tailed Critical (W),NULL,168,168,usgs,NA
+"2,3,7,8-Tetrachlorodibenzo-p-dioxin, TEQ",NULL,168,168,usgs,NA
+Acid - Base Potential,NULL,168,168,usgs,NA
+Acid Generation Potential,NULL,168,168,usgs,NA
+Acid Neutralization Potential Acidity (ANPA),NULL,168,168,usgs,NA
+Acid Neutralization Potential As %CaCO3,NULL,168,168,usgs,NA
+Acid Volatile Sulfides,NULL,168,168,usgs,NA
+"Acidity, hydrogen ion (H+)",NULL,168,168,usgs,NA
+Adjusted gross alpha activity,NULL,168,168,usgs,NA
+Age,NULL,168,168,usgs,NA
+"Age, Otoliths (Fish)",NULL,168,168,usgs,NA
+"Age, Scales (Fish)",NULL,168,168,usgs,NA
+Aggressive index,NULL,168,168,usgs,NA
+"Algae, all groups, density",NULL,168,168,usgs,NA
+"Algae, blue-green (phylum cyanophyta) density",NULL,168,168,usgs,NA
+"Algae, blue-green (phylum cyanophyta) percent",NULL,168,168,usgs,NA
+"Algae, substrate rock/bank cover (choice list)",NULL,168,168,usgs,NA
+Algal growth potential,NULL,168,168,usgs,NA
+Aliphatics fraction,NULL,168,168,usgs,NA
+Alkalinity,NULL,168,168,usgs,NA
+"Alkalinity, bicarbonate",NULL,168,168,usgs,NA
+"Alkalinity, carbonate",NULL,168,168,usgs,NA
+"Alkalinity, Hydroxide",NULL,168,168,usgs,NA
+"Alkalinity, Phenolphthalein (total hydroxide+1/2 carbonate)",NULL,168,168,usgs,NA
+"Alkalinity, total",NULL,168,168,usgs,NA
+Allyl-sec-butyl-barbituric acid,NULL,168,168,usgs,1
+Alpha particle,NULL,168,168,usgs,NA
+"Aluminum, Organic + Inorganic Monomeric (reactive aluminum)",NULL,168,168,usgs,1
+Anion/cation ratio,NULL,168,168,usgs,NA
+Apparent color,NULL,168,168,usgs,NA
+Aromatics fraction,NULL,168,168,usgs,NA
+Ash Free Dry Mass,NULL,168,168,usgs,NA
+Asulam,NULL,168,168,usgs,1
+"Bacteria mix, unspecified",NULL,168,168,usgs,NA
+"Bacteria, iron reducing",NULL,168,168,usgs,NA
+"Bacteria, slime-forming",NULL,168,168,usgs,NA
+"Bacteria, sulfate reducing",NULL,168,168,usgs,NA
+"Bacteria,Sulfate reducing",NULL,168,168,usgs,NA
+Bank erosion stability (choice list),NULL,168,168,usgs,NA
+Bank vegetative stability (choice list),NULL,168,168,usgs,NA
+Barometric pressure,NULL,168,168,usgs,NA
+Beam Attenuation (Seabird),NULL,168,168,usgs,NA
+Beta particle,NULL,168,168,usgs,NA
+"Biochemical oxygen demand, non-standard conditions",NULL,168,168,usgs,NA
+"Biochemical oxygen demand, standard conditions",NULL,168,168,usgs,NA
+Biogenic Silica,NULL,168,168,usgs,NA
+Biologically reactive iron,NULL,168,168,usgs,NA
+Biomass,NULL,168,168,usgs,NA
+"Biomass, benthic",NULL,168,168,usgs,NA
+"Biomass, drift macroinvertebrates",NULL,168,168,usgs,NA
+"Biomass, periphyton",NULL,168,168,usgs,NA
+"Biomass, phytoplankton",NULL,168,168,usgs,NA
+"Biomass, plankton",NULL,168,168,usgs,NA
+"Biomass, species 25-30 mm size class",NULL,168,168,usgs,NA
+"Biomass, species 30-35 mm size class",NULL,168,168,usgs,NA
+"Biomass, species 35-40 mm size class",NULL,168,168,usgs,NA
+"Biomass, species 40-45 mm size class",NULL,168,168,usgs,NA
+Biomass/chlorophyll ratio,NULL,168,168,usgs,NA
+"BOD, filtered, 5 day, 20 deg C",NULL,168,168,usgs,NA
+"BOD, Sediment Load",NULL,168,168,usgs,NA
+Brillouin Taxonomic Diversity Index,NULL,168,168,usgs,NA
+Campylobacter jejuni,NULL,168,168,usgs,NA
+"Carbonaceous biochemical oxygen demand, non-standard conditions",NULL,168,168,usgs,NA
+"Carbonaceous biochemical oxygen demand, standard conditions",NULL,168,168,usgs,NA
+Cations-Anions,NULL,168,168,usgs,NA
+Chemical oxygen demand,NULL,168,168,usgs,NA
+"Chemical oxygen demand, (high level)",NULL,168,168,usgs,NA
+"Chemical oxygen demand, (low level)",NULL,168,168,usgs,NA
+Chloromethyl methyl ether,NULL,168,168,usgs,NA
+Chlorophyll,NULL,168,168,usgs,NA
+Chlorophyll a - Periphyton (attached),NULL,168,168,usgs,NA
+Chlorophyll a - Phytoplankton (suspended),NULL,168,168,usgs,NA
+Chlorophyll a (probe relative fluorescence),NULL,168,168,usgs,NA
+Chlorophyll a (probe),NULL,168,168,usgs,NA
+"Chlorophyll a (probe) concentration, Cyanobacteria (bluegreen)",NULL,168,168,usgs,NA
+"Chlorophyll a, free of pheophytin",NULL,168,168,usgs,NA
+"Chlorophyll a, uncorrected for pheophytin",NULL,168,168,usgs,NA
+Chlorophyll b,NULL,168,168,usgs,NA
+Chlorophyll c,NULL,168,168,usgs,NA
+Chlorophyll/Pheophytin ratio,NULL,168,168,usgs,NA
+Cloud cover,NULL,168,168,usgs,NA
+Cloud cover (choice list),NULL,168,168,usgs,NA
+Cloud cover (percent),NULL,168,168,usgs,NA
+"Coliform/Streptococcus ratio, fecal",NULL,168,168,usgs,NA
+Coliforms,NULL,168,168,usgs,NA
+"Coliphage, Male Specific (F+) all Groups",NULL,168,168,usgs,NA
+Colored dissolved organic matter (CDOM),NULL,168,168,usgs,NA
+Condition class (Dissolved oxygen (DO)),NULL,168,168,usgs,NA
+"Condition class, chemical (acid neutralizing capacity)",NULL,168,168,usgs,NA
+Conductivity,NULL,168,168,usgs,NA
+"Corrosion & scaling control, Langelier Saturation Index",NULL,168,168,usgs,NA
+"Count, species 25-30 mm size class",NULL,168,168,usgs,NA
+"Count, species 30-35 mm size class",NULL,168,168,usgs,NA
+"Count, species 35-40 mm size class",NULL,168,168,usgs,NA
+"Count, species 40-45 mm size class",NULL,168,168,usgs,NA
+Cryptosporidium,NULL,168,168,usgs,NA
+Cryptosporidium parvum,NULL,168,168,usgs,NA
+Cumulative Precipitation Since Last Measurement,NULL,168,168,usgs,NA
+Current direction,NULL,168,168,usgs,NA
+Current speed,NULL,168,168,usgs,NA
+Cyanobacteria,NULL,168,168,usgs,NA
+Data-logger operating voltage,NULL,168,168,usgs,NA
+Density,NULL,168,168,usgs,NA
+Density as sigma-t,NULL,168,168,usgs,NA
+Density of water at 20 deg C,NULL,168,168,usgs,NA
+Depth,NULL,168,168,usgs,NA
+Depth of water column,NULL,168,168,usgs,NA
+Depth to water level below land surface,NULL,168,168,usgs,NA
+"Depth, bottom",NULL,168,168,usgs,NA
+"Depth, data-logger (non-ported)",NULL,168,168,usgs,NA
+"Depth, data-logger (ported)",NULL,168,168,usgs,NA
+"Depth, from below top of casing to water level",NULL,168,168,usgs,NA
+"Depth, from ground surface to well water level",NULL,168,168,usgs,NA
+"Depth, Secchi disk depth",NULL,168,168,usgs,NA
+"Depth, Secchi disk depth (choice list)",NULL,168,168,usgs,NA
+"Depth, snow cover",NULL,168,168,usgs,NA
+"Depth, total, from below top of casing",NULL,168,168,usgs,NA
+"Detergent, severity (choice list)",NULL,168,168,usgs,NA
+Deuterium/Hydrogen ratio,NULL,168,168,usgs,NA
+Diatoms,NULL,168,168,usgs,NA
+"Discharge, Mine",NULL,168,168,usgs,NA
+"Discharge, River/Stream",NULL,168,168,usgs,NA
+Discoloration (Y/N) (choice list),NULL,168,168,usgs,NA
+Dissolved gases,NULL,168,168,usgs,NA
+Dissolved gases - saturation,NULL,168,168,usgs,NA
+Dissolved inorganic nitrogen/soluble reactive phosphorus ratio,NULL,168,168,usgs,NA
+Dissolved Inorganic Nitrogen/Total Phosphorus ratio,NULL,168,168,usgs,NA
+Dissolved Oxygen,NULL,168,168,usgs,NA
+Dissolved oxygen,NULL,168,168,usgs,NA
+Dissolved oxygen saturation,NULL,168,168,usgs,NA
+Dissolved oxygen uptake,NULL,168,168,usgs,NA
+Dissolved solids,NULL,168,168,usgs,NA
+Distance from/to,NULL,168,168,usgs,NA
+Diuron-d6,NULL,168,168,usgs,1
+Dominant Habitat Type,NULL,168,168,usgs,NA
+Dreissena polymorpha,NULL,168,168,usgs,NA
+Dry period preceding precipitation,NULL,168,168,usgs,NA
+Dry Solids at 105 C,NULL,168,168,usgs,NA
+Elapsed Time Since Last Measurement,NULL,168,168,usgs,NA
+"Elevation, groundwater surface, MSL",NULL,168,168,usgs,NA
+"Elevation, MSL",NULL,168,168,usgs,NA
+"Elevation, water surface, MSL",NULL,168,168,usgs,NA
+Enterobacter***retired***use Enterobacter (Monera),NULL,168,168,usgs,NA
+Enterococci,NULL,168,168,usgs,NA
+Enterococcus,NULL,168,168,usgs,NA
+Escherichia,NULL,168,168,usgs,NA
+Escherichia coli,NULL,168,168,usgs,NA
+Escherichia coli proportional contribution by livestock (%),NULL,168,168,usgs,NA
+Evaporation,NULL,168,168,usgs,NA
+Exchangeable phosphorus,NULL,168,168,usgs,NA
+Extended diesel range organics C10-C36,NULL,168,168,usgs,NA
+Extract volume,NULL,168,168,usgs,NA
+Extractable organic matter (EOM),NULL,168,168,usgs,NA
+Fast Riffle,NULL,168,168,usgs,NA
+Fecal Coliform,NULL,168,168,usgs,NA
+Fecal Streptococcus Group Bacteria,NULL,168,168,usgs,NA
+Filterable suspended solids,NULL,168,168,usgs,NA
+Fish fork length,NULL,168,168,usgs,NA
+"Fish Kill, Severity (choice list)",NULL,168,168,usgs,NA
+Fish standard length,NULL,168,168,usgs,NA
+Fixed dissolved solids,NULL,168,168,usgs,NA
+Fixed suspended solids,NULL,168,168,usgs,NA
+Floating algae mat - severity (choice list),NULL,168,168,usgs,NA
+Floating debris - severity (choice list),NULL,168,168,usgs,NA
+Floating debris (Y/N) (choice list),NULL,168,168,usgs,NA
+Floating Detergent/Soap - Severity (choice list),NULL,168,168,usgs,NA
+Floating foam/suds - severity (choice list),NULL,168,168,usgs,NA
+Floating foam/suds (Y/N) (choice list),NULL,168,168,usgs,NA
+Floating Garbage Severity (choice List),NULL,168,168,usgs,NA
+Floating sewage (Y/N) (choice list),NULL,168,168,usgs,NA
+Floating sludge - severity (choice list),NULL,168,168,usgs,NA
+"Floating vegetation severity, choice list",NULL,168,168,usgs,NA
+Flow,NULL,168,168,usgs,NA
+"Flow rate, instantaneous",NULL,168,168,usgs,NA
+"Flow, runoff",NULL,168,168,usgs,NA
+"Flow, severity (choice list)",NULL,168,168,usgs,NA
+"Flow, stream stage (choice list)",NULL,168,168,usgs,NA
+"Fuel, Gasoline Range (C6-C10)",NULL,168,168,usgs,NA
+Gage height,NULL,168,168,usgs,NA
+Gamma radiation,NULL,168,168,usgs,NA
+Gas bubble severity (choice list),NULL,168,168,usgs,NA
+General observation (text),NULL,168,168,usgs,NA
+Giardia,NULL,168,168,usgs,NA
+Giardia lamblia,NULL,168,168,usgs,NA
+"Grain size, clay (<2 um)",NULL,168,168,usgs,NA
+"Grain size, coarse sand (>=630 to 2000 um)",NULL,168,168,usgs,NA
+"Grain size, coarse silt (>=20 to 63 um)",NULL,168,168,usgs,NA
+"Grain size, fine gravel and larger (>=2000 um)",NULL,168,168,usgs,NA
+"Grain size, fine sand (>=63 to 200 um)",NULL,168,168,usgs,NA
+"Grain size, fine silt (>=2 to 6.3 um)",NULL,168,168,usgs,NA
+"Grain size, medium sand (>=200 to 630 um)",NULL,168,168,usgs,NA
+"Grain size, medium silt (>=6.3 to 20 um)",NULL,168,168,usgs,NA
+Gran acid neutralizing capacity,NULL,168,168,usgs,NA
+Gravel,NULL,168,168,usgs,NA
+"Gross alpha radioactivity, (Americium-241 ref std)",NULL,168,168,usgs,NA
+"Gross alpha radioactivity, (nat-Uranium ref std)",NULL,168,168,usgs,NA
+"Gross alpha radioactivity, (Thorium-230 ref std)",NULL,168,168,usgs,NA
+"Gross beta radioactivity, (Cesium-137 ref std)",NULL,168,168,usgs,NA
+"Gross beta radioactivity, (Strontium-Yttrium-90 ref std)",NULL,168,168,usgs,NA
+Gross-Uranium,NULL,168,168,usgs,NA
+Growth,NULL,168,168,usgs,NA
+Habitat Type (choice list),NULL,168,168,usgs,NA
+Hardness,NULL,168,168,usgs,NA
+"Hardness, Ca, Mg",NULL,168,168,usgs,NA
+"Hardness, Calcium",NULL,168,168,usgs,NA
+"Hardness, carbonate",NULL,168,168,usgs,NA
+"Hardness, magnesium",NULL,168,168,usgs,NA
+"Hardness, non-carbonate",NULL,168,168,usgs,NA
+"Hardness, total by calculation",NULL,168,168,usgs,NA
+"Height, gage",NULL,168,168,usgs,NA
+Horizontal Secchi Disk,NULL,168,168,usgs,NA
+Human enterovirus,NULL,168,168,usgs,NA
+Human norovirus,NULL,168,168,usgs,NA
+Hydrograph limb (choice list),NULL,168,168,usgs,NA
+Hydrophilic fraction of organic carbon,NULL,168,168,usgs,NA
+Hydrophobic fraction of organic carbon,NULL,168,168,usgs,NA
+"Ice cover, floating or solid - severity (choice list)",NULL,168,168,usgs,NA
+Ice thickness,NULL,168,168,usgs,NA
+"Individuals examined, actual number",NULL,168,168,usgs,NA
+Inhibited biochemical oxygen demand,NULL,168,168,usgs,NA
+Initial sample volume,NULL,168,168,usgs,NA
+Intergravel Dissolved Oxygen,NULL,168,168,usgs,NA
+Ion Balance Difference,NULL,168,168,usgs,NA
+Ionic strength,NULL,168,168,usgs,NA
+Iron-related bacteria,NULL,168,168,usgs,NA
+Irradiance (Seabird),NULL,168,168,usgs,NA
+Kick Depth,NULL,168,168,usgs,NA
+Kick Time,NULL,168,168,usgs,NA
+Lake physical appearance (choice list),NULL,168,168,usgs,NA
+Lake recreational suitability (choice list),NULL,168,168,usgs,NA
+Large Woody Debris - LWD density (choice list),NULL,168,168,usgs,NA
+Length,NULL,168,168,usgs,NA
+"Length, total",NULL,168,168,usgs,NA
+"Length, Total (Fish)",NULL,168,168,usgs,NA
+Life stage (choice list),NULL,168,168,usgs,NA
+Light attenuation at measurement depth,NULL,168,168,usgs,NA
+Light attenuation coefficient,NULL,168,168,usgs,NA
+"Light attenuation, depth at 10%",NULL,168,168,usgs,NA
+"Light attenuation, depth at 50%",NULL,168,168,usgs,NA
+"Light attenuation, depth at 99%",NULL,168,168,usgs,NA
+"Light, (PAR at depth/PAR at surface) x 100",NULL,168,168,usgs,NA
+"Light, path",NULL,168,168,usgs,NA
+"Light, photosynthetic active radiation (PAR)",NULL,168,168,usgs,NA
+"Light, photosynthetic active radiation at depth (PAR)",NULL,168,168,usgs,NA
+"Light, transmissivity",NULL,168,168,usgs,NA
+"Light, underwater extinction coefficient (K)",NULL,168,168,usgs,NA
+"Light, underwater incident",NULL,168,168,usgs,NA
+Macroinvertebrates,NULL,168,168,usgs,NA
+Macrophytes covering streambed (emergent and submerged) (choice list),NULL,168,168,usgs,NA
+Maximum total trihalomethane potential,NULL,168,168,usgs,NA
+MBAS,NULL,168,168,usgs,NA
+Mortality,NULL,168,168,usgs,NA
+Non-apatite inorganic phosphorus,NULL,168,168,usgs,NA
+Non-purgeable Organic Carbon (NPOC),NULL,168,168,usgs,NA
+NPS POLLUTION - Domestic Pets Present (Y/N) (choice list),NULL,168,168,usgs,NA
+NPS POLLUTION - Livestock Present (Y/N) (choice list),NULL,168,168,usgs,NA
+NPS POLLUTION - Other (Y/N) (choice list),NULL,168,168,usgs,NA
+NPS POLLUTION - Wildlife Present (Y/N) (choice list),NULL,168,168,usgs,NA
+"Number of individuals***retired***use Individuals examined, actual number",NULL,168,168,usgs,NA
+Nutrient-nitrogen,NULL,168,168,usgs,NA
+Observed Recreational Use - Boating (Y/N) (choice list),NULL,168,168,usgs,NA
+Observed Recreational Use - Fishing (Y/N) (choice list),NULL,168,168,usgs,NA
+Observed Recreational Use - Other (Y/N) (choice list),NULL,168,168,usgs,NA
+Observed Recreational Use - Swimming (Y/N) (choice list),NULL,168,168,usgs,NA
+Odor (adverse or offensive) (Y/N) (choice list),NULL,168,168,usgs,NA
+Odor severity (choice list),NULL,168,168,usgs,NA
+Odor threshold number,NULL,168,168,usgs,NA
+Odor type (choice list),NULL,168,168,usgs,NA
+Oil and Grease,NULL,168,168,usgs,NA
+Oil and Grease surface slick/sheen (Y/N) (choice list),NULL,168,168,usgs,NA
+"Oil and Grease, surface slick/sheen - severity (choice list)",NULL,168,168,usgs,NA
+Oil range organics,NULL,168,168,usgs,NA
+Oil range organics C28-C35,NULL,168,168,usgs,NA
+"Oil slick coverage severity, choice list",NULL,168,168,usgs,NA
+"Oil slick severity, choice list",NULL,168,168,usgs,NA
+Optical brighteners fluorescent whitening agents by fluorescence,NULL,168,168,usgs,NA
+Optical density,NULL,168,168,usgs,NA
+"Organics mix, unspecified",NULL,168,168,usgs,NA
+Osmotic pressure,NULL,168,168,usgs,NA
+"Oxygen uptake, day",NULL,168,168,usgs,NA
+Oxygen-18/Oxygen-16 ratio,NULL,168,168,usgs,NA
+Partial pressure of dissolved gases,NULL,168,168,usgs,NA
+Particle distribution,NULL,168,168,usgs,NA
+Particle size,NULL,168,168,usgs,NA
+Particle size (size/range in result Particle Size Basis),NULL,168,168,usgs,NA
+"Particle size, 0.002.mm",NULL,168,168,usgs,NA
+"Particle size, 0.5 inch (12.5mm)",NULL,168,168,usgs,NA
+"Particle size, 1 inch (25.0mm)",NULL,168,168,usgs,NA
+"Particle size, 1 inch (25.40mm)",NULL,168,168,usgs,NA
+"Particle size, 1.5 inch (37.5mm)",NULL,168,168,usgs,NA
+"Particle size, 1.5 inch (38.1mm)",NULL,168,168,usgs,NA
+"Particle size, 2 inch, (50.80mm)",NULL,168,168,usgs,NA
+"Particle size, 2 inch, (50mm)",NULL,168,168,usgs,NA
+"Particle size, 3 inch, (75.0mm)",NULL,168,168,usgs,NA
+"Particle size, 3 inch, (76.20mm)",NULL,168,168,usgs,NA
+"Particle size, 3/4 inch (19.05mm)",NULL,168,168,usgs,NA
+"Particle size, 3/4 inch (19.0mm)",NULL,168,168,usgs,NA
+"Particle size, 3/8 inch (9.525mm)",NULL,168,168,usgs,NA
+"Particle size, 3/8 inch (9.5mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (.008 mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (.011 mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (.015 mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (.026 mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (.040 mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.001mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.004mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.007mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.010mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.014mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.023mm)",NULL,168,168,usgs,NA
+"Particle size, Hydrometer (0.036mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 04, 4 mesh, (4.75mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 10, 9 mesh, (2.00mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 100, 100 mesh, (0.150mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 120, 115 mesh, (0.125mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 140, 150 mesh, (0.106mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 18, 16 mesh, (1.00mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 20, 20 mesh, (0.850mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 200, 200 mesh, (0.075mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 230, 250 mesh, (0.063mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 35, 32 Mesh, (0.425mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 40, 35 mesh, (0.425mm)",NULL,168,168,usgs,NA
+"Particle size, Sieve No. 60, 60 mesh, (0.250mm)",NULL,168,168,usgs,NA
+Particulate Inorganic Carbon,NULL,168,168,usgs,NA
+Particulate Inorganic Phosphorus,NULL,168,168,usgs,NA
+Particulate organic carbon,NULL,168,168,usgs,NA
+Particulate Organic Nitrogen and Particulate Nitrogen,NULL,168,168,usgs,NA
+pH,NULL,168,168,usgs,NA
+"pH, lab",NULL,168,168,usgs,NA
+Phaeophyton - Periphyton (attached),NULL,168,168,usgs,NA
+Phaeophyton - Phytoplankton (suspended),NULL,168,168,usgs,NA
+Pheophytin ratio,NULL,168,168,usgs,NA
+"Phosphorus, Particulate Organic",NULL,168,168,usgs,NA
+Phytoplankton,NULL,168,168,usgs,NA
+Phytoplankton biovolume,NULL,168,168,usgs,NA
+Phytoplankton productivity,NULL,168,168,usgs,NA
+Point Source Pollution - Outfall Pipe Discharging (Y/N) (choice list),NULL,168,168,usgs,NA
+Point Source Pollution - Outfall Pipe Present (Y/N) (choice list),NULL,168,168,usgs,NA
+Polycyclic aromatic hydrocarbons as benzo[a]pyrene TEQ,NULL,168,168,usgs,NA
+Precipitation 24hr prior to monitoring event (choice list),NULL,168,168,usgs,NA
+Precipitation 24hr prior to monitoring event amount,NULL,168,168,usgs,NA
+Precipitation 36hr prior to monitoring event amount,NULL,168,168,usgs,NA
+Precipitation 48hr prior to monitoring event (choice list),NULL,168,168,usgs,NA
+Precipitation 48hr prior to monitoring event amount,NULL,168,168,usgs,NA
+Precipitation during activity (choice list),NULL,168,168,usgs,NA
+Precipitation event duration,NULL,168,168,usgs,NA
+Precipitation Last 24hrs (CA SWAMP) (choice list),NULL,168,168,usgs,NA
+"Precipitation, time since event",NULL,168,168,usgs,NA
+Pressure,NULL,168,168,usgs,NA
+Primary productivity,NULL,168,168,usgs,NA
+Primary/ Secondary surrounding landuse (choice list),NULL,168,168,usgs,NA
+Pumping rate,NULL,168,168,usgs,NA
+Purge Volume,NULL,168,168,usgs,NA
+"Radioactivity, gross",NULL,168,168,usgs,NA
+Rank Sum,NULL,168,168,usgs,NA
+RBP High water mark,NULL,168,168,usgs,NA
+RBP Stream depth - pool,NULL,168,168,usgs,NA
+RBP Stream Velocity,NULL,168,168,usgs,NA
+RBP Stream width,NULL,168,168,usgs,NA
+RBP Substrate - Bedrock,NULL,168,168,usgs,NA
+RBP Substrate - Boulders >256 mm,NULL,168,168,usgs,NA
+RBP Substrate - Cobbles 64-256 mm,NULL,168,168,usgs,NA
+RBP Substrate - Gravel 2-64 mm,NULL,168,168,usgs,NA
+RBP Substrate - Muck/Mud - Very Fine Particles,NULL,168,168,usgs,NA
+RBP Substrate - Sand 0.06-2.0 mm,NULL,168,168,usgs,NA
+RBP Substrate - Silt 0.004-0.06 mm,NULL,168,168,usgs,NA
+RBP Turbidity Code (choice list),NULL,168,168,usgs,NA
+RBP Water Odors (choice list),NULL,168,168,usgs,NA
+"RBP2, Aquatic Vegetation, Dominant Type & Species (choice list)",NULL,168,168,usgs,NA
+"RBP2, Aquatic vegetation, portion of reach with AV (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, bedrock (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, canopy (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, general comments",NULL,168,168,usgs,NA
+"RBP2, Habitat type, gravel-cobble (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, pools (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, riffle (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, run (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, sand (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, sand-silt-mud-muck (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, snags (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, submerged macrophytes (%)",NULL,168,168,usgs,NA
+"RBP2, Habitat type, vegetated banks (%)",NULL,168,168,usgs,NA
+"RBP2, High G, Bank Stability, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Bank Stability, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Channel Alteration (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Channel Flow Status (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Embeddedness (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Epifaunal Substrate/Available Cover (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Frequency of Riffles (or bends) (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, habitat assessment total score",NULL,168,168,usgs,NA
+"RBP2, High G, Riparian Vegetative Zone Width, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Riparian Vegetative Zone Width, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Sediment Deposition (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Vegetative Protection, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Vegetative Protection, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, High G, Velocity/Depth Regime (choice list)",NULL,168,168,usgs,NA
+"RBP2, Instream Features, Canopy Cover (choice list)",NULL,168,168,usgs,NA
+"RBP2, Instream Features, Channelized (Y/N) (choice list)",NULL,168,168,usgs,NA
+"RBP2, Instream features, est. stream depth",NULL,168,168,usgs,NA
+"RBP2, Instream features, est. stream width",NULL,168,168,usgs,NA
+"RBP2, Instream features, high water mark",NULL,168,168,usgs,NA
+"RBP2, Low G, Bank Stability, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Bank Stability, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Channel Alteration (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Channel Flow Status (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Channel Sinuosity (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Epifaunal Substrate/Available Cover (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, habitat assessment total score",NULL,168,168,usgs,NA
+"RBP2, Low G, Pool Substrate Characterization (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Pool Variability (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Riparian Vegetative Zone Width, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Riparian Vegetative Zone Width, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Sediment Deposition (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Vegetative Protection, Left Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Low G, Vegetative Protection, Right Bank (choice list)",NULL,168,168,usgs,NA
+"RBP2, Riparian Vegetation, Dominant Species Present (choice list)",NULL,168,168,usgs,NA
+"RBP2, Sediment/Substrate, Deposits (choice list)",NULL,168,168,usgs,NA
+"RBP2, Stream Character, Stream Origin (choice list)",NULL,168,168,usgs,NA
+"RBP2, Stream Character, Stream Subsystem (choice list)",NULL,168,168,usgs,NA
+"RBP2, Stream Character, Stream Type (choice list)",NULL,168,168,usgs,NA
+"RBP2, Substrate, inorganic, bedrock",NULL,168,168,usgs,NA
+"RBP2, Substrate, Inorganic, boulder, >256 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, inorganic, clay, <0.004 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, inorganic, cobble, 64-256 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, inorganic, gravel, 2-64 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, inorganic, sand, 0.06-2.0 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, Inorganic, Silt, 0.004-0.06 mm",NULL,168,168,usgs,NA
+"RBP2, Substrate, organic, detritus, sticks, wood, etc. (CPOM)",NULL,168,168,usgs,NA
+"RBP2, Substrate, organic, marl, grey shell fragments",NULL,168,168,usgs,NA
+"RBP2, Substrate, organic, muck-mud, black-fine (FPOM)",NULL,168,168,usgs,NA
+"RBP2, Water Quality, Turbidity (choice list)",NULL,168,168,usgs,NA
+"RBP2, Water Quality, Water Odors (choice list)",NULL,168,168,usgs,NA
+"RBP2, Watershed, Local Erosion (choice list)",NULL,168,168,usgs,NA
+"RBP2, Watershed, Predominant Surrounding Landuse (choice list)",NULL,168,168,usgs,NA
+"RBP2, weather condition, general observation (text)",NULL,168,168,usgs,NA
+"RBP2, Weather Condition, Heavy Rain in Last 7 Days, Y/N (choice list)",NULL,168,168,usgs,NA
+"RBP2, Weather Condition, Now (choice list)",NULL,168,168,usgs,NA
+"RBP2, Weather Condition, Past 24 Hours (choice list)",NULL,168,168,usgs,NA
+Relative Air Temperature (choice list),NULL,168,168,usgs,NA
+Relative humidity,NULL,168,168,usgs,NA
+Reproduction,NULL,168,168,usgs,NA
+Reservoir storage,NULL,168,168,usgs,NA
+Reservoir volume,NULL,168,168,usgs,NA
+"Residue, Total",NULL,168,168,usgs,NA
+Resistivity,NULL,168,168,usgs,NA
+Riparian Width LDB,NULL,168,168,usgs,NA
+Riparian Width RDB,NULL,168,168,usgs,NA
+Rocky Substrate (Choice List),NULL,168,168,usgs,NA
+Rosgen Stream Type,NULL,168,168,usgs,NA
+Sand/Substrate Habitat Type (%),NULL,168,168,usgs,NA
+Sandy Substrate (Choice List),NULL,168,168,usgs,NA
+Sea waves severity (choice list),NULL,168,168,usgs,NA
+Secchi depth,NULL,168,168,usgs,NA
+Secchi Reading Condition (choice list),NULL,168,168,usgs,NA
+"Secchi, Horizontal Distance",NULL,168,168,usgs,NA
+Sediment Oxygen Demand,NULL,168,168,usgs,NA
+"Sediment, inorganic, classification (choice list)",NULL,168,168,usgs,NA
+Settleable solids,NULL,168,168,usgs,NA
+Sex (choice list),NULL,168,168,usgs,NA
+Silica gel treated n-hexane extractable material,NULL,168,168,usgs,NA
+Silt,NULL,168,168,usgs,NA
+Simultaneously extracted metals,NULL,168,168,usgs,NA
+Simultaneously extracted metals/acid volatile sulfides,NULL,168,168,usgs,NA
+Simultaneously extracted metals/acid volatile sulfides (Metals ESB based on Final Chron. Value for AVS (fOC)),NULL,168,168,usgs,NA
+Slime-forming bacteria,NULL,168,168,usgs,NA
+Slow Riffle,NULL,168,168,usgs,NA
+Sodium adsorption ratio [(Na)/(sq root of 1/2 Ca + Mg)],NULL,168,168,usgs,NA
+Soil Water,NULL,168,168,usgs,NA
+Soluble Reactive Phosphorus (SRP),NULL,168,168,usgs,NA
+SPAR,NULL,168,168,usgs,NA
+Specific conductance,NULL,168,168,usgs,NA
+"Specific Conductance, Calculated/Measured Ratio",NULL,168,168,usgs,NA
+Specific conductivity,NULL,168,168,usgs,NA
+Specific gravity,NULL,168,168,usgs,NA
+Specific UV Absorbance at 254 nm,NULL,168,168,usgs,NA
+"Specific UV Absorbance at 254 nm, corrected for Fe",NULL,168,168,usgs,NA
+Storm water flow,NULL,168,168,usgs,NA
+Stream Bed Color (choice list),NULL,168,168,usgs,NA
+Stream condition (text),NULL,168,168,usgs,NA
+Stream Cross-Sectional Area,NULL,168,168,usgs,NA
+Stream depth (choice list),NULL,168,168,usgs,NA
+"Stream flow, instantaneous",NULL,168,168,usgs,NA
+"Stream flow, mean. daily",NULL,168,168,usgs,NA
+Stream physical appearance (choice list),NULL,168,168,usgs,NA
+"Stream Physical Appearance, Minnesota (choice list)",NULL,168,168,usgs,NA
+Stream recreational suitability (choice list),NULL,168,168,usgs,NA
+Stream stage,NULL,168,168,usgs,NA
+Stream velocity (choice list),NULL,168,168,usgs,NA
+Stream width measure,NULL,168,168,usgs,NA
+Submerged Vegetation Habitat Type (%),NULL,168,168,usgs,NA
+Substrate - clay,NULL,168,168,usgs,NA
+Substrate - clay/fine partic. org. matt.,NULL,168,168,usgs,NA
+Substrate - claypan soil,NULL,168,168,usgs,NA
+Substrate - cobbles,NULL,168,168,usgs,NA
+"Substrate - cobbles, medium",NULL,168,168,usgs,NA
+"Substrate - cobbles, small",NULL,168,168,usgs,NA
+Substrate - fines,NULL,168,168,usgs,NA
+Substrate - gravel,NULL,168,168,usgs,NA
+"Substrate - gravel, fine",NULL,168,168,usgs,NA
+"Substrate - gravel, medium",NULL,168,168,usgs,NA
+"Substrate - gravel, very fine",NULL,168,168,usgs,NA
+Substrate - miscellaneous other,NULL,168,168,usgs,NA
+Substrate - sand,NULL,168,168,usgs,NA
+"Substrate - sand, coarse",NULL,168,168,usgs,NA
+"Substrate - sand, fine",NULL,168,168,usgs,NA
+"Substrate - sand, medium",NULL,168,168,usgs,NA
+"Substrate - sand, very coarse",NULL,168,168,usgs,NA
+"Substrate - sand, very fine",NULL,168,168,usgs,NA
+Substrate - silt,NULL,168,168,usgs,NA
+"Substrate - silt, coarse",NULL,168,168,usgs,NA
+"Substrate - silt, fine",NULL,168,168,usgs,NA
+"Substrate - silt, medium",NULL,168,168,usgs,NA
+"Substrate - silt, very fine",NULL,168,168,usgs,NA
+Substrate - silt/clay mix,NULL,168,168,usgs,NA
+Substrate Description (text),NULL,168,168,usgs,NA
+"Substrate Dominant, Channel (choice list)",NULL,168,168,usgs,NA
+"Substrate, clay, medium",NULL,168,168,usgs,NA
+Sum of anions,NULL,168,168,usgs,NA
+Sum of cations,NULL,168,168,usgs,NA
+Surface area,NULL,168,168,usgs,NA
+Survival,NULL,168,168,usgs,NA
+Suspended Sediment Concentration (SSC),NULL,168,168,usgs,NA
+Suspended sediment concentration (SSC),NULL,168,168,usgs,NA
+Suspended Sediment Discharge,NULL,168,168,usgs,NA
+SUVA (SPECIFIC ULTRAVIOLET ABSORBANCE),NULL,168,168,usgs,NA
+Taxon Present (Y/N) (choice list),NULL,168,168,usgs,NA
+Temperature,NULL,168,168,usgs,NA
+Temperature difference,NULL,168,168,usgs,NA
+"Temperature, air",NULL,168,168,usgs,NA
+"Temperature, air, deg C",NULL,168,168,usgs,NA
+"Temperature, air, deg F",NULL,168,168,usgs,NA
+"Temperature, sample",NULL,168,168,usgs,NA
+"Temperature, sediment",NULL,168,168,usgs,NA
+"Temperature, water",NULL,168,168,usgs,NA
+"Temperature, water, deg F",NULL,168,168,usgs,NA
+"Temperature, wet bulb",NULL,168,168,usgs,NA
+Tetraethyl pyrophosphate,NULL,168,168,usgs,NA
+Tide stage,NULL,168,168,usgs,NA
+Tide stage (choice list),NULL,168,168,usgs,NA
+Total Coliform,NULL,168,168,usgs,NA
+Total dissolved solids,NULL,168,168,usgs,NA
+Total fixed solids,NULL,168,168,usgs,NA
+Total hardness,NULL,168,168,usgs,NA
+Total Kjeldahl nitrogen,NULL,168,168,usgs,NA
+Total Particulate Organic Carbon,NULL,168,168,usgs,NA
+Total Sample Volume,NULL,168,168,usgs,NA
+Total Sample Weight,NULL,168,168,usgs,NA
+Total solids,NULL,168,168,usgs,NA
+Total suspended solids,NULL,168,168,usgs,NA
+Total volatile solids,NULL,168,168,usgs,NA
+"Transmittance, Horizontal",NULL,168,168,usgs,NA
+"Transparency, Secchi tube with disk",NULL,168,168,usgs,NA
+"Transparency, tube with disk",NULL,168,168,usgs,NA
+Transphilic fraction of organic carbon,NULL,168,168,usgs,NA
+True color,NULL,168,168,usgs,NA
+Turbidity,NULL,168,168,usgs,NA
+Turbidity severity (choice list),NULL,168,168,usgs,NA
+USDA Soil Texture Classification (choice list),NULL,168,168,usgs,NA
+UV 254,NULL,168,168,usgs,NA
+UV Absorbance at 440 nm,NULL,168,168,usgs,NA
+"UV Absorption, relative conc. of organic constituents",NULL,168,168,usgs,NA
+Velocity - stream,NULL,168,168,usgs,NA
+Velocity-discharge,NULL,168,168,usgs,NA
+Venice Salinity Category (choice list),NULL,168,168,usgs,NA
+Volatile suspended solids,NULL,168,168,usgs,NA
+Volume Storage,NULL,168,168,usgs,NA
+Water,NULL,168,168,usgs,NA
+Water appearance (text),NULL,168,168,usgs,NA
+Water Column Habitat Type (%),NULL,168,168,usgs,NA
+Water content of snow,NULL,168,168,usgs,NA
+Water level (probe),NULL,168,168,usgs,NA
+Water level in relation to reference point,NULL,168,168,usgs,NA
+"Water level in well, depth from a reference point",NULL,168,168,usgs,NA
+"Water level in well, MSL",NULL,168,168,usgs,NA
+Water level reference point elevation,NULL,168,168,usgs,NA
+Water Odor (choice list),NULL,168,168,usgs,NA
+Water Pressure,NULL,168,168,usgs,NA
+"Water transparency, Secchi disc",NULL,168,168,usgs,NA
+"Watershed, predominant surrounding land use",NULL,168,168,usgs,NA
+Wave height,NULL,168,168,usgs,NA
+Wave height (WMO code 1555) (choice list),NULL,168,168,usgs,NA
+Weather comments (text),NULL,168,168,usgs,NA
+Weather condition (WMO code 4501) (choice list),NULL,168,168,usgs,NA
+Weather condition (WMO code 4677) (choice list),NULL,168,168,usgs,NA
+Weight,NULL,168,168,usgs,NA
+Well condition (choice list),NULL,168,168,usgs,NA
+Wetted Width,NULL,168,168,usgs,NA
+Width,NULL,168,168,usgs,NA
+Wind Condition (choice list),NULL,168,168,usgs,NA
+"Wind direction (direction from, expressed 0-360 deg)",NULL,168,168,usgs,NA
+Wind direction from (choice list),NULL,168,168,usgs,NA
+"Wind force, Beaufor",,168,168,usgs,NA
+"Wind force, Beaufort scale",NULL,168,168,usgs,NA
+Wind Speed (choice list),NULL,168,168,usgs,NA
+Wind Speed Severity (choice list),NULL,168,168,usgs,NA
+Wind velocity,NULL,168,168,usgs,NA
+Zooplankton,NULL,168,168,usgs,NA
+12 Coplanar PCBs TEQ,NULL,178,178,epa_nscrlft,NA
+Dioxins and Furans TEQ,NULL,178,178,epa_nscrlft,NA
+Total TEQ,NULL,178,178,epa_nscrlft,NA
+Aerobic spores,NULL,180,180,epa_ucmr,NA
+E. coli,NULL,180,180,epa_ucmr,NA
+Enterococci,NULL,180,180,epa_ucmr,NA
+Enteroviruses (cell culture),NULL,180,180,epa_ucmr,NA
+Enteroviruses (RT-qPCR),NULL,180,180,epa_ucmr,NA
+Male specific phage,NULL,180,180,epa_ucmr,NA
+Noroviruses GIA,NULL,180,180,epa_ucmr,NA
+Noroviruses GIB,NULL,180,180,epa_ucmr,NA
+Noroviruses GII,NULL,180,180,epa_ucmr,NA
+% DNA in tail (a measure of the proportion of total DNA present in the comet tail),NULL,183,183,ices_biota,NA
+% female population,NULL,183,183,ices_biota,NA
+% females displaying imposex,NULL,183,183,ices_biota,NA
+% females displaying intersex,NULL,183,183,ices_biota,NA
+% sterile females (IMPS 5-6  INTS 2 or above),NULL,183,183,ices_biota,NA
+% sterile females (IMPS 5-6 INTS 2 or above),NULL,183,183,ices_biota,NA
+age (max),NULL,183,183,ices_biota,NA
+age (mean),NULL,183,183,ices_biota,NA
+age (min),NULL,183,183,ices_biota,NA
+ash content,NULL,183,183,ices_biota,NA
+breadth (ex. matrix EG),NULL,183,183,ices_biota,NA
+catalase activity  (Unit example: micromol/min/mg protein),NULL,183,183,ices_biota,NA
+catalase activity (Unit example: micromol/min/mg protein),NULL,183,183,ices_biota,NA
+COMET assay - number of cells screened,NULL,183,183,ices_biota,NA
+DNA adducts,NULL,183,183,ices_biota,NA
+dry weight percent,NULL,183,183,ices_biota,NA
+extractable lipid percent,NULL,183,183,ices_biota,NA
+extractable persistent organically bound chlorine,NULL,183,183,ices_biota,NA
+fat weight percent,NULL,183,183,ices_biota,NA
+gonadal somatic index ((gonad weight/whole organism weight) x 100),NULL,183,183,ices_biota,NA
+height (mean or individual) (in combination with matrx),NULL,183,183,ices_biota,NA
+imposex stage (reported for single individual as an integer) used to determine the Penis Classification Index,NULL,183,183,ices_biota,NA
+intersex stage index,NULL,183,183,ices_biota,NA
+length (max) (in combination with matrx),NULL,183,183,ices_biota,NA
+length (mean or individual) (in combination with matrx),NULL,183,183,ices_biota,NA
+length (min) (in combination with matrx),NULL,183,183,ices_biota,NA
+length of female penis (mm) (imposex),NULL,183,183,ices_biota,NA
+length of male penis (mm) (imposex),NULL,183,183,ices_biota,NA
+lipid weight percent,NULL,183,183,ices_biota,NA
+liver somatic index  liver weight/whole organism weight) x 100),NULL,183,183,ices_biota,NA
+liver somatic index liver weight/whole organism weight) x 100),NULL,183,183,ices_biota,NA
+Lysosomal labilisation period,NULL,183,183,ices_biota,NA
+moisture content percent,NULL,183,183,ices_biota,NA
+neutral red retention time (mean retention time in minutes),NULL,183,183,ices_biota,NA
+NULL,NULL,183,183,ices_biota,NA
+penis classification index (Sum of imposex stage values of all females examined) / (Number of females),NULL,183,183,ices_biota,NA
+protein concentration (volume) (Unit example: mg protein / ml homogenized matrix),NULL,183,183,ices_biota,NA
+Relative Penis Length Index (%) (mean female penis length/mean male penis length) x 100,NULL,183,183,ices_biota,NA
+Relative Penis Size Index (%) ((mean female penis length)^3/(mean male penis length)^3) x 100,NULL,183,183,ices_biota,NA
+scope for growth (P = A - R),NULL,183,183,ices_biota,NA
+survival time,NULL,183,183,ices_biota,NA
+"thickness (""organ"" described in matrx - ex. BB ES(egg shell) EX (shell))",NULL,183,183,ices_biota,NA
+"thickness (""organ"" described in matrx - ex. BB ES(egg shell) EX (shell))",NULL,183,183,ices_biota,NA
+thickness (organ described in matrx - ex. BB  ES(egg shell)  EX (shell)),NULL,183,183,ices_biota,NA
+"thickness (organ"" described in matrx - ex. BB  ES(egg shell)  EX (shell))""",NULL,183,183,ices_biota,NA
+Vas Deferens Sequence (stages 0-6) (imposex),NULL,183,183,ices_biota,NA
+Vas Deferens Sequence Index (mean of VDS stages scored) (imposex),NULL,183,183,ices_biota,NA
+weight (maximum) (in combination with matrx),NULL,183,183,ices_biota,NA
+weight (mean or individual) (in combination with matrx),NULL,183,183,ices_biota,NA
+weight (minimum) (in combination with matrx),NULL,183,183,ices_biota,NA
+% mortality,NULL,185,185,ices_sediment,NA
+dry weight percent,NULL,185,185,ices_sediment,NA
+grain size kurtosis,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <1 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <1000 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <105 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <1200 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <125 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <15 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <150 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <16 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <1700 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <2 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <20 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <200 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <2000 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <210 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <250 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <3 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <300 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <31 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <4 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <420 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <50 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <500 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <53 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <600 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <63 micron (silt/clay),NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <630 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <7 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <75 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <8 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <850 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction <90 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction >2000 micron (gravel),NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction >8000 micron,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >1000 micron - <2000,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >125 micron - <250,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >2000 micron - <4000,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >250 micron - <500,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >4000 micron - <8000,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >500 micron - <1000,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >63 micron - <125,NULL,185,185,ices_sediment,NA
+Grain Size Mass Fraction Range >63 micron - <2000 (sand),NULL,185,185,ices_sediment,NA
+grain size mean,NULL,185,185,ices_sediment,NA
+grain size median,NULL,185,185,ices_sediment,NA
+grain size skewness,NULL,185,185,ices_sediment,NA
+grain size sorting,NULL,185,185,ices_sediment,NA
+loss on ignition,NULL,185,185,ices_sediment,NA
+moisture content percent,NULL,185,185,ices_sediment,NA
+NULL,NULL,185,185,ices_sediment,NA
+redox potential,NULL,185,185,ices_sediment,NA
+sediment age determined from time of sampling,NULL,185,185,ices_sediment,NA
+Arsenic,7440-38-2_dissolved,187,187,ip_chem_seawater,1
+Arsenic dissolved,7440-38-2_dissolved,187,187,ip_chem_seawater,1
+Cadmium,7440-43-9_dissolved,187,187,ip_chem_seawater,1
+Cadmium dissolved,7440-43-9_dissolved,187,187,ip_chem_seawater,1
+Chromium,7440-47-3_dissolved,187,187,ip_chem_seawater,1
+Chromium dissolved,7440-47-3_dissolved,187,187,ip_chem_seawater,1
+Copper,7440-50-8_dissolved,187,187,ip_chem_seawater,1
+Copper dissolved,7440-50-8_dissolved,187,187,ip_chem_seawater,1
+Lead,7439-92-1_dissolved,187,187,ip_chem_seawater,1
+Lead dissolved,7439-92-1_dissolved,187,187,ip_chem_seawater,1
+Mercury,7439-97-6_dissolved,187,187,ip_chem_seawater,1
+Mercury dissolved,7439-97-6_dissolved,187,187,ip_chem_seawater,1
+Nickel,7440-02-0_dissolved,187,187,ip_chem_seawater,1
+Nickel dissolved,7440-02-0_dissolved,187,187,ip_chem_seawater,1
+Zinc,7440-66-6_dissolved,187,187,ip_chem_seawater,1
+Zinc dissolved,7440-66-6_dissolved,187,187,ip_chem_seawater,1
+Acid compounds,NULL,192,192,epa_dmr,NA
+Acidity,NULL,192,192,epa_dmr,NA
+"Acidity, total (as CaCO3)",NULL,192,192,epa_dmr,NA
+"Acids, total volatile (as acetic acid)",NULL,192,192,epa_dmr,NA
+"Alkalinity, bicarbonate (as CaCO3)",NULL,192,192,epa_dmr,NA
+"Alkalinity, carbonate (as CaCO3)",NULL,192,192,epa_dmr,NA
+"Alkalinity, phenolphthaline method",NULL,192,192,epa_dmr,NA
+"Alkalinity, total (as CaCO3)",NULL,192,192,epa_dmr,NA
+"Base neutrals & acid (Method 625), efflnt",NULL,192,192,epa_dmr,NA
+"Base neutrals & acid (Method 625), total",NULL,192,192,epa_dmr,NA
+Base/neutral compounds,NULL,192,192,epa_dmr,NA
+Biochemical oxygen demand,NULL,192,192,epa_dmr,NA
+Biochemical oxygen demand-5,NULL,192,192,epa_dmr,NA
+"Biomass, plankton",NULL,192,192,epa_dmr,NA
+BOD,NULL,192,192,epa_dmr,NA
+"BOD, (ult. all stages)",NULL,192,192,epa_dmr,NA
+"BOD, 20-day (20 deg. C)",NULL,192,192,epa_dmr,NA
+"BOD, 5-day",NULL,192,192,epa_dmr,NA
+"BOD, 5-day, 20 deg C per cfs of streamflw",NULL,192,192,epa_dmr,NA
+"BOD, 5-day, 20 deg. C",NULL,192,192,epa_dmr,NA
+"BOD, 5-day, dissolved",NULL,192,192,epa_dmr,NA
+"BOD, carbonaceous, 05 day, 20 C",NULL,192,192,epa_dmr,NA
+"BOD, carbonaceous, 20 day, 20 C",NULL,192,192,epa_dmr,NA
+"BOD, carbonaceous, 28-day (20 deg. C)",NULL,192,192,epa_dmr,NA
+"BOD, carbonaceous, 5 day, 5 C",NULL,192,192,epa_dmr,NA
+"BOD, carbonaceous, 5-day, 20 deg C",NULL,192,192,epa_dmr,NA
+"BOD, filtered, 5 day, 20 deg C",NULL,192,192,epa_dmr,NA
+"BOD, nitrogen inhib 5-day (20 deg. C)",NULL,192,192,epa_dmr,NA
+"Carbonaceous BOD, 5 day, 20 deg C filtrd",NULL,192,192,epa_dmr,NA
+Chemical Oxygen Demand (COD),NULL,192,192,epa_dmr,NA
+Chemical oxygen demand (COD),NULL,192,192,epa_dmr,NA
+"Chemical oxygen demand, soluble",NULL,192,192,epa_dmr,NA
+Corrosion Inhibitor,NULL,192,192,epa_dmr,NA
+"Diesel range organics diesel, total, wtr",NULL,192,192,epa_dmr,1
+Dock discharge of phosphorus,7723140,192,192,epa_dmr,NA
+"Domestic waste, solids",NULL,192,192,epa_dmr,NA
+"Fats, oils & grease (total o & g less TPH)",NULL,192,192,epa_dmr,NA
+Foaming agents,NULL,192,192,epa_dmr,NA
+Freeboard,NULL,192,192,epa_dmr,NA
+"Hardness, Ca Mg Calculated (mg/L as CaCO3)",NULL,192,192,epa_dmr,NA
+"Hardness, tot calc. (Ca, Mg, Fe) as CaC03",NULL,192,192,epa_dmr,NA
+"Hardness, total (as CaCO3)",NULL,192,192,epa_dmr,NA
+"Manure, wet tons removed",NULL,192,192,epa_dmr,NA
+NULL,NULL,192,192,epa_dmr,NA
+Oil & grease,NULL,192,192,epa_dmr,NA
+"Oil & grease (freon extr.-IR meth) tot, RC",NULL,192,192,epa_dmr,NA
+"Oil & grease, dry weight",NULL,192,192,epa_dmr,NA
+"Oil & grease, non-polar material",NULL,192,192,epa_dmr,NA
+"Oil & grease, total recoverable",NULL,192,192,epa_dmr,NA
+Oil and grease,NULL,192,192,epa_dmr,NA
+Oil and grease (soxhlet extr.) tot.,NULL,192,192,epa_dmr,NA
+"Oil and grease, hexane extr method",NULL,192,192,epa_dmr,NA
+"Oil petroleum, total recoverable",8002059,192,192,epa_dmr,1
+"Oxygen demand, chem. (COD), dissolved",NULL,192,192,epa_dmr,NA
+"Oxygen demand, chem. (high level) (COD)",NULL,192,192,epa_dmr,NA
+"Oxygen demand, chem. (low level) (COD)",NULL,192,192,epa_dmr,NA
+"Oxygen demand, nitrogenous, ultimate",NULL,192,192,epa_dmr,NA
+"Oxygen demand, sum product",NULL,192,192,epa_dmr,NA
+"Oxygen demand, total (tod)",NULL,192,192,epa_dmr,NA
+"Oxygen demand, ult. carbonaceous (UCOD)",NULL,192,192,epa_dmr,NA
+"Oxygen demand, ultimate",NULL,192,192,epa_dmr,NA
+"Produced water, gross beta radiation",12587472,192,192,epa_dmr,NA
+"Produced water, oil and grease",NULL,192,192,epa_dmr,NA
+"Produced water, Radium 226, total",13982633,192,192,epa_dmr,NA
+"Produced water, Radium 228, total",15262201,192,192,epa_dmr,NA
+Purgeable aromatics Method 602,NULL,192,192,epa_dmr,NA
+"Purgeable hydrocarbons, Meth. 601",NULL,192,192,epa_dmr,NA
+Purgeable Organic Halides,NULL,192,192,epa_dmr,NA
+"Residue, settleable",NULL,192,192,epa_dmr,NA
+"Residue, tot fltrble (dried at 105 C)",NULL,192,192,epa_dmr,NA
+"Sanitary waste, BOD, 5-day",NULL,192,192,epa_dmr,NA
+"Sanitary waste, residual chlorine",NULL,192,192,epa_dmr,NA
+"Sanitary waste, solids",NULL,192,192,epa_dmr,NA
+"Sanitary waste, TSS",NULL,192,192,epa_dmr,NA
+Seafood Processing Waste,NULL,192,192,epa_dmr,NA
+Solids accumulation rate tot dry weight,NULL,192,192,epa_dmr,NA
+"Solids, dry, discharge to sol. handling sys.",NULL,192,192,epa_dmr,NA
+"Solids, dry, removed from sol. handling sys.",NULL,192,192,epa_dmr,NA
+"Solids, fixed dissolved",NULL,192,192,epa_dmr,NA
+"Solids, fixed suspended",NULL,192,192,epa_dmr,NA
+"Solids, Settleable, Net",NULL,192,192,epa_dmr,NA
+"Solids, total",NULL,192,192,epa_dmr,NA
+"Solids, total dissolved",NULL,192,192,epa_dmr,NA
+"Solids, total dissolved (inorganic)",NULL,192,192,epa_dmr,NA
+"Solids, total dissolved (TDS)",NULL,192,192,epa_dmr,NA
+"Solids, total dissolved- 180 deg. C",NULL,192,192,epa_dmr,NA
+"Solids, total dissolved, total tons",NULL,192,192,epa_dmr,NA
+"Solids, total fixed",NULL,192,192,epa_dmr,NA
+"Solids, total non- volatile, non-fixed",NULL,192,192,epa_dmr,NA
+"Solids, total susp per production",NULL,192,192,epa_dmr,NA
+"Solids, total susp. per 1000 gallons",NULL,192,192,epa_dmr,NA
+"Solids, total suspd. non-volatile",NULL,192,192,epa_dmr,NA
+"Solids, total suspended",NULL,192,192,epa_dmr,NA
+"Solids, Total Suspended, Net Value",NULL,192,192,epa_dmr,NA
+"Solids, total volatile",NULL,192,192,epa_dmr,NA
+"Solids, volatile dissolved",NULL,192,192,epa_dmr,NA
+"Solids, volatile suspended",NULL,192,192,epa_dmr,NA
+Suspended solids,NULL,192,192,epa_dmr,NA
+"Suspended Solids, Total",NULL,192,192,epa_dmr,NA
+"Suspended solids, total annual",NULL,192,192,epa_dmr,NA
+"Suspended solids, total discharge",NULL,192,192,epa_dmr,NA
+Total acid priority pollutants,NULL,192,192,epa_dmr,NA
+Total agg concentration #1,NULL,192,192,epa_dmr,NA
+Total agg concentration #2,NULL,192,192,epa_dmr,NA
+Total agg concentration #3,NULL,192,192,epa_dmr,NA
+Total agg concentration #4,NULL,192,192,epa_dmr,NA
+Total agg concentration #5,NULL,192,192,epa_dmr,NA
+Total agg concentration #6,NULL,192,192,epa_dmr,NA
+Total base/neutral priority pollutants,NULL,192,192,epa_dmr,NA
+Total suspendable solids,NULL,192,192,epa_dmr,NA
+Total Suspended Solids,NULL,192,192,epa_dmr,NA
+Total volatile priority pollutants,NULL,192,192,epa_dmr,NA
+"Well fluids, oil & grease",NULL,192,192,epa_dmr,NA
+"WWT drill fluids/cuttings, TDS",NULL,192,192,epa_dmr,NA
+Aluminium dissolved,7429-90-5_dissolved,193,193,ip_chem_lakes,1
+Antimony dissolved,7440-36-0_dissolved,193,193,ip_chem_lakes,1
+Arsenic dissolved,7440-38-2_dissolved,193,193,ip_chem_lakes,1
+Barium dissolved,7440-39-3_dissolved,193,193,ip_chem_lakes,1
+Benzo(j)fluoranthÄne,205-82-3,193,193,ip_chem_lakes,1
+Benzo(j)fluoranthčne,205-82-3,193,193,ip_chem_lakes,1
+Beryllium dissolved,7440-41-7_dissolved,193,193,ip_chem_lakes,1
+Boron dissolved,7440-42-8_dissolved,193,193,ip_chem_lakes,1
+Cadmium dissolved,7440-43-9_dissolved,193,193,ip_chem_lakes,1
+Chromium dissolved,7440-47-3_dissolved,193,193,ip_chem_lakes,1
+Cobalt dissolved,7440-48-4_dissolved,193,193,ip_chem_lakes,1
+Copper dissolved,7440-50-8_dissolved,193,193,ip_chem_lakes,1
+Detergents,NULL,193,193,ip_chem_lakes,1
+Detergents,no CAS 3,193,193,ip_chem_lakes,1
+Fluorid dissolved,16984-48-8_dissolved,193,193,ip_chem_lakes,1
+Heptenophos,23560-59-0Â ,193,193,ip_chem_lakes,1
+Iron dissolved,7439-89-6_dissolved,193,193,ip_chem_lakes,1
+Lead dissolved,7439-92-1_dissolved,193,193,ip_chem_lakes,1
+Manganese dissolved,7439-96-5_dissolved,193,193,ip_chem_lakes,1
+Mercury dissolved,7439-97-6_dissolved,193,193,ip_chem_lakes,1
+Molybdenum and its compounds dissolved,7439-98-7_dissolved,193,193,ip_chem_lakes,1
+Molybdenum dissolved,7439-98-7_dissolved,193,193,ip_chem_lakes,1
+m-XylÄne/p-XylÄne (somme),not known (2),193,193,ip_chem_lakes,1
+m-Xylčne/p-Xylčne (somme),not known (2),193,193,ip_chem_lakes,1
+Nickel dissolved,7440-02-0_dissolved,193,193,ip_chem_lakes,1
+Selenium dissolved,7782-49-2_dissolved,193,193,ip_chem_lakes,1
+Silver dissolved,7440-22-4_dissolved,193,193,ip_chem_lakes,1
+"Somme(b,j,k)-BenzofluoranthÄnes",not known (3),193,193,ip_chem_lakes,1
+"Somme(b,j,k)-Benzofluoranthčnes",not known (3),193,193,ip_chem_lakes,1
+Strontium dissolved,7440-24-6_dissolved,193,193,ip_chem_lakes,1
+Tellurium dissolved,13494-80-9_dissolved,193,193,ip_chem_lakes,1
+Thallium dissolved,7440-28-0_dissolved,193,193,ip_chem_lakes,1
+Tin and its compounds dissolved,7440-31-5_dissolved,193,193,ip_chem_lakes,1
+Tin dissolved,7440-31-5_dissolved,193,193,ip_chem_lakes,1
+Titanium dissolved,7440-32-6_dissolved,193,193,ip_chem_lakes,1
+Uranium dissolved,7440-61-1_dissolved,193,193,ip_chem_lakes,1
+Vanadium dissolved,7440-62-2_dissolved,193,193,ip_chem_lakes,1
+XylÄnes totaux,not known (4),193,193,ip_chem_lakes,1
+Xylčnes totaux,not known (4),193,193,ip_chem_lakes,1
+Zinc dissolved,7440-66-6_dissolved,193,193,ip_chem_lakes,1
+"thickness (""""organ"""" described in matrx - ex. bb es(egg shell) ex (shell))",NULL,183,183,ices_biota,NA

@@ -1,0 +1,562 @@
+"source_id","reported_units","n","cleaned_units"
+150,"µg/ft2",2,NA
+150,"ng/cm2",51,NA
+150,"ppm",4,NA
+152,"µg/dL",16,NA
+152,"µg/g creatinine",16,NA
+152,"µg/L",432,NA
+152,"ng/g lipid",1648,NA
+152,"ng/L",144,NA
+152,"ng/mL",288,NA
+152,"pg/mL",72,NA
+153,"ng/m3",452,NA
+178,"ppb",672,NA
+178,"ppm",80,NA
+178,"ppt",2944,NA
+193,"µg/kg",3362,NA
+193,"µg/l",4713888,NA
+193,"mg/kg",6391,NA
+193,"mg/l",36529,NA
+193,"mg/L",290,NA
+193,"ng/l",628,NA
+193,"pg/l",36,NA
+194,"µg/g",36183,NA
+194,"µg/g crt",220,NA
+194,"µg/l",48924,NA
+194,"µg/L",1084,NA
+194,"mg/g",2247,NA
+194,"mg/l",11502,NA
+194,"ng/g",63151,NA
+194,"ng/g lipid",4320,NA
+194,"ng/l",2160,NA
+194,"ng/L",5442,NA
+194,"ng/mL",3910,NA
+194,"ug/L",3618,NA
+201,"mg/L",9298885,NA
+222,"µg/g",3,NA
+222,"µg/m3",101,NA
+222,"ng/m3",146,NA
+225,"absorbance units 10e-4 per meter",3,NA
+225,"adducts per 10e8 nucleotides",11,NA
+225,"adducts per 10e9 nucleotides",6,NA
+225,"Air Quality Index",168,NA
+225,"algorithm intensity score",12,NA
+225,"asbestos bodies per gram",7,NA
+225,"AUC55Mn:43Ca",13,NA
+225,"becquerels per cubic meter",57,NA
+225,"becquerels per kilogram",108,NA
+225,"endotoxin units per cubic meter",94,NA
+225,"endotoxin units per milligram",27,NA
+225,"endotoxin units per square meter",2,NA
+225,"estradiol equivalents, milligrams per person per day",10,NA
+225,"estradiol equivalents, picomoles per milliliter",4,NA
+225,"femtograms per cubic meter",2,NA
+225,"femtograms per gram",3,NA
+225,"femtograms per gram lipid",3,NA
+225,"fibers per gram",6,NA
+225,"free-base nicotine fraction",11,NA
+225,"geometric mean ratio",112,NA
+225,"grams",41,NA
+225,"grams per 100 grams liquid",14,NA
+225,"grams per day",91,NA
+225,"grams per day per person",10,NA
+225,"grams per deciliter",1,NA
+225,"grams per gram creatinine",4,NA
+225,"grams per hour",16,NA
+225,"grams per kilogram",16,NA
+225,"grams per liter",18,NA
+225,"grams per megajoule",32,NA
+225,"gray units",4,NA
+225,"hazard quotient",102,NA
+225,"hours",92,NA
+225,"hours per day",6,NA
+225,"incremental lifetime cancer risk",16,NA
+225,"international units per day",22,NA
+225,"international units per liter",2,NA
+225,"kilobecquerels per square meter",37,NA
+225,"kilograms",263,NA
+225,"kilograms per hectacre",26,NA
+225,"kilograms per hectare per year",180,NA
+225,"kilograms per hour",2,NA
+225,"kilograms per kilometer per day",8,NA
+225,"lifetime average daily dose",8,NA
+225,"lifetime average daily dose dioxin-like PCBs-toxic equivalency quotient",8,NA
+225,"Manganese-55 to Calcium-43 area under the curve x 10e4",60,NA
+225,"micrograms",405,NA
+225,"micrograms inhaled per breath",12,NA
+225,"micrograms per 100 square centimeters",6,NA
+225,"micrograms per 10 puffs",23,NA
+225,"micrograms per 15 puffs",27,NA
+225,"micrograms per 24 hours",13,NA
+225,"micrograms per 30 puffs",17,NA
+225,"micrograms per cigarette",6,NA
+225,"micrograms per cubic centimeter",6,NA
+225,"micrograms per cubic meter",9745,NA
+225,"micrograms per cubic meter per day",4,NA
+225,"micrograms per cubic meter per hour",2,NA
+225,"micrograms per cubic meter per kilogram active ingredient mixed",7,NA
+225,"micrograms per cubic meter per minute",3,NA
+225,"micrograms per cubic meter per N=C=O group",61,NA
+225,"micrograms per cubic meter-years",4,NA
+225,"micrograms per day",810,NA
+225,"micrograms per day per kilogram body weight",293,NA
+225,"micrograms per day per person",24,NA
+225,"micrograms per deciliter",3446,NA
+225,"micrograms per e-cigarette",3,NA
+225,"micrograms per gram",7442,NA
+225,"micrograms per gram creatinine",14665,NA
+225,"micrograms per gram hemoglobin",31,NA
+225,"micrograms per gram lipid",197,NA
+225,"micrograms per hour",245,NA
+225,"micrograms per kilogram",1169,NA
+225,"micrograms per kilogram body weight-day",1,NA
+225,"micrograms per kilogram body weight per day",1278,NA
+225,"micrograms per kilogram body weight per week",77,NA
+225,"micrograms per kilogram lipid",1881,NA
+225,"micrograms per kilogram per day",516,NA
+225,"micrograms per kilogram per month",28,NA
+225,"micrograms per kilogram per year",64,NA
+225,"micrograms per liter",32004,NA
+225,"micrograms per liter per kilogram active ingredient mixed",7,NA
+225,"micrograms per liter per year",4,NA
+225,"micrograms per micromole creatinine",18,NA
+225,"micrograms per milligram",15,NA
+225,"micrograms per milligram creatinine",21,NA
+225,"micrograms per milligram hemoglobin",1,NA
+225,"micrograms per milliliter",188,NA
+225,"micrograms per millimole creatine",33,NA
+225,"micrograms per millimole creatinine",539,NA
+225,"micrograms per normal cubic meter",6,NA
+225,"micrograms per puff",261,NA
+225,"micrograms per sample",114,NA
+225,"micrograms per session",12,NA
+225,"micrograms per square centimeter",30,NA
+225,"micrograms per square foot",90,NA
+225,"micrograms per square meter",107,NA
+225,"micrograms per square meter per hour",39,NA
+225,"micrograms per square meter per sampling day",39,NA
+225,"microinternational units per liter",36,NA
+225,"microinternational units per milliliter",26,NA
+225,"micrometers",16,NA
+225,"micromolar",50,NA
+225,"micromoles per day",6,NA
+225,"micromoles per gram",3,NA
+225,"micromoles per gram creatinine",19,NA
+225,"micromoles per kilogram",6,NA
+225,"micromoles per liter",632,NA
+225,"micromoles per millimole creatinine",249,NA
+225,"micromoles per mole creatinine",556,NA
+225,"micromoles per mole heme",13,NA
+225,"micromoles per square meter",6,NA
+225,"milligrams",364,NA
+225,"milligrams per 100 grams hair",30,NA
+225,"milligrams per 10 puffs",4,NA
+225,"milligrams per 15 puffs",31,NA
+225,"milligrams per cigarette",5,NA
+225,"milligrams per cubic meter",691,NA
+225,"milligrams per cubic meter per minute",3,NA
+225,"milligrams per cubic meter per year",12,NA
+225,"milligrams per cubic meter-years",6,NA
+225,"milligrams per day",171,NA
+225,"milligrams per day per child",2,NA
+225,"milligrams per deciliter",347,NA
+225,"milligrams per gram",312,NA
+225,"milligrams per gram creatinine",352,NA
+225,"milligrams per kilogram",2544,NA
+225,"milligrams per kilogram active ingredient mixed",14,NA
+225,"milligrams per kilogram body weight per day",137,NA
+225,"milligrams per kilogram lipid",28,NA
+225,"milligrams per kilogram per day",166,NA
+225,"milligrams per kilogram per day x 10e-4",110,NA
+225,"milligrams per kilogram per day x 10e-6",110,NA
+225,"milligrams per liter",1868,NA
+225,"milligrams per liter per year",4,NA
+225,"milligrams per milliliter",378,NA
+225,"milligrams per mole creatinine",5,NA
+225,"milligrams per square centimeter",6,NA
+225,"milligrams per square meter",13,NA
+225,"milligrams per ton per day",4,NA
+225,"milli-international units per liter",4,NA
+225,"milli-international units per milliliter",5,NA
+225,"millimoles per 24 hours",9,NA
+225,"millimoles per day",12,NA
+225,"millimoles per hour",18,NA
+225,"millimoles per liter",121,NA
+225,"millimoles per millimole creatinine",18,NA
+225,"millimoles per mole creatinine",44,NA
+225,"millisieverts per year",2,NA
+225,"milliunits per liter",15,NA
+225,"Mn:Ca AUC x 10000",61,NA
+225,"moles per day",28,NA
+225,"moles per liter",27,NA
+225,"nanograms",738,NA
+225,"nanograms per 10 puffs",3,NA
+225,"nanograms per 15 puffs",61,NA
+225,"nanograms per 24 hour per kilogram body weight",15,NA
+225,"nanograms per cubic centimeter",4,NA
+225,"nanograms per cubic meter",5092,NA
+225,"nanograms per day",214,NA
+225,"nanograms per deciliter",259,NA
+225,"nanograms per gram",7703,NA
+225,"nanograms per gram creatinine",554,NA
+225,"nanograms per gram dust",12,NA
+225,"nanograms per gram fat",630,NA
+225,"nanograms per gram filter",10,NA
+225,"nanograms per gram lipid",14885,NA
+225,"nanograms per gram silicone per day",6,NA
+225,"nanograms per gram wristband",19,NA
+225,"nanograms per handwipe",14,NA
+225,"nanograms per hour",2,NA
+225,"nanograms per kilocalorie",25,NA
+225,"nanograms per kilogram body weight per day",1206,NA
+225,"nanograms per kilogram body weight per week",16,NA
+225,"nanograms per kilogram fat",6,NA
+225,"nanograms per kilogram lipid",113,NA
+225,"nanograms per kilogram per day",199,NA
+225,"nanograms per liter",1614,NA
+225,"nanograms per microliter",20,NA
+225,"nanograms per milligram",387,NA
+225,"nanograms per milligram cholesterol",4,NA
+225,"nanograms per milligram creatinine",958,NA
+225,"nanograms per milligram lipid",108,NA
+225,"nanograms per milliliter",30677,NA
+225,"nanograms per millimole creatinine",24,NA
+225,"nanograms per person per day",18,NA
+225,"nanograms per puff",8,NA
+225,"nanograms per sample",135,NA
+225,"nanograms per specific gravity unit",17,NA
+225,"nanograms per square centimeter",24,NA
+225,"nanograms per square centimeter per year",24,NA
+225,"nanograms per square meter",14,NA
+225,"nanomolar",42,NA
+225,"nanomoles per day",208,NA
+225,"nanomoles per gram",60,NA
+225,"nanomoles per gram creatinine",1315,NA
+225,"nanomoles per gram hemoglobin",1,NA
+225,"nanomoles per kilogram body weight",30,NA
+225,"nanomoles per kilogram per day",196,NA
+225,"nanomoles per liter",1283,NA
+225,"nanomoles per microliter",3,NA
+225,"nanomoles per milligram creatinine",224,NA
+225,"nanomoles per milliliter",62,NA
+225,"nanomoles per millimole creatinine",46,NA
+225,"nanomoles per mole creatinine",3,NA
+225,"nanomoles per year per gram creatinine",21,NA
+225,"particle number count per 1000 cubic centimeters",72,NA
+225,"parts per 100 million",18,NA
+225,"parts per billion",4534,NA
+225,"parts per billion by volume",78,NA
+225,"parts per million",3770,NA
+225,"parts per million, x 0.001",10,NA
+225,"parts per million, x 0.01",20,NA
+225,"parts per million, x 0.1",10,NA
+225,"parts per million, x 10",7,NA
+225,"parts per trillion",873,NA
+225,"parts per trillion lipid",6,NA
+225,"parts per trillion toxic equivalent",3,NA
+225,"per 10e8 nucleotides",2,NA
+225,"percent",544,NA
+225,"percent by weight",10,NA
+225,"percent decrease per year",32,NA
+225,"percent decrease relative to placebo",6,NA
+225,"percent exposed",3,NA
+225,"percent exposure limit",9,NA
+225,"percent of nicotine content",104,NA
+225,"percent of reported human exposures",10,NA
+225,"percent of total arsenic metabolites",13,NA
+225,"percent total fatty acids",12,NA
+225,"per grams creatinine",2,NA
+225,"picocuries per liter",69,NA
+225,"picograms per 1,000,000 cells",2,NA
+225,"picograms per 10,000 cells",63,NA
+225,"picograms per cubic meter",207,NA
+225,"picograms per deciliter",10,NA
+225,"picograms per gram",1534,NA
+225,"picograms per gram fat",378,NA
+225,"picograms per gram hemoglobin",104,NA
+225,"picograms per gram lipid",2365,NA
+225,"picograms per kilogram body weight per day",256,NA
+225,"picograms per liter",8,NA
+225,"picograms per microgram creatinine",24,NA
+225,"picograms per microgram particulate matter 2.5",14,NA
+225,"picograms per microliter",48,NA
+225,"picograms per milligram",112,NA
+225,"picograms per milligram albumin",316,NA
+225,"picograms per milligram creatinine",132,NA
+225,"picograms per milliliter",1583,NA
+225,"picograms TCDD-equivalents per liter",12,NA
+225,"picograms toxic equivalent per gram lipid",58,NA
+225,"picogram TEQ-WHO 05 per gram",4,NA
+225,"picomolar",42,NA
+225,"picomoles",208,NA
+225,"picomoles per gram",97,NA
+225,"picomoles per gram fat",250,NA
+225,"picomoles per gram globin",160,NA
+225,"picomoles per gram hemoglobin",74,NA
+225,"picomoles per gram lipid",283,NA
+225,"picomoles per liter",98,NA
+225,"picomoles per milligram creatinine",102,NA
+225,"picomoles per milliliter",26,NA
+225,"pounds per acre per year",75,NA
+225,"pounds per square mile",84,NA
+225,"pounds per year",6,NA
+225,"ratio of 208Pb to 43Ca",9,NA
+225,"ratio of child-to-mother concentration",58,NA
+225,"ratio of observed measure 1999-2002 NHANES data over SHEDS modeled data",8,NA
+225,"ratio of the sum of high molecular weight PAHs to the sum of 18 high and low molecular weight PAHs",16,NA
+225,"relative units",8,NA
+225,"square centimeters per gram",1,NA
+225,"square micrometers",2,NA
+225,"tonnes",70,NA
+225,"tons per year",294,NA
+225,"toxic equivalency factor",18,NA
+225,"toxic equivalent parts per trillion",3,NA
+225,"toxic equivalents",259,NA
+225,"toxicity equivalence to dioxins",51,NA
+225,"units of working level",3,NA
+225,"units per cubic meter",12,NA
+225,NA,10096,NA
+226,"µg As/g of creatinine",2375,NA
+226,"µg As/L",2375,NA
+226,"µg/dL",700,NA
+226,"µg /g of creatinine",180,NA
+226,"µg/g of creatinine",26865,NA
+226,"µg /L",180,NA
+226,"µg/L",34260,NA
+226,"mg/g of creatinine",580,NA
+226,"mg/L",580,NA
+226,"ng/g of creatinine",2795,NA
+226,"ng/L",2795,NA
+226,"ng/mL",9435,NA
+226,"pg/mg of creatinine",140,NA
+226,"pg/mL",1185,NA
+226,"pmol/g hemoglobin",220,NA
+158,"Bq/kg dry",10,NA
+158,"Bq/kg wet",34,NA
+158,"g/dL",233,NA
+158,"g/g",69,NA
+158,"g/g dry",2542,NA
+158,"g/g lipid",239,NA
+158,"g/kg dry",2213,NA
+158,"g/L",132,NA
+158,"mg/g",20,NA
+158,"mg/g dry",28,NA
+158,"mg/L",61,NA
+158,"ng/g",100,NA
+158,"ng/g dry",3044,NA
+158,"ng/g lipid",14545,NA
+158,"ng/g wet",6265,NA
+158,"ng/kg dry",60,NA
+158,"ng/L",4576,NA
+158,"ng/m3",19,NA
+158,"ng/mg creatinine",177,NA
+158,"ng/mL",3186,NA
+158,"ng/PUF",540,NA
+158,"pg/g dry",4529,NA
+158,"pg/g lipid",2187,NA
+158,"pg/g wet",1975,NA
+158,"pg/m3",1242,NA
+158,"pg/PUF",491,NA
+158,NA,541,NA
+160,"ng/L",3150,NA
+168,"",7997795,NA
+168,"%",808127,NA
+168,"0/00",7164,NA
+168,"#/100ml",2,NA
+168,"% by wt",10711,NA
+168,"cfu/100ml",868,NA
+168,"cfu/ml",40,NA
+168,"cfu/mL",282,NA
+168,"cm",4549,NA
+168,"cm3/g STP",2183,NA
+168,"cm3/g @STP",247,NA
+168,"code",31584,NA
+168,"col/mL",617,NA
+168,"count",14575,NA
+168,"cp/100 mL",505,NA
+168,"cp/L",18,NA
+168,"days",115,NA
+168,"deg C",452,NA
+168,"dpm/g",309,NA
+168,"fg/kg",2783,NA
+168,"fibers/l",29,NA
+168,"FNU",1062,NA
+168,"ft",40169,NA
+168,"g",10800,NA
+168,"g H2O/g",175,NA
+168,"g/kg",2633,NA
+168,"g/l",12975,NA
+168,"g/L",1475,NA
+168,"in",64300,NA
+168,"in/hr",212,NA
+168,"in/week",304,NA
+168,"IVFU",32,NA
+168,"lb/day",346,NA
+168,"m",41,NA
+168,"#/m2",829,NA
+168,"mg",16585,NA
+168,"mg/cm2",284,NA
+168,"mg/cm3",1,NA
+168,"mgd",7,NA
+168,"mg/g",433,NA
+168,"mg/kg",228911,NA
+168,"mg/kg as N",302,NA
+168,"mg/kg as P",797,NA
+168,"mg/l",20284809,NA
+168,"mg/L",90591,NA
+168,"mg/l as Cr",274,NA
+168,"mg/l as N",608113,NA
+168,"mg/l asNO3",157302,NA
+168,"mg/l as P",385126,NA
+168,"mg/l asPO4",133476,NA
+168,"mg/l CaCO3",3155,NA
+168,"mg/l NH4",133774,NA
+168,"mg/l NO3",12387,NA
+168,"mg/m2",8295,NA
+168,"mg/m2 NH4",1,NA
+168,"mg/m3",150646,NA
+168,"mg/ml",101,NA
+168,"mg/mL @25C",501,NA
+168,"mi",934,NA
+168,"ml/l",3038,NA
+168,"mmol/L",474,NA
+168,"MPN/100ml",157,NA
+168,"mS/cm",3,NA
+168,"mV",132549,NA
+168,"m/y",130,NA
+168,"ng",357,NA
+168,"ng/g",357728,NA
+168,"ng/kg",52231,NA
+168,"ng/l",1429954,NA
+168,"ng/m2/day",4635,NA
+168,"ng/ml",135,NA
+168,"ng/SPMD",46,NA
+168,"nm",4,NA
+168,"nmol/kg",2176,NA
+168,"nmol/L",23,NA
+168,"nmol/m3",15,NA
+168,"None",16550,NA
+168,"NTU",7107,NA
+168,"nu",1,NA
+168,"pCi/g",1546,NA
+168,"pCi/L",46126,NA
+168,"pct modern",11557,NA
+168,"per mil",55197,NA
+168,"pg/g",110174,NA
+168,"pg/kg",3145,NA
+168,"pg/l",42159,NA
+168,"ppb",20938,NA
+168,"ppm",56278,NA
+168,"ppmv",24,NA
+168,"ppt",2271646,NA
+168,"ppth",486401,NA
+168,"PSS",103751,NA
+168,"PSU",22357,NA
+168,"ratio",55,NA
+168,"% recovery",65226,NA
+168,"RFU",3103,NA
+168,"% saturatn",205435,NA
+168,"% sediment",1,NA
+168,"ton/d/ft",464,NA
+168,"tons/day",739,NA
+168,"T.U.",154,NA
+168,"ueq/L",54641,NA
+168,"ug",3813,NA
+168,"ugAtrazn/L",968,NA
+168,"ug/cm2",101,NA
+168,"ug/g",40588,NA
+168,"ug/kg",224630,NA
+168,"ug/l",5785505,NA
+168,"ug/L",14432,NA
+168,"ug/L as As",1744,NA
+168,"ug/l as Cr",1682,NA
+168,"ug/l as P",89,NA
+168,"ug/m2",158,NA
+168,"ug/m3",364,NA
+168,"ug/ml",46,NA
+168,"ug/net",24,NA
+168,"umho/cm",2,NA
+168,"umol",44436,NA
+168,"umol/g",176,NA
+168,"umol/L",7965,NA
+168,"uS/cm",242,NA
+168,"volts",8,NA
+168,NA,3135826,NA
+176,"ppb",497463,NA
+177,"µg/m3",2871688,NA
+179,"-------------------------------",84,NA
+179,"-----------------------------------",252,NA
+179,"------------------------------------",84,NA
+179,"-------------------------------------",168,NA
+179,"--------------------------------------",336,NA
+179,"----------------------------------------",168,NA
+179,"-----------------------------------------",420,NA
+179,"------------------------------------------",168,NA
+179,"-------------------------------------------",981,NA
+179,"--------------------------------------------",1960,NA
+179,"---------------------------------------------",2184,NA
+179,"----------------------------------------------",756,NA
+179,"-----------------------------------------------",504,NA
+179,"------------------------------------------------",84,NA
+179,"---------------------------------------------------",84,NA
+179,"----------------------------------------------------",756,NA
+179,"-----------------------------------------------------",84,NA
+179,"MG/KG",2604,NA
+179,"UG/KG",504,NA
+181,"mg/kg",142364,NA
+181,"ug/kg",1,NA
+182,"%",5,NA
+182,"B",3906,NA
+182,"M",4482,NA
+182,"ppb",2808,NA
+182,"ppm",8885,NA
+182,"ug/mL",3,NA
+182,NA,11,NA
+183,"gm/g",67,NA
+183,"mBq/g",122,NA
+183,"mg/kg",80258,NA
+183,"ng/g",28038,NA
+183,"ng g-1 A380-1",638,NA
+183,"ng g-1 A660-1",241,NA
+183,"ng/kg",6565,NA
+183,"ng/min/mg protein",1785,NA
+183,"ng/ml",6295,NA
+183,"nmol/min/gm liver",636,NA
+183,"nmol/min/mg protein",489,NA
+183,"pg/g",5502,NA
+183,"pg/kg",536,NA
+183,"pmol/min/mg protein",26894,NA
+183,"ratio",808,NA
+183,"ug/g",16123,NA
+183,"ug/kg",1086375,NA
+183,"ug/mg protein",721,NA
+183,"ug/ml",65,NA
+183,"ug Sn/kg",431,NA
+183,"umol/min/mg protein",84,NA
+184,"mg/L",171261,NA
+185,"%",9962,NA
+185,"Bq/kg",12,NA
+185,"dpm/g dw",220,NA
+185,"g/g",9094,NA
+185,"g/kg",2648,NA
+185,"gm/g",2453,NA
+185,"mBq/g",451,NA
+185,"mg/g",6,NA
+185,"mg/kg",23374,NA
+185,"ng/g",2791,NA
+185,"ng/kg",2015,NA
+185,"sc",22,NA
+185,"ug/g",9974,NA
+185,"ug/kg",470079,NA
+185,"ug Sn/kg",135,NA
+186,"µg/kg",826743,NA
+186,"µmol/min/mg protein",84,NA
+187,"µg/l",349988,NA
+187,NA,172,NA
+188,"µg/kg",338066,NA
+191,"PPB",15,NA
+191,"PPM",4432,NA
+191,NA,604,NA
+195,"µg/L",4216,NA
+211,"ug/L",2867262,NA
+216,"ppb",72205,NA

@@ -1,0 +1,1433 @@
+name,reported_media,harmonized_media
+chem_theatre,gaseous phase,ambient air
+chem_theatre,outdoor air,ambient air
+ctd,air,ambient air
+ctd,"air, ambient",ambient air
+ctd,"air, outdoor",ambient air
+usgs_tissue,phalacrocorax auritus,wildlife (birds)
+ctd,"milk, human",breast milk
+ctd,"water, drinking",drinking water
+ctd,"water, drinking, bottled",drinking water
+ctd,"water, tap",drinking water
+fda,"bottled drinking water (mineral/spring), not carbonated or flavored",drinking water
+ctd,"water, cooking",drinking water
+ctd,fish,wildlife (fish)
+ctd,food,food product
+fda,"apple juice, bottled",food product
+fda,"applesauce, bottled",food product
+fda,"apricots, canned in heavy/light syrup",food product
+fda,"bagel, plain, toasted",food product
+fda,"beef roast, chuck, oven-roasted",food product
+fda,"beef steak, loin/sirloin, broiled",food product
+fda,"beef stroganoff w/ noodles, homemade",food product
+fda,"beef w/ vegetables in sauce, from chinese carry-out",food product
+fda,"beef, ground, regular, pan-cooked",food product
+fda,beer,food product
+fda,"beets, canned",food product
+fda,"bf, apples with berries",food product
+fda,"bf, apples with berries",food product
+fda,"bf, apples with fruit other than berries",food product
+fda,"bf, applesauce",food product
+fda,"bf, apricots w/ mixed fruit",food product
+fda,"bf, apricots w/ mixed fruit",food product
+fda,"bf, arrowroot cookies",food product
+fda,"bf, arrowroot cookies",food product
+fda,"bf, banana dessert",food product
+fda,"bf, banana dessert",food product
+fda,"bf, bananas",food product
+fda,"bf, bananas and pineapple",food product
+fda,"bf, bananas and pineapple",food product
+fda,"bf, beef and broth/gravy",food product
+fda,"bf, beef and noodles/beef stroganoff",food product
+fda,"bf, beef and noodles/beef stroganoff",food product
+fda,"bf, carrots",food product
+fda,"bf, cereal, barley, dry, prep w/ water",food product
+fda,"bf, cereal, barley, dry, prep w/ water",food product
+fda,"bf, cereal, mixed, dry, prep w/ water",food product
+fda,"bf, cereal, mixed, dry, prep w/ water",food product
+fda,"bf, cereal, oatmeal w/ fruit, prep w/ water",food product
+fda,"bf, cereal, oatmeal w/ fruit, prep w/ water",food product
+fda,"bf, cereal, oatmeal, dry, prep w/ water",food product
+fda,"bf, cereal, rice w/apples, dry, prep w/ water",food product
+fda,"bf, cereal, rice, dry, prep w/ water",food product
+fda,"bf, chicken and broth/gravy",food product
+fda,"bf, chicken noodle dinner",food product
+fda,"bf, chicken w/ rice",food product
+fda,"bf, chicken w/ rice",food product
+fda,"bf, custard/pudding",food product
+fda,"bf, dutch apple/apple cobbler",food product
+fda,"bf, fruit dessert/pudding",food product
+fda,"bf, fruit yogurt dessert",food product
+fda,"bf, fruit yogurt dessert",food product
+fda,"bf, green beans",food product
+fda,"infant formula, milk-based, high iron, rtf",food product
+fda,"bf, infant formula, milk-based, high iron, rtf",food product
+fda,"infant formula, milk-based, low iron, rtf",food product
+fda,"bf, infant formula, milk-based, high iron, rtf",food product
+fda,"bf, infant formula, milk-based, iron fortified, rtf",food product
+fda,"bf, infant formula, milk-based, iron fortified, rtf",food product
+fda,"bf, infant formula, milk-based, low iron, rtf",food product
+fda,"bf, infant formula, soy-based, rtf",food product
+fda,"bf, juice, apple",food product
+fda,"bf, juice, apple-banana",food product
+fda,"bf, juice, apple-banana",food product
+fda,"bf, juice, apple-cherry",food product
+fda,"bf, juice, apple-cherry",food product
+fda,"bf, juice, apple-grape",food product
+fda,"bf, juice, apple-grape",food product
+fda,"bf, juice, grape",food product
+fda,"bf, juice, grape",food product
+fda,"bf, juice, mixed fruit",food product
+fda,"bf, juice, mixed fruit",food product
+fda,"bf, juice, orange",food product
+fda,"bf, juice, pear",food product
+fda,"bf, juice, pear",food product
+fda,"bf, lamb and broth/gravy",food product
+fda,"bf, macaroni and cheese",food product
+fda,"bf, macaroni and cheese",food product
+fda,"bf, macaroni, tomato and beef",food product
+fda,"bf, mixed vegetables",food product
+fda,"bf, peach cobbler/dessert",food product
+fda,"bf, peach cobbler/dessert",food product
+fda,"bf, peaches",food product
+fda,"bf, pears",food product
+fda,"bf, pears and pineapple",food product
+fda,"bf, pears and pineapple",food product
+fda,"bf, peas",food product
+fda,"bf, plums/prunes w/ apples or pears",food product
+fda,"bf, plums/prunes w/ apples or pears",food product
+fda,"bf, plums/prunes w/apples or pears",food product
+fda,"bf, squash",food product
+fda,"bf, sweet potatoes",food product
+fda,"bf, teething biscuits",food product
+fda,"bf, turkey and  rice",food product
+fda,"bf, turkey and rice",food product
+fda,"bf, turkey and broth/gravy",food product
+fda,"bf, veal and broth/gravy",food product
+fda,"bf, vegetables and beef",food product
+fda,"bf, vegetables and chicken",food product
+fda,"bf, vegetables and ham",food product
+fda,"bf, vegetables and turkey",food product
+fda,"bf, vegetables and turkey",food product
+fda,"bf, zweiback toast",food product
+fda,"bf, zweiback toast",food product
+fda,bf. apples with berries,food product
+fda,"biscuits, refrigerated-type, baked",food product
+fda,black olives,food product
+fda,bologna (beef/pork),food product
+fda,"bread, cracked wheat",food product
+fda,"bread, multigrain",food product
+fda,"bread, rye",food product
+fda,"bread, white, enriched",food product
+fda,"bread, whole wheat",food product
+fda,breakfast tart/toaster pastry,food product
+fda,"brown gravy, canned or bottled",food product
+fda,brownie,food product
+fda,"burrito w/ beef, beans and cheese, from mexican carry-out",food product
+fda,"butter, regular (not lowfat)",food product
+fda,"butter, regular (not lowfat), salted",food product
+fda,"cake, chocolate w/ icing",food product
+fda,"cake, white w/ icing (formerly yellow cake)",food product
+fda,"cake, white w/ icing",food product
+fda,"cake, yellow w/ icing",food product
+fda,"candy bar, chocolate, nougat, and nuts",food product
+fda,"candy bar, milk chocolate, plain",food product
+fda,"candy, hard, any flavor",food product
+fda,"carbonated beverage, cola, low-calorie",food product
+fda,"carbonated beverage, cola, regular",food product
+fda,"carbonated beverage, fruit-flavored, regular",food product
+fda,"catfish, pan-cooked w/ oil",food product
+fda,"cheese, american, processed",food product
+fda,"cheese, cheddar, natural (sharp/mild)",food product
+fda,"cheese, swiss, natural",food product
+fda,"chicken breast, fried, fast-food (w/ skin)",food product
+fda,"chicken breast, oven-roasted (skin removed)",food product
+fda,"chicken filet (broiled) sandwich on bun, fast-food",food product
+fda,"chicken leg, fried, fast-food (w/ skin)",food product
+fda,"chicken leg, fried, fast-food  (w/ skin)",food product
+fda,"chicken nuggets, fast-food",food product
+fda,"chicken potpie, frozen, heated",food product
+fda,"chicken thigh, oven-roasted (skin removed)",food product
+fda,"chicken w/ vegetables in sauce, from chinese carry-out",food product
+fda,"chili con carne w/ beans, canned",food product
+fda,chocolate chip cookies,food product
+fda,"clam chowder, new england, canned, cond, prep w/ whl milk",food product
+fda,"coffee, decaffeinated, from ground",food product
+fda,"coffee, from ground",food product
+fda,"coleslaw, mayonnaise-type, from grocery/deli",food product
+fda,corn flakes cereal,food product
+fda,"corn, canned",food product
+fda,"corn/hominy grits, enriched, cooked",food product
+fda,corn/tortilla chips,food product
+fda,"cornbread, homemade",food product
+fda,"cottage cheese, creamed, lowfat (2% milk fat)",food product
+fda,"crackers, butter-type",food product
+fda,"crackers, graham",food product
+fda,"crackers, saltine",food product
+fda,"cranberry juice cocktail, canned/bottled",food product
+fda,cream cheese,food product
+fda,"cream of wheat (farina), enriched, cooked",food product
+fda,"cream substitute, non-diary, liquid/frozen",food product
+fda,"cream substitute, non-dairy, liquid/frozen",food product
+fda,"cream, half & half",food product
+fda,crisped rice cereal,food product
+fda,dill cucumber pickles,food product
+fda,"doughnut, cake-type, any flavor, from donut store",food product
+fda,"egg, cheese, and ham on english muffin, fast-food",food product
+fda,"eggs, boiled",food product
+fda,"eggs, scrambled w/ oil",food product
+fda,"english muffin, plain, toasted",food product
+fda,"fish sandwich on bun, fast-food",food product
+fda,"fish sticks or patty, frozen, oven-cooked",food product
+fda,"frankfurter (beef/pork), boiled",food product
+fda,"french fries, fast-food",food product
+fda,"fried rice, meatless, from chinese carry-out",food product
+fda,"fruit cocktail, canned in light syrup",food product
+fda,"fruit drink (10% juice), canned or bottled",food product
+fda,"fruit drink, from powder",food product
+fda,"fruit juice blend (100% juice), canned/bottled",food product
+fda,"fruit-flavored cereal, presweetened",food product
+fda,"gelatin dessert, any flavor",food product
+fda,"granola bar, w/ raisins",food product
+fda,granola w/ raisins,food product
+fda,"grape juice, frozen conc, reconstituted",food product
+fda,"grapefruit juice, bottled",food product
+fda,"green beans, canned",food product
+fda,"ham, cured (not canned), baked",food product
+fda,honey,food product
+fda,"ice cream, light, vanilla",food product
+fda,"ice cream, regular (not lowfat), vanilla",food product
+fda,"bf, infant formula, milk-based, high iron, rtf",food product
+fda,"infant formula, soy-based, rtf",food product
+fda,"jelly, any flavor",food product
+fda,"lamb chop, pan-cooked w/ oil",food product
+fda,"lasagna w/ meat, frozen, heated",food product
+fda,"lemonade, frozen conc, reconstituted",food product
+fda,"liver (beef/calf), pan-cooked w/ oil",food product
+fda,luncheon meat (chicken/turkey),food product
+fda,"luncheon meat, ham",food product
+fda,luncheon meat (ham),food product
+fda,"macaroni and cheese, prepared from box mix",food product
+fda,"macaroni salad, from grocery/deli",food product
+fda,"margarine, regular (not lowfat), salted",food product
+fda,"mayonnaise, regular, bottled",food product
+fda,"meal replacement, liquid rtd, any flavor",food product
+fda,"meatloaf, beef, homemade",food product
+fda,"milk shake, chocolate, fast-food",food product
+fda,"product-rte-fully cooked, sausage products",food product
+fda,"muffin, fruit or plain",food product
+fda,"mustard, yellow, plain",food product
+fda,"noodles, egg, enriched, boiled",food product
+fda,oat ring cereal,food product
+fda,"oatmeal, plain, cooked",food product
+fda,olive oil,food product
+fda,"orange juice, bottled/carton",food product
+fda,"orange juice, frozen conc, reconstituted",food product
+fda,"pancakes, frozen, heated",food product
+fda,"peach, canned in light/medium syrup",food product
+fda,"peanut butter, creamy",food product
+fda,"peanut butter, smooth/creamy",food product
+fda,"peanuts, dry roasted, salted",food product
+fda,"pear, canned in light syrup",food product
+fda,"pie, apple, fresh/frozen",food product
+fda,"pie, pumpkin, fresh/frozen",food product
+fda,"pineapple juice, frozen conc, reconstituted",food product
+fda,"pineapple, canned in juice",food product
+fda,"pinto beans, dry, boiled",food product
+fda,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",food product
+fda,"popcorn, microwave, butter-flavored",food product
+fda,"popsicle, fruit-flavored",food product
+fda,"pork and beans, canned",food product
+fda,"pork bacon, oven-cooked",food product
+fda,"pork chop, pan-cooked w/ oil",food product
+fda,"pork roast, loin, oven-roasted",food product
+fda,"pork sausage (link/patty), oven-cooked",food product
+fda,"pork sausage, (link/patty) oven-cooked",food product
+fda,"pork sausage, (link/patty) oven-cooked",food product
+fda,"pork sausage, (link/patty) oven-cooked",food product
+fda,potato chips,food product
+fda,"potato salad, mayonnaise-type, from grocery/deli",food product
+fda,"potato, boiled (w/out peel)",food product
+fda,"potato, mashed, prepared from fresh",food product
+fda,"potatoes, mashed, prepared from fresh",food product
+fda,"pretzels, hard, salted",food product
+fda,"prune juice, bottled",food product
+fda,"pudding, ready-to-eat, flavor other than chocolate",food product
+fda,"quarter-pound cheeseburger on bun, fast-food",food product
+fda,"quarter-pound hamburger on bun, fast-food",food product
+fda,raisin bran cereal,food product
+fda,"refried beans, canned",food product
+fda,"rice, white, enriched, cooked",food product
+fda,"salad dressing, creamy/buttermilk type, low-calorie",food product
+fda,"salad dressing, creamy/buttermilk type, regular",food product
+fda,"salad dressing, italian, regular",food product
+fda,"salami, luncheon-meat type (not hard)",food product
+fda,"salmon, steaks/fillets, baked",food product
+fda,sandwich cookies w/ cr?me filling,food product
+fda,sandwich cookies w/ creme filling,food product
+fda,"sherbet, fruit-flavored",food product
+fda,shredded wheat cereal,food product
+fda,"shrimp, boiled",food product
+fda,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",food product
+fda,"soup, chicken noodle, canned, cond, prep w/ water",food product
+fda,"soup, oriental noodles (ramen noodles), prep w/ water",food product
+fda,"soup, tomato, canned, cond, prep w/ water",food product
+fda,"soup, vegetable beef, canned, cond, prep w/ water",food product
+fda,sour cream,food product
+fda,"sour cream dip, any flavor",food product
+fda,"spaghetti w/ meat sauce, homemade",food product
+fda,"spaghetti, enriched, boiled",food product
+fda,"stew, beef and vegetable, canned",food product
+fda,sugar cookies,food product
+fda,"sugar, white, granulated",food product
+fda,"sunflower seeds (shelled), roasted, salted",food product
+fda,sweet & sour sauce,food product
+fda,"sweet potatoes, canned",food product
+fda,sweet roll/danish pastry,food product
+fda,"syrup, chocolate",food product
+fda,"syrup, pancake",food product
+fda,"taco/tostada w/ beef and cheese, from mexican carry-out",food product
+fda,"tea, decaffeinated, from tea bag",food product
+fda,"tea, from tea bag",food product
+fda,tomato catsup,food product
+fda,"tomato juice, bottled",food product
+fda,"tomato salsa, bottled",food product
+fda,"tomato sauce, plain, bottled",food product
+fda,"tortilla, flour",food product
+fda,"tuna noodle casserole, homemade",food product
+fda,"tuna, canned in water, drained",food product
+fda,"turkey breast, oven-roasted",food product
+fda,"turnip, fresh/frozen, boiled",food product
+fda,vegetable oil,food product
+fda,"white beans, dry, boiled",food product
+fda,"wine, dry table, red/ white",food product
+fda,"yogurt, lowfat, fruit-flavored",food product
+epa_nrp,"product-nrte-ground, comminuted or otherwise nonintact meat",food product
+epa_nrp,product-raw-intact-beef,food product
+epa_nrp,"product-rte-other fully cooked, not sliced",food product
+epa_nrp,"product-rte-fully cooked, sausage product",food product
+epa_nrp,"product-rte-other fully cooked, not sliced",food product
+epa_nrp,"product-thermally processed, commercially sterile",food product
+ctd,infant formula,food product
+ctd,"fruit, canned",food product
+ctd,"fruit, packaged",food product
+ctd,"meat, canned",food product
+ctd,"vegetables, canned",food product
+ctd,"vegetables, packaged",food product
+ctd,"beverage, caffeinated",food product
+ctd,"tea, black",food product
+ctd,"beverage, alcoholic",food product
+ctd,baking soda,food product
+ctd,butter,food product
+ctd,"egg, chicken",food product
+ctd,margarine,food product
+ctd,ice cream,food product
+ctd,"meat, pork",food product
+ctd,"meat, bacon",food product
+ctd,"meat, beef",food product
+ctd,"meat, poultry",food product
+ctd,"meat, processed",food product
+ctd,cheese,food product
+ctd,"milk, evaporated",food product
+ctd,"milk, nonfat",food product
+ctd,"milk, cow",food product
+ctd,"meat, ground turkey",food product
+ctd,"cheese, cottage",food product
+ctd,"meat, beef tenderloin",food product
+ctd,shrimp,food product
+ctd,"meat, pork sausage",food product
+ctd,"meat, ground chicken",food product
+ctd,"meat, wiener",food product
+ctd,"meat, ground lamb",food product
+ctd,"cheese, cream",food product
+ctd,"cheese, american",food product
+ctd,"cheese, gouda",food product
+ctd,"meat, duck",food product
+ctd,"meat, ground pork",food product
+ctd,"meat, ground beef",food product
+ctd,dairy products,food product
+ctd,meat,food product
+ctd,"meat, calf liver",food product
+ctd,"meat, chicken liver",food product
+ctd,"milk, goat",food product
+ctd,"tuna, canned",food product
+ctd,"yogurt, lowfat",food product
+ctd,milk,food product
+ctd,"salmon, canned",food product
+ctd,"tuna, canned albacore",food product
+ctd,"tuna, canned light",food product
+ctd,"tuna, canned white",food product
+ctd,seafood,food product
+ctd,tea,food product
+ctd,"tea, brick",food product
+ctd,turkey,food product
+ctd,"food, inorganic",food product
+chem_theatre,ground water,groundwater
+ctd,"water, well",groundwater
+ctd,abdominal muscles,human (other tissues or fluids)
+ctd,adipose tissue,human (other tissues or fluids)
+ctd,amniotic fluid,human (other tissues or fluids)
+ctd,bone and bones,human (other tissues or fluids)
+ctd,"cells, urothelial, exfoliated",human (other tissues or fluids)
+ctd,colostrum,human (other tissues or fluids)
+ctd,femur head,human (other tissues or fluids)
+ctd,follicular fluid,human (other tissues or fluids)
+ctd,frontal lobe,human (other tissues or fluids)
+ctd,hair,human (other tissues or fluids)
+ctd,kidney,human (other tissues or fluids)
+ctd,lung,human (other tissues or fluids)
+ctd,lymphocytes,human (other tissues or fluids)
+ctd,"nail, finger",human (other tissues or fluids)
+ctd,nails,human (other tissues or fluids)
+ctd,"nails, finger",human (other tissues or fluids)
+ctd,"nails, toe",human (other tissues or fluids)
+ctd,occipital lobe,human (other tissues or fluids)
+ctd,patella,human (other tissues or fluids)
+ctd,pituitary gland,human (other tissues or fluids)
+ctd,placenta,human (other tissues or fluids)
+ctd,saliva,human (other tissues or fluids)
+ctd,semen,human (other tissues or fluids)
+ctd,sputum,human (other tissues or fluids)
+ctd,sweat,human (other tissues or fluids)
+ctd,thyroid gland,human (other tissues or fluids)
+ctd,tibia,human (other tissues or fluids)
+ctd,tooth,human (other tissues or fluids)
+ctd,umbilical cord,human (other tissues or fluids)
+ctd,urinary bladder,human (other tissues or fluids)
+ctd,ventricular fluid,human (other tissues or fluids)
+ctd,meconium,human (other tissues or fluids)
+ctd,adenoid,human (other tissues or fluids)
+ctd,"subcutaneous fat, abdominal",human (other tissues or fluids)
+ctd,tear,human (other tissues or fluids)
+ctd,bone,human (other tissues or fluids)
+ctd,abdominal muscle,human (other tissues or fluids)
+ctd,nail,human (other tissues or fluids)
+ctd,"nail, toe",human (other tissues or fluids)
+ctd,"cell, urothelial, exfoliated",human (other tissues or fluids)
+ctd,erythrocyte,human blood (whole/serum/plasma)
+ctd,blood cell,human blood (whole/serum/plasma)
+ctd,brain,human blood (whole/serum/plasma)
+ctd,"blood, cord",human blood (whole/serum/plasma)
+ctd,"serum, cord",human blood (whole/serum/plasma)
+ctd,"plasma, cord",human blood (whole/serum/plasma)
+nhanes,plasma,human blood (whole/serum/plasma)
+nhanes,blood,human blood (whole/serum/plasma)
+nhanes,serum,human blood (whole/serum/plasma)
+ctd,blood,human blood (whole/serum/plasma)
+ctd,"blood, fetal",human blood (whole/serum/plasma)
+ctd,erythrocytes,human blood (whole/serum/plasma)
+ctd,fetal blood,human blood (whole/serum/plasma)
+ctd,plasma,human blood (whole/serum/plasma)
+ctd,plasma,human blood (whole/serum/plasma)
+ctd,"plasma, umbilical cord",human blood (whole/serum/plasma)
+ctd,sera,human blood (whole/serum/plasma)
+ctd,"sera, umbilical cord",human blood (whole/serum/plasma)
+ctd,serum,human blood (whole/serum/plasma)
+ctd,"air, indoor",indoor air
+ctd,dust,indoor dust
+ctd,"dust, house",indoor dust
+ctd,"dust, indoor",indoor dust
+ctd,"floor, bedroom",indoor dust
+ctd,"floor, kitchen",indoor dust
+ctd,"dust, carpet",indoor dust
+chem_theatre,plants,other-ecological
+usgs_tissue,animalia,other-ecological
+usgs_tissue,stizostedion canadense***retired***use sander canadensis,other-ecological
+usgs_tissue,taxon unknown,other-ecological
+ip_chem_biota,unknow spp.,other-ecological
+ip_chem_biota,venerupis decussata,other-ecological
+ip_chem_biota,fucus vesiculosus,other-ecological
+ip_chem_biota,fucus,other-ecological
+ip_chem_biota,fucus serratus,other-ecological
+ip_chem_biota,fucus ceranoides,other-ecological
+nhanes,air,personal air
+ctd,"air, breath",personal air
+ctd,"air, breath, exhaled",personal air
+ctd,"air, personal",personal air
+ctd,breath,personal air
+ctd,automobiles,product
+ctd,living room upholstery,product
+ctd,sunscreen composite,product
+ctd,bar soap,product
+ctd,body lotion,product
+ctd,body wash,product
+ctd,carpet cleaner,product
+ctd,cat litter,product
+ctd,conditioner,product
+ctd,deodorant,product
+ctd,dish liquid,product
+ctd,fabric refresher,product
+ctd,facial cleanser,product
+ctd,fragrance or perfume,product
+ctd,hand soap,product
+ctd,laundry detergent,product
+ctd,shampoo,product
+ctd,sunscreen,product
+ctd,surface cleaner,product
+ctd,paper,product
+ctd,dishwasher detergent,product
+ctd,nail polish,product
+ctd,toilet bowl cleaner,product
+ctd,car interior cleaner,product
+ctd,cigarette,product
+ctd,fuel,product
+ctd,dye,product
+ctd,perfume,product
+ctd,polish or wax,product
+ctd,mascara,product
+ctd,"air freshener, car",product
+ctd,hand sanitizer,product
+ctd,foundation,product
+ctd,lip balm,product
+ctd,stain remover,product
+ctd,carpet,product
+ctd,"upholstery, living room",product
+ctd,glass cleaner,product
+ctd,polyurethane foam,product
+ctd,insecticide,product
+ctd,paint,product
+ctd,child safety seat,product
+ctd,hair gel,product
+ctd,scrubbing powder,product
+ctd,incense stick,product
+ctd,e-liquid,product
+ctd,product wipe,product
+ctd,e-cigarette,product
+ctd,e-cigarette vapor,product
+ctd,air freshener,product
+ctd,borax,product
+ctd,diaper,product
+ctd,dryer sheet,product
+ctd,facial lotion,product
+ctd,floor cleaner,product
+ctd,hair spray or mousse or gel,product
+ctd,laundry bleach,product
+ctd,lipstick,product
+ctd,pillow protector,product
+ctd,shaving cream,product
+ctd,"shower curtain, vinyl",product
+ctd,toothpaste,product
+ctd,tub and tile cleaner,product
+ctd,wet mop,product
+ctd,ore,product
+chem_theatre,freshwater sediment,sediment
+chem_theatre,marine sediment,sediment
+ctd,sediment,sediment
+ctd,back,skin wipes
+ctd,body regions,skin wipes
+ctd,chest,skin wipes
+ctd,"forearm, left",skin wipes
+ctd,"forearm, right",skin wipes
+ctd,hand,skin wipes
+ctd,handwipes,skin wipes
+ctd,"leg, lower, left",skin wipes
+ctd,"leg, lower, right",skin wipes
+ctd,"shoulder, left",skin wipes
+ctd,"shoulder, right",skin wipes
+ctd,skin,skin wipes
+ctd,"thigh, left",skin wipes
+ctd,"thigh, right",skin wipes
+ctd,handwipe,skin wipes
+ctd,body region,skin wipes
+chem_theatre,soil,"soil, or outdoor settled dust"
+ctd,sand,"soil, or outdoor settled dust"
+ctd,soil,"soil, or outdoor settled dust"
+ctd,"dust, outdoor","soil, or outdoor settled dust"
+chem_theatre,freshwater,surface water
+chem_theatre,seawater,surface water
+chem_theatre,ss,surface water
+ctd,water,surface water
+ctd,water,surface water
+ctd,"water, rain",surface water
+ctd,"water, sea",surface water
+ctd,snow,surface water
+ctd,house,unknown
+ctd,automobile,unknown
+ctd,macrophage,unknown
+nhanes,urine,urine
+ctd,urine,urine
+ctd,urine,urine
+ctd,produce,vegetation
+usgs_tissue,alnus,vegetation
+usgs_tissue,artemisia tridentata,vegetation
+usgs_tissue,elodea,vegetation
+usgs_tissue,elodea canadensis,vegetation
+usgs_tissue,lysichiton americanus,vegetation
+usgs_tissue,magnoliopsida,vegetation
+usgs_tissue,malus,vegetation
+usgs_tissue,plantae,vegetation
+usgs_tissue,populus,vegetation
+usgs_tissue,potamogeton,vegetation
+usgs_tissue,potamogeton crispus,vegetation
+usgs_tissue,potamogeton pectinatus,vegetation
+usgs_tissue,rubus spectabilis,vegetation
+usgs_tissue,salicornia depressa,vegetation
+usgs_tissue,vaccinium,vegetation
+usgs_tissue,vaccinium parvifolium,vegetation
+ices_biota,fucus,vegetation
+ices_biota,fucus ceranoides,vegetation
+ices_biota,fucus serratus,vegetation
+ices_biota,fucus vesiculosus,vegetation
+fda,"apple (red), raw (w/ peel)",vegetation
+fda,"asparagus, fresh/frozen, boiled",vegetation
+fda,"avocado, raw",vegetation
+fda,"banana, raw",vegetation
+fda,"broccoli, fresh/frozen, boiled",vegetation
+fda,"brussels sprouts, fresh/frozen, boiled",vegetation
+fda,"cabbage, fresh, boiled",vegetation
+fda,"cantaloupe, raw/frozen",vegetation
+fda,"carrot, baby, raw",vegetation
+fda,"carrot, fresh, peeled, boiled",vegetation
+fda,"cauliflower, fresh/frozen, boiled",vegetation
+fda,"celery, raw",vegetation
+fda,"collards, fresh/frozen, boiled",vegetation
+fda,"corn, fresh/frozen, boiled",vegetation
+fda,"cucumber, peeled, raw",vegetation
+fda,"eggplant, fresh, peeled, boiled",vegetation
+fda,"grapefruit, raw",vegetation
+fda,"grapes (red/green), raw",vegetation
+fda,"green beans, fresh/frozen, boiled",vegetation
+fda,"lettuce, iceberg, raw",vegetation
+fda,"lettuce, iceburg, raw",vegetation
+fda,"lettuce, leaf, raw",vegetation
+fda,"lima beans, immature, frozen, boiled",vegetation
+fda,"milk, chocolate, lowfat, fluid",vegetation
+fda,"milk, lowfat (2%), fluid",vegetation
+fda,"milk, skim, fluid",vegetation
+fda,"milk, whole, fluid",vegetation
+fda,"mixed vegetables, frozen, boiled",vegetation
+fda,"mushrooms, raw",vegetation
+fda,"okra, fresh/frozen, boiled",vegetation
+fda,"onion, mature, raw",vegetation
+fda,"orange (navel/valencia), raw",vegetation
+fda,"peach, raw/frozen",vegetation
+fda,"pear, raw (w/ peel)",vegetation
+fda,"peas, green, fresh/frozen, boiled",vegetation
+fda,"pepper, sweet, green, raw",vegetation
+fda,"potato, baked (w/ peel)",vegetation
+fda,raisins,vegetation
+fda,"spinach, fresh/frozen, boiled",vegetation
+fda,"squash, winter (hubbard or acorn), fresh/frozen, boiled",vegetation
+fda,"squash, winter (hubbard/acorn), fresh/frozen, boiled",vegetation
+fda,"strawberries, raw/frozen",vegetation
+fda,"summer squash, fresh/frozen, boiled",vegetation
+fda,"tomato, raw",vegetation
+fda,"watermelon, raw/frozen",vegetation
+ctd,plant leaf,vegetation
+ctd,tobacco,vegetation
+ctd,"rice, brown",vegetation
+ctd,beetroot,vegetation
+ctd,"lettuce, butterhead",vegetation
+ctd,carrot,vegetation
+ctd,cucumber,vegetation
+ctd,"lettuce, iceberg",vegetation
+ctd,potato,vegetation
+ctd,radish,vegetation
+ctd,tomato,vegetation
+ctd,"cabbage, white",vegetation
+ctd,plant,vegetation
+ctd,rice,vegetation
+chem_theatre,greywater,"wastewater (influent, effluent)"
+chem_theatre,wastewater,"wastewater (influent, effluent)"
+ctd,"waste water, laundry","wastewater (influent, effluent)"
+ctd,"waste, industrial","wastewater (influent, effluent)"
+usgs_tissue,abacaria,wildlife (aquatic invertebrate)
+usgs_tissue,acanthaxius formosa,wildlife (aquatic invertebrate)
+usgs_tissue,actinonaias pectorosa,wildlife (aquatic invertebrate)
+usgs_tissue,amphipoda,wildlife (aquatic invertebrate)
+usgs_tissue,anaspidacea,wildlife (aquatic invertebrate)
+usgs_tissue,artemia franciscana,wildlife (aquatic invertebrate)
+usgs_tissue,astacidae,wildlife (aquatic invertebrate)
+usgs_tissue,astacoidea,wildlife (aquatic invertebrate)
+usgs_tissue,astacus,wildlife (aquatic invertebrate)
+usgs_tissue,balanus,wildlife (aquatic invertebrate)
+usgs_tissue,bivalvia,wildlife (aquatic invertebrate)
+usgs_tissue,callinectes sapidus,wildlife (aquatic invertebrate)
+usgs_tissue,cambaridae,wildlife (aquatic invertebrate)
+usgs_tissue,cerastoderma edule,wildlife (aquatic invertebrate)
+usgs_tissue,ceratopsyche,wildlife (aquatic invertebrate)
+usgs_tissue,congeria leucophaeta,wildlife (aquatic invertebrate)
+usgs_tissue,corbicula,wildlife (aquatic invertebrate)
+usgs_tissue,corbicula fluminea,wildlife (aquatic invertebrate)
+usgs_tissue,corbicula manilensis,wildlife (aquatic invertebrate)
+usgs_tissue,crassostrea gigas,wildlife (aquatic invertebrate)
+usgs_tissue,crassostrea virginica,wildlife (aquatic invertebrate)
+usgs_tissue,cyathura polita,wildlife (aquatic invertebrate)
+usgs_tissue,decapoda,wildlife (aquatic invertebrate)
+usgs_tissue,elliptio,wildlife (aquatic invertebrate)
+usgs_tissue,elliptio complanata,wildlife (aquatic invertebrate)
+usgs_tissue,farfantepenaeus aztecus,wildlife (aquatic invertebrate)
+usgs_tissue,farfantepenaeus duorarum,wildlife (aquatic invertebrate)
+usgs_tissue,homarus americanus,wildlife (aquatic invertebrate)
+usgs_tissue,hyalella azteca,wildlife (aquatic invertebrate)
+usgs_tissue,ischadium recurvum,wildlife (aquatic invertebrate)
+usgs_tissue,juga,wildlife (aquatic invertebrate)
+usgs_tissue,juga plicifera,wildlife (aquatic invertebrate)
+usgs_tissue,leptocheirus plumulosus,wildlife (aquatic invertebrate)
+usgs_tissue,litopenaeus setiferus,wildlife (aquatic invertebrate)
+usgs_tissue,lumbriculus,wildlife (aquatic invertebrate)
+usgs_tissue,lumbriculus variegatus,wildlife (aquatic invertebrate)
+usgs_tissue,macoma,wildlife (aquatic invertebrate)
+usgs_tissue,macoma balthica,wildlife (aquatic invertebrate)
+usgs_tissue,marenzelleria viridis,wildlife (aquatic invertebrate)
+usgs_tissue,mercenaria mercenaria,wildlife (aquatic invertebrate)
+usgs_tissue,metacarcinus magister,wildlife (aquatic invertebrate)
+usgs_tissue,mya arenaria,wildlife (aquatic invertebrate)
+usgs_tissue,mytilus californianus,wildlife (aquatic invertebrate)
+usgs_tissue,mytilus edulis,wildlife (aquatic invertebrate)
+usgs_tissue,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+usgs_tissue,orconectes,wildlife (aquatic invertebrate)
+usgs_tissue,orconectes causeyi,wildlife (aquatic invertebrate)
+usgs_tissue,orconectes virilis,wildlife (aquatic invertebrate)
+usgs_tissue,pacifastacus leniusculus,wildlife (aquatic invertebrate)
+usgs_tissue,palaemonetes,wildlife (aquatic invertebrate)
+usgs_tissue,palaemonetes paludosus,wildlife (aquatic invertebrate)
+usgs_tissue,palaemonidae,wildlife (aquatic invertebrate)
+usgs_tissue,polychaeta,wildlife (aquatic invertebrate)
+usgs_tissue,polyodon spathula,wildlife (aquatic invertebrate)
+usgs_tissue,procambarus,wildlife (aquatic invertebrate)
+usgs_tissue,procambarus clarkii,wildlife (aquatic invertebrate)
+usgs_tissue,procambarus spiculifer,wildlife (aquatic invertebrate)
+usgs_tissue,protothaca staminea,wildlife (aquatic invertebrate)
+usgs_tissue,rangia cuneata,wildlife (aquatic invertebrate)
+usgs_tissue,rhithropanopeus harrisii,wildlife (aquatic invertebrate)
+usgs_tissue,saxidomus giganteus***retired***use saxidomus gigantea,wildlife (aquatic invertebrate)
+usgs_tissue,unionidae,wildlife (aquatic invertebrate)
+ices_biota,buccinum undatum,wildlife (aquatic invertebrate)
+ices_biota,cerastoderma edule,wildlife (aquatic invertebrate)
+ices_biota,crangon crangon,wildlife (aquatic invertebrate)
+ices_biota,crassostrea gigas,wildlife (aquatic invertebrate)
+ices_biota,dreissena polymorpha,wildlife (aquatic invertebrate)
+ices_biota,ensis siliqua,wildlife (aquatic invertebrate)
+ices_biota,haliotis tuberculata,wildlife (aquatic invertebrate)
+ices_biota,littorina littorea,wildlife (aquatic invertebrate)
+ices_biota,loligo vulgaris,wildlife (aquatic invertebrate)
+ices_biota,macoma balthica,wildlife (aquatic invertebrate)
+ices_biota,macoma baltica,wildlife (aquatic invertebrate)
+ices_biota,mya arenaria,wildlife (aquatic invertebrate)
+ices_biota,mya truncata,wildlife (aquatic invertebrate)
+ices_biota,mysidacea,wildlife (aquatic invertebrate)
+ices_biota,mytilus edulis,wildlife (aquatic invertebrate)
+ices_biota,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+ices_biota,nassarius nitidus,wildlife (aquatic invertebrate)
+ices_biota,nassarius reticulatus,wildlife (aquatic invertebrate)
+ices_biota,nephrops norvegicus,wildlife (aquatic invertebrate)
+ices_biota,neptunea antiqua,wildlife (aquatic invertebrate)
+ices_biota,nucella,wildlife (aquatic invertebrate)
+ices_biota,nucella lapillus,wildlife (aquatic invertebrate)
+ices_biota,ocenebra erinaceus,wildlife (aquatic invertebrate)
+ices_biota,ostrea edulis,wildlife (aquatic invertebrate)
+ices_biota,palaemon serratus,wildlife (aquatic invertebrate)
+ices_biota,pandalus borealis,wildlife (aquatic invertebrate)
+ices_biota,pecten maximus,wildlife (aquatic invertebrate)
+ices_biota,peringia ulvae,wildlife (aquatic invertebrate)
+ices_biota,saduria entomon,wildlife (aquatic invertebrate)
+ices_biota,venerupis philippinarum,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus edulis,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus galloprovincialis,wildlife (aquatic invertebrate)
+ip_chem_biota,saduria entomon,wildlife (aquatic invertebrate)
+ip_chem_biota,macoma balthica,wildlife (aquatic invertebrate)
+ip_chem_biota,crassostrea angulata,wildlife (aquatic invertebrate)
+ip_chem_biota,dreissena polymorpha,wildlife (aquatic invertebrate)
+ip_chem_biota,mytilus,wildlife (aquatic invertebrate)
+ip_chem_biota,lymnaea palustris,wildlife (aquatic invertebrate)
+ip_chem_biota,crassostrea gigas,wildlife (aquatic invertebrate)
+ip_chem_biota,cerastoderma edule,wildlife (aquatic invertebrate)
+ip_chem_biota,venerupis philippinarum,wildlife (aquatic invertebrate)
+ip_chem_biota,donax trunculus,wildlife (aquatic invertebrate)
+ip_chem_biota,ostrea edulis,wildlife (aquatic invertebrate)
+ip_chem_biota,holothuria tubulosa,wildlife (aquatic invertebrate)
+ip_chem_biota,mitylus galloprovincialis,wildlife (aquatic invertebrate)
+ip_chem_biota,nephrops norvegicus,wildlife (aquatic invertebrate)
+ip_chem_biota,mya arenaria,wildlife (aquatic invertebrate)
+ip_chem_biota,nassarius reticulatus,wildlife (aquatic invertebrate)
+ip_chem_biota,nucella lapillus,wildlife (aquatic invertebrate)
+ip_chem_biota,palaemon serratus,wildlife (aquatic invertebrate)
+ip_chem_biota,littorina littorea,wildlife (aquatic invertebrate)
+ip_chem_biota,crangon crangon,wildlife (aquatic invertebrate)
+ip_chem_biota,pecten maximus,wildlife (aquatic invertebrate)
+ip_chem_biota,pandalus borealis,wildlife (aquatic invertebrate)
+ip_chem_biota,mysidacea,wildlife (aquatic invertebrate)
+ip_chem_biota,ensis siliqua,wildlife (aquatic invertebrate)
+ip_chem_biota,mya truncata,wildlife (aquatic invertebrate)
+ip_chem_biota,macoma baltica,wildlife (aquatic invertebrate)
+ip_chem_biota,haliotis tuberculata,wildlife (aquatic invertebrate)
+ctd,oyster,wildlife (aquatic invertebrate)
+ctd,scallop,wildlife (aquatic invertebrate)
+ctd,squid,wildlife (aquatic invertebrate)
+chem_theatre,marine mammals,wildlife (aquatic vertebrates/mammals)
+chem_theatre,terrestrial mammals,wildlife (aquatic vertebrates/mammals)
+usgs_tissue,apalone spinifera,wildlife (aquatic vertebrates/mammals)
+usgs_tissue,chelydra serpentina,wildlife (aquatic vertebrates/mammals)
+usgs_tissue,trachemys scripta elegans,wildlife (aquatic vertebrates/mammals)
+ices_biota,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+ices_biota,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+ices_biota,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+ices_biota,globicephala melas,wildlife (aquatic vertebrates/mammals)
+ices_biota,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+ices_biota,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca groenlandica,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca hispida,wildlife (aquatic vertebrates/mammals)
+ices_biota,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+ices_biota,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,monodon monoceros,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,balaenoptera acutorostrata,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phoca vitulina,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phocoena phocoena,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,halichoerus grypus,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,globicephala melas,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,phoca hispida,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,delphinus delphis,wildlife (aquatic vertebrates/mammals)
+ip_chem_biota,delphinapterus leucas,wildlife (aquatic vertebrates/mammals)
+ctd,"meat, walrus, fermented",wildlife (aquatic vertebrates/mammals)
+ctd,"meat, walrus, fresh",wildlife (aquatic vertebrates/mammals)
+chem_theatre,birds,wildlife (birds)
+usgs_tissue,anas clypeata,wildlife (birds)
+usgs_tissue,anas cyanoptera,wildlife (birds)
+ices_biota,cepphus grylle,wildlife (birds)
+ices_biota,fulmarus glacialis,wildlife (birds)
+ices_biota,haematopus ostralegus,wildlife (birds)
+ices_biota,larus,wildlife (birds)
+ices_biota,larus argentatus,wildlife (birds)
+ices_biota,larus glaucoides,wildlife (birds)
+ices_biota,larus hyperboreus,wildlife (birds)
+ices_biota,rissa tridactyla,wildlife (birds)
+ices_biota,somateria mollissima,wildlife (birds)
+ices_biota,sterna hirundo,wildlife (birds)
+ices_biota,uria aalge,wildlife (birds)
+ices_biota,uria lomvia,wildlife (birds)
+epa_nrp,animal-turkey,wildlife (birds)
+ip_chem_biota,cepphus grylle,wildlife (birds)
+ip_chem_biota,larus hyperboreus,wildlife (birds)
+ip_chem_biota,uria aalge,wildlife (birds)
+ip_chem_biota,haematopus ostralegus,wildlife (birds)
+ip_chem_biota,fulmarus glacialis,wildlife (birds)
+ip_chem_biota,rissa tridactyla,wildlife (birds)
+ip_chem_biota,somateria mollissima,wildlife (birds)
+ip_chem_biota,sterna hirundo,wildlife (birds)
+ip_chem_biota,uria lomvia,wildlife (birds)
+ip_chem_biota,larus glaucoides,wildlife (birds)
+ip_chem_biota,larus,wildlife (birds)
+chem_theatre,fish,wildlife (fish)
+usgs_tissue,aaptosyax,wildlife (fish)
+usgs_tissue,abalistes,wildlife (fish)
+usgs_tissue,abudefduf saxatilis,wildlife (fish)
+usgs_tissue,achirus lineatus,wildlife (fish)
+usgs_tissue,acipenser transmontanus,wildlife (fish)
+usgs_tissue,actinopterygii,wildlife (fish)
+usgs_tissue,agosia chrysogaster,wildlife (fish)
+usgs_tissue,alosa sapidissima,wildlife (fish)
+usgs_tissue,ambloplites constellatus,wildlife (fish)
+usgs_tissue,ambloplites rupestris,wildlife (fish)
+usgs_tissue,ameiurus,wildlife (fish)
+usgs_tissue,ameiurus brunneus,wildlife (fish)
+usgs_tissue,ameiurus catus,wildlife (fish)
+usgs_tissue,ameiurus melas,wildlife (fish)
+usgs_tissue,ameiurus natalis,wildlife (fish)
+usgs_tissue,ameiurus nebulosus,wildlife (fish)
+usgs_tissue,ameiurus platycephalus,wildlife (fish)
+usgs_tissue,amia calva,wildlife (fish)
+usgs_tissue,amphistichus argenteus,wildlife (fish)
+usgs_tissue,ancistrus,wildlife (fish)
+usgs_tissue,anguilla rostrata,wildlife (fish)
+usgs_tissue,aphredoderus sayanus,wildlife (fish)
+usgs_tissue,aplodinotus grunniens,wildlife (fish)
+usgs_tissue,archoplites interruptus,wildlife (fish)
+usgs_tissue,ariidae,wildlife (fish)
+usgs_tissue,ariopsis felis,wildlife (fish)
+usgs_tissue,atherinops affinis,wildlife (fish)
+usgs_tissue,atherinopsis californiensis,wildlife (fish)
+usgs_tissue,bagre marinus,wildlife (fish)
+usgs_tissue,bairdiella chrysoura,wildlife (fish)
+usgs_tissue,brevoortia tyrannus,wildlife (fish)
+usgs_tissue,campostoma anomalum,wildlife (fish)
+usgs_tissue,campostoma oligolepis,wildlife (fish)
+usgs_tissue,carassius auratus,wildlife (fish)
+usgs_tissue,carpiodes,wildlife (fish)
+usgs_tissue,carpiodes carpio,wildlife (fish)
+usgs_tissue,carpiodes cyprinus,wildlife (fish)
+usgs_tissue,carpiodes velifer,wildlife (fish)
+usgs_tissue,catostomidae,wildlife (fish)
+usgs_tissue,catostomus,wildlife (fish)
+usgs_tissue,catostomus ardens,wildlife (fish)
+usgs_tissue,catostomus catostomus,wildlife (fish)
+usgs_tissue,catostomus clarkii,wildlife (fish)
+usgs_tissue,catostomus columbianus,wildlife (fish)
+usgs_tissue,catostomus commersoni,wildlife (fish)
+usgs_tissue,catostomus commersoni***retired***use catostomus commersonii,wildlife (fish)
+usgs_tissue,catostomus commersonii,wildlife (fish)
+usgs_tissue,catostomus discobolus,wildlife (fish)
+usgs_tissue,catostomus latipinnis,wildlife (fish)
+usgs_tissue,catostomus macrocheilus,wildlife (fish)
+usgs_tissue,catostomus occidentalis,wildlife (fish)
+usgs_tissue,catostomus platyrhynchus,wildlife (fish)
+usgs_tissue,catostomus tahoensis,wildlife (fish)
+usgs_tissue,caulolatilus princeps,wildlife (fish)
+usgs_tissue,centrarchidae,wildlife (fish)
+usgs_tissue,centropristis philadelphica,wildlife (fish)
+usgs_tissue,chaenobryttus gulosus,wildlife (fish)
+usgs_tissue,chaetodipterus faber,wildlife (fish)
+usgs_tissue,cheilotrema saturnum,wildlife (fish)
+usgs_tissue,chilomycterus schoepfii,wildlife (fish)
+usgs_tissue,chloroscombrus chrysurus,wildlife (fish)
+usgs_tissue,citharichthys,wildlife (fish)
+usgs_tissue,citharichthys sordidus,wildlife (fish)
+usgs_tissue,citharichthys stigmaeus,wildlife (fish)
+usgs_tissue,clevelandia ios,wildlife (fish)
+usgs_tissue,clupea harengus,wildlife (fish)
+usgs_tissue,coregonus clupeaformis,wildlife (fish)
+usgs_tissue,coregonus schinzii,wildlife (fish)
+usgs_tissue,cottidae,wildlife (fish)
+usgs_tissue,cottoidei,wildlife (fish)
+usgs_tissue,cottus,wildlife (fish)
+usgs_tissue,cottus asper,wildlife (fish)
+usgs_tissue,cottus bairdii,wildlife (fish)
+usgs_tissue,cottus beldingii,wildlife (fish)
+usgs_tissue,cottus cognatus,wildlife (fish)
+usgs_tissue,cottus leiopomus,wildlife (fish)
+usgs_tissue,cottus perplexus,wildlife (fish)
+usgs_tissue,ctenopharyngodon idella,wildlife (fish)
+usgs_tissue,cycleptus,wildlife (fish)
+usgs_tissue,cymatogaster aggregata,wildlife (fish)
+usgs_tissue,cynoscion arenarius,wildlife (fish)
+usgs_tissue,cynoscion nebulosus,wildlife (fish)
+usgs_tissue,cynoscion nothus,wildlife (fish)
+usgs_tissue,cynoscion regalis,wildlife (fish)
+usgs_tissue,cyprinella leedsi,wildlife (fish)
+usgs_tissue,cyprinella lutrensis,wildlife (fish)
+usgs_tissue,cyprinella spiloptera,wildlife (fish)
+usgs_tissue,cyprinidae,wildlife (fish)
+usgs_tissue,cyprinus carpio,wildlife (fish)
+usgs_tissue,cyprinus carpio communis,wildlife (fish)
+usgs_tissue,dorosoma cepedianum,wildlife (fish)
+usgs_tissue,dorosoma petenense,wildlife (fish)
+usgs_tissue,eleotris sandwicensis,wildlife (fish)
+usgs_tissue,embiotoca jacksoni,wildlife (fish)
+usgs_tissue,embiotoca lateralis,wildlife (fish)
+usgs_tissue,emmelichthys nitidus,wildlife (fish)
+usgs_tissue,engraulidae,wildlife (fish)
+usgs_tissue,engraulis mordax,wildlife (fish)
+usgs_tissue,erimyzon oblongus,wildlife (fish)
+usgs_tissue,erimyzon sucetta,wildlife (fish)
+usgs_tissue,esox americanus americanus,wildlife (fish)
+usgs_tissue,esox lucius,wildlife (fish)
+usgs_tissue,esox masquinongy,wildlife (fish)
+usgs_tissue,esox niger,wildlife (fish)
+usgs_tissue,etheostoma nigrum,wildlife (fish)
+usgs_tissue,etheostoma olmstedi,wildlife (fish)
+usgs_tissue,etropus crossotus,wildlife (fish)
+usgs_tissue,eucinostomus argenteus,wildlife (fish)
+usgs_tissue,eucinostomus gula,wildlife (fish)
+usgs_tissue,eucinostomus harengulus,wildlife (fish)
+usgs_tissue,exoglossum maxillingua,wildlife (fish)
+usgs_tissue,floridichthys carpio,wildlife (fish)
+usgs_tissue,fundulus parvipinnis,wildlife (fish)
+usgs_tissue,fundulus seminolis,wildlife (fish)
+usgs_tissue,gadus chalcogrammus,wildlife (fish)
+usgs_tissue,gambusia affinis,wildlife (fish)
+usgs_tissue,gambusia holbrooki,wildlife (fish)
+usgs_tissue,gasterosteus aculeatus,wildlife (fish)
+usgs_tissue,genyonemus lineatus,wildlife (fish)
+usgs_tissue,gila coerulea,wildlife (fish)
+usgs_tissue,girella nigricans,wildlife (fish)
+usgs_tissue,glyptocephalus zachirus,wildlife (fish)
+usgs_tissue,haemulon plumierii,wildlife (fish)
+usgs_tissue,hemichromis,wildlife (fish)
+usgs_tissue,hesperoleucus symmetricus,wildlife (fish)
+usgs_tissue,heterodontidae,wildlife (fish)
+usgs_tissue,hexagrammos decagrammus,wildlife (fish)
+usgs_tissue,hexagrammos octogrammus,wildlife (fish)
+usgs_tissue,hiodon alosoides,wildlife (fish)
+usgs_tissue,hippoglossoides elassodon,wildlife (fish)
+usgs_tissue,hypentelium nigricans,wildlife (fish)
+usgs_tissue,hyperprosopon argenteum,wildlife (fish)
+usgs_tissue,hypophthalmichthys,wildlife (fish)
+usgs_tissue,hypophthalmichthys molitrix,wildlife (fish)
+usgs_tissue,hypostomus plecostomus,wildlife (fish)
+usgs_tissue,hypsurus caryi,wildlife (fish)
+usgs_tissue,hysterocarpus traskii,wildlife (fish)
+usgs_tissue,ictalurus,wildlife (fish)
+usgs_tissue,ictalurus catus,wildlife (fish)
+usgs_tissue,ictalurus furcatus,wildlife (fish)
+usgs_tissue,ictalurus melas***retired***use ameiurus melas,wildlife (fish)
+usgs_tissue,ictalurus punctatus,wildlife (fish)
+usgs_tissue,ictiobus,wildlife (fish)
+usgs_tissue,ictiobus bubalus,wildlife (fish)
+usgs_tissue,ictiobus cyprinellus,wildlife (fish)
+usgs_tissue,ictiobus niger,wildlife (fish)
+usgs_tissue,isopsetta isolepis,wildlife (fish)
+usgs_tissue,lachnolaimus maximus,wildlife (fish)
+usgs_tissue,lagodon rhomboides,wildlife (fish)
+usgs_tissue,lampetra,wildlife (fish)
+usgs_tissue,lavinia exilicauda,wildlife (fish)
+usgs_tissue,leiostomus xanthurus,wildlife (fish)
+usgs_tissue,lepidopsetta bilineata,wildlife (fish)
+usgs_tissue,lepisosteus,wildlife (fish)
+usgs_tissue,lepisosteus oculatus,wildlife (fish)
+usgs_tissue,lepisosteus osseus,wildlife (fish)
+usgs_tissue,lepisosteus spatula***retired***use atractosteus spatula,wildlife (fish)
+usgs_tissue,lepomis,wildlife (fish)
+usgs_tissue,lepomis auritus,wildlife (fish)
+usgs_tissue,lepomis cyanellus,wildlife (fish)
+usgs_tissue,lepomis gibbosus,wildlife (fish)
+usgs_tissue,lepomis gulosus,wildlife (fish)
+usgs_tissue,lepomis macrochirus,wildlife (fish)
+usgs_tissue,lepomis megalotis,wildlife (fish)
+usgs_tissue,lepomis microlophus,wildlife (fish)
+usgs_tissue,lepomis miniatus,wildlife (fish)
+usgs_tissue,lepomis punctatus,wildlife (fish)
+usgs_tissue,leptocottus armatus,wildlife (fish)
+usgs_tissue,limanda aspera,wildlife (fish)
+usgs_tissue,lobotes surinamensis,wildlife (fish)
+usgs_tissue,lota lota,wildlife (fish)
+usgs_tissue,lutjanus griseus,wildlife (fish)
+usgs_tissue,lutjanus kasmira,wildlife (fish)
+usgs_tissue,lutjanus synagris,wildlife (fish)
+usgs_tissue,luxilus chrysocephalus,wildlife (fish)
+usgs_tissue,luxilus cornutus,wildlife (fish)
+usgs_tissue,lyopsetta exilis,wildlife (fish)
+usgs_tissue,macrhybopsis storeriana,wildlife (fish)
+usgs_tissue,menidia beryllina,wildlife (fish)
+usgs_tissue,menidia menidia,wildlife (fish)
+usgs_tissue,menticirrhus americanus,wildlife (fish)
+usgs_tissue,microgadus proximus,wildlife (fish)
+usgs_tissue,microgadus tomcod,wildlife (fish)
+usgs_tissue,micropogonias undulatus,wildlife (fish)
+usgs_tissue,micropterus,wildlife (fish)
+usgs_tissue,micropterus cataractae,wildlife (fish)
+usgs_tissue,micropterus coosae,wildlife (fish)
+usgs_tissue,micropterus dolomieu,wildlife (fish)
+usgs_tissue,micropterus dolomieui,wildlife (fish)
+usgs_tissue,micropterus dolomieui***retired***use micropterus dolomieu,wildlife (fish)
+usgs_tissue,micropterus notius,wildlife (fish)
+usgs_tissue,micropterus punctulatus,wildlife (fish)
+usgs_tissue,micropterus salmoides,wildlife (fish)
+usgs_tissue,microstomus pacificus,wildlife (fish)
+usgs_tissue,minytrema melanops,wildlife (fish)
+usgs_tissue,morone,wildlife (fish)
+usgs_tissue,morone americana,wildlife (fish)
+usgs_tissue,morone chrysops,wildlife (fish)
+usgs_tissue,morone mississippiensis,wildlife (fish)
+usgs_tissue,morone saxatilis,wildlife (fish)
+usgs_tissue,moxostoma,wildlife (fish)
+usgs_tissue,moxostoma anisurum,wildlife (fish)
+usgs_tissue,moxostoma breviceps,wildlife (fish)
+usgs_tissue,moxostoma carinatum,wildlife (fish)
+usgs_tissue,moxostoma congestum,wildlife (fish)
+usgs_tissue,moxostoma duquesnei,wildlife (fish)
+usgs_tissue,moxostoma duquesnii,wildlife (fish)
+usgs_tissue,moxostoma erythrurum,wildlife (fish)
+usgs_tissue,moxostoma macrolepidotum,wildlife (fish)
+usgs_tissue,moxostoma poecilurum,wildlife (fish)
+usgs_tissue,moxostoma valenciennesi,wildlife (fish)
+usgs_tissue,mugil cephalus,wildlife (fish)
+usgs_tissue,mugil curema,wildlife (fish)
+usgs_tissue,mustelus californicus,wildlife (fish)
+usgs_tissue,mustelus henlei,wildlife (fish)
+usgs_tissue,myliobatis californica,wildlife (fish)
+usgs_tissue,mylocheilus caurinus,wildlife (fish)
+usgs_tissue,mylopharodon conocephalus,wildlife (fish)
+usgs_tissue,myripristis berndti,wildlife (fish)
+usgs_tissue,nocomis biguttatus,wildlife (fish)
+usgs_tissue,nocomis leptocephalus,wildlife (fish)
+usgs_tissue,notemigonus crysoleucas,wildlife (fish)
+usgs_tissue,notropis atherinoides,wildlife (fish)
+usgs_tissue,notropis blennius,wildlife (fish)
+usgs_tissue,notropis heterolepis,wildlife (fish)
+usgs_tissue,notropis hudsonius,wildlife (fish)
+usgs_tissue,notropis lutipinnis,wildlife (fish)
+usgs_tissue,notropis petersoni,wildlife (fish)
+usgs_tissue,noturus insignis,wildlife (fish)
+usgs_tissue,noturus leptacanthus,wildlife (fish)
+usgs_tissue,oncorhynchus apache,wildlife (fish)
+usgs_tissue,oncorhynchus clarki,wildlife (fish)
+usgs_tissue,oncorhynchus clarkii,wildlife (fish)
+usgs_tissue,oncorhynchus clarkii lewisi,wildlife (fish)
+usgs_tissue,oncorhynchus mykiss,wildlife (fish)
+usgs_tissue,oncorhynchus mykiss gairdnerii,wildlife (fish)
+usgs_tissue,oncorhynchus nerka,wildlife (fish)
+usgs_tissue,oncorhynchus tshawytscha,wildlife (fish)
+usgs_tissue,ophiodon elongatus,wildlife (fish)
+usgs_tissue,opsanus beta,wildlife (fish)
+usgs_tissue,oreochromis,wildlife (fish)
+usgs_tissue,oreochromis aureus,wildlife (fish)
+usgs_tissue,orthodon microlepidotus,wildlife (fish)
+usgs_tissue,orthopristis chrysoptera,wildlife (fish)
+usgs_tissue,osmerus mordax,wildlife (fish)
+usgs_tissue,osteichthyes,wildlife (fish)
+usgs_tissue,paralabrax clathratus,wildlife (fish)
+usgs_tissue,paralabrax maculatofasciatus,wildlife (fish)
+usgs_tissue,paralabrax nebulifer,wildlife (fish)
+usgs_tissue,paralichthys albigutta,wildlife (fish)
+usgs_tissue,paralichthys californicus,wildlife (fish)
+usgs_tissue,paralichthys dentatus,wildlife (fish)
+usgs_tissue,paralichthys lethostigma,wildlife (fish)
+usgs_tissue,paraplagusia bilineata,wildlife (fish)
+usgs_tissue,parophrys vetulus,wildlife (fish)
+usgs_tissue,perca flavescens,wildlife (fish)
+usgs_tissue,percidae,wildlife (fish)
+usgs_tissue,perciformes,wildlife (fish)
+usgs_tissue,percina caprodes,wildlife (fish)
+usgs_tissue,percina maculata,wildlife (fish)
+usgs_tissue,percina nigrofasciata,wildlife (fish)
+usgs_tissue,phanerodon furcatus,wildlife (fish)
+usgs_tissue,pholis ornata,wildlife (fish)
+usgs_tissue,phoxinus eos,wildlife (fish)
+usgs_tissue,pimephales notatus,wildlife (fish)
+usgs_tissue,pimephales promelas,wildlife (fish)
+usgs_tissue,platichthys stellatus,wildlife (fish)
+usgs_tissue,pleuronectiformes,wildlife (fish)
+usgs_tissue,pleuronichthys decurrens,wildlife (fish)
+usgs_tissue,pleuronichthys guttulatus,wildlife (fish)
+usgs_tissue,pleuronichthys verticalis,wildlife (fish)
+usgs_tissue,poecilia latipinna,wildlife (fish)
+usgs_tissue,poecilia reticulata,wildlife (fish)
+usgs_tissue,poecilia sphenops,wildlife (fish)
+usgs_tissue,pogonias cromis,wildlife (fish)
+usgs_tissue,pomatomus saltatrix,wildlife (fish)
+usgs_tissue,pomoxis,wildlife (fish)
+usgs_tissue,pomoxis annularis,wildlife (fish)
+usgs_tissue,pomoxis nigromaculatus,wildlife (fish)
+usgs_tissue,prionotus scitulus,wildlife (fish)
+usgs_tissue,prosopium cylindraceum,wildlife (fish)
+usgs_tissue,prosopium spilonotus,wildlife (fish)
+usgs_tissue,prosopium williamsoni,wildlife (fish)
+usgs_tissue,psettichthys melanostictus,wildlife (fish)
+usgs_tissue,pseudopleuronectes americanus,wildlife (fish)
+usgs_tissue,ptychocheilus grandis,wildlife (fish)
+usgs_tissue,ptychocheilus oregonensis,wildlife (fish)
+usgs_tissue,pylodictis olivaris,wildlife (fish)
+usgs_tissue,reinhardtius stomias,wildlife (fish)
+usgs_tissue,rhacochilus toxotes,wildlife (fish)
+usgs_tissue,rhacochilus vacca,wildlife (fish)
+usgs_tissue,rhinichthys atratulus,wildlife (fish)
+usgs_tissue,rhinichthys cataractae,wildlife (fish)
+usgs_tissue,rhinichthys osculus,wildlife (fish)
+usgs_tissue,richardsonius balteatus,wildlife (fish)
+usgs_tissue,roncador stearnsii,wildlife (fish)
+usgs_tissue,salmo gairdnerii***retired***use oncorhynchus mykiss gairdnerii,wildlife (fish)
+usgs_tissue,salmo salar,wildlife (fish)
+usgs_tissue,salmo trutta,wildlife (fish)
+usgs_tissue,salmonidae,wildlife (fish)
+usgs_tissue,salvelinus,wildlife (fish)
+usgs_tissue,salvelinus confluentus,wildlife (fish)
+usgs_tissue,salvelinus fontinalis,wildlife (fish)
+usgs_tissue,salvelinus namaycush,wildlife (fish)
+usgs_tissue,sander canadensis,wildlife (fish)
+usgs_tissue,sander vitreus,wildlife (fish)
+usgs_tissue,sardinops sagax,wildlife (fish)
+usgs_tissue,scaphirhynchus platorynchus,wildlife (fish)
+usgs_tissue,sciaenidae,wildlife (fish)
+usgs_tissue,sciaenops,wildlife (fish)
+usgs_tissue,sciaenops ocellatus,wildlife (fish)
+usgs_tissue,scomber japonicus,wildlife (fish)
+usgs_tissue,scorpaena plumieri,wildlife (fish)
+usgs_tissue,scorpaenichthys marmoratus,wildlife (fish)
+usgs_tissue,sebastes atrovirens,wildlife (fish)
+usgs_tissue,sebastes auriculatus,wildlife (fish)
+usgs_tissue,sebastes carnatus,wildlife (fish)
+usgs_tissue,sebastes caurinus,wildlife (fish)
+usgs_tissue,sebastes chrysomelas,wildlife (fish)
+usgs_tissue,sebastes flavidus,wildlife (fish)
+usgs_tissue,sebastes maliger,wildlife (fish)
+usgs_tissue,sebastes melanops,wildlife (fish)
+usgs_tissue,sebastes miniatus,wildlife (fish)
+usgs_tissue,sebastes mystinus,wildlife (fish)
+usgs_tissue,sebastes nebulosus,wildlife (fish)
+usgs_tissue,sebastes rosaceus,wildlife (fish)
+usgs_tissue,sebastes serranoides,wildlife (fish)
+usgs_tissue,selar crumenophthalmus,wildlife (fish)
+usgs_tissue,semotilus atromaculatus,wildlife (fish)
+usgs_tissue,semotilus corporalis,wildlife (fish)
+usgs_tissue,seriphus politus,wildlife (fish)
+usgs_tissue,serranus tigrinus,wildlife (fish)
+usgs_tissue,siluriformes,wildlife (fish)
+usgs_tissue,sparidae,wildlife (fish)
+usgs_tissue,sparisoma chrysopterum,wildlife (fish)
+usgs_tissue,sphoeroides nephelus,wildlife (fish)
+usgs_tissue,sphyraena argentea,wildlife (fish)
+usgs_tissue,squalus acanthias,wildlife (fish)
+usgs_tissue,stellifer lanceolatus,wildlife (fish)
+usgs_tissue,stenotomus chrysops,wildlife (fish)
+usgs_tissue,stephanolepis hispida,wildlife (fish)
+usgs_tissue,stizostedion vitreum,wildlife (fish)
+usgs_tissue,stizostedion vitreum***retired***use sander vitreus,wildlife (fish)
+usgs_tissue,symphurus atricaudus,wildlife (fish)
+usgs_tissue,symphurus plagiusa,wildlife (fish)
+usgs_tissue,synodus foetens,wildlife (fish)
+usgs_tissue,tilapia,wildlife (fish)
+usgs_tissue,tilapia melanotheron,wildlife (fish)
+usgs_tissue,tilapia zillii,wildlife (fish)
+usgs_tissue,trachinotus carolinus,wildlife (fish)
+usgs_tissue,triakis semifasciata,wildlife (fish)
+usgs_tissue,trinectes maculatus,wildlife (fish)
+usgs_tissue,umbra limi,wildlife (fish)
+usgs_tissue,umbrina roncador,wildlife (fish)
+usgs_tissue,xiphophorus,wildlife (fish)
+usgs_tissue,xiphophorus helleri,wildlife (fish)
+ices_biota,anarhichas lupus,wildlife (fish)
+ices_biota,anarhichas minor,wildlife (fish)
+ices_biota,anguilla anguilla,wildlife (fish)
+ices_biota,aphanopus carbo,wildlife (fish)
+ices_biota,bathysaurus ferox,wildlife (fish)
+ices_biota,boreogadus saida,wildlife (fish)
+ices_biota,brosme brosme,wildlife (fish)
+ices_biota,callionymus lyra,wildlife (fish)
+ices_biota,chelidonichthys kumu,wildlife (fish)
+ices_biota,chimaera monstrosa,wildlife (fish)
+ices_biota,clupea harengus,wildlife (fish)
+ices_biota,conger conger,wildlife (fish)
+ices_biota,coryphaenoides rupestris,wildlife (fish)
+ices_biota,eutrigla gurnardus,wildlife (fish)
+ices_biota,gadus morhua,wildlife (fish)
+ices_biota,gadus ogac,wildlife (fish)
+ices_biota,glyptocephalus cynoglossus,wildlife (fish)
+ices_biota,gobius,wildlife (fish)
+ices_biota,hippoglossoides platessoides,wildlife (fish)
+ices_biota,hoplostethus atlanticus,wildlife (fish)
+ices_biota,lepidorhombus boscii,wildlife (fish)
+ices_biota,lepidorhombus whiffiagonis,wildlife (fish)
+ices_biota,leucoraja naevus,wildlife (fish)
+ices_biota,limanda limanda,wildlife (fish)
+ices_biota,lophius budegassa,wildlife (fish)
+ices_biota,lophius piscatorius,wildlife (fish)
+ices_biota,mallotus villosus,wildlife (fish)
+ices_biota,melanogrammus aeglefinus,wildlife (fish)
+ices_biota,merlangius merlangus,wildlife (fish)
+ices_biota,merluccius merluccius,wildlife (fish)
+ices_biota,micromesistius poutassou,wildlife (fish)
+ices_biota,microstomus kitt,wildlife (fish)
+ices_biota,molva dypterygia,wildlife (fish)
+ices_biota,molva molva,wildlife (fish)
+ices_biota,mullus barbatus,wildlife (fish)
+ices_biota,myoxocephalus scorpius,wildlife (fish)
+ices_biota,pegusa lascaris,wildlife (fish)
+ices_biota,perca fluviatilis,wildlife (fish)
+ices_biota,platichthys flesus,wildlife (fish)
+ices_biota,pleuronectes platessa,wildlife (fish)
+ices_biota,pollachius pollachius,wildlife (fish)
+ices_biota,pollachius virens,wildlife (fish)
+ices_biota,psetta maxima,wildlife (fish)
+ices_biota,raja brachyura,wildlife (fish)
+ices_biota,raja clavata,wildlife (fish)
+ices_biota,raja montagui,wildlife (fish)
+ices_biota,raja radiata,wildlife (fish)
+ices_biota,reinhardtius hippoglossoides,wildlife (fish)
+ices_biota,salmo salar,wildlife (fish)
+ices_biota,salmo trutta,wildlife (fish)
+ices_biota,salvelinus alpinus,wildlife (fish)
+ices_biota,sardina pilchardus,wildlife (fish)
+ices_biota,scomber scombrus,wildlife (fish)
+ices_biota,scophthalmus rhombus,wildlife (fish)
+ices_biota,scyliorhinus canicula,wildlife (fish)
+ices_biota,sebastes marinus,wildlife (fish)
+ices_biota,sebastes mentella,wildlife (fish)
+ices_biota,solea solea,wildlife (fish)
+ices_biota,solea vulgaris,wildlife (fish)
+ices_biota,sprattus sprattus,wildlife (fish)
+ices_biota,squalus acanthias,wildlife (fish)
+ices_biota,thunnus alalunga,wildlife (fish)
+ices_biota,trigla lucerna,wildlife (fish)
+ices_biota,triglidae,wildlife (fish)
+ices_biota,zeus faber,wildlife (fish)
+ices_biota,zoarces viviparus,wildlife (fish)
+ip_chem_biota,limanda limanda,wildlife (fish)
+ip_chem_biota,pleuronectes platessa,wildlife (fish)
+ip_chem_biota,mullus barbatus,wildlife (fish)
+ip_chem_biota,perca fluviatilis,wildlife (fish)
+ip_chem_biota,clupea harengus,wildlife (fish)
+ip_chem_biota,clupea harengus,wildlife (fish)
+ip_chem_biota,gadus morhua,wildlife (fish)
+ip_chem_biota,perca fluviatilis,wildlife (fish)
+ip_chem_biota,boops boops,wildlife (fish)
+ip_chem_biota,platichthys flesus,wildlife (fish)
+ip_chem_biota,zoarces viviparus,wildlife (fish)
+ip_chem_biota,neogobius melanostomus,wildlife (fish)
+ip_chem_biota,merluccius merluccius,wildlife (fish)
+ip_chem_biota,merlangius merlangus,wildlife (fish)
+ip_chem_biota,microstomus kitt,wildlife (fish)
+ip_chem_biota,melanogrammus aeglefinus,wildlife (fish)
+ip_chem_biota,aphanopus carbo,wildlife (fish)
+ip_chem_biota,coryphaenoides rupestris,wildlife (fish)
+ip_chem_biota,molva dypterygia,wildlife (fish)
+ip_chem_biota,anguilla anguilla,wildlife (fish)
+ip_chem_biota,lepidorhombus whiffiagonis,wildlife (fish)
+ip_chem_biota,lophius piscatorius,wildlife (fish)
+ip_chem_biota,brosme brosme,wildlife (fish)
+ip_chem_biota,solea vulgaris,wildlife (fish)
+ip_chem_biota,myoxocephalus scorpius,wildlife (fish)
+ip_chem_biota,mallotus villosus,wildlife (fish)
+ip_chem_biota,boreogadus saida,wildlife (fish)
+ip_chem_biota,sprattus sprattus,wildlife (fish)
+ip_chem_biota,hippoglossoides platessoides,wildlife (fish)
+ip_chem_biota,molva molva,wildlife (fish)
+ip_chem_biota,salvelinus alpinus,wildlife (fish)
+ip_chem_biota,scomber scombrus,wildlife (fish)
+ip_chem_biota,leucoraja naevus,wildlife (fish)
+ip_chem_biota,pollachius pollachius,wildlife (fish)
+ip_chem_biota,zeus faber,wildlife (fish)
+ip_chem_biota,scophthalmus rhombus,wildlife (fish)
+ip_chem_biota,lophius budegassa,wildlife (fish)
+ip_chem_biota,solea solea,wildlife (fish)
+ip_chem_biota,thunnus alalunga,wildlife (fish)
+ip_chem_biota,conger conger,wildlife (fish)
+ip_chem_biota,raja clavata,wildlife (fish)
+ip_chem_biota,raja naevus,wildlife (fish)
+ip_chem_biota,sebastes mentella,wildlife (fish)
+ip_chem_biota,chimaera monstrosa,wildlife (fish)
+ip_chem_biota,pollachius virens,wildlife (fish)
+ip_chem_biota,eutrigla gurnardus,wildlife (fish)
+ip_chem_biota,psetta maxima,wildlife (fish)
+ip_chem_biota,bathysaurus ferox,wildlife (fish)
+ip_chem_biota,scyliorhinus canicula,wildlife (fish)
+ip_chem_biota,squalus acanthias,wildlife (fish)
+ip_chem_biota,hoplostethus atlanticus,wildlife (fish)
+ip_chem_biota,anarhichas lupus,wildlife (fish)
+ip_chem_biota,raja montagui,wildlife (fish)
+ip_chem_biota,micromesistius poutassou,wildlife (fish)
+ip_chem_biota,sebastes marinus,wildlife (fish)
+ip_chem_biota,salmo trutta,wildlife (fish)
+ip_chem_biota,glyptocephalus cynoglossus,wildlife (fish)
+ip_chem_biota,chelidonichthys kumu,wildlife (fish)
+ip_chem_biota,reinhardtius hippoglossoides,wildlife (fish)
+ip_chem_biota,raja brachyura,wildlife (fish)
+ip_chem_biota,salmo salar,wildlife (fish)
+ip_chem_biota,gobius,wildlife (fish)
+ip_chem_biota,triglidae,wildlife (fish)
+ip_chem_biota,anarhichas minor,wildlife (fish)
+ip_chem_biota,thunnus thynnus,wildlife (fish)
+ip_chem_biota,sardina pilchardus,wildlife (fish)
+ip_chem_biota,pegusa lascaris,wildlife (fish)
+ip_chem_biota,gadus ogac,wildlife (fish)
+ip_chem_biota,raja radiata,wildlife (fish)
+ctd,tilapia,wildlife (fish)
+ctd,tuna,wildlife (fish)
+ctd,salmon,wildlife (fish)
+ctd,catfish,wildlife (fish)
+ctd,mahi mahi,wildlife (fish)
+ctd,herring,wildlife (fish)
+ctd,sardine,wildlife (fish)
+ctd,trout,wildlife (fish)
+ctd,"catfish fillet, farm",wildlife (fish)
+ctd,halibut,wildlife (fish)
+ctd,"perch, wild",wildlife (fish)
+ctd,shark,wildlife (fish)
+ctd,anchovy,wildlife (fish)
+ctd,bluefish,wildlife (fish)
+ctd,carp,wildlife (fish)
+ctd,clam,wildlife (fish)
+ctd,cod,wildlife (fish)
+ctd,crab,wildlife (fish)
+ctd,croaker,wildlife (fish)
+ctd,flounder,wildlife (fish)
+ctd,"bass, sea",wildlife (fish)
+ctd,grouper,wildlife (fish)
+ctd,haddock,wildlife (fish)
+ctd,hake,wildlife (fish)
+ctd,"mackerel, king",wildlife (fish)
+ctd,lobster,wildlife (fish)
+ctd,mackerel,wildlife (fish)
+ctd,marlin,wildlife (fish)
+ctd,monkfish,wildlife (fish)
+ctd,mussel,wildlife (fish)
+ctd,ocean perch,wildlife (fish)
+ctd,orange roughy,wildlife (fish)
+ctd,perch,wildlife (fish)
+ctd,"perch, freshwater",wildlife (fish)
+ctd,pike,wildlife (fish)
+ctd,plaice,wildlife (fish)
+ctd,pollock,wildlife (fish)
+ctd,porgy,wildlife (fish)
+ctd,red snapper,wildlife (fish)
+ctd,rockfish,wildlife (fish)
+ctd,sablefish,wildlife (fish)
+ctd,"salmon, fresh",wildlife (fish)
+ctd,scorpionfish,wildlife (fish)
+ctd,sea bass,wildlife (fish)
+ctd,sea trout,wildlife (fish)
+ctd,shad,wildlife (fish)
+ctd,sheepshead,wildlife (fish)
+ctd,skate,wildlife (fish)
+ctd,snapper,wildlife (fish)
+ctd,sole,wildlife (fish)
+ctd,swordfish,wildlife (fish)
+ctd,tilefish,wildlife (fish)
+ctd,"tuna, fresh and frozen",wildlife (fish)
+ctd,walleye,wildlife (fish)
+ctd,whitefish,wildlife (fish)
+ctd,bass,wildlife (fish)
+ctd,bluegill,wildlife (fish)
+ctd,bowfin,wildlife (fish)
+ctd,crappie,wildlife (fish)
+ctd,drum,wildlife (fish)
+ctd,n pike,wildlife (fish)
+ctd,sucker,wildlife (fish)
+ctd,sunfish,wildlife (fish)
+ctd,"salmon fillet, farm",wildlife (fish)
+chem_theatre,invertebrates,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,abaria quatila,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,acroneuria,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,aeshnidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,anisoptera,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,arctopsyche,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,atherix,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,baetidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,baetis,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,brachycentridae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,brachycentrus,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,calopterygidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,cheumatopsyche,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,chironomidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,chironomus,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,ephemerella,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,ephemeroptera,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,gammaridae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,gammaridea,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,glossosoma,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,gomphidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,heptageniidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,hexatoma,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,hydropsyche,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,hydropsychidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,lepidostoma,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,leptophlebiidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,libellulidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,limnephilidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,limnephilini,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,megaloptera,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,odonata,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,perlidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,phryganeidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,plecoptera,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,pleurobema sintoxia,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,stenophylacini,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,tanypodinae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,tipula,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,tipulidae,wildlife (terrestrial invertebrates/worms)
+usgs_tissue,zygoptera,wildlife (terrestrial invertebrates/worms)
+chem_theatre,reptiles,wildlife (terrestrial vertebrates)
+ices_biota,lepus timidus,wildlife (terrestrial vertebrates)
+ices_biota,ovis aries,wildlife (terrestrial vertebrates)
+ices_biota,ursus maritimus,wildlife (terrestrial vertebrates)
+epa_nrp,animal-calf-bob veal,wildlife (terrestrial vertebrates)
+epa_nrp,animal-calf-formula-fed veal,wildlife (terrestrial vertebrates)
+epa_nrp,animal-calf-heavy calf,wildlife (terrestrial vertebrates)
+epa_nrp,animal-calf-non formula-fed veal,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-beef cow,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-bull,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-dairy cow,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-heifer,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-steer,wildlife (terrestrial vertebrates)
+epa_nrp,animal-cattle-steer/heifer carcass sponge,wildlife (terrestrial vertebrates)
+epa_nrp,animal-goat,wildlife (terrestrial vertebrates)
+epa_nrp,animal-goat,wildlife (terrestrial vertebrates)
+epa_nrp,animal-sheep-lamb,wildlife (terrestrial vertebrates)
+epa_nrp,animal-sheep-mature sheep,wildlife (terrestrial vertebrates)
+epa_nrp,animal-swine-boar/stag swine,wildlife (terrestrial vertebrates)
+epa_nrp,animal-swine-market swine,wildlife (terrestrial vertebrates)
+epa_nrp,animal-swine-market swine,wildlife (terrestrial vertebrates)
+epa_nrp,animal-swine-roaster swine,wildlife (terrestrial vertebrates)
+epa_nrp,animal-swine-sow,wildlife (terrestrial vertebrates)
+ip_chem_biota,lepus timidus,wildlife (terrestrial vertebrates)
+ip_chem_biota,ovis aries,wildlife (terrestrial vertebrates)
+ip_chem_biota,ursus maritimus,wildlife (terrestrial vertebrates)

@@ -1,0 +1,352 @@
+mediaid,name,harmonized_media,reported_media,reported_species
+1503,usgs,ambient air,air,NA
+1536,usgs,ambient air,ambient air,NA
+1879,usgs,ambient air,indoor air,NA
+2230,epa_ucmr,drinking water,drinking water,NA
+1120,usgs,drinking water,deionized water,NA
+1010,usgs,drinking water,drinking water,NA
+1670,usgs,drinking water,finished water,NA
+1839,usgs,drinking water,untreated water supply,NA
+28,fda_tds_elem,food product,"chicken filet (broiled) sandwich on bun, fast-food",NA
+33,fda_tds_elem,food product,"chicken w/ vegetables in sauce, from chinese carry-out",NA
+37,fda_tds_elem,food product,"clam chowder, new england, canned, cond, prep w/ whl milk",NA
+62,fda_tds_elem,food product,"doughnut, cake-type, any flavor, from donut store",NA
+63,fda_tds_elem,food product,"egg, cheese, and ham on english muffin, fast-food",NA
+77,fda_tds_elem,food product,"fruit juice blend (100% juice), canned/bottled",NA
+151,fda_tds_elem,food product,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+162,fda_tds_elem,food product,"potato salad, mayonnaise-type, from grocery/deli",NA
+170,fda_tds_elem,food product,"pudding, ready-to-eat, flavor other than chocolate",NA
+178,fda_tds_elem,food product,"salad dressing, creamy/buttermilk type, low-calorie",NA
+179,fda_tds_elem,food product,"salad dressing, creamy/buttermilk type, regular",NA
+188,fda_tds_elem,food product,"soup, oriental noodles (ramen noodles), prep w/ water",NA
+189,fda_tds_elem,food product,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+190,fda_tds_elem,food product,"soup, chicken noodle, canned, cond, prep w/ water",NA
+193,fda_tds_elem,food product,"soup, vegetable beef, canned, cond, prep w/ water",NA
+199,fda_tds_elem,food product,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+200,fda_tds_elem,food product,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+214,fda_tds_elem,food product,"taco/tostada w/ beef and cheese, from mexican carry-out",NA
+2239,fda_tds_elem,food product,"bf, infant formula, milk-based, high iron, rtf",NA
+2240,fda_tds_elem,food product,"bf, infant formula, milk-based, iron fortified, rtf",NA
+2310,fda_tds_elem,food product,"beef w/ vegetables in sauce, from chinese carry-out",NA
+2317,fda_tds_elem,food product,"bottled drinking water (mineral/spring), not carbonated or flavored",NA
+2329,fda_tds_elem,food product,"burrito w/ beef, beans and cheese, from mexican carry-out",NA
+241,fda_tds_pest,food product,"bf, infant formula, milk-based, high iron, rtf",NA
+309,fda_tds_pest,food product,"beef w/ vegetables in sauce, from chinese carry-out",NA
+317,fda_tds_pest,food product,"bottled drinking water (mineral/spring), not carbonated or flavored",NA
+328,fda_tds_pest,food product,"burrito w/ beef, beans and cheese, from mexican carry-out",NA
+355,fda_tds_pest,food product,"chicken filet (broiled) sandwich on bun, fast-food",NA
+362,fda_tds_pest,food product,"chicken w/ vegetables in sauce, from chinese carry-out",NA
+365,fda_tds_pest,food product,"clam chowder, new england, canned, cond, prep w/ whl milk",NA
+392,fda_tds_pest,food product,"doughnut, cake-type, any flavor, from donut store",NA
+393,fda_tds_pest,food product,"egg, cheese, and ham on english muffin, fast-food",NA
+407,fda_tds_pest,food product,"fruit juice blend (100% juice), canned/bottled",NA
+481,fda_tds_pest,food product,"pizza, cheese and pepperoni, regular crust, from pizza carry-out",NA
+492,fda_tds_pest,food product,"potato salad, mayonnaise-type, from grocery/deli",NA
+499,fda_tds_pest,food product,"pudding, ready-to-eat, flavor other than chocolate",NA
+508,fda_tds_pest,food product,"salad dressing, creamy/buttermilk type, low-calorie",NA
+509,fda_tds_pest,food product,"salad dressing, creamy/buttermilk type, regular",NA
+517,fda_tds_pest,food product,"soup, oriental noodles (ramen noodles), prep w/ water",NA
+518,fda_tds_pest,food product,"soup, bean w/ bacon/pork, canned, cond, prep w/ water",NA
+519,fda_tds_pest,food product,"soup, chicken noodle, canned, cond, prep w/ water",NA
+521,fda_tds_pest,food product,"soup, vegetable beef, canned, cond, prep w/ water",NA
+528,fda_tds_pest,food product,"squash, winter (hubbard or acorn), fresh/frozen, boiled",NA
+529,fda_tds_pest,food product,"squash, winter (hubbard/acorn), fresh/frozen, boiled",NA
+542,fda_tds_pest,food product,"taco/tostada w/ beef and cheese, from mexican carry-out",NA
+1525,usgs,groundwater,groundwater,NA
+1722,usgs,landfill leachate,landfill effluent,NA
+1736,usgs,landfill leachate,leachate,NA
+1114,usda_nrp,livestock/meat,muscle,"product-thermally processed, commercially sterile"
+1122,usda_nrp,livestock/meat,muscle,NA
+1132,usda_nrp,livestock/meat,muscle,"product-nrte-ground, comminuted or otherwise nonintact meat"
+1948,usgs,NA,sediment,animalia
+1329,usgs,NA,water,NA
+852,ip_chem_biota,other-ecological,sb,NA
+1703,usgs,precipitation,bulk deposition,NA
+2005,usgs,other-environmental,filter residue,NA
+1725,usgs,other-environmental,hyporheic zone,NA
+1636,usgs,precipitation,wet fall material,NA
+815,ices_sediment,sediment,sediment,NA
+1614,usgs,sediment,bottom material,NA
+1692,usgs,sediment,elutriation,NA
+1492,usgs,sediment,sediment,NA
+1581,usgs,sediment,sieved sediment,NA
+1570,usgs,sediment,subsurface soil/sediment,NA
+1559,usgs,sediment,surface soil/sediment,NA
+2006,usgs,sediment,surface water sediment,NA
+1714,usgs,sediment,suspended,NA
+1592,usgs,sediment,unsieved sediment,NA
+1647,usgs,soil,soil moisture,NA
+1658,usgs,surface water,interstitial,NA
+1792,usgs,surface water,interstitial water,NA
+1508,usgs,surface water,ocean water,NA
+2019,usgs,surface water,pore water,NA
+1781,usgs,precipitation,rainwater,NA
+2007,usgs,precipitation,snowmelt,NA
+1514,usgs,surface water,surface water,NA
+1625,usgs,unknown,biological tissue,NA
+1765,usgs,unknown,biological tissue,animalia
+1440,usgs,unknown,tissue,NA
+1589,usgs,unknown,tissue,animalia
+1690,usgs,unknown,unknown,NA
+368,usgs,vegetation,canopy,NA
+1681,usgs,"wastewater (influent, effluent)",effluent,NA
+1769,usgs,"wastewater (influent, effluent)",industrial effluent,NA
+1758,usgs,"wastewater (influent, effluent)",mixing zone,NA
+1763,usgs,"wastewater (influent, effluent)",municipal sewage effluent,NA
+1547,usgs,"wastewater (influent, effluent)",municipal waste,NA
+1603,usgs,"wastewater (influent, effluent)",stormwater,NA
+1747,usgs,"wastewater (influent, effluent)",wastewater treatment plant effluent,NA
+412,usgs,"wastewater (influent, effluent)",wastewater treatment plant influent,NA
+690,ices_biota,wildlife (aquatic invertebrate),other,mytilus
+312,usgs,wildlife (aquatic invertebrate),tissue,catostomus commersoni***retired***use catostomus commersonii
+1770,usgs,wildlife (aquatic invertebrate),unknown,saxidomus giganteus***retired***use saxidomus gigantea
+1654,usgs,wildlife (aquatic invertebrate),water,"oligochaeta***retired***use oligochaeta (clitellata), oligochaeta (oligochaeta)"
+1743,usgs,wildlife (aquatic invertebrate),water,"turbellaria***retired***use catenulida (platyhelminthes), acoelomorpha, rhabditophora"
+1931,usgs,wildlife (aquatic invertebrate),water,"hirudinea***retired***use hirudinea (clitellata), hirudinea (hirudinea)"
+1471,epa_nscrlft,wildlife (fish),fish tissue,NA
+699,ices_biota,wildlife (fish),tissue,neogobius melanostomus
+701,ices_biota,wildlife (fish),other,neogobius melanostomus
+1597,usgs,wildlife (fish),tissue,gila bicolor***retired***use siphateles bicolor
+1675,usgs,wildlife (fish),tissue,micropterus dolomieui***retired***use micropterus dolomieu
+2063,usgs,wildlife (fish),tissue,chaenobryttus gulosus***retired***use lepomis gulosus
+69,usgs,wildlife (terrestrial invertebrates/worms),sediment,"catenulida (platyhelminthes), acoelomorpha, rhabditophora***retired***use (platyhelminthe"
+1553,ices_biota,wildlife (fish),blood,gadus morhua
+1550,ices_biota,wildlife (birds),fat,fulmarus glacialis
+1573,ices_biota,wildlife (birds),fat,larus hyperboreus
+1642,ices_biota,wildlife (terrestrial vertebrates),fat,ovis aries
+1684,ices_biota,wildlife (birds),fat,rissa tridactyla
+1710,ices_biota,wildlife (birds),fat,somateria mollissima
+1736,ip_chem_biota,wildlife (fish),li,limanda limanda
+1737,ip_chem_biota,wildlife (fish),mu,limanda limanda
+1738,ip_chem_biota,wildlife (fish),li,pleuronectes platessa
+1739,ip_chem_biota,wildlife (fish),mu,mullus barbatus
+1740,ip_chem_biota,wildlife (aquatic invertebrate),wo,mytillus edulis
+1742,ip_chem_biota,wildlife (fish),mu,perca fluviatilis
+1743,ip_chem_biota,wildlife (aquatic invertebrate),wo,mytilus galloprovincialis
+1744,ip_chem_biota,wildlife (fish),mu,clupea harengus
+1745,ip_chem_biota,wildlife (fish),mu,gadus morhua
+1746,ip_chem_biota,wildlife (fish),li,gadus morhua
+1747,ip_chem_biota,wildlife (fish),li,clupea harengus
+1748,ip_chem_biota,wildlife (fish),li,perca fluviatilis
+1749,ip_chem_biota,wildlife (aquatic invertebrate),wo,saduria entomon
+1751,ip_chem_biota,wildlife (fish),mu,boops boops
+1752,ip_chem_biota,NA,li,mytilus galloprovincialis
+1753,ip_chem_biota,NA,mu,platichthys flesus
+1754,ip_chem_biota,NA,li,platichthys flesus
+1757,ip_chem_biota,NA,mu,zoarces viviparus
+1764,ip_chem_biota,NA,wo,lymnaea palustris
+1765,ip_chem_biota,NA,wo,clupea harengus
+1766,ip_chem_biota,NA,wo,perca fluviatilis
+1767,ip_chem_biota,NA,wo,crassostrea gigas
+1769,ip_chem_biota,NA,wo,cerastoderma edule
+1770,ip_chem_biota,NA,wo,venerupis philippinarum
+1771,ip_chem_biota,NA,wo,venerupis decussata
+1772,ip_chem_biota,NA,wo,donax trunculus
+1773,ip_chem_biota,NA,wo,ostrea edulis
+1776,ip_chem_biota,NA,tm,mytilus edulis
+1777,ip_chem_biota,NA,tm,nephrops norvegicus
+1778,ip_chem_biota,NA,mu,merluccius merluccius
+1780,ip_chem_biota,NA,li,merlangius merlangus
+1781,ip_chem_biota,NA,mu,merluccius merluccius
+1783,ip_chem_biota,NA,ro,gadus morhua
+1784,ip_chem_biota,NA,mu,microstomus kitt
+1785,ip_chem_biota,NA,li,microstomus kitt
+1786,ip_chem_biota,NA,li,melanogrammus aeglefinus
+1787,ip_chem_biota,NA,mu,melanogrammus aeglefinus
+1789,ip_chem_biota,NA,go,aphanopus carbo
+1790,ip_chem_biota,NA,li,aphanopus carbo
+1791,ip_chem_biota,NA,mu,aphanopus carbo
+1792,ip_chem_biota,NA,mu,coryphaenoides rupestris
+1793,ip_chem_biota,NA,li,coryphaenoides rupestris
+1794,ip_chem_biota,NA,mu,molva dypterygia
+1795,ip_chem_biota,NA,li,molva dypterygia
+1796,ip_chem_biota,NA,wo,fucus vesiculosus
+1797,ip_chem_biota,NA,mu,pleuronectes platessa
+1799,ip_chem_biota,NA,mu,anguilla anguilla
+1800,ip_chem_biota,NA,mu,lepidorhombus whiffiagonis
+1801,ip_chem_biota,NA,li,lepidorhombus whiffiagonis
+1802,ip_chem_biota,NA,li,merluccius merluccius
+1804,ip_chem_biota,NA,tm,palaemon serratu
+1805,ip_chem_biota,NA,mu,lophius piscatorius
+1807,ip_chem_biota,NA,tm,crangon crangon
+1809,ip_chem_biota,NA,wo,fucus
+1810,ip_chem_biota,NA,li,zoarces viviparus
+1811,ip_chem_biota,NA,go,pecten maximus
+1812,ip_chem_biota,NA,mu,pecten maximus
+1813,ip_chem_biota,NA,wo,fucus serratus
+1814,ip_chem_biota,NA,mu,brosme brosme
+1815,ip_chem_biota,NA,li,brosme brosme
+1817,ip_chem_biota,NA,tm,pandalus borealis
+1818,ip_chem_biota,NA,mu,solea vulgaris
+1819,ip_chem_biota,NA,fe,cepphus grylle
+1820,ip_chem_biota,NA,li,myoxocephalus scorpius
+1821,ip_chem_biota,NA,mu,mallotus villosus
+1822,ip_chem_biota,NA,li,monodon monoceros
+1823,ip_chem_biota,NA,mu,monodon monoceros
+1824,ip_chem_biota,NA,ki,monodon monoceros
+1825,ip_chem_biota,NA,mu,boreogadus saida
+1826,ip_chem_biota,NA,li,boreogadus saida
+1827,ip_chem_biota,NA,li,larus hyperboreus
+1828,ip_chem_biota,NA,fa,larus hyperboreus
+1829,ip_chem_biota,NA,mu,sprattus sprattus
+1830,ip_chem_biota,NA,bb,balaenoptera acutorostrata
+1831,ip_chem_biota,NA,li,hippoglossoides platessoides
+1832,ip_chem_biota,NA,bb,phoca vitulina
+1833,ip_chem_biota,NA,li,phoca vitulina
+1835,ip_chem_biota,NA,eg,uria aalge
+1837,ip_chem_biota,NA,bb,phocoena phocoena
+1839,ip_chem_biota,NA,mu,molva molva
+1840,ip_chem_biota,NA,li,molva molva
+1841,ip_chem_biota,NA,mu,salvelinus alpinus
+1842,ip_chem_biota,NA,mu,scomber scombrus
+1843,ip_chem_biota,NA,mu,leucoraja naevus
+1844,ip_chem_biota,NA,mu,pollachius pollachius
+1845,ip_chem_biota,NA,mu,zeus faber
+1846,ip_chem_biota,NA,mu,palaemon serratu
+1847,ip_chem_biota,NA,mu,scophthalmus rhombus
+1848,ip_chem_biota,NA,mu,lophius budegassa
+1849,ip_chem_biota,NA,mu,solea solea
+1850,ip_chem_biota,NA,mu,thunnus alalunga
+1851,ip_chem_biota,NA,mu,conger conger
+1852,ip_chem_biota,NA,mu,raja clavata
+1853,ip_chem_biota,NA,gi,aphanopus carbo
+1854,ip_chem_biota,NA,bl,halichoerus grypus
+1855,ip_chem_biota,NA,bb,halichoerus grypus
+1856,ip_chem_biota,NA,li,cepphus grylle
+1857,ip_chem_biota,NA,eg,haematopus ostralegus
+1858,ip_chem_biota,NA,sh,mytilus edulis
+1859,ip_chem_biota,NA,mu,raja naevus
+1860,ip_chem_biota,NA,mu,sebastes mentella
+1861,ip_chem_biota,NA,li,sebastes mentella
+1862,ip_chem_biota,NA,mu,hippoglossoides platessoides
+1863,ip_chem_biota,NA,li,solea vulgaris
+1864,ip_chem_biota,NA,fa,fulmarus glacialis
+1865,ip_chem_biota,NA,li,fulmarus glacialis
+1867,ip_chem_biota,NA,li,chimaera monstrosa
+1868,ip_chem_biota,NA,mu,chimaera monstrosa
+1869,ip_chem_biota,NA,mu,pollachius virens
+1870,ip_chem_biota,NA,mu,eutrigla gurnardus
+1871,ip_chem_biota,NA,bb,globicephala melas
+1872,ip_chem_biota,NA,ki,globicephala melas
+1873,ip_chem_biota,NA,li,globicephala melas
+1874,ip_chem_biota,NA,mu,globicephala melas
+1875,ip_chem_biota,NA,mu,psetta maxima
+1876,ip_chem_biota,NA,mu,ostrea edulis
+1877,ip_chem_biota,NA,eh,cepphus grylle
+1878,ip_chem_biota,NA,eg,cepphus grylle
+1879,ip_chem_biota,NA,li,pollachius virens
+1880,ip_chem_biota,NA,mu,bathysaurus ferox
+1881,ip_chem_biota,NA,go,bathysaurus ferox
+1882,ip_chem_biota,NA,li,bathysaurus ferox
+1883,ip_chem_biota,NA,mu,scyliorhinus canicula
+1884,ip_chem_biota,NA,mu,squalus acanthias
+1885,ip_chem_biota,NA,tm,platichthys flesus
+1886,ip_chem_biota,NA,gi,lophius piscatorius
+1887,ip_chem_biota,NA,go,lophius piscatorius
+1888,ip_chem_biota,NA,li,lophius piscatorius
+1889,ip_chem_biota,NA,mu,hoplostethus atlanticus
+1890,ip_chem_biota,NA,li,hoplostethus atlanticus
+1891,ip_chem_biota,NA,go,hoplostethus atlanticus
+1892,ip_chem_biota,NA,wo,crangon crangon
+1893,ip_chem_biota,NA,mu,anarhichas lupus
+1894,ip_chem_biota,NA,mu,raja montagui
+1895,ip_chem_biota,NA,mu,micromesistius poutassou
+1896,ip_chem_biota,NA,li,micromesistius poutassou
+1897,ip_chem_biota,NA,li,sebastes marinus
+1898,ip_chem_biota,NA,mu,sebastes marinus
+1899,ip_chem_biota,NA,li,salmo trutta
+1900,ip_chem_biota,NA,mu,salmo trutta
+1901,ip_chem_biota,NA,bb,monodon monoceros
+1902,ip_chem_biota,NA,fa,rissa tridactyla
+1903,ip_chem_biota,NA,li,rissa tridactyla
+1904,ip_chem_biota,NA,wo,fucus ceranoides
+1905,ip_chem_biota,NA,mu,glyptocephalus cynoglossus
+1906,ip_chem_biota,NA,fa,somateria mollissima
+1907,ip_chem_biota,NA,li,somateria mollissima
+1908,ip_chem_biota,NA,li,nephrops norvegicus
+1909,ip_chem_biota,NA,mu,nephrops norvegicus
+1910,ip_chem_biota,NA,go,molva dypterygia
+1911,ip_chem_biota,NA,li,glyptocephalus cynoglossus
+1912,ip_chem_biota,NA,wo,platichthys flesus
+1914,ip_chem_biota,NA,li,lepus timidus
+1915,ip_chem_biota,NA,bb,phoca hispida
+1916,ip_chem_biota,NA,mu,phoca hispida
+1917,ip_chem_biota,NA,li,phoca hispida
+1918,ip_chem_biota,NA,bc,phoca vitulina
+1919,ip_chem_biota,NA,bs,phoca vitulina
+1920,ip_chem_biota,NA,mu,chelidonichthys kumu
+1921,ip_chem_biota,NA,ki,phoca hispida
+1922,ip_chem_biota,NA,li,ovis aries
+1923,ip_chem_biota,NA,mu,reinhardtius hippoglossoides
+1924,ip_chem_biota,NA,wo,pecten maximus
+1925,ip_chem_biota,NA,li,pollachius pollachius
+1926,ip_chem_biota,NA,mu,raja brachyura
+1927,ip_chem_biota,NA,mu,rissa tridactyla
+1928,ip_chem_biota,NA,br,rissa tridactyla
+1929,ip_chem_biota,NA,ki,rissa tridactyla
+1930,ip_chem_biota,NA,wo,gadus morhua
+1931,ip_chem_biota,NA,li,scomber scombrus
+1932,ip_chem_biota,NA,mu,salmo salar
+1935,ip_chem_biota,NA,mu,triglidae
+1936,ip_chem_biota,NA,bb,ursus maritimus
+1937,ip_chem_biota,NA,mu,anarhichas minor
+1938,ip_chem_biota,NA,mu,thunnus thynnus
+1939,ip_chem_biota,NA,eg,sterna hirundo
+1940,ip_chem_biota,NA,li,uria lomvia
+1941,ip_chem_biota,NA,ro,pollachius pollachius
+1942,ip_chem_biota,NA,wo,solea vulgaris
+1943,ip_chem_biota,NA,li,sardina pilchardus
+1944,ip_chem_biota,NA,mu,sardina pilchardus
+1946,ip_chem_biota,NA,bb,delphinus delphis
+1947,ip_chem_biota,NA,li,delphinus delphis
+1948,ip_chem_biota,NA,mu,pegusa lascaris
+1950,ip_chem_biota,NA,ki,cephhus grylle
+1951,ip_chem_biota,NA,bb,myoxocephalus scorpius
+1952,ip_chem_biota,NA,bb,salvelinus alpinus
+1953,ip_chem_biota,NA,li,larus glaucoides
+1954,ip_chem_biota,NA,li,reinhardtius hippoglossoides
+1955,ip_chem_biota,NA,li,pandalus borealis
+1956,ip_chem_biota,NA,mu,delphinapterus leucas
+1957,ip_chem_biota,NA,bb,delphinapterus leucas
+1958,ip_chem_biota,NA,ki,delphinapterus leucas
+1959,ip_chem_biota,NA,li,delphinapterus leucas
+1960,ip_chem_biota,NA,ep,delphinapterus leucas
+1961,ip_chem_biota,NA,li,gadus ogac
+1962,ip_chem_biota,NA,li,anarhichas minor
+1963,ip_chem_biota,NA,li,raja radiata
+1964,ip_chem_biota,NA,ba,balaenoptera acutorostrata
+1965,ip_chem_biota,NA,ki,balaenoptera acutorostrata
+1966,ip_chem_biota,NA,li,balaenoptera acutorostrata
+1967,ip_chem_biota,NA,mu,balaenoptera acutorostrata
+1969,ip_chem_biota,NA,eh,larus
+1978,usda_nrp,NA,kidney,animal-cattle-beef cow
+1980,usda_nrp,NA,kidney,animal-calf-bob veal
+1981,usda_nrp,NA,kidney,animal-cattle-bull
+1983,usda_nrp,NA,kidney,animal-cattle-dairy cow
+1984,usda_nrp,NA,kidney,animal-calf-heavy calf
+1985,usda_nrp,NA,kidney,animal-cattle-heifer
+1986,usda_nrp,NA,kidney,animal-cattle-steer
+1987,usda_nrp,NA,kidney,animal-swine-market swine
+1988,usda_nrp,NA,kidney,animal-swine-sow
+1989,usda_nrp,NA,kidney,animal-calf-formula-fed veal
+1991,usda_nrp,NA,kidney,animal-calf-non formula-fed veal
+1992,usda_nrp,NA,kidney,animal-sheep-lamb
+1993,usda_nrp,NA,liver,animal-cattle-beef cow
+1994,usda_nrp,NA,liver,animal-calf-bob veal
+1995,usda_nrp,NA,liver,animal-cattle-bull
+1996,usda_nrp,NA,liver,animal-cattle-dairy cow
+1997,usda_nrp,NA,liver,animal-calf-heavy calf
+1998,usda_nrp,NA,liver,animal-cattle-heifer
+1999,usda_nrp,NA,liver,animal-cattle-steer
+2001,usda_nrp,NA,liver,animal-swine-market swine
+2002,usda_nrp,NA,liver,animal-swine-sow
+2005,usda_nrp,NA,liver,animal-cattle-steer/heifer carcass sponge
+2006,usda_nrp,NA,kidney,animal-goat
+2008,usda_nrp,NA,kidney,animal-cattle-steer/heifer carcass sponge
+2009,usda_nrp,NA,liver,animal-goat
+2010,usda_nrp,NA,liver,animal-calf-non formula-fed veal
+2014,usda_nrp,NA,kidney,animal-swine-roaster swine
+2016,usda_nrp,NA,liver,animal-swine-roaster swine
+2018,usda_nrp,NA,kidney,animal-swine-boar/stag swine
+2019,usda_nrp,NA,kidney,animal-sheep-mature sheep
+2021,usda_nrp,NA,liver,animal-sheep-lamb

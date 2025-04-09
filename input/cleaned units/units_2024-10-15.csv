@@ -1,0 +1,566 @@
+﻿source_id,reported_units,n,cleaned_units
+168,ug,3813,µg
+225,micrograms,405,µg
+226,µg /g of creatinine,180,µg /g creatinine
+225,micrograms per micromole creatinine,18,µg/µmol creatinine
+168,ug/cm2,101,µg/cm2
+225,micrograms per square centimeter,30,µg/cm2
+225,micrograms per cubic centimeter,6,µg/cm3
+152,µg/dL,16,µg/dL
+225,micrograms per deciliter,3446,µg/dL
+226,µg/dL,700,µg/dL
+150,µg/ft2,2,µg/ft2
+225,micrograms per square foot,90,µg/ft2
+168,ug/g,40588,µg/g
+183,ug/g,16123,µg/g
+185,ug/g,9974,µg/g
+194,µg/g,36183,µg/g
+222,µg/g,3,µg/g
+225,micrograms per gram,7442,µg/g
+152,µg/g creatinine,16,µg/g creatinine
+194,µg/g crt,220,µg/g creatinine
+225,micrograms per gram creatinine,14665,µg/g creatinine
+226,µg/g of creatinine,26865,µg/g creatinine
+225,micrograms per gram hemoglobin,31,µg/g hemoglobin
+225,micrograms per gram lipid,197,µg/g lipid
+168,ug/kg,224630,µg/kg
+179,UG/KG,504,µg/kg
+181,ug/kg,1,µg/kg
+183,ug/kg,1086375,µg/kg
+185,ug/kg,470079,µg/kg
+186,µg/kg,826743,µg/kg
+188,µg/kg,338066,µg/kg
+193,µg/kg,3362,µg/kg
+225,micrograms per kilogram,1169,µg/kg
+225,micrograms per kilogram lipid,1881,µg/kg lipid
+152,µg/L,432,µg/L
+168,ug/l,5785505,µg/L
+168,ug/L,14432,µg/L
+187,µg/l,349988,µg/L
+193,µg/l,4713888,µg/L
+194,µg/l,48924,µg/L
+194,µg/L,1084,µg/L
+194,ug/L,3618,µg/L
+195,µg/L,4216,µg/L
+211,ug/L,2867262,µg/L
+225,micrograms per liter,32004,µg/L
+226,µg /L,180,µg/L
+226,µg/L,34260,µg/L
+168,ug/L as As,1744,µg/L as As
+168,ug/l as Cr,1682,µg/L as Cr
+168,ug/l as P,89,µg/L as P
+168,ug/m2,158,µg/m2
+225,micrograms per square meter,107,µg/m2
+168,ug/m3,364,µg/m3
+177,µg/m3,2871688,µg/m3
+222,µg/m3,101,µg/m3
+225,micrograms per cubic meter,9745,µg/m3
+225,micrograms per milligram,15,µg/mg
+225,micrograms per milligram creatinine,21,µg/mg creatinine
+225,micrograms per milligram hemoglobin,1,µg/mg hemoglobin
+183,ug/mg protein,721,µg/mg protein
+168,ug/ml,46,µg/mL
+182,ug/mL,3,µg/mL
+183,ug/ml,65,µg/mL
+225,micrograms per milliliter,188,µg/mL
+225,micrograms per millimole creatine,33,µg/mmol creatinine
+225,micrograms per millimole creatinine,539,µg/mmol creatinine
+225,micrometers,16,µm
+168,umol,44436,µmol
+168,umol/g,176,µmol/g
+225,micromoles per gram,3,µmol/g
+225,micromoles per gram creatinine,19,µmol/g creatinine
+225,micromoles per kilogram,6,µmol/kg
+168,umol/L,7965,µmol/L
+225,micromoles per liter,632,µmol/L
+225,micromoles per square meter,6,µmol/m2
+225,micromoles per millimole creatinine,249,µmol/mmol creatinine
+225,micromoles per mole creatinine,556,µmol/mol creatinine
+225,micromoles per mole heme,13,µmol/mol heme
+225,femtograms per gram,3,fg/g
+225,femtograms per gram lipid,3,fg/g lipid
+168,fg/kg,2783,fg/kg
+225,femtograms per cubic meter,2,fg/m3
+225,grams,41,g
+158,g/dL,233,g/dL
+225,grams per deciliter,1,g/dL
+158,g/g,69,g/g
+185,g/g,9094,g/g
+225,grams per gram creatinine,4,g/g creatinine
+158,g/g dry,2542,g/g dry
+158,g/g lipid,239,g/g lipid
+168,g/kg,2633,g/kg
+185,g/kg,2648,g/kg
+225,grams per kilogram,16,g/kg
+158,g/kg dry,2213,g/kg dry
+158,g/L,132,g/L
+168,g/l,12975,g/L
+168,g/L,1475,g/L
+225,grams per liter,18,g/L
+225,kilograms,263,kg
+168,mg,16585,mg
+225,milligrams,364,mg
+168,mg/cm2,284,mg/cm2
+225,milligrams per square centimeter,6,mg/cm2
+168,mg/cm3,1,mg/cm3
+225,milligrams per deciliter,347,mg/dL
+158,mg/g,20,mg/g
+168,mg/g,433,mg/g
+185,mg/g,6,mg/g
+194,mg/g,2247,mg/g
+225,milligrams per gram,312,mg/g
+225,milligrams per gram creatinine,352,mg/g creatinine
+226,mg/g of creatinine,580,mg/g creatinine
+158,mg/g dry,28,mg/g dry
+168,mg/kg,228911,mg/kg
+179,MG/KG,2604,mg/kg
+181,mg/kg,142364,mg/kg
+183,mg/kg,80258,mg/kg
+185,mg/kg,23374,mg/kg
+193,mg/kg,6391,mg/kg
+225,milligrams per kilogram,2544,mg/kg
+168,mg/kg as N,302,mg/kg as N
+168,mg/kg as P,797,mg/kg as P
+225,milligrams per kilogram lipid,28,mg/kg lipid
+158,mg/L,61,mg/L
+168,mg/l,20284809,mg/L
+168,mg/L,90591,mg/L
+184,mg/L,171261,mg/L
+193,mg/l,36529,mg/L
+193,mg/L,290,mg/L
+194,mg/l,11502,mg/L
+201,mg/L,9298885,mg/L
+225,milligrams per liter,1868,mg/L
+226,mg/L,580,mg/L
+168,mg/l CaCO3,3155,mg/L as CaCO3
+168,mg/l as Cr,274,mg/L as Cr
+168,mg/l as N,608113,mg/L as N
+168,mg/l NH4,133774,mg/L as NH4
+168,mg/l asNO3,157302,mg/L as NO3
+168,mg/l NO3,12387,mg/L as NO3
+168,mg/l as P,385126,mg/L as P
+168,mg/l asPO4,133476,mg/L as PO4
+168,mg/m2,8295,mg/m2
+225,milligrams per square meter,13,mg/m2
+168,mg/m2 NH4,1,mg/m2 as NH4
+168,mg/m3,150646,mg/m3
+225,milligrams per cubic meter,691,mg/m3
+168,mg/ml,101,mg/mL
+225,milligrams per milliliter,378,mg/mL
+168,mg/mL @25C,501,mg/mL @ 25C
+225,milligrams per mole creatinine,5,mg/mol creatinine
+168,ml/l,3038,mL/L
+168,mmol/L,474,mmol/L
+225,millimoles per millimole creatinine,18,mmol/mmol creatinine
+225,millimoles per mole creatinine,44,mmol/mol creatinine
+225,moles per liter,27,mol/L
+168,ng,357,ng
+225,nanograms,738,ng
+225,nanograms per microliter,20,ng/µL
+150,ng/cm2,51,ng/cm2
+225,nanograms per square centimeter,24,ng/cm2
+225,nanograms per cubic centimeter,4,ng/cm3
+225,nanograms per deciliter,259,ng/dL
+158,ng/g,100,ng/g
+168,ng/g,357728,ng/g
+183,ng/g,28038,ng/g
+185,ng/g,2791,ng/g
+194,ng/g,63151,ng/g
+225,nanograms per gram,7703,ng/g
+225,nanograms per gram creatinine,554,ng/g creatinine
+226,ng/g of creatinine,2795,ng/g creatinine
+158,ng/g dry,3044,ng/g dry
+225,nanograms per gram dust,12,ng/g dust
+225,nanograms per gram fat,630,ng/g fat
+225,nanograms per gram filter,10,ng/g filter
+152,ng/g lipid,1648,ng/g lipid
+158,ng/g lipid,14545,ng/g lipid
+194,ng/g lipid,4320,ng/g lipid
+225,nanograms per gram lipid,14885,ng/g lipid
+158,ng/g wet,6265,ng/g wet
+168,ng/kg,52231,ng/kg
+183,ng/kg,6565,ng/kg
+185,ng/kg,2015,ng/kg
+158,ng/kg dry,60,ng/kg dry
+225,nanograms per kilogram fat,6,ng/kg fat
+225,nanograms per kilogram lipid,113,ng/kg lipid
+152,ng/L,144,ng/L
+158,ng/L,4576,ng/L
+160,ng/L,3150,ng/L
+168,ng/l,1429954,ng/L
+193,ng/l,628,ng/L
+194,ng/l,2160,ng/L
+194,ng/L,5442,ng/L
+225,nanograms per liter,1614,ng/L
+226,ng/L,2795,ng/L
+225,nanograms per square meter,14,ng/m2
+153,ng/m3,452,ng/m3
+158,ng/m3,19,ng/m3
+222,ng/m3,146,ng/m3
+225,nanograms per cubic meter,5092,ng/m3
+225,nanograms per milligram,387,ng/mg
+225,nanograms per milligram cholesterol,4,ng/mg cholesterol
+158,ng/mg creatinine,177,ng/mg creatinine
+225,nanograms per milligram creatinine,958,ng/mg creatinine
+225,nanograms per milligram lipid,108,ng/mg lipid
+152,ng/mL,288,ng/mL
+158,ng/mL,3186,ng/mL
+168,ng/ml,135,ng/mL
+183,ng/ml,6295,ng/mL
+194,ng/mL,3910,ng/mL
+225,nanograms per milliliter,30677,ng/mL
+226,ng/mL,9435,ng/mL
+225,nanograms per millimole creatinine,24,ng/mmol creatinine
+225,nanomoles per microliter,3,nmol/µL
+225,nanomoles per gram,60,nmol/g
+225,nanomoles per gram creatinine,1315,nmol/g creatinine
+225,nanomoles per gram hemoglobin,1,nmol/g hemoglobin
+168,nmol/kg,2176,nmol/kg
+168,nmol/L,23,nmol/L
+225,nanomoles per liter,1283,nmol/L
+168,nmol/m3,15,nmol/m3
+225,nanomoles per milligram creatinine,224,nmol/mg creatinine
+225,nanomoles per milliliter,62,nmol/mL
+225,nanomoles per millimole creatinine,46,nmol/mmol creatinine
+225,nanomoles per mole creatinine,3,nmol/mol creatinine
+225,picograms per microgram creatinine,24,pg/µg creatinine
+225,picograms per microliter,48,pg/µL
+225,picograms per deciliter,10,pg/dL
+168,pg/g,110174,pg/g
+183,pg/g,5502,pg/g
+225,picograms per gram,1534,pg/g
+158,pg/g dry,4529,pg/g dry
+225,picograms per gram fat,378,pg/g fat
+225,picograms per gram hemoglobin,104,pg/g hemoglobin
+158,pg/g lipid,2187,pg/g lipid
+225,picograms per gram lipid,2365,pg/g lipid
+158,pg/g wet,1975,pg/g wet
+168,pg/kg,3145,pg/kg
+183,pg/kg,536,pg/kg
+168,pg/l,42159,pg/L
+193,pg/l,36,pg/L
+225,picograms per liter,8,pg/L
+158,pg/m3,1242,pg/m3
+225,picograms per cubic meter,207,pg/m3
+225,picograms per milligram,112,pg/mg
+225,picograms per milligram albumin,316,pg/mg albumin
+225,picograms per milligram creatinine,132,pg/mg creatinine
+226,pg/mg of creatinine,140,pg/mg creatinine
+152,pg/mL,72,pg/mL
+225,picograms per milliliter,1583,pg/mL
+226,pg/mL,1185,pg/mL
+225,picomoles,208,pmol
+225,picomoles per gram,97,pmol/g
+225,picomoles per gram fat,250,pmol/g fat
+225,picomoles per gram globin,160,pmol/g globin
+225,picomoles per gram hemoglobin,74,pmol/g hemoglobin
+226,pmol/g hemoglobin,220,pmol/g hemoglobin
+225,picomoles per gram lipid,283,pmol/g lipid
+225,picomoles per liter,98,pmol/L
+225,picomoles per milligram creatinine,102,pmol/mg creatinine
+225,picomoles per milliliter,26,pmol/mL
+168,ppb,20938,ppb
+176,ppb,497463,ppb
+178,ppb,672,ppb
+182,ppb,2808,ppb
+191,PPB,15,ppb
+216,ppb,72205,ppb
+225,parts per billion,4534,ppb
+150,ppm,4,ppm
+168,ppm,56278,ppm
+178,ppm,80,ppm
+182,ppm,8885,ppm
+191,PPM,4432,ppm
+225,parts per million,3770,ppm
+168,ppt,2271646,ppt
+178,ppt,2944,ppt
+225,parts per trillion,873,ppt
+168,ppth,486401,ppth
+158,Bq/kg dry,10,
+158,Bq/kg wet,34,
+158,ng/PUF,540,
+158,pg/PUF,491,
+168,#/100ml,2,
+168,#/m2,829,
+168,%,808127,
+168,% by wt,10711,
+168,% recovery,65226,
+168,% saturatn,205435,
+168,% sediment,1,
+168,0/00,7164,
+168,cfu/100ml,868,
+168,cfu/ml,40,
+168,cfu/mL,282,
+168,cm,4549,
+168,cm3/g @STP,247,
+168,cm3/g STP,2183,
+168,code,31584,
+168,col/mL,617,
+168,count,14575,
+168,cp/100 mL,505,
+168,cp/L,18,
+168,days,115,
+168,deg C,452,
+168,dpm/g,309,
+168,fibers/l,29,
+168,FNU,1062,
+168,ft,40169,
+168,g,10800,
+168,g H2O/g,175,
+168,in,64300,
+168,in/hr,212,
+168,in/week,304,
+168,IVFU,32,
+168,lb/day,346,
+168,m,41,
+168,m/y,130,
+168,mgd,7,
+168,mi,934,
+168,MPN/100ml,157,
+168,mS/cm,3,
+168,mV,132549,
+168,ng/m2/day,4635,
+168,ng/SPMD,46,
+168,nm,4,
+168,NTU,7107,
+168,nu,1,
+168,pCi/g,1546,
+168,pCi/L,46126,
+168,pct modern,11557,
+168,per mil,55197,
+168,ppmv,24,
+168,PSS,103751,
+168,PSU,22357,
+168,ratio,55,
+168,RFU,3103,
+168,T.U.,154,
+168,ton/d/ft,464,
+168,tons/day,739,
+168,ueq/L,54641,
+168,ug/net,24,
+168,ugAtrazn/L,968,
+168,umho/cm,2,
+168,uS/cm,242,
+168,volts,8,
+182,%,5,
+182,B,3906,
+182,M,4482,
+183,gm/g,67,
+183,mBq/g,122,
+183,ng g-1 A380-1,638,
+183,ng g-1 A660-1,241,
+183,ng/min/mg protein,1785,
+183,nmol/min/gm liver,636,
+183,nmol/min/mg protein,489,
+183,pmol/min/mg protein,26894,
+183,ratio,808,
+183,ug Sn/kg,431,
+183,umol/min/mg protein,84,
+185,%,9962,
+185,Bq/kg,12,
+185,dpm/g dw,220,
+185,gm/g,2453,
+185,mBq/g,451,
+185,sc,22,
+185,ug Sn/kg,135,
+186,µmol/min/mg protein,84,
+225,absorbance units 10e-4 per meter,3,
+225,adducts per 10e8 nucleotides,11,
+225,adducts per 10e9 nucleotides,6,
+225,Air Quality Index,168,
+225,algorithm intensity score,12,
+225,asbestos bodies per gram,7,
+225,AUC55Mn:43Ca,13,
+225,becquerels per cubic meter,57,
+225,becquerels per kilogram,108,
+225,endotoxin units per cubic meter,94,
+225,endotoxin units per milligram,27,
+225,endotoxin units per square meter,2,
+225,"estradiol equivalents, milligrams per person per day",10,
+225,"estradiol equivalents, picomoles per milliliter",4,
+225,fibers per gram,6,
+225,free-base nicotine fraction,11,
+225,geometric mean ratio,112,
+225,grams per 100 grams liquid,14,
+225,grams per day,91,
+225,grams per day per person,10,
+225,grams per hour,16,
+225,grams per megajoule,32,
+225,gray units,4,
+225,hazard quotient,102,
+225,hours,92,
+225,hours per day,6,
+225,incremental lifetime cancer risk,16,
+225,international units per day,22,
+225,international units per liter,2,
+225,kilobecquerels per square meter,37,
+225,kilograms per hectacre,26,
+225,kilograms per hectare per year,180,
+225,kilograms per hour,2,
+225,kilograms per kilometer per day,8,
+225,lifetime average daily dose,8,
+225,lifetime average daily dose dioxin-like PCBs-toxic equivalency quotient,8,
+225,Manganese-55 to Calcium-43 area under the curve x 10e4,60,
+225,micrograms inhaled per breath,12,
+225,micrograms per 10 puffs,23,
+225,micrograms per 100 square centimeters,6,
+225,micrograms per 15 puffs,27,
+225,micrograms per 24 hours,13,
+225,micrograms per 30 puffs,17,
+225,micrograms per cigarette,6,
+225,micrograms per cubic meter per day,4,
+225,micrograms per cubic meter per hour,2,
+225,micrograms per cubic meter per kilogram active ingredient mixed,7,
+225,micrograms per cubic meter per minute,3,
+225,micrograms per cubic meter per N=C=O group,61,
+225,micrograms per cubic meter-years,4,
+225,micrograms per day,810,
+225,micrograms per day per kilogram body weight,293,
+225,micrograms per day per person,24,
+225,micrograms per e-cigarette,3,
+225,micrograms per hour,245,
+225,micrograms per kilogram body weight per day,1278,
+225,micrograms per kilogram body weight per week,77,
+225,micrograms per kilogram body weight-day,1,
+225,micrograms per kilogram per day,516,
+225,micrograms per kilogram per month,28,
+225,micrograms per kilogram per year,64,
+225,micrograms per liter per kilogram active ingredient mixed,7,
+225,micrograms per liter per year,4,
+225,micrograms per normal cubic meter,6,
+225,micrograms per puff,261,
+225,micrograms per sample,114,
+225,micrograms per session,12,
+225,micrograms per square meter per hour,39,
+225,micrograms per square meter per sampling day,39,
+225,microinternational units per liter,36,
+225,microinternational units per milliliter,26,
+225,micromolar,50,
+225,micromoles per day,6,
+225,milligrams per 10 puffs,4,
+225,milligrams per 100 grams hair,30,
+225,milligrams per 15 puffs,31,
+225,milligrams per cigarette,5,
+225,milligrams per cubic meter per minute,3,
+225,milligrams per cubic meter per year,12,
+225,milligrams per cubic meter-years,6,
+225,milligrams per day,171,
+225,milligrams per day per child,2,
+225,milligrams per kilogram active ingredient mixed,14,
+225,milligrams per kilogram body weight per day,137,
+225,milligrams per kilogram per day,166,
+225,milligrams per kilogram per day x 10e-4,110,
+225,milligrams per kilogram per day x 10e-6,110,
+225,milligrams per liter per year,4,
+225,milligrams per ton per day,4,
+225,milli-international units per liter,4,
+225,milli-international units per milliliter,5,
+225,millimoles per 24 hours,9,
+225,millimoles per day,12,
+225,millimoles per hour,18,
+225,millimoles per liter,121,
+225,millisieverts per year,2,
+225,milliunits per liter,15,
+225,Mn:Ca AUC x 10000,61,
+225,moles per day,28,
+225,nanograms per 10 puffs,3,
+225,nanograms per 15 puffs,61,
+225,nanograms per 24 hour per kilogram body weight,15,
+225,nanograms per day,214,
+225,nanograms per gram silicone per day,6,
+225,nanograms per gram wristband,19,
+225,nanograms per handwipe,14,
+225,nanograms per hour,2,
+225,nanograms per kilocalorie,25,
+225,nanograms per kilogram body weight per day,1206,
+225,nanograms per kilogram body weight per week,16,
+225,nanograms per kilogram per day,199,
+225,nanograms per person per day,18,
+225,nanograms per puff,8,
+225,nanograms per sample,135,
+225,nanograms per specific gravity unit,17,
+225,nanograms per square centimeter per year,24,
+225,nanomolar,42,
+225,nanomoles per day,208,
+225,nanomoles per kilogram body weight,30,
+225,nanomoles per kilogram per day,196,
+225,nanomoles per year per gram creatinine,21,
+225,particle number count per 1000 cubic centimeters,72,
+225,parts per 100 million,18,
+225,parts per billion by volume,78,
+225,"parts per million, x 0.001",10,
+225,"parts per million, x 0.01",20,
+225,"parts per million, x 0.1",10,
+225,"parts per million, x 10",7,
+225,parts per trillion lipid,6,
+225,parts per trillion toxic equivalent,3,
+225,per 10e8 nucleotides,2,
+225,per grams creatinine,2,
+225,percent,544,
+225,percent by weight,10,
+225,percent decrease per year,32,
+225,percent decrease relative to placebo,6,
+225,percent exposed,3,
+225,percent exposure limit,9,
+225,percent of nicotine content,104,
+225,percent of reported human exposures,10,
+225,percent of total arsenic metabolites,13,
+225,percent total fatty acids,12,
+225,picocuries per liter,69,
+225,picogram TEQ-WHO 05 per gram,4,
+225,"picograms per 1,000,000 cells",2,
+225,"picograms per 10,000 cells",63,
+225,picograms per kilogram body weight per day,256,
+225,picograms per microgram particulate matter 2.5,14,
+225,picograms TCDD-equivalents per liter,12,
+225,picograms toxic equivalent per gram lipid,58,
+225,picomolar,42,
+225,pounds per acre per year,75,
+225,pounds per square mile,84,
+225,pounds per year,6,
+225,ratio of 208Pb to 43Ca,9,
+225,ratio of child-to-mother concentration,58,
+225,ratio of observed measure 1999-2002 NHANES data over SHEDS modeled data,8,
+225,ratio of the sum of high molecular weight PAHs to the sum of 18 high and low molecular weight PAHs,16,
+225,relative units,8,
+225,square centimeters per gram,1,
+225,square micrometers,2,
+225,tonnes,70,
+225,tons per year,294,
+225,toxic equivalency factor,18,
+225,toxic equivalent parts per trillion,3,
+225,toxic equivalents,259,
+225,toxicity equivalence to dioxins,51,
+225,units of working level,3,
+225,units per cubic meter,12,
+226,µg As/g of creatinine,2375,
+226,µg As/L,2375,
+179,-------------------------------,84,
+179,-----------------------------------,252,
+179,------------------------------------,84,
+179,-------------------------------------,168,
+179,--------------------------------------,336,
+179,----------------------------------------,168,
+179,-----------------------------------------,420,
+179,------------------------------------------,168,
+179,-------------------------------------------,981,
+179,--------------------------------------------,1960,
+179,---------------------------------------------,2184,
+179,----------------------------------------------,756,
+179,-----------------------------------------------,504,
+179,------------------------------------------------,84,
+179,---------------------------------------------------,84,
+179,----------------------------------------------------,756,
+179,-----------------------------------------------------,84,
+158,NA,541,
+168,NA,3135826,
+182,NA,11,
+187,NA,172,
+191,NA,604,
+225,NA,10096,
+168,None,16550,
+168,,7997795,
+,,,
+,Not cleaned,"1,789,134",
+,NAs,"11,170,668",
+,Cleaned,"57,654,656",
